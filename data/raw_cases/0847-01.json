@@ -1,0 +1,548 @@
+{
+  "id": 1237525,
+  "name": "Latrell F. Sprewell, Plaintiff, v. NYP Holdings, Inc., et al., Defendants",
+  "name_abbreviation": "Sprewell v. NYP Holdings, Inc.",
+  "decision_date": "2003-06-30",
+  "docket_number": "",
+  "first_page": "847",
+  "last_page": "856",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Misc. 3d 847"
+    },
+    {
+      "type": "parallel",
+      "cite": "772 N.Y.S.2d 188"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 8791,
+    "name": "New York Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "53 NY2d 796",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "79 AD2d 1",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3226701
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/79/0001-01"
+      ]
+    },
+    {
+      "cite": "1998 US Dist LEXIS 4063",
+      "category": "reporters:specialty_lexis",
+      "reporter": "U.S. Dist. LEXIS",
+      "opinion_index": 0
+    },
+    {
+      "cite": "1998 WL 150993",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "opinion_index": 0
+    },
+    {
+      "cite": "105 AD2d 1007",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3400849
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/105/1007-01"
+      ]
+    },
+    {
+      "cite": "240 AD2d 157",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1247490
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/240/0157-01"
+      ]
+    },
+    {
+      "cite": "98 AD2d 953",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3361713,
+        3359517,
+        3357349
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/98/0953-03",
+        "/ad2d/98/0953-02",
+        "/ad2d/98/0953-01"
+      ]
+    },
+    {
+      "cite": "100 AD2d 233",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3360781
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "235"
+        },
+        {
+          "page": "235"
+        },
+        {
+          "page": "238-239"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/100/0233-01"
+      ]
+    },
+    {
+      "cite": "125 AD2d 371",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        5693031
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "373"
+        },
+        {
+          "page": "373"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/125/0371-01"
+      ]
+    },
+    {
+      "cite": "166 AD2d 347",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1015813
+      ],
+      "pin_cites": [
+        {
+          "page": "347"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/166/0347-01"
+      ]
+    },
+    {
+      "cite": "305 AD2d 1030",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        119679,
+        119959
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/305/1030-02",
+        "/ad2d/305/1030-01"
+      ]
+    },
+    {
+      "cite": "74 NY2d 842",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "146 AD2d 1",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3568596
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/146/0001-01"
+      ]
+    },
+    {
+      "cite": "87 NY2d 1056",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "223 AD2d 846",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        673298
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/223/0846-01"
+      ]
+    },
+    {
+      "cite": "80 NY2d 429",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4426529
+      ],
+      "weight": 5,
+      "pin_cites": [
+        {
+          "page": "435"
+        },
+        {
+          "page": "436"
+        },
+        {
+          "page": "434-435"
+        },
+        {
+          "page": "434-435"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/80/0429-01"
+      ]
+    },
+    {
+      "cite": "104 AD2d 352",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3385417
+      ],
+      "pin_cites": [
+        {
+          "page": "353"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/104/0352-01"
+      ]
+    },
+    {
+      "cite": "242 NY 208",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        1974919
+      ],
+      "pin_cites": [
+        {
+          "page": "214"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/242/0208-01"
+      ]
+    },
+    {
+      "cite": "17 NY2d 284",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2275758
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "290"
+        },
+        {
+          "page": "290"
+        },
+        {
+          "page": "290"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/17/0284-01"
+      ]
+    },
+    {
+      "cite": "40 NY2d 415",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2326329
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "419-420"
+        },
+        {
+          "page": "419"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/40/0415-01"
+      ]
+    },
+    {
+      "cite": "13 NY2d 175",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2266979
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "178"
+        },
+        {
+          "page": "178"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/13/0175-01"
+      ]
+    },
+    {
+      "cite": "85 NY2d 373",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4435018
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "380"
+        },
+        {
+          "page": "380"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/85/0373-01"
+      ]
+    },
+    {
+      "cite": "274 AD2d 771",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        501043
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/274/0771-01"
+      ]
+    },
+    {
+      "cite": "278 AD2d 81",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1212536,
+        1212579,
+        1212142
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "82"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/278/0081-02",
+        "/ad2d/278/0081-01",
+        "/ad2d/278/0081-03"
+      ]
+    },
+    {
+      "cite": "434 US 969",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6463616,
+        6463712,
+        6464514,
+        6464610,
+        6464322,
+        6463971,
+        6464412,
+        6464105,
+        6464691,
+        6464217,
+        6463834,
+        6463516
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/434/0969-02",
+        "/us/434/0969-03",
+        "/us/434/0969-10",
+        "/us/434/0969-11",
+        "/us/434/0969-08",
+        "/us/434/0969-05",
+        "/us/434/0969-09",
+        "/us/434/0969-06",
+        "/us/434/0969-12",
+        "/us/434/0969-07",
+        "/us/434/0969-04",
+        "/us/434/0969-01"
+      ]
+    },
+    {
+      "cite": "42 NY2d 369",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2331447
+      ],
+      "pin_cites": [
+        {
+          "page": "379"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/42/0369-01"
+      ]
+    },
+    {
+      "cite": "231 AD2d 407",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1052802
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "411"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/231/0407-01"
+      ]
+    },
+    {
+      "cite": "65 NY2d 592",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        1581443
+      ],
+      "pin_cites": [
+        {
+          "page": "593"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": []
+    },
+    {
+      "cite": "89 NY2d 1074",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        320248,
+        320313
+      ],
+      "weight": 5,
+      "pin_cites": [
+        {
+          "page": "1076"
+        },
+        {
+          "page": "1076"
+        },
+        {
+          "page": "1076"
+        },
+        {
+          "page": "1076"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/89/1074-02",
+        "/ny-2d/89/1074-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1070,
+    "char_count": 22539,
+    "ocr_confidence": 0.743,
+    "pagerank": {
+      "raw": 6.940686366755733e-08,
+      "percentile": 0.4209629596165645
+    },
+    "sha256": "c589747ffed6fed3c3017dc956df70df73bf154790537ac0ea3ed186b2d81412",
+    "simhash": "1:adc3fb2f05cec703",
+    "word_count": 3619
+  },
+  "last_updated": "2024-02-27T19:35:05.009820+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Latrell F. Sprewell, Plaintiff, v NYP Holdings, Inc., et al., Defendants."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nMarcy S. Friedman, J.\nIn this defamation action, plaintiff Latrell Sprewell, a National Basketball Association player for the New York Knickerbockers basketball team (Knicks), sues defendants NYP Holdings, Inc., the publisher of the New York Post, and its sportswriter, Marc Berman, for allegedly libeling him in a series of articles published in October 2002 in the Post. Defendants move, pursuant to CPLR 3211 (a) (7), to dismiss the complaint for failure to state a cause of action. j\nAt issue are four allegedly libelous articles published by the Post on October 4, 5, 7, and 8, 2002, all of which involved an incident on plaintiff\u2019s yacht in which he fractured his fifth metacarpal. The articles discussed the circumstances under which the injury occurred, including eyewitness accounts that Sprewell took a. swing at a guest, missed and hit a \u00a1wall, and Sprewell\u2019s denial of such events. The articles also discussed Sprewell\u2019s delay in reporting the injury to Knicks\u2019 management, and the Knicks\u2019 response to the injury or delay in reporting it. The October 8 article reported that \u201c[fled up with the saga surrounding Sprewell\u2019s broken right hand and, more importantly, his failure to inform the club about the injury for two weeks,\u201d the Knicks fined Sprewell $250,000 and banned him from contact with the team for an indeterminate period.\nThe complaint alleges generally that the articles were \u201cpublished with actual malice, exposing Mr. Sprewell to public ridicule, contempt, aversion, disgrace, and induced evil opinions of him in the minds of right-thinking persons.\u201d (Complaint $1i 44, 56, 68, 80.) The complaint also alleges that thfe articles defamed Sprewell in two specific respects \u2014 first, that the articles \u201cimpl[y] that Mr. Sprewell committed the crime of assault and/or battery\u201d and second, that the articles \u201ctend to injure Mr. Sprewell in his trade, business or profession by implying that Mr. Sprewell deliberately concealed an injury, thus violating his employment contract with the Knicks.\u201d (Complaint 1145 [Oct. 4 article]; H 57 [Oct. 5 article]; 11 69 [Oct. 7 article]; 1\u00cd 81 [Oct. 8 article].)\nIn moving to dismiss, defendants contend that the articles are not defamatory per se. In the alternative, defendants argue that even if some of the statements are susceptible to a defamatory meaning, they are not libelous per se and therefore are not actionable without proof of special damages. Defendants further contend that plaintiff has not adequately pleaded special damages.\nDefamatory Meaning\nIt is well settled that \u201ca written statement may be defamatory \u2018if it tends to expose a person to hatred, contempt or aversion, or to induce an evil or unsavory opinion of him in the minds of a substantial number of the community.\u2019 \u201d (Golub v Enquirer/Star Group, 89 NY2d 1074, 1076 [1997] [internal quotation marks omitted].) \u201cWhether particular words are defamatory presents a legal question to be resolved by the court in the first instance.\u201d (Aronson v Wiersma, 65 NY2d 592, 593 [1985]; Golub, 89 NY2d at 1076.) Where the statements are defamatory per se, there is no need for the plaintiff to allege special damages, as the jury can find that such statements \u201cin and of themselves and without regard to any extrinsic evidence, tend \u2018 \u201cto expose the plaintiff to public contempt, ridicule, aversion or disgrace, or induce an evil opinion of [him] in the minds of right-thinking persons.\u201d \u2019 \u201d (Pontarelli v Shapero, 231 AD2d 407, 411 [1st Dept 1996], quoting Rinaldi v Holt, Rinehart & Winston, 42 NY2d 369, 379 [1977], cert denied 434 US 969 [1977].)\nIn moving to dismiss plaintiffs defamation claims based on the imputation that plaintiff committed a crime, defendants acknowledge that statements imputing a crime may constitute libel per se, making proof of special damages unnecessary. (See Morsette v Final Call, 278 AD2d 81 [1st Dept 2000]; Clemente v Impastato, 274 AD2d 771 [3d Dept 2000].) Defendants argue, however, that the statements at issue \u201ccould not as a matter of law constitute libel per se because they could not be presumed to have had any impact on plaintiffs reputation,\u201d given that his \u201cpublic reputation already includes a more violent, highly publicized physical attack on his coach, EJ. Carlesimo.\u201d (Reply mem at 6; mem in support at 23-24.) More particularly, defendants argue that in evaluating whether statements constitute libel per se, the court may consider not only the statements themselves, but also extrinsic facts presumably known to the articles\u2019 readers, and that in light of highly publicized coverage of the prior incident involving Sprewell\u2019s choking of his former coach, the articles at issue, referring to conduct that is minor in comparison, cannot be presumed to have increased the damage to Sprewell\u2019s reputation. (Id. at 23-24.)\nThe standards for determining whether statements are reasonably susceptible to a defamatory connotation are well articulated: \u201c[T]he court must give the disputed language a fair reading in the context of the publication as a whole.\u201d (Armstrong v Simon & Schuster, 85 NY2d 373, 380 [1995].) \u201cThe courts \u2018will not strain\u2019 to interpret such writings \u2018in their mildest and most inoffensive sense to hold them nonlibelous.\u2019 \u201d (November v Time Inc., 13 NY2d 175, 178 [1963] [internal quotation marks omitted].) Rather, \u201c[t]he publication will; be tested by its effect upon the average reader ... \u2018It is the duty of the court ... to understand the publication in the same manner that others would naturally do.\u2019 \u201d (James v Gannett Co., 40 NY2d 415, 419-420 [1976].) Significantly, while the very definition of libel per se requires that a statement be libelous on its face and without regard to extrinsic facts (Pontarelli v Shapero, 231 AD2d 407 [1996], supra), it has long been held that extrinsic facts may be considered in determining whether a writing is libelous per se where \"the extrinsic facts are \u201cpresumably known to [the] readers\u201d of the statement. (Hinsdale v Orange County Publs., 17 NY2d 284, 290 [1966]; Sydney v MacFadden Newspaper Publ. Corp., 242 NY 208, 214 [1926].) This latter precept is based on the \u201creasonable, common-sense idea that a fact not expressed in the newspaper but presumably known to its readers is part of the libel.\u201d (Hinsdale, 17 NY2d at 290.)\nAt the outset, the court rejects defendants\u2019 argument that the imputation of a crime to plaintiff cannot as a matter of law further damage his reputation. As both plaintiff and defendants agree (mem in support at 23; mem in opposition at 12), and as the case law holds, this court may take judicial notice of the widespread publication of articles concerning the 1997 incident involving Sprewell\u2019s alleged choking of his former coach, Carlesimo, during a practice. Considering the statements in the Post articles in light of the reporting of this former incident, which is presumably known to the average sports reader (see Hinsdale, 17 NY2d at 290), the court concludes that the prior publicity not only does not support, but cuts against, defendants\u2019 argument that a further imputation of violent conduct to plaintiff cannot increase the damage to Sprewell\u2019s reputation.\nTurning to the merits of plaintiff\u2019s claim that the articles impute a crime, the court holds that the articles contain statements which are reasonably susceptible to a defamatory connotation in that they impute to plaintiff the commission of an attempted assault. Although the articles do not expressly charge plaintiff with having committed this crime, defamatory language \u201cneed not consist of the technical words of a criminal indictment\u201d provided that it is \u201creasonably susceptible to a connotation of criminality.\u201d (Caffee v Arnold, 104 AD2d 352, 353 [2d Dept 1984] [slander].) The articles include statements that plaintiff reportedly \u201ctook a swing\u201d at a guest, missed and hit a wall (Oct. 4 article); that eyewitnesses reported that he \u201cbusted the hand during a skirmish Sept. 20th during a booze-fest on his yacht\u201d (Oct. 7 article); that \u201c[w]ith evidence mounting [that] Sprewell fractured his right pinkie by punching a wall during a Sept. 20 altercation at a party on his new yacht, this could be the final straw in his often-stellar but always controversial Khick career\u201d (Oct. 5 article); and that he sustained a \u201cboxer\u2019s fracture which can only occur when a clenched fist hits a surface with no give\u201d (Oct. 7 article). The October 4 article also reported that he \u201casked his guests not to mention the incident,\u201d followed immediately by the information that \u201c[n]o police report was filed.\u201d\nThe statements in the Post articles, read as a whole (see Armstrong, 85 NY2d at 380), are susceptible to the defamatory connotation that plaintiff committed a crime of violence. Not only may they be read as imputing an act of violence to plaintiff but, based on the statements that plaintiff asked his guests not to mention the incident and that no police report was filed, an average reader could understand that a crime could or would have been charged had plaintiff not obtained the silence of the eyewitnesses.\nWhile defendants acknowledge that the articles are arguable susceptible to the connotation that plaintiff committed an attempted assault, defendants apparently contend that this crime, a misdemeanor, is not sufficiently serious to support a claim of libel per se. (See mem in support at 21-22.) The stajndards for determining whether the imputation of a crime is defamatory per se have largely been developed in slander cases. (See, e.g., Liberman v Gelstein, 80 NY2d 429 [1992].) These cases, which may provide guidance to the court in a libel action (see Golub v Enquirer/Star Group, 89 NY2d 1074 [1997], supra [libel action citing Liberman]), hold that only statements regarding serious, as opposed to minor, offenses are actionable as defamation per se. (Liberman, 80 NY2d at 435.) Such serious crimes as murder, burglary, larceny, arson, rape, and kidnapping fall squarely within the list of crimes that are actionable as slander per se. (Id.) However, the courts have held that a serious misdemeanor may form the basis for a claim of defamation per se particularly where, as here, it involves a crime that puts another! in fear of physical harm. (See DeFilippo v Xerox Corp., 223 AD2d 846 [3d Dept 1996] [stalking/first degree harassment, a class B misdemeanor], lv dismissed 87 NY2d 1056 [1996]; see also Sweeney v Prisoners\u2019 Legal Servs. of N.Y., 146 AD2d 1 [3d Dept 1989], appeal dismissed 74 NY2d 842 [1989] [accusation th,at prison guard participated in incident in which inmate was \u00a1assaulted without justification held susceptible to defamatory connotation]; compare Liberman, 80 NY2d at 436 [holding harassment insufficient to support claim of slander per se under \u00a1prior law which made harassment a violation, not a misdemeanor].)\nIn so holding, the court notes that a recent case, Burdick v Verizon Communications (305 AD2d 1030 [4th Dept 2003]), considered the defamatory connotation of statements that the plaintiff, while engaged in a labor protest, \u201c \u2018hit\u2019 or \u2018took a swing at\u2019 a woman crossing the picket line in her car.\u201d The Court held that such statements were not reasonably susceptible to a connotation of criminality, and were therefore not actionable as libel per se without proof of special damages. While the statements bear facial similarities to those in the instant case, they also differ in material respects. There is no indication in the Burdick opinion that the plaintiff used significant physical force. Indeed, it is unclear whether he swung at the woman or her car. Nor does it appear that the Burdick statements included any suggestion that the plaintiff had avoided a criminal charge. Most importantly, Burdick involved an isolated incident. In the instant case, the imputations of violence and criminality in connection with the incident may be interpreted by the average reader in light of the widespread publicity as to plaintiffs prior acts of alleged violence.\nUnder these circumstances, the court finds that the statements in the Post articles may be read as imputing the crime of attempted assault to plaintiff, and that this crime is sufficiently serious, in the context of the prior publicity, to be actionable as libel per se. In any event, as the court further holds below, plaintiff has adequately pleaded special damages.\nPlaintiffs alternative claim is that the Post articles defamed plaintiff in his business or profession \u201cby implying that he deliberately concealed an injury, thus violating his employment contract with the Knicks.\u201d It is well settled that \u201c[t]o be actionable as words that tend to injure another in his or her profession, the challenged statement must be more than a general reflection upon [the plaintiffs] character or qualities. Rather, the statement must reflect on [his] performance or be incompatible with the proper conduct of [his] business.\u201d (Golub, 89 NY2d at 1076.)\nThe Post articles contain statements that \u201cthe Knicks weren\u2019t worried how Spree hurt the hand. They were angry he didn\u2019t report it sooner and wanted to know his thought process before deciding whether to fine him\u201d (Oct. 4 article); that evidence was \u201cmounting [that] Sprewell fractured his right pinkie by punching a wall during a Sept. 20 altercation\u201d (Oct. 5 article); that \u201cin possibly failing to give \u2018prompt notice\u2019 to the Knicks about his off-season hand injury, [Sprewell] might have breached his Knick contract\u201d (id.); that Sprewell \u201cdidn\u2019t inform the Knicks about the injury until 10 days later \u2014 is that prompt?\u201d (id.); that \u201cSprewell will have to come up with a whale of a performance ... to get out of another fine from the Knicks when he goes face to face\u201d with Knicks\u2019 management (Oct. 7 article); that he \u201cmay have breached his contract by trampling all over a clause in the Collective Bargaining Agreement by not reporting his injury promptly\u201d (id.); and that \u201c[c]ommunicating with his superiors ultimately may turn into Sprewell\u2019s downfall as a Knick.\u201d (Id.) The articles also recounted other instances in which Sprewell failed to communicate with management, such as missing a \u201cshootaround\u201d and not calling to s\u00e1y he had overslept; missing a 1999 Charleston training camp \u201cbecause after his civil trial in Oakland for reckless driving, he Redded to drive cross-country back home and was out of touch\u201d| (Oct. 7, 8 articles); and routinely failing to show up for games under the 90-minute limit (Oct. 8 article).\nIn moving to dismiss the defamation claims based on the statements concerning delay in reporting his injuries, defendants argue that the statements do not \u201cnecessarily reflect on plaintiffs performance as a professional athlete.\u201d (Mem in support at 16.) Specifically, they contend that the articles did not charge Sprewell with \u201cdeliberately\u201d concealing his injury, but rather suggested that the delay in reporting it was \u201csimply one in a pattern of incidents in which Sprewell had simply neglected to follow, or chosen not to follow, the rules of Knick\u00e1 management.\u201d (Id. at 18-19.) Alternatively, defendants argue \u00a1that even if the articles could be read \u201cas stating that Sprewell had violated his contract by deliberately concealing an injury . . . such statements would still not constitute libel per sje because such reports would be of a single instance of professional misconduct and therefore privileged under the \u2018single instance\u2019 rule.\u201d (Id. at 19.) ,\nThe court finds that plaintiffs performance as a professional basketball player requires not merely physical fitness and skill, but adherence to the rules for team members and to his responsibilities as a Knick. Thus, the statements implying that Sprewell delayed in reporting his injury \u2014 whether such delay was deliberate or merely negligent \u2014 \u201creflect on [his] performance or [are] incompatible with the proper conduct of [his] business.\u201d (See Golub, 89 NY2d at 1076.) The court accordingly holds that the statements are susceptible to a defam\u00e1tory connotation that tends to injure plaintiff in his business or profession.\nMoreover, this is not a case in which the \u201csingle\u00a1instance rule\u201d applies to require the pleading of special damages. Under this rule, \u201c \u2018language charging a professional [person] with ignorance or mistake on a single occasion only and not accusing [him or her] of general ignorance or lack of skill cannot be considered defamatory on its face and so is not actionable unless special damages are pleaded.\u2019 \u201d (Bowes v Magna Concepts, 166 AD2d 347, 347 [1st Dept 1990], quoting November, 13 NY2d at 178.) Here, however, the Post articles presented three other instances of plaintiff\u2019s disregard of Knicks\u2019 rules and, as defendants themselves acknowledge, the delay was reported as \u201cone in a pattern of incidents.\u201d (Mem in support at 18.)\nIn sum, this court concludes that the statements in the Post articles are reasonably susceptible to a defamatory connotation, and that such statements would, if believed by the jury, constitute libel per se. Even absent pleading of special damages, it would therefore be for the jury to determine whether the statements are in fact defamatory. (See Morsette, 278 AD2d at 82; see also James, 40 NY2d at 419.) The court further holds, however, that plaintiff\u2019s pleading of special damages is sufficient to withstand this motion to dismiss.\nSpecial Damages\nIt is settled that \u201c[s]pecial damages contemplate \u2018the loss of something having economic or pecuniary value.\u2019 \u201d (Liberman, 80 NY2d at 434-435 [internal quotation marks omitted].) \u201cIn pleading special damages, actual losses must be identified and causally related to the alleged tortious act.\u201d (L.W.C. Agency v St. Paul Fire & Mar. Ins. Co., 125 AD2d 371, 373 [2d Dept 1986].) \u201c[T]hey must be fully and accurately identified \u2018with sufficient particularity to identify actual losses.\u2019 \u201d (Matherson v Marchello, 100 AD2d 233, 235 [2d Dept 1984] [citation omitted].)\nContrary to defendants\u2019 contention, plaintiff alleges special damages resulting from the publication of the Post articles, in the form of the Knicks\u2019 imposition of a $250,000 fine upon plaintiff. The complaint thus states: \u201cOn October 7, 2002, the Knicks imposed a fine on Mr. Sprewell. Upon information and belief, this fine was the result of the negative campaign created by Defendants and based upon false information.\u201d (Complaint H 32.) It further states: \u201cBy reason of Defendant NYP Holdings\u2019 publication of Libelous Article One . . . Mr. Sprewell sustained special damages including, but not limited to, a $250,000 fine imposed upon Mr. Sprewell by the Knicks.\u201d (Id. 11 47.) Special damages are pleaded for each cause of action against defendants. (See id. 1\u00cd1\u00cd 59, 71, 83.)\nThe complaint identifies the Knicks\u2019 fine as a specific, identifiable pecuniary loss, and alleges a causal relationship between the articles\u2019 publication and that loss. (See Liberman, 80 NY2d at 434-435; L.W.C. Agency, 125 AD2d at 373.) The complaint thus pleads that the Knicks\u2019 fine flows \u201cdirectly fromj the injury to reputation caused by the defamation, not from th\u00e9 effects of defamation.\u201d (Matherson, 100 AD2d at 235, quoting Sack, Libel, Slander and Related Problems \u00a7 VII.2.2, at 345-346.) =\nDefendants misapprehend plaintiffs burden on thjis motion. \u201c[TJhere is no requirement that the plaintiff establish an evidentiary basis for the allegations of the complaint on a motion to dismiss made pursuant to CPLR 3211.\u201d (Matherson, 100 AD2d at 238-239; Palmisano v Modernismo Pubis, j 98 AD2d 953 [4th Dept 1983].) Thus, defendants\u2019 apparent contention that the Knicks\u2019 decision to fine plaintiff resulted from his conduct in failing promptly to report his injury, rajther than from the published articles (see mem in support at 26), is irrelevant to whether the complaint adequately pleads special damages. Instead, it merely raises factual issues inappropriate for resolution on a motion to dismiss under CPLR 3211 (q) (7). (See Fischbach & Moore v Howell Co., 240 AD2d 157 [1st Dept 1997].)\nIt is accordingly hereby ordered as follows: Defendants\u2019 motion is denied in its entirety. !\n. The articles bore the following headlines: October 4 \u2014 \u201cSpLee Denies Breaking Hand in Boat Fracas\u201d; October 5 (at 44) \u2014 \u201cSpree Might Have Broken Knicks Deal\u201d; October 7 (at 58) \u2014 \u201cSprewell Leaves Don by Phone\u201d; October 8 (at 74) \u2014 \u201cA Fine Mess[,] Fed-up Knicks hit Spree for 250G.\u201d A second October 5 article, which is not referred to in the complaint, was captioned \u201cSpree Might Have Punched Knick Ticket.\u201d Defendant Berman\u2019s name is on the bylines of the October 4, 5, and 7 articles. Nonparty Mark Hale appears on the byline of the October 8 article. ,\n. While the complaint identifies the imputed crime as \u201cassault and/or battery\u201d (complaint K 45), under the civil law, assault is an intentional attempt to cause injury to another, and battery is an intentional wrongful physical contact with another. (6A NY Jur 2d, Assault-Civil Aspects \u00a7 1.) The criminal law, in contrast, uses the term assault, not battery, for the crime of intentional wrongful physical contact with another (see Penal Law \u00a7 120.00 et seq.), while attempted assault is the intent to commit the crime of assault. (See Penal Law \u00a7 110.00.) Here, only attempted assault is imputable to plaintiff, as he did not make physical contact with the guest at whom he allegedly swung.\n. Misdemeanors involving moral turpitude have also been held sufficient to support a claim for slander per se. (See Meyer v Somlo, 105 AD2d 1007 [3d Dept 1984] [adultery]; Casper v Lew Lieberbaum & Co., 1998 WL 150993, 1998 US Dist LEXIS 4063 [SD NY, Mar. 31, 1998, Koeltl, J.] [applying New York law; prostitution and sodomy]; see generally Privitera v Town of Phelps, 79 AD2d 1 [4th Dept 1981], appeal dismissed 53 NY2d 796 [1981].)\n. It is noted that the court\u2019s holding is not that the statements implying that plaintiff breached his contract are libelous per se. Rather, it is the statements concerning the nature of the breach \u2014 namely, failure to comply with Knicks\u2019 rules regarding the reporting of injuries \u2014 that bear directly on plaintiffs performance as a professional basketball player and thus directly tend to injure him in respect to it.",
+        "type": "majority",
+        "author": "Marcy S. Friedman, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Hogan & Hartson, L.L.P., New York City (Slade R. Metcalf and Jeffrey O. Grossman of counsel), for defendants. Paul J. Giacomo, Jr., New York City (Scott G. Kearns of counsel), for plaintiff."
+    ],
+    "corrections": "",
+    "head_matter": "[772 NYS2d 188]\nLatrell F. Sprewell, Plaintiff, v NYP Holdings, Inc., et al., Defendants.\nSupreme Court, New York County,\nJune 30, 2003\nAPPEARANCES OF COUNSEL\nHogan & Hartson, L.L.P., New York City (Slade R. Metcalf and Jeffrey O. Grossman of counsel), for defendants. Paul J. Giacomo, Jr., New York City (Scott G. Kearns of counsel), for plaintiff."
+  },
+  "file_name": "0847-01",
+  "first_page_order": 835,
+  "last_page_order": 844
+}

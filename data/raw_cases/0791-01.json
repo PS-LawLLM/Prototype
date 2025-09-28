@@ -1,0 +1,137 @@
+{
+  "id": 1237494,
+  "name": "In the Matter of the Estate of Joshua W. Thayer, Deceased",
+  "name_abbreviation": "In re the Estate of Thayer",
+  "decision_date": "2003-12-05",
+  "docket_number": "",
+  "first_page": "791",
+  "last_page": "794",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Misc. 3d 791"
+    },
+    {
+      "type": "parallel",
+      "cite": "769 N.Y.S.2d 863"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sur. Ct.",
+    "id": 9033,
+    "name": "New York Surrogate's Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "184 Misc 2d 218",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        171282
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/184/0218-01"
+      ]
+    },
+    {
+      "cite": "2002 NY Slip Op 40026",
+      "category": "reporters:state",
+      "reporter": "NY Slip Op",
+      "opinion_index": 0
+    },
+    {
+      "cite": "194 Misc 2d 422",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        952055
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/194/0422-01"
+      ]
+    },
+    {
+      "cite": "192 Misc 2d 86",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        1076695
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/192/0086-01"
+      ]
+    },
+    {
+      "cite": "210 AD2d 101",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1193968
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/210/0101-01"
+      ]
+    },
+    {
+      "cite": "229 AD2d 76",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        265023
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/229/0076-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 446,
+    "char_count": 7390,
+    "ocr_confidence": 0.746,
+    "pagerank": {
+      "raw": 1.989572793665264e-07,
+      "percentile": 0.7415795283817705
+    },
+    "sha256": "fa76c5d2180de50fb52ac371843b01971ddb3e33c5fd10ceffe627c44343841a",
+    "simhash": "1:1493121dc81bda94",
+    "word_count": 1238
+  },
+  "last_updated": "2024-02-27T19:35:05.009820+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of the Estate of Joshua W. Thayer, Deceased."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nDennis K. McDermott, S.\nJoshua W. Thayer, the decedent herein, died intestate on October 18, 2001 as the result of injuries he sustained in an automobile accident. He was 21 years old, unmarried, and survived by his parents.\nJoshua\u2019s girlfriend at the time was Bethaney Soule, then 18 years old and never married. Their relationship had become sexually intimate and, in mid-August 2001, Bethaney became pregnant. Sometime during the latter part of September, Joshua and Bethaney went to his parents\u2019 home and, according to Bethaney, Joshua announced to them that \u201cwe [are] going to have a baby.\u201d During the first week of October, Joshua and Bethaney made a similar visit to the home of her aunt, Stephanie Pylman, who testified, \u201cthey just stated they were having a baby.\u201d She testified that she admonished them that they needed to grow up and take responsibility, and she recalled Joshua saying that he and Bethaney would raise the baby together. Asked by the court whether Joshua specifically said he was the father, Ms. Pylman said, \u201cNo . . . [H]e didn\u2019t say, \u2018I\u2019m the father\u2019 or anything like that. He just said, \u2018We\u2019ll do it together\u2019,\u201d and that he said, \u201c \u2018We\u2019re going to have a baby.\u2019 \u201d\nKatrina Thayer, Joshua\u2019s mother and the administrator of his estate, testified that she recalled Joshua and Bethaney telling her that they were going to have a baby. However, she also recalled that a week or two before Joshua and Bethaney announced her pregnancy, Joshua told her and his sister that he was not sure that Bethaney was having his child but that it was possible that he was the father. He similarly acknowledged to his grandmother that he could be the father of Bethaney\u2019s child. Thus, shortly after his death but prior to his funeral, Katrina had blood and DNA samples taken from him and preserved for future testing after the birth of the baby.\nOn May 5, 2002, nearly seven months after Joshua\u2019s death, Bethaney gave birth to a girl who was named Melanie. In July, the preserved blood and DNA material from Joshua and similar material collected from Bethaney and Melanie were analyzed by an authorized and accredited clinical laboratory at the M.I. Bassett Hospital in Cooperstown, New York, and the resulting DNA parentage test report showed a 99.98% probability that Joshua was Melanie\u2019s father.\nBy petition dated April 17, 2003, Bethaney asks this court to determine that Joshua is Melanie\u2019s father, thus entitling Melanie to be the sole recipient of the proceeds of a settlement in a wrongful death action. Katrina Thayer concedes that her son is Melanie\u2019s father, and the guardian ad litem joins in the petitioner\u2019s request for relief. Despite the parties\u2019 unanimity, the court must be satisfied that the proof adduced is sufficient to satisfy the statute.\nEPTL 4-1.2 (a) (2) provides the means by which a nonmarital child\u2019s right to inherit from her father through intestacy may be established after the death of the alleged father. Because there had been no order of filiation made during Joshua\u2019s lifetime and because Joshua had never signed an instrument acknowledging his paternity, the child\u2019s right to inherit from him may be established in only two ways: (1) by clear and convincing evidence of paternity and proof that the father of the child has openly and notoriously acknowledged the child as his own (EPTL 4-1.2 [a] [2] [C]), or (2) by proof that a blood genetic marker test had been administered to that father together with other evidence establishing paternity by clear and convincing evidence (EPTL 4-1.2 [a] [2] [D]).\nInterpreting the words \u201chad been administered\u201d (emphasis added) literally, the Appellate Division, Third Department, has held that to satisfy EPTL 4-1.2 (a) (2) (D), the blood genetic marker test must have been made during the alleged father\u2019s lifetime so that receipt of the results of a test conducted postmortem is not authorized by the statute. (Matter of Sekanic, 229 AD2d 76 [3d Dept 1997]; see also, Matter of Janis, 210 AD2d 101 [1st Dept 1994].)\nNotwithstanding that the results of a posthumously conducted blood genetic marker test are inadmissible to satisfy EPTL 4-1.2 (a) (2) (D), it has been held that such test results may satisfy the \u201cclear and convincing evidence\u201d component of EPTL 4-1.2 (a) (2) (C), leaving only the issue of the father\u2019s open and notorious acknowledgment of paternity to be addressed. (Matter of Bonanno, 192 Misc 2d 86 [Sur Ct, NY County 2002]; Matter of Seekins, 194 Misc 2d 422 [Sur Ct, Westchester County 2002].)\nA blood genetic marker test indicating a probability of paternity of 95% or greater creates a rebuttable presumption that the putative father tested is, in fact, the father of the child. (Family Ct Act \u00a7 532 [a].) Here, a test result of 99.98% is more than sufficient to constitute clear and convincing evidence of paternity.\nWhere the putative father had acknowledged his paternity to the child\u2019s mother and to one of her friends but had admonished the friend to keep such acknowledgment a secret, the court found this to be the antithesis to open and notorious acknowledgment. (Matter of Gentile, 2002 NY Slip Op 40026[U] [Sur Ct, Nassau County 2002].) Gentile is distinguishable from the instant ease in that the \u201cchild\u201d was 42 years old at the time of the alleged father\u2019s death.\nIn this case, the child was not born until nearly seven months after the father\u2019s death, a situation similar to that in Matter of Wilkins (184 Misc 2d 218 [Sur Ct, Niagara County 2000]). There, however, the only proof that the decedent had acknowledged his paternity had come from the child\u2019s mother whose testimony the court found to be \u201csuspect and self-serving.\u201d\nHere, by contrast, shortly after learning that Bethaney was pregnant, Joshua readily acknowledged to his mother, sister and grandmother that he could be the father of the child. In the few short weeks between that time and his unexpected death, he had apparently resolved whatever doubts he might have entertained and he had gone with Bethaney to his mother and to her aunt to announce that they were going to have a baby.\nWhile one commentator has opined that \u201cthe likelihood of a decedent\u2019s acknowledging a child still in \u00fatero is slim\u201d (Turano, 2000 Supp Practice Commentaries, McKinney\u2019s Cons Laws of NY, Book 17B, EPTL 4-1.2, 2003 Supp Pamph, at 43), this court is satisfied that, under the circumstances presented here, the decedent did all that he might reasonably be expected to do to openly and notoriously acknowledge that he was the father of the child that would ultimately be born to Bethaney. The preservation of his blood and DNA material appears to be the result of his mother\u2019s doubts rather than his own.\nThis court finds under EPTL 4-1.2 (a) (2) (C) that the decedent openly and notoriously acknowledged that he was the father of Bethaney Soule\u2019s unborn child and that the 99.98% probability of paternity indicated in the blood genetic marker test report constitutes clear and convincing proof of his paternity. He is, accordingly, found to be the father of Melanie Soule, born to Bethaney Soule on May 5, 2002.",
+        "type": "majority",
+        "author": "Dennis K. McDermott, S."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "James P. Roman for Bethaney Soule, petitioner. Stephen P. Joyce for Katrina Thayer, respondent. Peter F. Hedglon, guardian ad litem."
+    ],
+    "corrections": "",
+    "head_matter": "[769 NYS2d 863]\nIn the Matter of the Estate of Joshua W. Thayer, Deceased.\nSurrogate\u2019s Court, Madison County,\nDecember 5, 2003\nAPPEARANCES OF COUNSEL\nJames P. Roman for Bethaney Soule, petitioner. Stephen P. Joyce for Katrina Thayer, respondent. Peter F. Hedglon, guardian ad litem."
+  },
+  "file_name": "0791-01",
+  "first_page_order": 779,
+  "last_page_order": 782
+}

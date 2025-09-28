@@ -1,0 +1,118 @@
+{
+  "id": 1237601,
+  "name": "In the Matter of the Application of Frank J. Guido, Jr., for Leave to Assume the Name of Cynthia A. Frank",
+  "name_abbreviation": "In re Guido",
+  "decision_date": "2003-10-24",
+  "docket_number": "",
+  "first_page": "825",
+  "last_page": "828",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Misc. 3d 825"
+    },
+    {
+      "type": "parallel",
+      "cite": "771 N.Y.S.2d 789"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Civ. Ct.",
+    "id": 8970,
+    "name": "Civil Court of the City of New York"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "165 Misc 2d 307",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        933745
+      ],
+      "pin_cites": [
+        {
+          "page": "311"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/165/0307-01"
+      ]
+    },
+    {
+      "cite": "26 Misc 2d 204",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        1078489
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/26/0204-01"
+      ]
+    },
+    {
+      "cite": "155 Misc 2d 241",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        907579
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "242"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/155/0241-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 459,
+    "char_count": 7103,
+    "ocr_confidence": 0.774,
+    "pagerank": {
+      "raw": 1.8440337277707063e-07,
+      "percentile": 0.7225506197465567
+    },
+    "sha256": "a485d0d9f7c7f9edabe837b7f14e47a1899e7c1928b8b8687b03ce4b5d63464f",
+    "simhash": "1:8f7b801badc1cbf5",
+    "word_count": 1138
+  },
+  "last_updated": "2024-02-27T19:35:05.009820+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of the Application of Frank J. Guido, Jr., for Leave to Assume the Name of Cynthia A. Frank."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nDebra Rose Samuels, J.\nPetitioner, who is 50 years old, was born anatomically male and was given a traditionally masculine name, which remains petitioner\u2019s legal name to this day. Petitioner\u2019s Pennsylvania birth certificate identifies petitioner as male. Petitioner is married to a woman.\nOn March 27, 2002, petitioner applied to the court pro se, pursuant to Civil Rights Law \u00a7 60, for leave to assume a new name, stating that the change of first name was intended to help implement a sex change, while the change of last name was intended to alleviate employment discrimination.\nOn April 23, 2002, the court denied the application \u201cwithout prejudice to renew with statement regarding marital status/ children and proof, i.e., physician\u2019s affirmation, of ihe completion of the sex change operation.\u201d\nIn support of a renewed application, petitioner submitted a sworn statement attesting that petitioner was married and had no children; a notarized \u201cConsent\u201d to the proposed change of name from petitioner\u2019s wife; and an unsworn letter from a physician and a certified social worker, both affiliated with the Michael Callen-Audre Lorde Community Health Center. The letter stated that\n\u201cCynthia A. Frank, a.k.a. Frank Guido has been followed at our practice since December 2000 for a condition known as Gender Identity Disorde^. Ms. Frank, although born physically male, is actually psychologically female. As a result of her continuing treatment to resolve this conflict, we have determined that her psychological gender (i.e. female) predominates over her physical gender. ;\n\u201cMs. Frank is now and has been for some time pursuing a program of gender reassignment. Part of this treatment includes living and working fulli-time as a woman. It is therefore important to her treatment, career, and lifestyle that she obtain vital documents that identify her as female. It is especially important for her driver\u2019s license to reflect he]) current female gender. \u25a0\n\u201cMs. Frank\u2019s treatment at present includes taking female hormones to help feminize her body and counseling to help her adjust to her adopted fqmale gender.\n\u201cIn conclusion, we fully recommend that Ms. Cynthia Frank be provided with documentation that identifies her as a female, her predominant gender.\u201d\nIn a decision/order dated September 25, 2002, the court denied the application, stating that such denial was\n\u201cwithout prejudice to renew upon completion of gender reassignment surgery and divorce froth his wife. Under the present state of the law, same-sex marriages are not recognized. It would therefore be inconsistent for this court to grant the relief requested, to permit the applicant to appear! and represent himself as female, while in fact he remains in a legal relationship with his wife premised on his being male.\u201d .\nThe court cited Matter of Anonymous (155 Misc 2d 241 [Civ Ct, Queens County 1992]), in which the court denied a name change application intended to help implement a change of sex, explaining that\n\u201cIn considering whether the court should grant the within application for a change of name, the court has the responsibility to determine whether the proposed change will lead to fraud, misrepresentation, confusion, deception or otherwise interfere with the rights of the public. (Matter of \u2018Shipley\u2019, 26 Misc 2d 204.) The petitioner has failed to set forth sufficient facts upon which the court can make such a determination. He merely states in his petition that the purpose of changing his name is \u2018to avoid embarrassing situations due to my sexual preference and physical well being\u2019. The petitioner does not corroborate this claim by competent medical and psychiatric evaluation, including whether he is a transvestite or a transsexual and, if a transsexual, whether he has undergone a sex change operation and is now anatomically and psychologically a woman . . .\n\u201cThe within application is, therefore, denied because, without such supportive evidence, the change of name from a \u2018male\u2019 name to a \u2018female\u2019 name would be fraught with danger of deception and confusion and contrary to the public interest. (Matter of Jevens, NYLJ, Oct. 18, 1976, at 15, col 4.)\u201d (155 Misc 2d at 242.)\nOn this renewed application, made with the assistance of counsel, the court is persuaded that, in its prior approach to this application, informed by Anonymous (supra), the court concerned itself with matters outside the scope of the court\u2019s jurisdiction and beyond the scope of the inquiry necessary to avoid lending the court\u2019s assistance to fraud, deception or other interference with the rights of third parties.\nIn its previous denials, the court required evidence of sex reassignment surgery (which petitioner has apparently not had) and expressed concern about the legal conundrum presented by petitioner\u2019s prospective change of sex from male to female while still married to a woman, while New York \u2014 despite considerable ferment in this area of the law \u2014 continues to sanction marriage only between people of the opposite sex. With the assistance of petitioner\u2019s persuasive memorandum of law, however, the court has concluded that its concern with both issues was misplaced, as they anticipate questions that simply are not raised by this application.\nPetitioner has not asked this court to declare his sex changed from male to female, nor is such a declaration withijn the scope of this court\u2019s powers. This court is asked only to sanction legally petitioner\u2019s desire for a change of name, after satisfying itself that petitioner has no fraudulent purpose for doing so and that no other person\u2019s rights are interfered with thereby. The court is satisfied on those questions. The law does! not distinguish between masculine and feminine names, which are a matter of social tradition. Some names are traditionally associated with one gender; some with the other; some with either. And, as pointed out by petitioner, the gender association of s.ome names has changed over time. Apart from the prevention \u00a1of fraud or interference with the rights of others, there is no reason \u2014 and no legal basis \u2014 for the courts to appoint themselves: the guardians of orthodoxy in such matters.\nWhether petitioner has, in fact, effected a legally, cognizable change of sex and, if so, the implications of such \u00a1change for petitioner\u2019s marriage (and the legal rights and responsibilities attendant thereto of both spouses), are questions that await resolution in another forum, in a case in which such questions are actually presented. In the accompanying order, the court, aware of its own jurisdictional limitations, has specified tha,t the order \u201cmay never be utilized as evidence of a court acknowledgment of a change in sex from male to female.\u201d (See Matter of Rivera, 165 Misc 2d 307, 311 [Civ Ct, Bronx County 1995].)",
+        "type": "majority",
+        "author": "Debra Rose Samuels, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Urban Justice Center, New York City (Dean Spade of counsel), for applicant."
+    ],
+    "corrections": "",
+    "head_matter": "[771 NYS2d 789]\nIn the Matter of the Application of Frank J. Guido, Jr., for Leave to Assume the Name of Cynthia A. Frank.\nCivil Court of the City of New York, New York County,\nOctober 24, 2003\nAPPEARANCES OF COUNSEL\nUrban Justice Center, New York City (Dean Spade of counsel), for applicant."
+  },
+  "file_name": "0825-01",
+  "first_page_order": 813,
+  "last_page_order": 816
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1237604,
+  "name": "Patricia Nonnon, Individually and as Executrix of Kerri Nonnon, Deceased, et al., Plaintiffs, v. City of New York, Defendant. (Action No. 1.) (And Eight Other Actions.)",
+  "name_abbreviation": "Nonnon v. City of New York",
+  "decision_date": "2003-10-14",
+  "docket_number": "",
+  "first_page": "897",
+  "last_page": "900",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Misc. 3d 897"
+    },
+    {
+      "type": "parallel",
+      "cite": "772 N.Y.S.2d 458"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 8791,
+    "name": "New York Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 347,
+    "char_count": 5736,
+    "ocr_confidence": 0.774,
+    "pagerank": {
+      "raw": 2.1984489637340557e-07,
+      "percentile": 0.7748739405270346
+    },
+    "sha256": "55b7f28a284d0c7a7178bdff53bff544084f235d65d41c88bf59d02af2a1b5d1",
+    "simhash": "1:8e636a0352c0f9f9",
+    "word_count": 939
+  },
+  "last_updated": "2023-07-14T15:55:11.462918+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Patricia Nonnon, Individually and as Executrix of Kerri Nonnon, Deceased, et al., Plaintiffs, v City of New York, Defendant. (Action No. 1.) (And Eight Other Actions.)"
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nAlexander W. Hunter, Jr, J.\nDefendant\u2019s motion to dismiss the complaints of 13 plaintiffs, on the ground that they are barred by expiration of the applicable statute of limitations, is granted in part. Defendant\u2019s motion for an order pursuant to CPLR 3211 (a) (7), disinissing all nine complaints on the ground that they fail to state a cause of action, is denied.\nIn each of the nine causes of action, plaintiffs seek damages for personal injury or wrongful death. All of the plaintiffs live or lived near the vicinity of the Pelham Bay Landfill in Bronx County and all are suffering from various types of cancer which plaintiffs allege are due to exposure to the landfill. .\nDefendant argues that 13 of the actions should be! dismissed because they are barred by the statute of limitations. Plaintiffs concede that of the 13, the claims involving Liesa Arisio, Sandra Irizarry, Joan Kohn, Rosalie Nessen, Patricia Nonnon, Nicholas Parmigiano, Rosemarie Phillips, Theresa Sebastian, \u00e1nd Susan Zietlin are time-barred. Plaintiffs further concede that the wrongful death claims relating to the DaBenigno sisters and the loss of services claim should also be dismissed as no causal relationship between the deaths of the two women and the landfill has been made. Therefore, those claims are all dismissed. There is dispute between the parties as to whether or not the claims of Christopher Angelilli are time-barred. ;\nAs to the claims of Christopher Angelilli, defendant argues that he was an infant at the time of diagnosis in July 1980 and since more than one year and 90 days have elapsed between the time he turned 18 and the time he commenced his qction, his claim is time-barred. Defendant asserts that the statute of limitations as to Mr. Angelilli was tolled and did not begin to run against him until his 18th birthday on July 17, 1989 and thus he had only until October 17, 1990 to commence his action. Defendant contends that he commenced his suit on or about January 15, 1991. Plaintiffs argue that Mr. Angelilli had been diagnosed with acute lymphoid leukemia (ALL) as a child and was undergoing treatment. He filed his notice of claim on January 18, 1990, which plaintiff argues is within one year from the discovery of the cause of his ALL.\nAll parties agree that CPLR 214-c is applicable to this cause of action. Plaintiffs contend that CPLR 214-c (3) states that in an action such as this where there is a requirement tiiat a notice of claim be filed and which is for \u201cpersonal injury or injury . . . caused by the latent effects of exposure to any substance or combination of substances, in any form . . . shall be deemed to have accrued on the date of the discovery of the injury by the plaintiff or on the date when through the exercise of reasonable diligence the injury should have been discovered, whichever is earlier.\u201d\nMoreover, CPLR 214-c (4) states that notwithstanding the aforementioned provision, \u201cwhere the discovery of the cause of the injury is alleged to have occurred less than five years after the discovery of the injury or when with reasonable diligence such injury should have been discovered, whichever is earlier, an action may be commenced or a claim filed within one year of such discovery of the cause of the injury . . . .\u201d Defendants contend that to avail himself of CPLR 214-c (4), Mr. Angelilli had to establish a causal connection between his disease and defendant\u2019s actions by July 17, 1994.\nPlaintiffs contend that they may introduce testimony that defendant\u2019s negligence was a possible cause of the plaintiffs\u2019 injuries. Plaintiffs\u2019 experts have determined that there is a high probability that the plaintiffs\u2019 cancers were caused by their continued and prolonged exposure to the landfill. The defendant has not provided the court with any evidence to indicate that the plaintiffs did not get their diseases from the landfill. Mr. Angelilli filed his notice of claim on January 18,1990, when he was three months over the age of 18. The court agrees with plaintiffs\u2019 contentions that he timely filed his claim. Therefore, Mr. Angelilli\u2019s claim is not time-barred.\nDefendant further argues that all nine causes of action should be dismissed for failure to state a cause of action. Defendant contends that plaintiff has been unable to assert a causal connection between defendant\u2019s conduct and the injuries of the plaintiffs and did not do so until February 2002 when the affidavits of experts were attached to opposition papers. Defendant cites to a report by plaintiffs\u2019 expert Dr. Richard Neugebauer which was a part of another case which was handled by plaintiffs\u2019 counsel and which involved the Fresh Kills Landfill in Staten Island. That report is clearly inapplicable to the case at bar. Defendant offers no other evidence in support of its assertion that plaintiffs have been unable to assert a causal connection between the landfill and the plaintiffs\u2019 injuries. Defendant further based its dismissal motion on the original complaint filed in the actions and not the third amended verified complaint which plaintiffs aver is the correct complaint and which asserts that the landfill caused plaintiffs\u2019 injuries. Thus, defendant\u2019s motion to dismiss for failure to state a cause of action is inadequate and is, therefore, denied.",
+        "type": "majority",
+        "author": "Alexander W. Hunter, Jr, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Michael A. Cardozo, Corporation Counsel, New York City (Inga Van Eysden of counsel), for defendant. Shandell, Blitz, Blitz & Bookson (Bert A. Blitz of counsel), for plaintiffs."
+    ],
+    "corrections": "",
+    "head_matter": "[772 NYS2d 458]\nPatricia Nonnon, Individually and as Executrix of Kerri Nonnon, Deceased, et al., Plaintiffs, v City of New York, Defendant. (Action No. 1.) (And Eight Other Actions.)\nSupreme Court, Bronx County,\nOctober 14, 2003\nAPPEARANCES OF COUNSEL\nMichael A. Cardozo, Corporation Counsel, New York City (Inga Van Eysden of counsel), for defendant. Shandell, Blitz, Blitz & Bookson (Bert A. Blitz of counsel), for plaintiffs."
+  },
+  "file_name": "0897-01",
+  "first_page_order": 885,
+  "last_page_order": 888
+}

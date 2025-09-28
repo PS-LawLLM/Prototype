@@ -1,0 +1,130 @@
+{
+  "id": 1237538,
+  "name": "Riverton Associates, Petitioner, v. Lavern Harvey et al., Respondent",
+  "name_abbreviation": "Riverton Associates v. Harvey",
+  "decision_date": "2003-08-14",
+  "docket_number": "",
+  "first_page": "822",
+  "last_page": "824",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Misc. 3d 822"
+    },
+    {
+      "type": "parallel",
+      "cite": "772 N.Y.S.2d 199"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 8791,
+    "name": "New York Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "185 AD2d 798",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1093322
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/185/0798-01"
+      ]
+    },
+    {
+      "cite": "257 AD2d 421",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        172037,
+        172118
+      ],
+      "pin_cites": [
+        {
+          "page": "422"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/257/0421-01",
+        "/ad2d/257/0421-02"
+      ]
+    },
+    {
+      "cite": "269 AD2d 159",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        176513,
+        176572
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/269/0159-02",
+        "/ad2d/269/0159-01"
+      ]
+    },
+    {
+      "cite": "300 AD2d 160",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        956588,
+        957455
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/300/0160-01",
+        "/ad2d/300/0160-02"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 326,
+    "char_count": 4208,
+    "ocr_confidence": 0.776,
+    "pagerank": {
+      "raw": 4.364012536165934e-08,
+      "percentile": 0.2740152032029667
+    },
+    "sha256": "1b4328ffdae462feb91840c977db190d5cbfc022b3751bb3996440a06cbfe4e2",
+    "simhash": "1:02af66a0bab8688d",
+    "word_count": 679
+  },
+  "last_updated": "2024-02-27T19:35:05.009820+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Riverton Associates, Petitioner, v Lavern Harvey et al., Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nRolando T. Acosta, J.\nPetitioner\u2019s motion for an order dismissing respondent\u2019s first affirmative defense (lack of personal jurisdiction) is granted inasmuch as respondent failed to move to dismiss within 60 days of service of the answer on that basis. (CPLR 3211 [e].)\nPursuant to CPLR 3211 (e) (as amended in 1996), a respondent who raises the defense of improper service of notice of petition and petition by way of answer has 60 days after serving the answer to move to dismiss on that basis unless the court extends the time upon the ground of undue hardship. (Aretakis v Tarantino, 300 AD2d 160 [1st Dept 2002]; Worldcom v Dialing Loving Care, 269 AD2d 159 [1st Dept 2000]; Zueco v Antin, 257 AD2d 421, 422 [1st Dept 1999].) The purpose of the amendment was \u201cto require a party with a genuine objection to service to deal with the issue promptly and at the outset of the action. The provision w[ould] ferret out unjustified objections and w[ould] provide for prompt resolution of those that have merit.\u201d\nBy its express terms, CPLR 3211 (e) does not apply to summary proceedings commenced pursuant to RPAPL 711 (1), (2) (holdover and nonpayment proceedings where a landlord-tenant relationship exists). Actions brought under RPAPL 713, however, are not listed as being excluded from the 60-day waiver provision. (See report from Counsel to the Honorable Jonathan Lippman, Chief Administrative Judge, to the Counsel to the Governor, July 18, 1996, Bill Jacket, L 1996, ch 501, which does not mention proceedings commenced pursuant to RPAPL 713 as an exception to the 60-day waiver provision [the 60-day provision \u201cwould not apply to a summary proceeding to evict a tenant under subdivision 1 or 2 of section 711 of the Real Property Actions and Proceedings Law\u201d].) Accordingly, the 60-day waiver provision applies to summary proceedings commenced pursuant to RPAPL 713.\nThis interpretation is consistent with the strict compliance standard for summary eviction proceedings. (Cf. MSG Pomp Corp. v Doe, 185 AD2d 798 [1st Dept 1992] [it is well!established that there must be strict compliance with statutory requirements in summary proceedings].) It should also be \u00a1noted that \u201choldover proceedings\u201d to evict squatters or licensees are technically not holdover proceedings because there never was a landlord-tenant relationship. (Scherer, Residential Landlord-Tenant Law in New York \u00a7 8:1 [2003 rev ed].) That the Legislature chose to confer on a tenant more rights than on a licensee is not a matter before this court. |\nHere, petitioner commenced this proceeding pursuant to RPAPL 713 (7), asserting that respondent\u2019s license expired upon the death of the tenant. Respondent filed the verified amended answer and counterclaim on December 31, 2002, raising as its first affirmative defense that the notice of petition and petition were improperly served. Accordingly, respondentj had until March 3, 2003 to move to dismiss the petition for improper service, but failed to do so. Nor has respondent alleged any hardship excusing the filing deadline. Respondent\u2019s first \u00a1affirmative defense is therefore waived.\n[Portions of opinion omitted for purposes of publication.]\n. L 1996, ch 501.\n. Letter from Senator Dean G. Skelos, the sponsor of the bill, to the Counsel of the Governor, July 12, 1996, Bill Jacket, L 1996, ch 501.\n. Although the legislative history indicates that there was some concern that the proposed amendment not encompass summary proceedings under the RPAPL (see NY St Bar Assn Comm on CPLR, Report No. 180-B, June 25, 1996, Bill Jacket, L 1996, ch 501; and Assn of Bar of City of NY, Report from Director of Legislative Affairs, July 11, 1996, Bill Jacket, L 1996, ch 501), the amendment, as passed, excluded proceedings only under RPAPL 711 (1), (2).",
+        "type": "majority",
+        "author": "Rolando T. Acosta, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Borah, Goldstein, Altschuler, Schwartz & Nahins, EC., New York City (James C. Mantia of counsel), for petitioner. Munici pal Employees Legal Services, New York City (Tracey D. Doe-man and Joan L. Beranbaum of counsel), for respondent."
+    ],
+    "corrections": "",
+    "head_matter": "[772 NYS2d 199]\nRiverton Associates, Petitioner, v Lavern Harvey et al., Respondent.\nCivil Court of the City of New York, New York County,\nAugust 14, 2003\nAPPEARANCES OF COUNSEL\nBorah, Goldstein, Altschuler, Schwartz & Nahins, EC., New York City (James C. Mantia of counsel), for petitioner. Munici pal Employees Legal Services, New York City (Tracey D. Doe-man and Joan L. Beranbaum of counsel), for respondent."
+  },
+  "file_name": "0822-01",
+  "first_page_order": 810,
+  "last_page_order": 812
+}

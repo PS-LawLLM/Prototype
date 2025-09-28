@@ -1,0 +1,107 @@
+{
+  "id": 1237549,
+  "name": "In the Matter of Rachel S. et al., Plaintiffs, v. Annette R., Defendant",
+  "name_abbreviation": "Rachel S. v. Annette R.",
+  "decision_date": "2003-07-17",
+  "docket_number": "",
+  "first_page": "760",
+  "last_page": "763",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Misc. 3d 760"
+    },
+    {
+      "type": "parallel",
+      "cite": "766 N.Y.S.2d 307"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Fam. Ct.",
+    "id": 9070,
+    "name": "New York City Family Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "291 AD2d 91",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        129391
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "94"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/291/0091-01"
+      ]
+    },
+    {
+      "cite": "530 US 57",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        9413198
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "73"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/530/0057-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 432,
+    "char_count": 7122,
+    "ocr_confidence": 0.759,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.0464677670397
+    },
+    "sha256": "cf720c63583b60f31800193098022998733605d23598c220549102fc349357cc",
+    "simhash": "1:1e847ec22c99dfcd",
+    "word_count": 1127
+  },
+  "last_updated": "2024-02-27T19:35:05.009820+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of Rachel S. et al., Plaintiffs, v Annette R., Defendant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nMartin G. Karopkin, J.\nPetitioners filed a petition by order to show cause on June 11, 2002, seeking grandparent visitation pursuant to Domestic Relations Law \u00a7 72. Respondent moves to dismiss the petition on the grounds that the operative portion of Domestic Relations Law \u00a7 72 is unconstitutional in light of the United States Supreme Court decision in Troxel v Granville (530 US 57 [2000]) and therefore the petitioner grandparents lack standing to bring the instant petition.\nThe petitioners are the paternal grandparents of the subject child who was born on September 13, 1990. The father is deceased having died on September 15, 2002. The child resides with the respondent mother. The child\u2019s parents were never married to each other.\nDomestic Relations Law \u00a7 72 provides in pertinent part that\n\u201cWhere either or both parents of a minor child, residing within this state, is or are deceased, or where circumstances show that conditions exist which equity would see fit to intervene, a grandparent or the grandparents of such child may apply ... to the family court pursuant to subdivision (b) of section six hundred fifty-one of the family court act; and on the return date thereof, the court, by order, after due notice to the parent . . . may make such directions as the best interest of the child may require, for visitation rights for such grandparent or grandparents in respect to such child.\u201d\nThe issue of the constitutionality of Domestic Relations Law \u00a7 72 has come before the Appellate Division, Second Department, in a slightly different context in the case of Matter of Hertz v Hertz (291 AD2d 91 [2002]). There the Appellate Division reversed a finding by the trial court that the Troxel decision rendered Domestic Relations Law \u00a7 72 unconstitutional. Despite that ruling, respondent urges this court to distinguish the instant case and find the statute, as applied, unconstitutional. Respondent\u2019s principal argument is that under the statute when one parent dies both sets of grandparents are given standing to move for visitation. Respondent argues that while it might make sense to give the parents of the deceased standing, it makes no sense to give both sets of grandparents automatic standing. Respondent contends that, as a result, this is the kind of sweepingly broad statute held unconstitutional in Troxel.\nWhile this court disagrees with the assertion that such an interpretation of the statute renders it \u201csweepingly broad,\u201d the argument raises a more fundamental issue that needs to be addressed and that is the meaning of Troxel. The Supreme Court\u2019s decision in Troxel was accompanied by two separate concurring opinions and three separate dissenting opinions. Some of the discussion among the justices highlight the issue before this court. Before the United States Supreme Court was a Washington state statute which allowed anyone to apply for visitation and set only the best interest of the child as the criteria for determining if visitation should be ordered. The Supreme Court of Washington, that state\u2019s highest court, relying on the Federal Constitution held that the statute unconstitutionally infringed on the fundamental rights of parents to raise their child. The United States Supreme Court affirmed the Washington Supreme Court, but on narrower grounds \u201cwe rest our decision on the sweeping breadth of [the statute] and the application of that broad, unlimited power in this case, we do not consider the primary constitutional question passed on by the Washington Supreme Court \u2014 whether the Due Process Clause requires all nonparental visitation statutes to include a showing of harm or potential harm to the child as a condition precedent to granting visitation.\u201d (Troxel, supra at 73 [emphasis added].) In the majority decision the Court takes note of the proliferation of non-parental visitation statutes throughout the nation and attributes it to the realities of the changing nature of the American family. Moreover, the Court recognized that such statutes are a necessary part of American life. (Troxel, supra at 64.)\nIn his dissenting opinion (at 81) Justice Stevens observes that the author of the majority decision, \u201cJustice O\u2019Connor would hold that the Washington visitation statute violated the Due Process Clause of the Fourteenth Amendment only as applied.\u201d This is undoubtedly correct as Justice O\u2019Connor notes that (at 73) \u201c[w]e do not, and need not, define today the precise scope of the parental due process right in the visitation context . . . the constitutionality of any standard for awarding visitation turns on the specific manner in which that standard is applied and that the constitutional protections in this area are at best \u2018elaborated with care.\u2019 \u201d Noting that all 50 states have statutes that provide for grandparent visitation, Justice O\u2019Connor further notes that \u201cwe would be hesitant to hold that specific non-parental visitation statutes violate the Due Process Clause as a per se matter.\u201d (Troxel, supra at 73.)\nIn holding the statute unconstitutional the Washington Supreme Court turned to the state legislature to draft a better statute. In a manner of speaking, the United States Supreme Court turned to the Washington court and noted that it could have found the statute constitutional had it given the statute a narrower interpretation. This is in fact what the Appellate Division, Second Department, did when it held that Domestic Relations Law \u00a7 72 can and has been interpreted to accord deference to a parent\u2019s decision, although the statute itself does not require such deference. (Hertz, supra at 94.)\nTroxel can be most misleading. It is a case which invalidated a nonparental visitation statute and therefore might seem to undermine the validity of grandparent visitation. However, a careful reading of the case leads to quite the opposite conclusion. The four justices who joined in the majority opinion implied that such a statute could be valid, if validly applied; the three dissenting justices explicitly held that such a statute could be valid and neither dissenting opinion ruled out that possibility. There is every reason to believe that a properly applied non-parental visitation statute would meet with the Supreme Court\u2019s approval. What Troxel clearly does tell us is that to meet constitutional muster a nonparent visitation statute must be applied in a manner that recognizes the presumption that fit parents act in the best interest of their children and that the court must accord some special weight to the parents\u2019 own determination.\nAccordingly, this court finds that Domestic Relations Law \u00a7 72 properly affords the petitioner grandparents standing to bring a visitation petition. Respondent\u2019s motion is denied.",
+        "type": "majority",
+        "author": "Martin G. Karopkin, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Barry R. Bondorowsky, Brooklyn, for respondent. Snitow, Kanfer, Holtzer & Millus, LLP, New York City (Kenneth Kanfer of counsel), for petitioners. Children\u2019s Law Center, Brooklyn {Carol Sherman of counsel), Law Guardian."
+    ],
+    "corrections": "",
+    "head_matter": "[766 NYS2d 307]\nIn the Matter of Rachel S. et al., Plaintiffs, v Annette R., Defendant.\nFamily Court, Kings County,\nJuly 17, 2003\nAPPEARANCES OF COUNSEL\nBarry R. Bondorowsky, Brooklyn, for respondent. Snitow, Kanfer, Holtzer & Millus, LLP, New York City (Kenneth Kanfer of counsel), for petitioners. Children\u2019s Law Center, Brooklyn {Carol Sherman of counsel), Law Guardian."
+  },
+  "file_name": "0760-01",
+  "first_page_order": 748,
+  "last_page_order": 751
+}

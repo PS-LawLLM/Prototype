@@ -1,0 +1,86 @@
+{
+  "id": 1237545,
+  "name": "Century 2000 Custom Home Builders & Developers, LLC, Plaintiff, v. United Muslim Organization of New York, Inc., et al., Defendants",
+  "name_abbreviation": "Century 2000 Custom Home Builders & Developers, LLC v. United Muslim Organization of New York, Inc.",
+  "decision_date": "2003-05-06",
+  "docket_number": "",
+  "first_page": "890",
+  "last_page": "892",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Misc. 3d 890"
+    },
+    {
+      "type": "parallel",
+      "cite": "772 N.Y.S.2d 186"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 8791,
+    "name": "New York Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "301 AD2d 462",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1012522,
+        1012965
+      ],
+      "pin_cites": [
+        {
+          "page": "462"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/301/0462-01",
+        "/ad2d/301/0462-02"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 237,
+    "char_count": 3177,
+    "ocr_confidence": 0.759,
+    "sha256": "b6c61047fbc7113395b20306fc18570a54a0209662acc4ba059fbeecc131f343",
+    "simhash": "1:a4a4641c36b401cd",
+    "word_count": 511
+  },
+  "last_updated": "2024-02-27T19:35:05.009820+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Century 2000 Custom Home Builders & Developers, LLC, Plaintiff, v United Muslim Organization of New York, Inc., et al., Defendants."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nOr\u00edn R. Kitzes, J.\nMotion by plaintiff for an order, pursuant to CPLR 3215, granting a default judgment in its favor and declaring that defendant United is required to specifically perform the contract for the sale of certain premises is denied, for the following reasons:\nThe complaint was served on defendant on or about February 13, 2003 and to date defendant United has failed to answer, move or otherwise appear. The complaint alleges that defendant United is a domestic not-for-profit corporation, organized pursuant to the laws of New York State. On or about February 13, 2000, plaintiff entered into a contract with United to purchase the premises located at 126-18 Liberty Avenue, Richmond Hill, New York. Plaintiff has attempted to close on that contract; however, United has refused to accept the tender of the purchase price. Plaintiff now moves for a default judgment. Defendant New York State Attorney General opposes this motion, arguing that this court cannot award specific performance of the contract in the absence of a showing that the statutory requirements of Not-For-Profit Corporation Law \u00a7\u00a7 510 and 511 have been met. Plaintiff acknowledges that this statute applies to United; however, plaintiff argues that, in essence, as a purchaser of property from a not-for-profit corporation that has breached a contract, it must be afforded rights to enforce its contract.\nN-PCL 510 (a) requires that the sale, lease, exchange or other disposition of substantially all the assets of a not-for-profit corporation shall require leave of the Supreme Court in the judicial district or of the County Court of the county in which the corporation has its office or principal place of carrying out the purposes for which it was formed. N-PCL 511 (d) requires that a corporation required by law to obtain leave of court to sell, lease, exchange or otherwise dispose of all or substantially all its assets, shall present a verified petition to the Supreme Court of the judicial district, which shall set forth, inter alia, that the consideration and the terms of the sale, lease, exchange or other disposition of the assets of the corporation are fair and reasonable to the corporation, and that the purposes of the corporation, or the interests of its members will be promoted thereby, and a concise statement of the reasons therefor. The purpose of these sections is to preserve charitable assets for the benefit of the public by \u201cprotect[ing] charitable organizations from loss through unwise bargains.\u201d (64th Assoc. v Manhattan Eye, Ear & Throat Hosp., 301 AD2d 462, 462 [1st Dept 2003].) While the court is aware of the need to protect plaintiffs interest, there is no authority to award plaintiff specific performance without United having met the requirements of N-POL 510 and 511. Accordingly, the plaintiffs motion is denied, in its entirety.",
+        "type": "majority",
+        "author": "Or\u00edn R. Kitzes, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Helmut Borchart for plaintiff. Eliot Spitzer, Attorney General, defendant pro se. j"
+    ],
+    "corrections": "",
+    "head_matter": "[772 NYS2d 186]\nCentury 2000 Custom Home Builders & Developers, LLC, Plaintiff, v United Muslim Organization of New York, Inc., et al., Defendants.\nSupreme Court, Queens County,\nMay 6, 2003\nAPPEARANCES OF COUNSEL\nHelmut Borchart for plaintiff. Eliot Spitzer, Attorney General, defendant pro se. j"
+  },
+  "file_name": "0890-01",
+  "first_page_order": 878,
+  "last_page_order": 880
+}

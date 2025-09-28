@@ -1,0 +1,167 @@
+{
+  "id": 1237544,
+  "name": "The People of the State of New York, Plaintiff, v. William Volkes, Defendant",
+  "name_abbreviation": "People v. Volkes",
+  "decision_date": "2003-10-29",
+  "docket_number": "",
+  "first_page": "829",
+  "last_page": "832",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Misc. 3d 829"
+    },
+    {
+      "type": "parallel",
+      "cite": "771 N.Y.S.2d 797"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Crim. Ct.",
+    "id": 9055,
+    "name": "New York City Criminal Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "143 Misc 2d 106",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        879834
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/143/0106-01"
+      ]
+    },
+    {
+      "cite": "77 AD2d 745",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3201974
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/77/0745-01"
+      ]
+    },
+    {
+      "cite": "68 NY2d 729",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2349737,
+        2348315,
+        2348155
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "731"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/68/0729-03",
+        "/ny-2d/68/0729-02",
+        "/ny-2d/68/0729-01"
+      ]
+    },
+    {
+      "cite": "191 Misc 2d 390",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        962319
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/191/0390-01"
+      ]
+    },
+    {
+      "cite": "68 NY2d 674",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2350256
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/68/0674-01"
+      ]
+    },
+    {
+      "cite": "95 NY2d 354",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        1188970
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/95/0354-01"
+      ]
+    },
+    {
+      "cite": "70 NY2d 133",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        11076844,
+        4406078
+      ],
+      "weight": 3,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/70/0133-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 354,
+    "char_count": 6232,
+    "ocr_confidence": 0.774,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.046467380916802484
+    },
+    "sha256": "c6ce8437b48ea326e4a194c2484a43dd7daba47a21f1fac30b023a15d516932c",
+    "simhash": "1:078286249d5a95dd",
+    "word_count": 1016
+  },
+  "last_updated": "2024-02-27T19:35:05.009820+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The People of the State of New York, Plaintiff, v William Volkes, Defendant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nTimothy J. Dufficy, J.\nDefendant is charged with violating Penal Law \u00a7 265.01 (1), criminal possession of a weapon in the fourth degree, Vehicle and Traffic Law \u00a7 1192 (3), operating a motor vehicle while intoxicated, and Administrative Code of the City of New York \u00a7 10-306 (d), possession of ammunition. In a motion filed on September 4, 2003, defendant seeks dismissal of count one and count three of the accusatory instrument as facially insufficient pursuant to CPL 170.30 and 170.35, and on the grounds that the accusatory instrument is defective because it fails to allege facts supporting all of the elements of the offenses charged pursuant to CPL 100.40. At the appearance on Septembbr 30, 2003 the defense expressly withdrew their challenge to the facial sufficiency of count one of the complaint criminal possession of a weapon and renewed their objection to the charge of, possession of ammunition. The court finds that the People haVe failed to state an essential element of the crime charged, in that the People fail to state the weapon is a \u201csemiautomatic\u201d shotgun (Penal Law \u00a7 265.00 [22] [b]). Thus, that portion of the complaint is jurisdictionally defective. (CPL 100.15 [3]; People v Alejandro, 70 NY2d 133 [1987].) An information\u2019s failure to allege an element of the offense charged is a nonwaivable jurisdictional defect. (See, People v Casey, 95 NY2d 354 [2000].) The People have until the statutory period provided by CPL 30.30 to correct said defect. It should also be noted that when a statute contains exceptions there is case law holding that the exceptions should be pleaded within the accusatory instrument. (See, Penal Law \u00a7 265.00 [22] [e]; People v Rodriguez, 68 NY2d 674 [1986]; People v Feller, 191 Misc 2d 390 [2002].)\nMotion to Dismiss as Facially Insufficient\nDefendant\u2019s motion seeking to dismiss the third count of the accusatory instrument, possession of ammunition, pursuant to CPL 170.30, 170.35 and 100.40 is denied. \u201cThe factual part of a misdemeanor complaint must allege \u2018facts of an evidentiary character\u2019 (CPL 100.15 [3]) demonstrating \u2018reasonable cause\u2019 to believe the defendant committed the crime charged (QPL 100.40 [4] [b])\u201d (People v Dumas, 68 NY2d 729, 731 [1986]). cjPL 100.40 states in relevant part,\n\u201c[a]n information, or a count thereof, is sufficient on its face when: ,\n\u201c(a) It substantially conforms to the requirem|ents prescribed in section 100.15; and\n\u201c(b) The allegations of the factual part of the information, together with those of any supporting depositions which may accompany it, provide reasonable cause to believe that the defendant committed the offense charged in the accusatory part of the information; and ,\n\u201c(c) Non-hearsay allegations of the factual part of the information and/or of any supporting depositions establish, if true, every element of the offense charged and the defendant\u2019s commission thereof.\u201d (See also, People v Alejandro, 70 NY2d 133 [1987].)\nCount three of the complaint charges defendant with violating Administrative Code of the City of New York \u00a7 10-306 (d), possession of ammunition. Said section states in relevant part, \u201cIt shall be unlawful for any person who is required to have a permit in order to possess a rifle or a shotgun and who has not been issued such permit to possess rifle or shotgun ammunition . . . .\u201d The misdemeanor complaint is sworn to by the police officer, deponent, who states \u201cthat the defendant did possess two quantities of ammunition for said shotgun, in that the defendant did possess seven 12 gauge shot shells.\u201d\nThe defense argues that since there is no ballistics report that indicates that the alleged ammunition was found to be operable, this count is insufficient on its face, and has never been converted to an information. However, the ballistics report of the shotgun shows it was operable and shows evidence of discharge. This shotgun was allegedly loaded with two shotgun shells at the time of defendant\u2019s arrest. The People argue that there is no requirement that the People allege that the ammunition is live or operable.\nIn the complaint the deponent police officer stated \u201cthat the defendant did possess two quantities of ammunition for said shotgun, in that the defendant did possess seven 12 gauge shot shells.\u201d Although these statements are allegations of an evidentiary character sufficient to support the requirements of a complaint (see CPL 100.15; People v Dumas, 68 NY2d 729 [1986]), ammunition as proscribed by the Administrative Code is defined in relevant part as \u201c[e]xplosives suitable to be fired\u201d (Administrative Code \u00a7 10-301 [7]). To rise to the level of an information each and every element of the offense charged must be supported by nonhearsay. (See, CPL 100.40; People v Alejandro, 70 NY2d 133 [1987].) An essential element of the crime charged is that the ammunition is \u201csuitable to be fired.\u201d In order to determine that said ammunition is \u201csuitable to be fired\u201d the People must have the ammunition tested, attach a ballistics report or attach an eyewitness statement that he observed the ammunition being fired. In order for the prosecution to be ready for trial in cases where defendant is charged with possession of a loaded firearm the prosecution must test the ammunition to see if it was live or operable (People v Daniels, 77 AD2d 745 [1980]; People v Almodovar, NYLJ, Feb. 26, 1999, \u00e1t 25, col 5 [Grim Ct, Kings County, Torres, J.]).\nThis court extends this logic to a defendant charged with possession of ammunition in violation of Administrativej Code \u00a7 10-306 (d) and holds that in order for the complaint to be converted into an information the prosecution must demonstrate that the ammunition is suitable to be fired. The People also have within the speedy trial limits under CPL 30.30 to convert t!his portion of the complaint into an information (People v Gore, 143 Misc 2d 106 [1989]).",
+        "type": "majority",
+        "author": "Timothy J. Dufficy, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Michael Prevost, Staten Island, for defendant. William L. Murphy, District Attorney, Staten Island {Adam Silberlight of counsel), for plaintiff."
+    ],
+    "corrections": "",
+    "head_matter": "[771 NYS2d 797]\nThe People of the State of New York, Plaintiff, v William Volkes, Defendant.\nCriminal Court of the City of New York, Richmond County,\nOctober 29, 2003\nAPPEARANCES OF COUNSEL\nMichael Prevost, Staten Island, for defendant. William L. Murphy, District Attorney, Staten Island {Adam Silberlight of counsel), for plaintiff."
+  },
+  "file_name": "0829-01",
+  "first_page_order": 817,
+  "last_page_order": 820
+}

@@ -1,0 +1,268 @@
+{
+  "id": 1237522,
+  "name": "Robert H. Cohen et al., Plaintiffs, v. Ned Marshall et al., Defendants",
+  "name_abbreviation": "Cohen v. Marshall",
+  "decision_date": "2003-09-25",
+  "docket_number": "",
+  "first_page": "867",
+  "last_page": "872",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Misc. 3d 867"
+    },
+    {
+      "type": "parallel",
+      "cite": "767 N.Y.S.2d 195"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Civ. Ct.",
+    "id": 8970,
+    "name": "Civil Court of the City of New York"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "206 AD2d 123",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1177268
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/206/0123-01"
+      ]
+    },
+    {
+      "cite": "2003 NY Slip Op 50634",
+      "category": "reporters:state",
+      "reporter": "NY Slip Op",
+      "opinion_index": 0
+    },
+    {
+      "cite": "126 AD2d 451",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3505475
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "453"
+        },
+        {
+          "page": "453"
+        },
+        {
+          "page": "453"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/126/0451-01"
+      ]
+    },
+    {
+      "cite": "209 AD2d 139",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1189642
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "144"
+        },
+        {
+          "page": "144"
+        },
+        {
+          "page": "144"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/209/0139-01"
+      ]
+    },
+    {
+      "cite": "193 AD2d 429",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1128773
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "430"
+        },
+        {
+          "page": "430"
+        },
+        {
+          "page": "430"
+        },
+        {
+          "page": "430"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/193/0429-01"
+      ]
+    },
+    {
+      "cite": "304 AD2d 475",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        329403,
+        329131,
+        328875
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/304/0475-03",
+        "/ad2d/304/0475-02",
+        "/ad2d/304/0475-01"
+      ]
+    },
+    {
+      "cite": "233 AD2d 367",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        30883,
+        30461
+      ],
+      "pin_cites": [
+        {
+          "page": "368"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/233/0367-02",
+        "/ad2d/233/0367-01"
+      ]
+    },
+    {
+      "cite": "226 AD2d 102",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        700353
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "103"
+        },
+        {
+          "page": "103"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/226/0102-01"
+      ]
+    },
+    {
+      "cite": "251 AD2d 184",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        713736
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/251/0184-01"
+      ]
+    },
+    {
+      "cite": "215 AD2d 361",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1215758
+      ],
+      "pin_cites": [
+        {
+          "page": "362"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/215/0361-01"
+      ]
+    },
+    {
+      "cite": "87 NY2d 36",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        8593587
+      ],
+      "pin_cites": [
+        {
+          "page": "44"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/87/0036-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 581,
+    "char_count": 11453,
+    "ocr_confidence": 0.766,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.04646564336376368
+    },
+    "sha256": "a99303b63773c6507bf49c2b00ec90ef98b755a533fcb874ebe637d62f080653",
+    "simhash": "1:f2d97b1d4a2e835f",
+    "word_count": 1814
+  },
+  "last_updated": "2024-02-27T19:35:05.009820+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Robert H. Cohen et al., Plaintiffs, v Ned Marshall et al., Defendants."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nLucy Billings, J.\nPlaintiffs move to modify the court\u2019s decision and judgment dated March 28, 2003. The order awarded defendant Ned Marshall, Inc., the undisputed purchase price and value of an Aubusson rug, $9,450; defendant\u2019s commission of 35% of the purchase price for procuring the rug, $3,307.50; and 'a charge of $117 for shipping the rug: a total of $12,874.50. (Decision and judgment at 30-31 [Mar. 28, 2003].) Plaintiffs now claim defendant Ned Marshall\u2019s testimony that the rug was delivered to plaintiffs, on which the court based its conclusion that defendant corporation was entitled to payment, was perjufed, requiring vacatur of the award. (CPLR 5015 [a] [3].)\nI. Prior Proceedings\nIn their answer, defendants counterclaimed that plaintiffs had \u201cfailed ... to make payment in full for .] . . items purchased on Plaintiffs behalf\u2019 (verified answer and counterclaims 1i 14); \u201crefused to pay for . . . furnishings ordered at Plaintiffs\u2019 specific request and purchased by defendant\u201d (id. 1\u00cd 25); and \u201cbeen unjustly enriched by accepting the \u00a1benefits of defendant ned marshall, inc.\u2019s work, labor, services and goods without compensating Defendant.\u201d (Id. 1\u00cd 27.) These allegations encompass a claim for the balance owed on merchandise delivered by defendants to plaintiffs and retained b^ them. At trial, defendants specified that these claims included the value of a Chinese Aubusson flat woven rug from Stark Carpet Corporation.\nPlaintiffs protest that defendants never articulated a claim for the value of the rug in response to disclosure requests, but fail to point to any requests that called for such disclosure. Plaintiffs\u2019 request for production of documents dated April 26, 2000 simply sought documents related to \u201cservices, work, labor and goods allegedly provided by defendants to plaintiffs\u201d (example 3, 1i 2); \u201cdemands for payment made by defendants to plaintiffs\u201d (id. H 3); \u201cservices, work, labor and goods allegedly provided by any person to defendants or plaintiffs concerning the plaintiffs and their orders for goods and services\u2019\u2019 (id. 11 6); \u201ccommunications between defendants and other persons concerning the goods and services allegedly ordered by plaintiffs\u201d (id. 1\u00cd 7); \u201ccommunications with plaintiffs\u201d (id. 1\u00cd 8); and \u201callegations set forth in the . . . Counterclaims.\u201d (Id. 1i 9.) If defendants\u2019 responses were deficient, plaintiffs\u2019 remedy was, if the deficiency was revealed before trial, to move to compel a complete response or, if the deficiency was not apparent until trial, to move then to preclude evidence of the claim for the rug\u2019s value. In fact, at trial, a document relating to defendants\u2019 claim for the rug\u2019s value was admitted in evidence. (Example 40.) If defendants failed to produce this document in response to plaintiffs\u2019 document request, plaintiffs could have objected to it, but they did not; in fact, they introduced it. (Transcript of proceedings at 76-78 [Mar. 6, 2002].)\nAt trial, defendant Marshall testified that he selected the rug from Stark Carpet, which delivered the rug to plaintiffs\u2019 home January 31, 2001, on a trial basis, for plaintiffs\u2019 approval, as agreed by the parties. (Transcript at 17-18 [Feb. 21, 2002]; at 79 [Mar. 6, 2002]; decision and judgment at 30.) Plaintiffs neither returned the rug nor made any payment for the rug to defendants or to Stark Carpet, thus assuming control and exercising ownership rights, to the exclusion of defendants\u2019 control of ownership, over property that defendant Ned Marshall, Inc., had procured and was obligated to pay for. (Transcript at 17-18 [Feb. 21, 2002]; at 75-76, 82-83 [Mar. 6, 2002]; decision and judgment at 30; UCC 2-606 [1] [b], [c]; Vigilant Ins. Co. of Am. v Housing Auth. of City of El Paso, Tex., 87 NY2d 36, 44 [1995]; Hunt Co. v S & R Coachworks, 215 AD2d 361, 362 [2d Dept 1995].) Therefore the court held plaintiffs liable to defendant Ned Marshall, Inc., for the price of the rug, defendant\u2019s commission, and the shipping charge: $12,874.50 in total. (Decision and judgment at 30-31.)\nPlaintiffs protest further that Marshall\u2019s testimony concerning the rug\u2019s delivery was hearsay, based on his conversations with a Stark Carpet representative, and uncorroborated by documentary evidence or otherwise. Yet at trial, plaintiffs had ample opportunity to object to this testimony, to seek to discredit it, and to offer their own evidence on this issue, but neglected to do so. That opportunity does not extend after the trial has concluded.\nII. Plaintiffs\u2019 Current Motion\nNevertheless, plaintiffs now present the evidence they neglected to offer at trial: that Stark Carpet never delivered the Aubusson rug to plaintiffs. Plaintiffs provide no explanation, however, why they did not present this evidence at trial. They do not establish that the evidence was unavailable at the time of the trial or within the 15 days permitted for posttrial motions under CPLR 4404 and could not have been located with due diligence before the trial. (CPLR 5015 [a] [2]; Weinstock v Handler, 251 AD2d 184 [1st Dept 1998]; Olwine, Connelly, Chase, O\u2019Donnell & Weyher v Valsan, Inc., 226 AD2d 102, 103 [1st Dept 1996].) Since this new evidence consists of the testimony of plaintiff Robert Cohen, who was present throughout the trial, and Stark Carpet representative Michael Blechner, plaintiffs surely would have known about or had the opportunity to discover their version of the facts and been able to present this evidence as rebuttal to Marshall\u2019s testimony. (Weinsiock v Handler, 251 AD2d 184 [1998]; see Olwine, Connelly, Chase, O\u2019Donnell & Weyher v Valsan, Inc., 226 AD2d at 103; Gonzalez v Chalpin, 233 AD2d 367, 368 [2d Dept 1996].)\nPlaintiffs urge that the testimony of Cohen and Blechner is not just newly discovered evidence that would change the result and therefore be required to have been unavailable \u00a1previously. (CPLR 5015 [a] [2].) Plaintiffs urge that the testimoriy of Cohen and Blechner establishes that Marshall\u2019s testimony was perjured, thus permitting vacatur under CPLR 5015 (a) (3), for \u201cfraud, misrepresentation, or other misconduct of kn adverse party,\u201d without a requirement that the evidence of perjury have been unavailable previously.\nPlaintiffs do not claim a fraud that deprived plainti\u00a1ffs of a full trial. (See Matter of Burgos v Burgos, 304 AD2d 475 [1st Dept 2003].) Plaintiffs had a full opportunity to object to Marshall\u2019s testimony, undermine his credibility through cross-examination, and squarely contradict his testimony through the testimony of plaintiff Nanette Koryn, who testified extensively, Robert Cohen, and Stark Carpet personnel.\nInstead, plaintiffs claim conduct that injected fraud into the trial. To claim that any evidence which was not introduced at trial, but which casts doubt on or even squarely contradicts evidence which was introduced and produced the result sought to be vacated, establishes \u201cfraud\u201d under CPLR 5015 (a)! (3) would obliterate any distinction between section 5015 (a) (3) and section 5015 (a) (2) and the requirement under section 5015 (a) (2) that the evidence be newly discovered. Any evidence that is presented in support of vacatur under section 5015 (q) (2) and hence would change the result at trial will inevitably be contradictory to the evidence that supported the original result. Evidence supporting vacatur under section 5015 (a) (2)j, however, unlike the evidence plaintiffs present, must have been unavailable previously.\nPlaintiffs may not escape the strictures of CPLR 5015 (a) (2) by selecting the alternative of section 5015 (a) (3). Not all evidence that would support vacatur under section 5015 (a) (2), if newly discovered, including plaintiffs\u2019 evidence, also supports vacatur under CPLR 5015 (a) (3). Vacatur under section 5015 (a) (3) requires conduct intended to defraud. (Burgos v Burgos, 304 AD2d 475 [2003].) Simply revealing evidence that was available but not introduced at the time of trial, but that casts doubt on the credibility of evidence introduced, does not establish the fraudulent conduct contemplated by CPLR 5015 (a) (3).\nCPLR 5015 (a) (3), moreover, similarly to section 5015 (a) (2), requires that the fraud not have been discoverable before the judgment. (H & Y Realty Co. v Baron, 193 AD2d 429, 430 [1st Dept 1993].) If plaintiffs had prior actual or constructive notice of defendants\u2019 misleading conduct, plaintiffs may not succeed under section 5015 (a) (3). (Richard B. v Sandra B.B., 209 AD2d 139, 144 [1st Dept 1995]; H & Y Realty Co. v Baron, 193 AD2d at 430; Greenwich Sav. Bank v JAJ Carpet Mart, 126 AD2d 451, 453 [1st Dept 1987]; A. Resnick Textile Co., Inc. v Ramapo Trading Corp., 2003 NY Slip Op 50634[U] [App Term, 1st Dept, Mar. 13, 2003].) Marshall testified about the Aubusson rug on the fourth and fifth days of a 10-day trial that spanned over many weeks. On the fifth day, he identified Michael Blechner as the person at Stark Carpet who provided Marshall with his information about the delivery of the rug to plaintiffs and their failure to return it. (Transcript at 82 [Mar. 6, 2003].) Although plaintiffs had ample opportunity before the trial concluded to rebut Marshall\u2019s testimony through plaintiffs\u2019 subsequent testimony and by contacting Blechner about his version of the facts, plaintiffs elected to forego that opportunity and waited until after the judgment to present their rebuttal. (Richard B. v Sandra B.B., 209 AD2d at 144; H & Y Realty Co. v Baron, 193 AD2d at 430; Greenwich Sav. Bank v JAJ Carpet Mart, 126 AD2d at 453.)\nThe fact that defendants may have failed to call plaintiffs\u2019 attention to defendants\u2019 claim concerning the rug until the trial is of no consequence. (Jackson v Kessner, 206 AD2d 123, 130 n 1 [1st Dept 1994].) Marshall\u2019s testimony provided plaintiffs \u201cwith more than sufficient notice\u201d of defendants\u2019 claim, particularly in view of the length of the trial, giving plaintiffs extensive time to prepare rebuttal to Marshall, the first witness. (Id. at 131.)\nFinally, the testimony of Cohen and Blechner does not unequivocally establish that Marshall\u2019s testimony was perjured. Plaintiffs\u2019 belated evidence, untested by potential objections, cross-examination, and rebuttal evidence, is as subject to attack' as defendants\u2019 evidence. Having presented it at trial,! defendants subjected their evidence to potential objections, cross-examination, and rebuttal. Plaintiffs, having failed; to present their evidence at trial, may not escape such attack and then expect their version of the facts to be accepted as the prevailing view merely because it contradicts defendants\u2019 version. Such contradictions are to be resolved at trial. Plaintiffs missed that opportunity. (Richard B. v Sandra B.B., 209 AD2d at 144; H & Y Realty Co. v Baron, 193 AD2d at 430; Greenwich Sav. Bank v JAJ Carpet Mart, 126 AD2d at 453.)\nIII. Conclusion\nFor all the above reasons, the court denies plaintiffs\u2019 motion to modify the court\u2019s decision and order dated March 28, 2003 to vacate the $12,874.50 award to defendant Ned Marshall, Inc., for the Aubusson rug. j\n[Portions of opinion omitted for purposes of publication.]",
+        "type": "majority",
+        "author": "Lucy Billings, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Morrison Cohen Singer & Weinstein, LLP, New York City (Donald Chase of counsel), for plaintiffs. Patrick J. Bliss, White Plains, for defendants."
+    ],
+    "corrections": "",
+    "head_matter": "[767 NYS2d 195]\nRobert H. Cohen et al., Plaintiffs, v Ned Marshall et al., Defendants.\nCivil Court of the City of New York, New York County,\nSeptember 25, 2003\nAPPEARANCES OF COUNSEL\nMorrison Cohen Singer & Weinstein, LLP, New York City (Donald Chase of counsel), for plaintiffs. Patrick J. Bliss, White Plains, for defendants."
+  },
+  "file_name": "0867-01",
+  "first_page_order": 855,
+  "last_page_order": 860
+}
