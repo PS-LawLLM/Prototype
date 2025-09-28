@@ -1,0 +1,153 @@
+{
+  "id": 1237530,
+  "name": "AA Frontier Inc., Doing Business as Remax Frontier, et al., Appellants, v. Milton Silverman et al., Respondents",
+  "name_abbreviation": "AA Frontier Inc. v. Silverman",
+  "decision_date": "2003-07-18",
+  "docket_number": "",
+  "first_page": "1",
+  "last_page": "4",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Misc. 3d 1"
+    },
+    {
+      "type": "parallel",
+      "cite": "764 N.Y.S.2d 303"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. App. Term",
+    "id": 8833,
+    "name": "New York Supreme Court, Appellate Term"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "234 AD2d 537",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        34841
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/234/0537-01"
+      ]
+    },
+    {
+      "cite": "281 App Div 39",
+      "category": "reporters:state",
+      "reporter": "A.D.",
+      "case_ids": [
+        2865639
+      ],
+      "pin_cites": [
+        {
+          "page": "42-43"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad/281/0039-01"
+      ]
+    },
+    {
+      "cite": "149 AD2d 492",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3578498
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/149/0492-01"
+      ]
+    },
+    {
+      "cite": "62 NY2d 696",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2346846
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/62/0696-01"
+      ]
+    },
+    {
+      "cite": "28 NY2d 36",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2298878
+      ],
+      "pin_cites": [
+        {
+          "page": "42"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/28/0036-01"
+      ]
+    },
+    {
+      "cite": "22 NY2d 271",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2284888
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/22/0271-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 378,
+    "char_count": 5633,
+    "ocr_confidence": 0.781,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.04646622254810995
+    },
+    "sha256": "789f0ebe079c9f77c3f70510306175ff6d4a4ffb842f5ead259cf538cfb66b09",
+    "simhash": "1:96414eed8ecddac3",
+    "word_count": 905
+  },
+  "last_updated": "2024-02-27T19:35:05.009820+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "AA Frontier Inc., Doing Business as Remax Frontier, et al., Appellants, v Milton Silverman et al., Respondents."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nMemorandum.\nOrder affirmed without costs.\nThe entitlement to a brokerage commission is generally not conditioned upon the performance of a contract for the sale of real estate, although the parties may provide otherwise by agreement (see Levy v Lacey, 22 NY2d 271 [1968]). If, however, there is no agreement indicating when the commission is earned, such commission will be considered to have been earned upon the procurement of a purchaser who is not only ready and willing to perform the contract on terms satisfactory to the seller (see Lane-Real Estate Dept. Store v Lawlet Corp., 28 NY2d 36, 42 [1971]), but who is able to do so as well (see Rusciano Realty Servs. v Griffler, 62 NY2d 696 [1984]). An \u201cable\u201d purchaser is one who has the financial ability to perform. The burden lies with the broker to establish that its prospective purchaser was financially able to meet the purchase price (see O\u2019Connor Realty v Higgins, 149 AD2d 492 [1989]).\nIn this action, defendant sellers made a prima facie showing of entitlement to judgment by submitting documentation indicating that the purchasers were unable to obtain a mortgage commitment in accordance with the terms of the contract of sale. This demonstrated that the prospective purchasers were not ready, willing and able to complete the transaction.\nIn view of the foregoing, it was incumbent on plaintiff real estate brokers to come forward with evidence in admissible form showing that either an issue of fact existed as to the purchasers\u2019 ability to complete the transaction or that the purchasers were in fact ready, willing and able to purchase the property. Plaintiffs failed to proffer any evidentiary proof in admissible form to demonstrate the purchasers\u2019 financial ability to perform the contract. We note that \u201c[i]t is not necessary to follow a particular formula in order to establish financial ability of a prospective purchaser to meet the price, but there must be some tangible evidence from which a jury could conclude that he would have had the ability\u201d (Globerman v Lederer, 281 App Div 39, 42-43 [1952]).\nAccordingly, the court below properly granted the defendants\u2019 motion for summary judgment dismissing the complaint, and properly denied the plaintiffs\u2019 cross motion.\nPatterson, J., dissents and votes to modify the order by denying defendants\u2019 motion and plaintiffs\u2019 cross motion for summary judgment without prejudice to renewal following completion of discovery in the following memorandum: While I do not disagree with the opinion of the majority that plaintiff brokers failed to come forward with sufficient proof to raise an issue of fact in opposition to defendants\u2019 motion for summary judgment, it is my opinion that the circumstances of this case suggest that a summary adjudication is premature pending the parties\u2019 completion of discovery.\nIt is uncontroverted that approximately one week following the execution of the contract of sale, the attorney for the sellers attempted to return the down payment to the purchasers, claiming that the contract had been signed and sent to them in error, and that no contract existed. Despite a request that the sellers provide the purchasers\u2019 attorney with written assurances that they intended to proceed with their obligations under the contract, the sellers did not do so, and continued to insist that there was no binding and enforceable contract until and through the expiration of the time within which the purchasers were required to obtain a firm mortgage commitment, when the sellers were able to take advantage of the mortgage contingency clause as a basis for cancelling the contract. Although the purchasers notified the sellers that they considered the sellers\u2019 failure to provide them with written assurances as a breach of the contract, approximately one week later, the purchasers acknowledged the cancellation of the contract, accepted return of the down payment, and, in exchange for the payment of $2,500, executed a release in favor of the sellers (presumably in settlement of any dispute arising out of the sale of the house).\nCPLR 3212 (f) authorizes a court to deny a motion for summary judgment or to order a continuance to permit affidavits to be obtained or disclosure to be had, should it appear that facts essential to justify opposition to the motion may exist but cannot then be stated. Where it is apparent from the affidavits submitted by a party that discovery is necessary, that party should be given a reasonable opportunity for disclosure prior to determination of the summary judgment motion (see Urcan v Cocarelli, 234 AD2d 537 [1996]).\nIn this case, plaintiffs are at an obvious disadvantage in that most of the documentation which might support their position is not within their control. In addition, it appears that at the time that defendants\u2019 motion for summary judgment was made, party depositions had not even been held. Since virtually no pretrial discovery had been conducted such as might yield information which would permit plaintiffs to raise issues of fact in opposition, in my view, the lower court should have denied summary judgment with leave to renew upon completion of discovery. .\nAronin, J.R, and Rios, J., concur; Patterson, J., dissents in a separate memorandum.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Ciccarone Ma & Associates, LLC, New York City (Lilin M. Ciccarone of counsel), for appellants. Susan M. Silverman, Bay-side, for respondents."
+    ],
+    "corrections": "",
+    "head_matter": "[764 NYS2d 303]\nAA Frontier Inc., Doing Business as Remax Frontier, et al., Appellants, v Milton Silverman et al., Respondents.\nSupreme Court, Appellate Term, Second Department,\nJuly 18, 2003\nAPPEARANCES OF COUNSEL\nCiccarone Ma & Associates, LLC, New York City (Lilin M. Ciccarone of counsel), for appellants. Susan M. Silverman, Bay-side, for respondents."
+  },
+  "file_name": "0001-01",
+  "first_page_order": 45,
+  "last_page_order": 48
+}

@@ -1,0 +1,159 @@
+{
+  "id": 1237611,
+  "name": "In the Matter of Loula Vellios, Petitioner, v. Gregory Serio, as Superintendent of Insurance of the State of New York, et al., Respondents",
+  "name_abbreviation": "Vellios v. Serio",
+  "decision_date": "2003-08-08",
+  "docket_number": "",
+  "first_page": "487",
+  "last_page": "489",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Misc. 3d 487"
+    },
+    {
+      "type": "parallel",
+      "cite": "764 N.Y.S.2d 568"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 8791,
+    "name": "New York Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "156 AD2d 878",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3612235
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/156/0878-01"
+      ]
+    },
+    {
+      "cite": "519 US 1023",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "519 US 864",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11636485,
+        11636262,
+        11636613,
+        11636445,
+        11636522,
+        11636333,
+        11636653,
+        11636405,
+        11636310,
+        11636374,
+        11636696,
+        11636349,
+        11636287
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/519/0864-09",
+        "/us/519/0864-01",
+        "/us/519/0864-11",
+        "/us/519/0864-08",
+        "/us/519/0864-10",
+        "/us/519/0864-04",
+        "/us/519/0864-12",
+        "/us/519/0864-07",
+        "/us/519/0864-03",
+        "/us/519/0864-06",
+        "/us/519/0864-13",
+        "/us/519/0864-05",
+        "/us/519/0864-02"
+      ]
+    },
+    {
+      "cite": "87 NY2d 1056",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "87 NY2d 916",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        8601920,
+        8602020,
+        8602124
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/87/0916-01",
+        "/ny-2d/87/0916-02",
+        "/ny-2d/87/0916-03"
+      ]
+    },
+    {
+      "cite": "219 AD2d 704",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        654649
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/219/0704-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 317,
+    "char_count": 4237,
+    "ocr_confidence": 0.769,
+    "pagerank": {
+      "raw": 5.207966869300525e-08,
+      "percentile": 0.3267727191816975
+    },
+    "sha256": "8059dd3ecc9421128ca0a8dd8713552137ed21c9b40479b4664288db7e9f53f1",
+    "simhash": "1:16d38e0a090caaac",
+    "word_count": 677
+  },
+  "last_updated": "2024-02-27T19:35:05.009820+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of Loula Vellios, Petitioner, v Gregory Serio, as Superintendent of Insurance of the State of New York, et al., Respondents."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nMichael V. Ajello, J.\nIn this CPLR article 78 proceeding, respondent IPRO moves to dismiss the petition upon the ground that this is not a proper article 78 proceeding and even if it were, petitioner cannot meet the \u201carbitrary and capricious\u201d standard. The argument is made that article 78 is designed to be used for seeking mandamus against instrumentalities of the state or state officials, or disputes by members against membership corporations, not-for-profit associations or co-op boards regarding applications of mutually agreed upon rules or internal corporate governance and that recourse to an article 78 proceeding against a private corporation merely complying with state regulations, in its business, should not be permitted.\nIn 1998, the Legislature amended article 49 of the Insurance Law by adding a new title II giving an insured the right to an external appeal of an adverse determination by a health plan (L 1998, ch 586, \u00a7 29). At the same time, article 49 of the Public Health Law was amended by adding a new title II providing for the right of an external appeal (L 1998, ch 586, \u00a7 11). One of the purposes of the amendments was to provide insureds suffering from life-threatening or disabling diseases access to treatments that may be experimental or investigational if said treatments are more beneficial than any standard treatments or if beneficial treatments are provided pursuant to a clinical trial. The amendments also provided a mechanism for consumers to obtain an independent, impartial opinion regarding coverage determinations, as well as an expedited external review process so that there would be no delay in accessing beneficial services or treatments which are experimental or investigative in nature (Senate Mem in Support, 1998 McKinney\u2019s Session Laws of NY, at 1977).\nThe Governor, in his message on approving the amendments, stated that the bill demonstrates that New York is continuing to lead the nation in protecting the rights and health of its residents (Governor\u2019s Mem approving L 1998, ch 586, 1998 McKinney\u2019s Session Laws of NY, at 1480).\nThe external appeal is conducted by an external appeal agent, such as respondent IPRO, which makes the ultimate decision as to whether the patient\u2019s health costs will be covered by the health plan or the health plan\u2019s denial of coverage will be upheld (Insurance Law \u00a7 4914). The Superintendent of Insurance is given the power to grant or revoke certificates to conduct external appeals (Insurance Law \u00a7 4911), as well as to review the activities of the external appeal agents, investigate complaints by insureds concerning requests for and processing external appeals and to conduct random audits to determine the external appeal agents\u2019 compliance with title II (Insurance Law \u00a7 4916). The procedure for external appeals of adverse determinations is set forth in section 4914 of the Insurance Law.\nConsidering the statutory scheme, I find that external appeal agents function in an administrative capacity on behalf of the state. Furthermore, IPRO is a not-for-profit corporation, which comes within the definition of a \u201cbody\u201d against whom an article 78 proceeding will lie (Schiffer v Tarrytown Boat Club, 219 AD2d 704 [1995], appeal dismissed 87 NY2d 916 [1996], rearg denied 87 NY2d 1056 [1996], cert denied 519 US 864 [1996], reh denied 519 US 1023 [1996]; Matter of Sines v Opportunities For Broome, 156 AD2d 878 [1989]).\nUnder the circumstances, an article 78 proceeding is the proper vehicle for reviewing the determination of IPRO to uphold the health plan\u2019s denial of coverage. Insofar as IPRO alleges that petitioner will be unable to meet the \u201carbitrary and capricious\u201d standard, this determination should be made after service of the answer.",
+        "type": "majority",
+        "author": "Michael V. Ajello, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Epstein Becker & Green, EC. {Aime Dempsey of counsel), for IPRO, respondent. Eliot Spitzer, Attorney General {John Knudsen of counsel), and Audrey Samers {Jon G. Rothblatt of counsel), for Gregory Serio, respondent. David Trueman for petitioner."
+    ],
+    "corrections": "",
+    "head_matter": "[764 NYS2d 568]\nIn the Matter of Loula Vellios, Petitioner, v Gregory Serio, as Superintendent of Insurance of the State of New York, et al., Respondents.\nSupreme Court, New York County,\nAugust 8, 2003\nAPPEARANCES OF COUNSEL\nEpstein Becker & Green, EC. {Aime Dempsey of counsel), for IPRO, respondent. Eliot Spitzer, Attorney General {John Knudsen of counsel), and Audrey Samers {Jon G. Rothblatt of counsel), for Gregory Serio, respondent. David Trueman for petitioner."
+  },
+  "file_name": "0487-01",
+  "first_page_order": 475,
+  "last_page_order": 477
+}

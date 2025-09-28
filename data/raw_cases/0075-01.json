@@ -1,0 +1,112 @@
+{
+  "id": 1237602,
+  "name": "Greene & Kamen, Respondent, v. I.O.M., Inc., Appellant",
+  "name_abbreviation": "Greene & Kamen v. I.O.M., Inc.",
+  "decision_date": "2003-10-02",
+  "docket_number": "",
+  "first_page": "75",
+  "last_page": "78",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Misc. 3d 75"
+    },
+    {
+      "type": "parallel",
+      "cite": "770 N.Y.S.2d 562"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. App. Term",
+    "id": 8833,
+    "name": "New York Supreme Court, Appellate Term"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "42 NY2d 392",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2331623
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/42/0392-01"
+      ]
+    },
+    {
+      "cite": "118 AD2d 998",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3475297
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/118/0998-01"
+      ]
+    },
+    {
+      "cite": "144 AD2d 216",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3568346
+      ],
+      "pin_cites": [
+        {
+          "page": "218"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/144/0216-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 328,
+    "char_count": 5622,
+    "ocr_confidence": 0.724,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.04647104908432886
+    },
+    "sha256": "a408d049a5241822e94b11c6a6bd62048b90b14ea97406622129c287de794f74",
+    "simhash": "1:8ab8b4b120fe9bd3",
+    "word_count": 889
+  },
+  "last_updated": "2024-02-27T19:35:05.009820+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Greene & Kamen, Respondent, v I.O.M., Inc., Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nMemorandum.\nOrder and final judgment affirmed without costs.\nIn settlement of a commercial nonpayment proceeding brought to recover arrears in excess of $33,000, the parties, on January 3, 2001, stipulated that they would execute a renewal agreement as set forth in a proposal which the attorney for the landlord, Greene & Kamen, a copartnership, had sent to the attorney for the tenant, I.O.M., Inc., on December 19, 2000, with specified changes; that landlord would supply the proposed renewal agreement shortly after the date of the stipulation, and that, assuming landlord represented that it was willing to sign the agreement, an agreed settlement amount of $25,000 would be mailed by tenant to landlord within two business days thereafter. On January 4, 2001, landlord\u2019s attorney sent tenant\u2019s attorney the proposed renewal agreement together with the required representation of landlord\u2019s willingness to sign it, but tenant\u2019s principals refused to sign the agreement, claiming that they now realized that the proposed renewal agreement, like the document sent to tenant\u2019s attorney on December 19, 2000, contained a waiver-of-counterclaims clause not found in the original lease. Instead of signing the renewal agreement as it was, tenant\u2019s principals crossed out the waiver-of-counterclaims clause, signed the lease, and sent it back on January 11, 2001 but did not pay the $25,000. For its part, landlord refused to sign the renewal agreement without the clause in question. In the subject plenary action, landlord seeks to recover the principal sum of $25,000 based on tenant\u2019s breach of the stipulation. Tenant seeks to avoid the stipulation on the ground that its officers did not realize, when they agreed to enter into the stipulation, that the waiver-of-counterclaims clause was not found in the original lease. Tenant also argues, inter alia, that, under the original lease, it is entitled to a renewal lease on the same terms and conditions as the original lease.\nIn our view, the Civil Court, in the plenary action, properly found that tenant had waived its right to a renewal lease under the renewal provision of the original lease and properly awarded summary judgment to landlord, whose performance under the stipulation was complete, on its cause of action to enforce the stipulation. Under the original lease, tenant was entitled to a renewal lease on the same terms and conditions as the original lease only if it was not in default on its obligations thereunder. It is clear that tenant was in default on its obligations and that the agreed-to $25,000 in arrears remained unpaid. In any event, the Civil Court also properly determined that the terms of the stipulation superseded the renewal provision of the original lease. Since tenant did not seek to set aside the stipulation, it was bound by its terms. Moreover, even if tenant had sought to set it aside, its unilateral mistake of fact would be an insufficient predicate upon which to grant such relief since tenant did not show that enforcement of the stipulation would be unconscionable or that it exercised ordinary care in reviewing the December 19th proposed renewal agreement before entering into the stipulation (McClain Realty v Rivers, 144 AD2d 216, 218 [1988]). Notably, the renewal agreement was less than three pages long and contained only eight paragraphs, one of which expressly modified the lease by adding the waiver-of-counterclaims clause.\nAfter the expiration of the original lease on June 30, 2001, landlord commenced the subject holdover proceeding, the appeal in which has been consolidated with the appeal in the plenary action to enforce the stipulation. Tenant\u2019s defense is that, on January 11, 2001, it timely executed the renewal agreement, which landlord wrongly refused to sign. After trial, the Civil Court found, inter alia, that no renewal lease exists and that tenant was collaterally estopped from challenging the earlier Civil Court determination that it had waived its right to insist that the waiver-of-counterclaims clause be removed from the lease.\nWe agree that no renewal lease came into existence. As noted above, tenant did not have a right, under the renewal provision of the original lease, to a renewal lease because it was in default of its obligations thereunder, and, in any event, the lease renewal provision was superseded by the stipulation. Moreover, the Civil Court correctly determined that tenant was barred, by the finding of waiver in the plenary action, from asserting its right to a renewal lease without a waiver-of-counterclaims provision. In addition, the Civil Court properly held that tenant\u2019s belated offer at trial, held November 1, 2001, to sign the renewal lease containing the waiver-of-counterclaims clause and to pay the $25,000, due under the stipulation in early January 2001, which offer was not accompanied by a tender of the $25,000, was not made within a reasonable time (State of New York v Atlantic Audio-Visual Corp., 118 AD2d 998 [1986]). Finally, tenant did not, under the circumstances presented, establish a sufficient basis for equitable relief from the forfeiture (J.N.A. Realty Corp. v Cross Bay Chelsea, 42 NY2d 392 [1977]) since its default in signing the renewal lease was neither inadvertent nor timely cured.\nPesce, EJ., and Patterson, J., concur; Aronin, J, taking no part.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Stephen I. Feder, Forest Hills, for appellant. Edmund Dollinger, Tarrytown, for respondent."
+    ],
+    "corrections": "",
+    "head_matter": "[770 NYS2d 562]\nGreene & Kamen, Respondent, v I.O.M., Inc., Appellant.\nSupreme Court, Appellate Term, Second Department,\nOctober 2, 2003\nAPPEARANCES OF COUNSEL\nStephen I. Feder, Forest Hills, for appellant. Edmund Dollinger, Tarrytown, for respondent."
+  },
+  "file_name": "0075-01",
+  "first_page_order": 117,
+  "last_page_order": 120
+}

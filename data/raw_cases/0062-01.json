@@ -1,0 +1,392 @@
+{
+  "id": 1237507,
+  "name": "The People of the State of New York, Respondent, v. Roy Silverberg, Appellant",
+  "name_abbreviation": "People v. Silverberg",
+  "decision_date": "2003-11-14",
+  "docket_number": "",
+  "first_page": "62",
+  "last_page": "72",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Misc. 3d 62"
+    },
+    {
+      "type": "parallel",
+      "cite": "771 N.Y.S.2d 274"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. App. Term",
+    "id": 8833,
+    "name": "New York Supreme Court, Appellate Term"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "185 NY 317",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        807229,
+        47791
+      ],
+      "pin_cites": [
+        {
+          "page": "334"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-crim/20/0175-01",
+        "/ny/185/0317-01"
+      ]
+    },
+    {
+      "cite": "187 Misc 2d 302",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        1232998
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/187/0302-01"
+      ]
+    },
+    {
+      "cite": "2002 NY Slip Op 50023",
+      "category": "reporters:state",
+      "reporter": "NY Slip Op",
+      "opinion_index": 0
+    },
+    {
+      "cite": "100 NY2d 569",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        579699,
+        579647
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/100/0569-01",
+        "/ny-2d/100/0569-02"
+      ]
+    },
+    {
+      "cite": "69 NY2d 490",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        75978
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/69/0490-01"
+      ]
+    },
+    {
+      "cite": "185 Misc 2d 301",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        1140456
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/185/0301-01"
+      ]
+    },
+    {
+      "cite": "173 AD2d 560",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1041281,
+        1041267
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/173/0560-01",
+        "/ad2d/173/0560-02"
+      ]
+    },
+    {
+      "cite": "73 NY2d 854",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "143 AD2d 1033",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3565780
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "1034-1035"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/143/1033-01"
+      ]
+    },
+    {
+      "cite": "79 NY2d 69",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4422986
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/79/0069-01"
+      ]
+    },
+    {
+      "cite": "34 NY2d 429",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2311878
+      ],
+      "pin_cites": [
+        {
+          "page": "431"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/34/0429-01"
+      ]
+    },
+    {
+      "cite": "63 NY2d 41",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4394877
+      ],
+      "pin_cites": [
+        {
+          "page": "52"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/ny-2d/63/0041-01"
+      ]
+    },
+    {
+      "cite": "291 NY 55",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2058810
+      ],
+      "pin_cites": [
+        {
+          "page": "62"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/ny/291/0055-01"
+      ]
+    },
+    {
+      "cite": "91 NY2d 244",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        525040
+      ],
+      "pin_cites": [
+        {
+          "page": "248"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/ny-2d/91/0244-01"
+      ]
+    },
+    {
+      "cite": "45 NY2d 493",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2338140
+      ],
+      "pin_cites": [
+        {
+          "page": "499"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/ny-2d/45/0493-01"
+      ]
+    },
+    {
+      "cite": "141 Misc 2d 940",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        876326
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/misc2d/141/0940-01"
+      ]
+    },
+    {
+      "cite": "94 NY2d 557",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        109889
+      ],
+      "pin_cites": [
+        {
+          "page": "562"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/ny-2d/94/0557-01"
+      ]
+    },
+    {
+      "cite": "443 US 307",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6182418
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/443/0307-01"
+      ]
+    },
+    {
+      "cite": "60 NY2d 620",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4393163
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/ny-2d/60/0620-01"
+      ]
+    },
+    {
+      "cite": "187 Misc 2d 302",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        1232998
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/misc2d/187/0302-01"
+      ]
+    },
+    {
+      "cite": "2002 NY Slip Op 50023",
+      "category": "reporters:state",
+      "reporter": "NY Slip Op",
+      "opinion_index": 1
+    },
+    {
+      "cite": "100 NY2d 569",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        579699,
+        579647
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/ny-2d/100/0569-01",
+        "/ny-2d/100/0569-02"
+      ]
+    },
+    {
+      "cite": "69 NY2d 490",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        75978
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "495"
+        },
+        {
+          "page": "495"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/ny-2d/69/0490-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1015,
+    "char_count": 23955,
+    "ocr_confidence": 0.738,
+    "pagerank": {
+      "raw": 1.0365995960385172e-07,
+      "percentile": 0.549557136342698
+    },
+    "sha256": "818dfee5f3e305473d6bd65163712ca88d2d298abf3b653ffb5fe5775d2db0a5",
+    "simhash": "1:a05b5f0c37566ea2",
+    "word_count": 3832
+  },
+  "last_updated": "2024-02-27T19:35:05.009820+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The People of the State of New York, Respondent, v Roy Silverberg, Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nPer Curiam.\nJudgment of conviction rendered September 11, 2000 reversed, on the law, the facts and as a matter of discretion in the interest of justice, and the accusatory instrument is dismissed.\nDefendant was convicted, after a nonjury trial, of witness tampering in the fourth degree (Penal Law \u00a7 215.10) and aggravated harassment in the second degree (Penal Law \u00a7 240.30 [1]), in connection with a single telephone call that he made to the complainant, an attorney and long-time acquaintance. The defendant\u2019s telephone call, made on February 16, 1998 and tape-recorded by the complainant, was prompted by the complainant\u2019s then recent action in reporting to police a series of incidents involving one Polansky, a former girlfriend of both disputants, in which Polansky allegedly made \u201cphony,\u201d \u201cloveydovey\u201d telephone calls to the complainant. The audiotape of the telephone conversation initiated by defendant, which spans just over one minute in duration, reveals that defendant told the complainant that he (defendant) had \u201ctwo letters written to the grievance committee that [the complainant] used the legal system to harass people\u201d and that defendant \u201ccan have [the complainant] arrested\u201d based on \u201ctwo witnesses that said that [the complainant] assaulted [defendant] in Southampton\u201d; that defendant stated several times that he did not \u201cwant to go this way,\u201d and indicated that he was calling as a \u201ccourtesy\u201d to try to \u201cwork something out\u201d; and that defendant once referred to the complainant dropping the inchoate criminal charges against Polansky (\u201c[I]f you could drop the charges, I don\u2019t have to do that\u201d).\nEven viewing the evidence in the light most favorable to the prosecution, the defendant\u2019s initiation of the single telephone call involved here does not constitute fourth degree witness tampering under Penal Law \u00a7 215.10. The statute, insofar as relevant, reads as follows: \u201cA person is guilty of tampering with a witness when, knowing that a person is or is about to be called as a witness in an action or proceeding, (a) he wrongfully induces or attempts to induce such person to absent himself from, or otherwise to avoid or seek to avoid appearing or testifying at, such action or proceeding.\u201d (Emphasis added.) As the highlighted portion of the statutory text clearly reflects, Penal Law \u00a7 215.10 was intended to proscribe the wrongful interference with or intimidation of a person who is about to or has given testimony in a pending action or criminal proceeding (see Donnino, Practice Commentary, McKinney\u2019s Cons Laws of NY, Book 39, Penal Law \u00a7 215.10, at 399; see, by contrast, Penal Law \u00a7 215.40 [which makes it unlawful to tamper with physical evidence when it is used or to be used \u201cin an official proceeding or a prospective official proceeding\u201d], \u00a7 215.15 [which criminalizes the intimidation of a victim or witness when the actor knows that the victim or witness \u201cpossesses information relating to a criminal transaction\u201d]).\nSo far as is shown in the record now before us, the defendant\u2019s February 16, 1998 telephone call to the complainant was made prior to the commencement of the underlying criminal proceeding initiated against Polansky at the behest of the complainant, viz., on the same day that Polansky was served with an appearance ticket and before the filing of a formal accusatory instrument or Polansky\u2019s arraignment thereon (see, CPL 100.10; People v Weinberg, 34 NY2d 429, 431 [1974]; see also, People v Parris, 79 NY2d 69 [1992]). Notable in this regard is the trial assistant\u2019s record statement during cross-examination of the defendant that at the time defendant telephoned the complainant, Polansky merely had been \u201cissued a \u2018summons\u2019 and [had] not [been] put through the system at 100 Centre Street,\u201d and the prosecution\u2019s acknowledgment in its papers opposing defendant\u2019s CPL 330.30 motion below that at the time of the telephone call \u201cdefendant knew a proceeding was about to be instituted against . . . Polansky.\u201d (Emphasis added.) Given this chronology, the People failed to prove beyond a reasonable doubt that the complainant was either a witness in a criminal proceeding or was about to be called as a witness and, thus, failed to establish that the defendant\u2019s conduct constituted tampering with a witness under the statute as written (see, People v Delgado, 143 AD2d 1033 [1988], lv denied 73 NY2d 854 [1988]; People v Hollenquest, 173 AD2d 560 [1991]; People v Hasan, 185 Misc 2d 301 [2000]). That the witness tampering provisions of Penal Law \u00a7 215.10 do not encompass the situation here presented is not only made clear by the plain wording of the statute, but is confirmed as well by the legislative history of the subsequently enacted witness intimidation provisions of Penal Law \u00a7 215.15, quoted in People v Delgado (supra, 143 AD2d at 1034-1035):\n\u201cVictims are frequently the most valuable asset in prosecution efforts but are not offered assistance under witness protection statutes, including New York State\u2019s tampering statute, because they have not been subpoenaed or have not, at the time of intimidation, acquired witness status in the criminal justice process. Immediately after a crime has been committed is very often the most critical time for intimidation efforts to take place and to be effective. Under the proposed bill, the act of threatening someone not to report their victimization is proscribed and would discourage intimidation during this important period of time\u201d (mem of Paul S. Hudson, Counsel to Crime Victims Bd, to Gerald Grotty, Counsel to Governor, re: 1985 Legis Proposal No. 27, at 13, Bill Jacket, L 1985, ch 667, \u00a7 2).\nAlso infirm is defendant\u2019s conviction of aggravated harassment in the second degree, which was not based on legally sufficient evidence and was, in any event, against the weight of the evidence. The audiotape of the single telephone call underlying defendant\u2019s aggravated harassment conviction establishes beyond cavil that defendant\u2019s exchange with the complainant was spoken in measured tone and was neither denigrating nor abusive in content. At no time during the brief, \u201ccourtesy\u201d telephone call \u2014 the avowed purpose of which was to \u201cwork something out\u201d between former \u201cfriends\u201d \u2014 did defendant unequivocally threaten the complainant or resort to invective. Defendant\u2019s words, on their face, did no more than haltingly raise the possibility that defendant might pursue available legal channels to address the complainant\u2019s alleged prior misconduct in the event the complainant chose not to \u201cdrop the charges\u201d against Polansky, a mutually known third person. Further, it is not unfair to say \u2014 and we do not \u201cdistort! ] the record\u201d (dissenting op at 69) in saying \u2014 that the telephone call now complained of was directed not to an unwilling recipient, but to one who seemingly was all too eager to draw out the conversation in what now appears to have been a studied effort to ensnare the defendant into a trap by capturing the call on a tape recorder surreptitiously used.\nIn determining whether defendant violated the telephone harassment statute, our task is not to decide whether defendant acted inappropriately in calling the complainant in the emotionally charged circumstances then prevailing or to pass judgment on whether defendant\u2019s statements were indecorous or indiscreet. Rather, the core- issue before us is whether defendant\u2019s isolated telephone call was shown beyond a reasonable doubt to have been actuated by the requisite criminal intent \u2014 viz., to \u201charass, annoy, threaten or alarm\u201d \u2014 or to have been initiated in a \u201cmanner likely to cause annoyance or alarm\u201d (Penal Law \u00a7 240.30 [1]). Based upon a careful review of the record, including irrefutable physical evidence in the form of the tape recording itself, faithful adherence to the review standards governing this appeal (see, People v Bleakley, 69 NY2d 490 [1987]), and proper application of relevant precedent (see, People v Mangano, 100 NY2d 569 [2003]; People v Taylor, 2002 NY Slip Op 50023[U] [App Term, 1st Dept, Jan. 22, 2002]; People v Livio, 187 Misc 2d 302 [2000]), we answer that question in the negative and hold that defendant\u2019s single telephone call did not rise to the level of aggravated harassment within the meaning of Penal Law \u00a7 240.30 (1).\nTried upon an information containing several counts of second degree aggravated harassment based upon allegations, inter alia, that he twice telephoned the complainant on February 16, 1998, defendant ultimately was convicted of the count relating to his initial, tape recorded telephone call and acquitted on the count relating to a subsequent, unrecorded telephone call purportedly made minutes later. In this posture, and \u201cbecause a trial followed by acquittal is but an accusation successfully met\u201d (People v Cascone, 185 NY 317, 334 [1906]), we find neither record nor legal support for the dissenter\u2019s stated view that defendant\u2019s harassing intent was established by \u201ctwo telephone conversations accompanied by threats\u201d (dissenting op at 69).",
+        "type": "majority",
+        "author": "Per Curiam."
+      },
+      {
+        "text": "Suarez, J.\n(dissenting). I respectfully dissent, in part. While I agree with the majority that the conviction for tampering with a witness in the fourth degree (Penal Law \u00a7 215.10) cannot stand, as there was no action or proceeding pending at the time of defendant\u2019s telephone calls, defendant\u2019s recorded telephone conversation, his testimony, and the testimony of the complainant provide proof beyond a reasonable doubt of his intent to harass, annoy, threaten or alarm the complaining witness pursuant to Penal Law \u00a7 240.30 (1).\nPenal Law \u00a7 240.30 (1) provides in relevant part: \u201cA person is guilty of aggravated harassment . . . when, with intent to harass, annoy, threaten or alarm another person, he . . . communicates with a person ... by telephone ... in a manner likely to cause annoyance or alarm . . . .\u201d\nDefendant Roy Silverberg, a law student, knew that complainant Keith LePack, an attorney, would most likely be the principal witness in the criminal proceeding stemming from the arrest of Tracy Polansky, defendant\u2019s former girlfriend, for having made harassing telephone calls to the complainant. Defendant threatened complainant with criminal arrest on assault charges and disciplinary proceedings with the grievance committee in exchange for complainant dropping the charges against Polansky.\nThe conversation between defendant and complainant, tape recorded by complainant, was admitted into evidence. The parties provided, in their briefs, substantially the same transcription of the conversation. (Defendant\u2019s brief at 4-5; People\u2019s brief at 4-5.)\n\u201clepack: Hold on.\n\u201csilverberg: Okay.\n\u201clepack: Hold on. Now, Roy, I am not supposed to talk to you.\n\u201csilverberg: Listen to me, I\u2019m giving you a chance, Keith.\n\u201clepack: What kind of chance?\n\u201csilverberg: Because, listen Keith, I don\u2019t want to go this way with you.\n\u201clepack: Go which way?\n\u201csilverberg: I have two witnesses that said that you assaulted me in Southampton. I have other people that you \u2014 said you assaulted me.\n\u201clepack: Okay.\n\u201csilverberg: Okay. I can have you arrested. I don\u2019t want to do that. I don\u2019t want to go that way. I have two letters written to the grievance committee that you used the legal system to harass people.\n\u201clepack: Okay.\n\u201csilverberg: I don\u2019t want to do this I. . . Listen, if you want to go that way, it\u2019s fine. We were friends once. Okay, I don\u2019t know what, ya know, provoked you to do, uh, to hit me like that. But listen, I don\u2019t want to go this way. I figure if you could drop the charges, I don\u2019t have to do that. Now they told me all I have to do is go to the police station. They\u2019re open 24 hours, I have the dates, I have the witnesses, and I could do that. Or maybe we could work something out. That\u2019s why I\u2019m calling you. It\u2019s a courtesy call.\n\u201clepack: Goodbye.\n\u201csilverberg: Okay. Don\u2019t do it.\u201d (Transcript at 59-GO.)\nDefendant admitted his purpose in calling LePack was to prevent him from testifying against Polansky. On cross-examination, defendant was asked:\n\u201cQ You called him [LePack] so that he would never testify against Tracy, [Polansky], so that the case would go away and be dismissed?\n\u201cA That would be the objective of the conversation to help Tracy out.\u201d (Transcript 216-217.)\nThe recorded telephone conversation, complainant\u2019s testimony, and defendant\u2019s testimony on cross-examination provide overwhelming proof that defendant\u2019s threats of criminal assault charges and attorney disciplinary grievance committee action, intended to harass, annoy, threaten or alarm LePack in a manner likely to cause him annoyance or alarm. Defendant\u2019s threats and ultimatum (\u201cthe police station. They\u2019re open 24 hours . . .\u201d) to drop the charges against Polansky or face criminal charges and attorney disciplinary proceedings is damning. When viewed in the light most favorable to the prosecution, there exists legally sufficient evidence to support the conviction of aggravated harassment in the second degree. (People v Contes, 60 NY2d 620 [1983]; Jackson v Virginia, 443 US 307 [1979].)\nThe majority\u2019s characterization of the recorded telephone conversation as a \u201csingle,\u201d an \u201cisolated,\u201d \u201cbrief,\u201d \u201ccourtesy\u201d telephone call \u201cspoken in measured tone and neither vulgar nor abusive in content,\u201d distorts the record and attempts to color the facts in a light most favorable to the defendant. His intention to threaten LePack in a manner likely to cause annoyance or alarm, motivated by his intention to induce LePack to avoid testifying against Polansky, is supported by a record which establishes two telephone conversations accompanied by threats, substantial evidence of animosity between long-time friends turned adversaries, and his admission that his purpose in calling LePack was to prevent him from testifying against Polansky. Defendant\u2019s acquittal of the count of second degree aggravated harassment with respect to the second call testified to by Le-Pack does not mean that the call did not occur, nor does it require that the trier of facts not consider the second call in evaluating defendant\u2019s guilt with respect to the first call, as the majority seems to suggest. (See, People v Rayam, 94 NY2d 557, 562 [2000].) Likewise, this court is not prevented from considering the evidence that the second call took place and the content thereof, despite our knowledge that defendant was acquitted on the count related to that call.\nThe majority\u2019s reliance on People v Mangano (100 NY2d 569 [2003]), People v Taylor (2002 NY Slip Op 50023 [App Term, 1st Dept 2002]) and People v Livio (187 Misc 2d 302 [Nassau Dist Ct 2000]) as \u201crelevant precedent\u201d is misplaced. Defendant\u2019s conduct in this case is clearly distinguishable from that of the defendant in each of those cases. Defendant in People v Mangano (at 570) made five telephone calls to an answering machine in which she \u201crained invective on two village employees, wished them and their families ill health, and complained of their job performance, as well as tickets she had received.\u201d The Court of Appeals wrote \u201cdefendant\u2019s messages were crude and offensive but made in the context of complaining about government actions, on a telephone answering machine set up for the purpose (among others) of receiving complaints from the public. We cannot agree with the People\u2019s argument that the appellant\u2019s messages fall within any of the proscribable classes of speech or conduct.\u201d (Id. at 571.) Here, the defendant spoke with the complainant (not an answering machine) who almost immediately advised the defendant that he was not supposed to talk to the defendant (presumably based upon an existing order of protection). The defendant in People v Taylor made one telephone call to the complainant who immediately hung up upon recognizing defendant\u2019s voice and a second telephone call in which he stated, \u201cShe is my daughter also,\u201d a reference to the child of defendant and complainant. This court wrote \u201cThe two isolated phone calls complained of, neither of which was vulgar, derisive or threatening in content, were insufficient to establish beyond a reasonable doubt an intent on defendant\u2019s part to \u2018harass, annoy, threaten or alarm\u2019 the complainant.\u201d (Id.; emphasis supplied.) The defendant\u2019s conversations with LePack in this case clearly were \u201cthreatening in content.\u201d The defendant in People v Livio was a telemarketer who called two persons to sell them services; made vulgar derisive remarks when the persons refused to buy; and then immediately hung up. The trial court incorrectly held that to convict someone under Penal Law \u00a7 240.30 (1) \u201cdefendant must initiate a communication with the requisite intent to harass, while lacking a legitimate purpose for the communication. (People v Amalfi, 141 Misc 2d 940 [Rochester City Ct 1988].)\u201d (Id. at 305; emphasis supplied.) The Legislature did not impose the requirement of lacking a legitimate purpose for the communication, nor does People v Amalfi stand for that proposition. No valid reason is presented by the majority herein to add such a requirement to the statute. I find defendant\u2019s statements were \u201cthreatening in content\u201d and established beyond a reasonable doubt his intent to harass, annoy, threaten or alarm LePack.\nI disagree with the majority\u2019s finding that the conviction of aggravated harassment in the second degree \u201cwas not based on legally sufficient evidence.\u201d (Majority op at 65.) Judge Bellacosa explained the duty of an intermediate appellate court in reviewing the legal sufficiency of the evidence, writing \u201cFor a court to conclude . . . that a jury verdict is supported by sufficient evidence, the court must determine whether there is any valid line of reasoning and permissible inferences which could lead a rational person to the conclusion reached by the jury on the basis of the evidence at trial (Cohen v Hallmark Cards, 45 NY2d 493, 499 [1978]) and as a matter of law satisfy the proof and burden requirements for every element of the crime charged. If that is satisfied, then the verdict will be upheld by the intermediate appellate court on that review basis.\u201d (People v Bleakley, 69 NY2d 490, 495 [1987]; see also, People v Ficarrota, 91 NY2d 244, 248 [1997].) Although I agree with the majority that the recorded telephone call \u201cwas spoken in measured tone,\u201d I disagree with the majority\u2019s adoption of the defendant\u2019s label of the call as a \u201ccourtesy.\u201d I also disagree with the majority\u2019s finding that the defendant did not \u201cunequivocally threaten the complainant.\u201d The trier of fact could certainly have reasonably concluded that the defendant\u2019s threats to have LePack arrested and to have letters which could be defamatory sent to the grievance committee, established beyond a reasonable doubt that the defendant intended to threaten or alarm LePack and communicated with him by telephone in a manner likely to cause annoyance or alarm. The trier of fact could reasonably have accepted LePack\u2019s testimony that the telephone calls caused him to be \u201cpetrified\u201d and that he felt very threatened by the defendant\u2019s comments with respect to the grievance committee. (Transcript at 61-62.)\nThe majority states \u201cthat the telephone call now complained of was directed not to an unwilling recipient, but to one who seemingly was all too eager to draw out the conversation in what now appears to have been a studied effort to ensnare the defendant into a trap by capturing the call on a tape recorder surreptitiously used.\u201d (Majority op at 66.) This statement by an appellate court, which has not had the benefit of assessing the credibility of the witnesses as did the trier of fact below, bears no support in the record. When Silverberg made the telephone call which was recorded, LePack almost immediately told the defendant \u201cNow, Roy, I am not supposed to talk to you.\u201d It is just as plausible that the defendant may have realized the call was being recorded and inserted the words \u201ccourtesy call\u201d and spoke in a \u201cmeasured tone.\u201d The trial court had sufficient lines of reasoning and permissible inferences to satisfy the proof and burden requirements for the elements of aggravated harassment in the second degree.\nI also disagree with the majority\u2019s finding that the verdict was against the weight of the evidence. Judge Bellacosa also wrote in Bleakley (supra),\n\u201cEven if all the elements and necessary findings are supported by some credible evidence, the court must examine the evidence further. If based on all the credible evidence a different finding would not have been unreasonable, then the appellate court must, like the trier of fact below, \u2018weigh the relative probative force of conflicting testimony and the relative strength of conflicting inferences that may be drawn from the testimony\u2019 (People ex rel. MacCracken v Miller, 291 NY 55, 62 [1943]; compare, People v Smith, 63 NY2d 41, 52 [1984]; see also, Cohen and Karger, Powers of the New York Court of Appeals \u00a7 112, at 484 [rev ed]). If it appears that the trier of fact has failed to give the evidence the weight it should be accorded, then the appellate court may set aside the verdict (CPL 470.20 [2]).\n\u201cEmpowered with this unique factual review, intermediate appellate courts have been careful not to substitute themselves for the jury. Great deference is accorded to the fact-finder\u2019s opportunity to view the witnesses, hear the testimony and observe demeanor.\u201d (People v Bleakley, supra, 69 NY2d at 495.)\nThe majority states that \u201cDefendant\u2019s words, on their face, did no more than haltingly raise the possibility that defendant might pursue available legal channels to address the complainant\u2019s alleged prior misconduct in the event the complainant chose not to \u2018drop the charges\u2019 against Polansky.\u201d (Majority op at 65-66.) The factfinder\u2019s conclusion that the defendant\u2019s words constituted a threat to have LePack arrested and/or brought before the grievance committee was not unreasonable given the credible evidence. It is not necessary for the prosecution to establish, by a trial within the trial, whether or not the defendant was threatening to legitimately \u201cpursue available legal channels to address the complainant\u2019s alleged prior misconduct\u201d in order to prove the defendant\u2019s guilt of the offense. I believe that the majority has failed to accord proper deference to the factfinder below, and, despite its assertion that it has faithfully adhered to the review standards governing this appeal, I believe that the majority has not properly applied the relevant standard of review with respect to the legal sufficiency of the evidence and the weight to be given to that evidence. I cannot agree that, in the context of the relationship of the defendant and LePack, an inference other than that the words uttered by the defendant in the recorded telephone call were intended to harass, threaten, annoy or alarm LePack in a manner likely to cause annoyance or alarm is the inference that the trier of fact below should have drawn.\nDefendant\u2019s conviction of aggravated harassment in the second degree (Penal Law \u00a7 240.30 [1]) should be affirmed.\nDavis and Gangel-Jacob, JJ., concur; Suarez, PJ., dissents in part in a separate opinion.\n. There was evidence of a second telephone call, unrecorded, approximately five minutes after the recorded one, where defendant is traveling on the highway toward complainant, wherein it appears the conversation is a continuation of the first one. (Transcript at 62-64.)\n. Nothing in the statute requires that the prosecution prove beyond a reasonable doubt that a defendant\u2019s threats are \u201cunequivocal\u201d or that a defendant must resort to \u201cinvective\u201d before guilt is established.",
+        "type": "dissent",
+        "author": "Suarez, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Marc Fernich, New York City (Kim P. Bonstrom of counsel), for appellant. Robert M. Morgenthau, District Attorney, New York City (Alan Gadlin and David J. Mudd of counsel), for plaintiff."
+    ],
+    "corrections": "",
+    "head_matter": "[771 NYS2d 274]\nThe People of the State of New York, Respondent, v Roy Silverberg, Appellant.\nSupreme Court, Appellate Term, First Department,\nNovember 14, 2003\nAPPEARANCES OF COUNSEL\nMarc Fernich, New York City (Kim P. Bonstrom of counsel), for appellant. Robert M. Morgenthau, District Attorney, New York City (Alan Gadlin and David J. Mudd of counsel), for plaintiff."
+  },
+  "file_name": "0062-01",
+  "first_page_order": 104,
+  "last_page_order": 114
+}

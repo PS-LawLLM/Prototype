@@ -1,0 +1,156 @@
+{
+  "id": 1237606,
+  "name": "NYCTL 1996-1 Commercial Reo, LLP, Plaintiff, v. El Pequeno Restaurant Food Corp., Doing Business as El Pequeno Restaurant, et al., Defendants",
+  "name_abbreviation": "NYCTL 1996-1 Commercial Reo, LLP v. El Pequeno Restaurant Food Corp.",
+  "decision_date": "2003-08-13",
+  "docket_number": "",
+  "first_page": "574",
+  "last_page": "578",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Misc. 3d 574"
+    },
+    {
+      "type": "parallel",
+      "cite": "765 N.Y.S.2d 465"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 8791,
+    "name": "New York Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "193 Misc 2d 380",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        1048078
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/193/0380-01"
+      ]
+    },
+    {
+      "cite": "274 AD2d 373",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        501569,
+        501075
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/274/0373-01",
+        "/ad2d/274/0373-02"
+      ]
+    },
+    {
+      "cite": "263 AD2d 22",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        134727
+      ],
+      "pin_cites": [
+        {
+          "page": "28"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/263/0022-01"
+      ]
+    },
+    {
+      "cite": "22 AD2d 706",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        5529624,
+        5532719,
+        5541359
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/22/0706-02",
+        "/ad2d/22/0706-03",
+        "/ad2d/22/0706-01"
+      ]
+    },
+    {
+      "cite": "292 AD2d 453",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        195152,
+        195629
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/292/0453-01",
+        "/ad2d/292/0453-02"
+      ]
+    },
+    {
+      "cite": "1 NY2d 465",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2241676
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/1/0465-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 473,
+    "char_count": 8861,
+    "ocr_confidence": 0.789,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.04647124214577761
+    },
+    "sha256": "1d186e59b0402126edfc80ddc60e9dad7c7250610f5fcb33cfbfd7c970f3404f",
+    "simhash": "1:10ea16b8abe2e89c",
+    "word_count": 1429
+  },
+  "last_updated": "2024-02-27T19:35:05.009820+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "NYCTL 1996-1 Commercial Reo, LLP, Plaintiff, v El Pequeno Restaurant Food Corp., Doing Business as El Pequeno Restaurant, et al., Defendants."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nHoward A. Ruditzky, J.\nMotion by plaintiff NYCTL 1996-1 Commercial Reo, LLP for an order, pursuant to CPLR 3212, granting summary judgment in its favor and against defendants herein, the motion by plaintiff for an order, pursuant to RPAPL 1352 and Real Property Law \u00a7 220, awarding reasonable use and occupancy payments to plaintiff and directing defendants El Peque\u00f1o Restaurant Food Corp., doing business as El Peque\u00f1o Restaurant, and Mona Bella Corp. (collectively, defendants) to pay such arrearages, and the cross motion by said defendants for an order dismissing the complaint for failure to state a cause of action are consolidated for disposition herein and, upon consolidation, the motions by plaintiff are granted and the cross motion by defendants is denied.\nThis is an action for strict foreclosure of the interests of the occupants of the real property known as 8603-8605 18th Avenue in Brooklyn (the premises). Plaintiff acquired the premises by virtue of a referee\u2019s deed, pursuant to a judgment of foreclosure and sale in a tax lien foreclosure action. Plaintiff now moves to strike the answer of El Peque\u00f1o Restaurant Food Corp. and Mona Bella Corp. and for summary judgment on its claim for strict foreclosure. Plaintiff also moves for an order directing said defendants to pay use and occupancy to plaintiff for the period during which plaintiff has held title to the premises.\nIn seeking summary judgment, plaintiff asserts that its complaint recites all the necessary elements required to commenee a strict foreclosure action and that defendants\u2019 defenses are without merit. Specifically, plaintiff alleges, among other things, that service of process was properly effected, that the action is timely and that plaintiffs interests in the premises are superior and paramount to those of defendants. Plaintiff points out that, even if judgment were granted in its favor, defendants would have the opportunity to exercise their right of redemption. Although plaintiff concedes that there was an error in failing to name defendants in the original tax lien foreclosure action, the error was neither deliberate nor prejudicial since \u201c[t]he remedy for holders of an interest not named in a foreclosure action pursuant to Article 13 of the RPAPL is that they are to be given the right to redeem,\u201d the very reason for the commencement of this action. Plaintiff notes that, even if defendants could prove that they possess a valid lease to the subject premises subsequent to the foreclosure sale on April 21, 1999, they have not made any rent payments to plaintiff. Therefore, by separate motion, plaintiff requests an award against defendants reflecting the reasonable use and occupancy for the premises. In this case, plaintiff suggests that the amount be calculated based upon the sums that defendants were supposed to pay pursuant to their alleged lease with Ro-Rob Realty Corp., the prior owner of the premises.\nIn their cross motion (and in opposition to the motions), defendants fault plaintiff for failing to explain why it did not name them in the tax lien foreclosure action, given that defendants\u2019 occupancy of the premises was \u201copen and notorious,\u201d and why it took three years after plaintiff discovered the existence of the tenancy to commence the instant action. According to defendants, plaintiffs error constitutes a \u201cwillful neglect\u201d and plaintiff should therefore be precluded from commencing a reforeclosure action against them pursuant to RPAPL 1503. Defendants also argue that their interests in the premises are paramount to those of plaintiff since they were not served in the underlying foreclosure action and plaintiff took title to the premises \u201csubject to the rights of tenants and occupants.\u201d Moreover, defendants maintain that the instant action is untimely since it was commenced in September 2002, \u201cmore than six (6) years after the original default was declared.\u201d Defendants also assert that \u201cplaintiffs request for amounts in excess of the lease must be denied.\u201d\nIn opposition to the cross motion, plaintiff contends that it has an absolute right to bring an action in strict foreclosure to extinguish the subordinate interest of a party not named in the original foreclosure action and that the issue of whether plaintiff had knowledge of that interest is irrelevant. Plaintiff notes that defendants\u2019 reference to \u201cwillful neglect\u201d is erroneous since this is an action for strict foreclosure pursuant to RPAPL article 13 and not a reforeclosure action pursuant to RPAPL article 15. Plaintiff dismisses defendants\u2019 objection to the amount sought for use and occupancy since the amount is based upon the purported lease which defendants claim is in effect. While plaintiff concedes that defendants\u2019 rights pursuant to the lease may not have been terminated by the judgment of foreclosure and sale, it adds that the lease can be terminated by strict foreclosure (i.e., the instant action). Finally, plaintiff contends that there is no statute of limitations on the commencement of an action to foreclose a tax lien but, even if one could argue that \u00e1 six-year statute of limitations was applicable, this action was instituted less than six years after the commencement of the tax lien foreclosure action.\nThere is no provision in the law specifically limiting the time for the institution of an action to foreclose a tax lien. The New York City Charter expressly recites that all taxes shall \u201cbecome liens on the real estate affected thereby . . . and shall remain such liens until paid\u201d (\u00a7 1519 [2]). Therefore, contrary to defendants\u2019 contentions, plaintiffs right to foreclose on its tax lien is not subject to a six-year statute of limitations. The life and validity of a tax lien are not affected by the lapse of time (see L.K. Land Corp. v Gordon, 1 NY2d 465 [1956]). Plaintiff stands in the same position as the City with respect to its rights and remedies as a holder of a tax lien (Administrative Code of City of NY \u00a7 11-332 [a]; Maspeth 5718 Assoc. v City of New York, 292 AD2d 453 [2002]). If its remedy of foreclosure were subject to the statute of limitations, so too would be the City\u2019s as to liens that it holds. Under the circumstances, therefore, plaintiffs claims are not time-barred (see Russell v City of New York, 22 AD2d 706 [1964]).\nA tenant in possession pursuant to a lease (which is subordinate to a mortgage or lien) who was not made a party to the foreclosure action cannot be dispossessed by the purchaser at the foreclosure sale (see 3 Bergman, New York Mortgage Foreclosures \u00a7 33.04 [2]). In such cases, the purchaser of the foreclosed property has two potential remedies \u2014 the commencement of a strict foreclosure action pursuant to RPAPL 1352 or a reforeclosure action pursuant to RPAPL 1503. Here, the plaintiff purchaser opted to commence a strict foreclosure action. Therefore, defendants\u2019 arguments regarding \u201cwillful neglect\u201d are inapplicable (see RPAPL 1503).\nSince a tenant has an equitable right to redeem his or her landlord\u2019s mortgage, which is not extinguished when the mortgagee omits the tenant as a party in the foreclosure action, a tenant comes within the class of persons against whom a strict foreclosure action can be brought (see 6820 Ridge Realty v Goldman, 263 AD2d 22, 28 [1999]). Accordingly, since plaintiff is entitled to maintain a strict foreclosure action against defendants and the defenses interposed are without merit, the mo- . tion by plaintiff for summary judgment is granted.\nMoreover, since defendants are required to pay for their use and occupancy of real property owned by plaintiff (see Real Property Law \u00a7 220; Dyker Bldrs. Corp. v Markogiannis, 274 AD2d 373 [2000]), plaintiff\u2019s companion motion is likewise granted. Under the circumstances, it is appropriate to base the free market rental value of the premises on the terms of the lease which defendants claim is in effect (see Davis v Cole, 193 Misc 2d 380 [2002]).\nIn light of the foregoing, the cross motion by defendant is denied.\nPlaintiff and defendants previously moved for the relief requested herein. By decision and order dated March 21, 2003, the motions and cross motion were denied with leave to renew upon submission of affidavits of service reflecting service upon the individual defendants herein. The renewed motions and cross motion have complied with that requirement, although defendants have chosen to designate the instant cross motion as one to restore their original cross motion.",
+        "type": "majority",
+        "author": "Howard A. Ruditzky, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Certilman Balin Adler & Hyman, LLP, East Meadow (Neal S. Friedman of counsel), for plaintiff. Daniel R. Miller, Brooklyn, for defendants."
+    ],
+    "corrections": "",
+    "head_matter": "[765 NYS2d 465]\nNYCTL 1996-1 Commercial Reo, LLP, Plaintiff, v El Pequeno Restaurant Food Corp., Doing Business as El Pequeno Restaurant, et al., Defendants.\nSupreme Court, Kings County,\nAugust 13, 2003\nAPPEARANCES OF COUNSEL\nCertilman Balin Adler & Hyman, LLP, East Meadow (Neal S. Friedman of counsel), for plaintiff. Daniel R. Miller, Brooklyn, for defendants."
+  },
+  "file_name": "0574-01",
+  "first_page_order": 562,
+  "last_page_order": 566
+}

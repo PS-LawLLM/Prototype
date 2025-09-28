@@ -1,0 +1,116 @@
+{
+  "id": 1237498,
+  "name": "Gary A. Lewis, Plaintiff, v. Peter T. Clement et al., Defendants",
+  "name_abbreviation": "Lewis v. Clement",
+  "decision_date": "2003-07-02",
+  "docket_number": "",
+  "first_page": "464",
+  "last_page": "467",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Misc. 3d 464"
+    },
+    {
+      "type": "parallel",
+      "cite": "769 N.Y.S.2d 817"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 8791,
+    "name": "New York Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "42 USC \u00a7 1301",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "et seq."
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "57 Misc 2d 391",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        1196496
+      ],
+      "pin_cites": [
+        {
+          "page": "392-393"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/57/0391-01"
+      ]
+    },
+    {
+      "cite": "94 AD2d 176",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3335274
+      ],
+      "pin_cites": [
+        {
+          "page": "178"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/94/0176-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 344,
+    "char_count": 6518,
+    "ocr_confidence": 0.723,
+    "pagerank": {
+      "raw": 7.317852702137001e-08,
+      "percentile": 0.43580089032217706
+    },
+    "sha256": "d7802c691e81d15cb6fd35b4ed1908f3a55502745d24d3e4419015aa0af754d6",
+    "simhash": "1:9ebaaca46ed515aa",
+    "word_count": 1033
+  },
+  "last_updated": "2024-02-27T19:35:05.009820+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Gary A. Lewis, Plaintiff, v Peter T. Clement et al., Defendants."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nThomas A. Standee, J.\nThis matter has come before this court for determination as to whether plaintiff, Gary A. Lewis, is entitled to the patient records of patients of defendants, Peter T. Clement, Thomas G. Gibbs, and Robert E. Parker, III. Plaintiff has already been given the records relating to patients he treated while he was a partner in Westfall Dental Group, LLP. Drs. Clement, Gibbs, and Parker, III allege that Dr. Lewis is only entitled to the records of those patients and that he is not entitled to their respective patient records.\nFacts\nDr. Lewis, Dr. Clement, Dr. Gibbs, and Dr. Parker, III worked together in a partnership known as Westfall Dental Group, LLP On January 15, 2003, Dr. Lewis left the partnership to join a different dental group. Thereafter, Drs. Clement, Gibbs, and Parker, III formed a new partnership called Westfall Dental, LLP\nSeveral disputes arose between the parties following Dr. Lewis\u2019 departure from and the dissolution of the partnership. The dispute currently before this court relates to whether Dr. Lewis is entitled to patient records from the patients of Drs. Clement, Gibbs, and Parker, III. Dr. Lewis seeks copies of all patient records reflecting the partnership\u2019s treatment of patients during the partnership\u2019s existence.\nDecision\nDo Patient Records Belong to the Individual Treating Physician or to the Partnership?\nIt has been held that a corporate entity that provides medical and dental services has no patients \u201cof its own\u201d and, therefore, no interest in patient records. (United, Calendar Mfg. Corp. v Huang, 94 AD2d 176, 178 [2d Dept 1983].) Rather, \u201crecords taken by a doctor in the examination and treatment of a patient become property belonging to the doctor.\u201d (Matter of Culbertson, 57 Misc 2d 391, 392-393 [Sur Ct, Erie County 1968].) Records maintained on a patient are generally comprised of the physician\u2019s \u201cown notes compiled during the course of diagnosis and treatment.\u201d (Id. at 394.)\nIn light of the above-stated principles, this court determines that patient records are the property of the treating physician or physicians. Therefore, upon dissolution of a partnership, a former partner is only entitled to records of patients with whom a patient-physician relationship was created during the existence of the partnership. A former partner is not entitled to copies of all of the patient records maintained by the partnership, including the patient records of the other partnership members.\nHere, Drs. Clement, Gibbs, Parker, III, and Lewis only created patient-physician relationships with those patients that they treated, and as such, are only entitled to those respective patient records. Each of these dentists is entitled to take only the patient records for patients they have treated upon their departure from the partnership. The patient records belong to the treating physician or physicians, not the partnership.\nDoes the Health Insurance Portability and Accountability Act of 1996 Allow the Transfer of the Records?\nIn their submissions to this court, the parties also argue the applicability of the Health Insurance Portability and Accountability Act of 1996 (HIPAA) (42 USC \u00a7 1301 et seq.) and regulation 45 CFR part 160. Drs. Clement, Gibbs, and Parker, III proffer that HIPAA prohibits the sharing of files with Dr. Lewis.\nHIPAA provides that a party deemed to be a \u201ccovered entity\u201d may not use or disclose protected health information except for in treatment, or for payment or health care operations of the individual patient, or to the individual patient, without receiving a proper authorization. A \u201ccovered entity\u201d is defined as (1) a health plan, (2) a health care clearinghouse, or (3) a health care provider who transmits any health information in electronic form, as prescribed by the regulation. The parties herein do not dispute that Westfall Dental Group transmitted health information in electronic form and is thus a \u201ccovered entity.\u201d\nWhere the release of patient information and records is for a \u201chealthcare operation,\u201d as defined by the statute, the HIPAA regulations allow the \u201ccovered entity\u201d to decide whether or not to release such information. Specifically, 45 CFR 164.506 (c) (4) provides:\n\u201cA covered entity may disclose protected health information to another covered entity for health care operations activities of the entity that receives the information, if each entity either has or had a relationship with the individual who is the subject of the protected health information requested, the protected health information pertains to such relationship, and the disclosure is:\n\u201c(i) for a purpose listed in paragraph (1) or (2) of the definition of health care operations, or \u201c(ii) for the purpose of health care fraud and abuse detection and compliance.\u201d (Emphasis added.)\nThough the language in the HIPAA regulation is permissive in nature, that language cannot supercede another legitimate legal obligation to provide records to a physician who has treated the patient and developed a \u201crelationship with the individual.\u201d\nHIPAA cannot be used as a sword or shield in disputes between partners as it relates to the sharing of patient records. If the physician (the covered entity) has a relationship with a patient, the remaining partners may not refuse to provide files by virtue of HIPAA. On the other hand, nothing in HIPAA requires partners to share records with former partners where there is no patient relationship. In other words, a physician-patient relationship is required to trigger the right to patient records and the obligation to provide the patient records.\nThe patient records in question in this case are patients of Drs. Clement, Gibbs, and Parker, III. Dr. Lewis did not, and does not, claim to have a \u201crelationship\u201d with those patients.\nBased on the foregoing Dr. Lewis is only entitled to patient records for patients he treated while a partner of the now dissolved Westfall Dental Group.\n. A patient-physician relationship is only created with those patients that a physician actually treats.\n. To the extent these records contain financial or other \u201cbusiness data,\u201d all partners of the partnership are entitled to redacted copies of that information.",
+        "type": "majority",
+        "author": "Thomas A. Standee, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Harris Beach LLP, Pittsford (.Douglas A. Foss of counsel), for plaintiff. Woods Oviatt Gilman, LLP, Rochester (Anthony Cotroneo of counsel), for defendant."
+    ],
+    "corrections": "",
+    "head_matter": "[769 NYS2d 817]\nGary A. Lewis, Plaintiff, v Peter T. Clement et al., Defendants.\nSupreme Court, Monroe County,\nJuly 2, 2003\nAPPEARANCES OF COUNSEL\nHarris Beach LLP, Pittsford (.Douglas A. Foss of counsel), for plaintiff. Woods Oviatt Gilman, LLP, Rochester (Anthony Cotroneo of counsel), for defendant."
+  },
+  "file_name": "0464-01",
+  "first_page_order": 452,
+  "last_page_order": 455
+}

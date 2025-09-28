@@ -1,0 +1,1019 @@
+{
+  "id": 1237499,
+  "name": "55th Management Corp., Plaintiff, v. Leslie Goldman, Defendant",
+  "name_abbreviation": "55th Management Corp. v. Goldman",
+  "decision_date": "2003-04-09",
+  "docket_number": "",
+  "first_page": "239",
+  "last_page": "249",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Misc. 3d 239"
+    },
+    {
+      "type": "parallel",
+      "cite": "768 N.Y.S.2d 747"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 8791,
+    "name": "New York Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "94 NY2d 943",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "268 AD2d 302",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        145784,
+        146400
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/268/0302-02",
+        "/ad2d/268/0302-01"
+      ]
+    },
+    {
+      "cite": "173 Misc 2d 1032",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        87518
+      ],
+      "pin_cites": [
+        {
+          "page": "1034"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/173/1032-01"
+      ]
+    },
+    {
+      "cite": "190 Misc 2d 526",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        105499
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/190/0526-01"
+      ]
+    },
+    {
+      "cite": "159 Misc 2d 617",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        918393
+      ],
+      "pin_cites": [
+        {
+          "page": "625"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/159/0617-01"
+      ]
+    },
+    {
+      "cite": "98 NY2d 605",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "291 AD2d 106",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        129165
+      ],
+      "pin_cites": [
+        {
+          "page": "119"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/291/0106-01"
+      ]
+    },
+    {
+      "cite": "223 AD2d 309",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        673299
+      ],
+      "pin_cites": [
+        {
+          "page": "313-314"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/223/0309-01"
+      ]
+    },
+    {
+      "cite": "265 AD2d 750",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        210274
+      ],
+      "pin_cites": [
+        {
+          "page": "752"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/265/0750-01"
+      ]
+    },
+    {
+      "cite": "166 Misc 2d 986",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        936831
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/166/0986-01"
+      ]
+    },
+    {
+      "cite": "171 Misc 2d 29",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        313473
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/171/0029-01"
+      ]
+    },
+    {
+      "cite": "159 Misc 2d 912",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        918291
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/159/0912-01"
+      ]
+    },
+    {
+      "cite": "88 NY2d 842",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4438948,
+        4438359,
+        4437735
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/88/0842-01",
+        "/ny-2d/88/0842-02",
+        "/ny-2d/88/0842-03"
+      ]
+    },
+    {
+      "cite": "169 Misc 2d 701",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        839049
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/169/0701-01"
+      ]
+    },
+    {
+      "cite": "165 Misc 2d 108",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        933750
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/165/0108-01"
+      ]
+    },
+    {
+      "cite": "290 AD2d 847",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        97392
+      ],
+      "pin_cites": [
+        {
+          "page": "850"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/290/0847-01"
+      ]
+    },
+    {
+      "cite": "169 AD2d 824",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1026272,
+        1026666
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/169/0824-01",
+        "/ad2d/169/0824-02"
+      ]
+    },
+    {
+      "cite": "124 App Div 519",
+      "category": "reporters:state",
+      "reporter": "A.D.",
+      "case_ids": [
+        5297848
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad/124/0519-01"
+      ]
+    },
+    {
+      "cite": "18 AD2d 629",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3118601,
+        3105925,
+        3088238,
+        3098751
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/18/0629-03",
+        "/ad2d/18/0629-04",
+        "/ad2d/18/0629-02",
+        "/ad2d/18/0629-01"
+      ]
+    },
+    {
+      "cite": "187 Misc 241",
+      "category": "reporters:state",
+      "reporter": "Misc.",
+      "case_ids": [
+        928601
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc/187/0241-01"
+      ]
+    },
+    {
+      "cite": "33 Misc 2d 183",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        1103611
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/33/0183-01"
+      ]
+    },
+    {
+      "cite": "10 AD2d 647",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3003526,
+        3070192,
+        3088660,
+        3070072,
+        3043612
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/10/0647-04",
+        "/ad2d/10/0647-01",
+        "/ad2d/10/0647-05",
+        "/ad2d/10/0647-02",
+        "/ad2d/10/0647-03"
+      ]
+    },
+    {
+      "cite": "11 Misc 2d 653",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        1025279
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/11/0653-01"
+      ]
+    },
+    {
+      "cite": "82 NY2d 789",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2355385,
+        2353107
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/82/0789-02",
+        "/ny-2d/82/0789-01"
+      ]
+    },
+    {
+      "cite": "167 Misc 2d 130",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        939078
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/167/0130-01"
+      ]
+    },
+    {
+      "cite": "262 AD2d 805",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        113445
+      ],
+      "pin_cites": [
+        {
+          "page": "807"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/262/0805-01"
+      ]
+    },
+    {
+      "cite": "264 AD2d 330",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        150955
+      ],
+      "pin_cites": [
+        {
+          "page": "333"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/264/0330-01"
+      ]
+    },
+    {
+      "cite": "264 AD2d 599",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        150679
+      ],
+      "pin_cites": [
+        {
+          "page": "601"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/264/0599-01"
+      ]
+    },
+    {
+      "cite": "233 NY 316",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        1967228
+      ],
+      "year": 1922,
+      "pin_cites": [
+        {
+          "page": "321"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/233/0316-01"
+      ]
+    },
+    {
+      "cite": "44 NY2d 211",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "222"
+        },
+        {
+          "page": "220"
+        },
+        {
+          "page": "219"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "163 Misc 2d 694",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        927840
+      ],
+      "pin_cites": [
+        {
+          "page": "697"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/163/0694-01"
+      ]
+    },
+    {
+      "cite": "153 NY 214",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2277587
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "220"
+        },
+        {
+          "page": "222"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/153/0214-01"
+      ]
+    },
+    {
+      "cite": "89 NY2d 889",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        320200,
+        320194,
+        320122,
+        320167
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/89/0889-03",
+        "/ny-2d/89/0889-01",
+        "/ny-2d/89/0889-04",
+        "/ny-2d/89/0889-02"
+      ]
+    },
+    {
+      "cite": "226 AD2d 106",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        700714
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/226/0106-01"
+      ]
+    },
+    {
+      "cite": "215 AD2d 337",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1215277
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/215/0337-01"
+      ]
+    },
+    {
+      "cite": "79 AD2d 627",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3223713,
+        3228220,
+        3221733
+      ],
+      "pin_cites": [
+        {
+          "page": "628"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/79/0627-01",
+        "/ad2d/79/0627-03",
+        "/ad2d/79/0627-02"
+      ]
+    },
+    {
+      "cite": "4 NY2d 676",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "5 AD2d 811",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        2975907,
+        2972260,
+        2973828,
+        2973638,
+        2973367,
+        2974416,
+        2972855,
+        2972953,
+        2974075
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/5/0811-05",
+        "/ad2d/5/0811-07",
+        "/ad2d/5/0811-09",
+        "/ad2d/5/0811-04",
+        "/ad2d/5/0811-08",
+        "/ad2d/5/0811-01",
+        "/ad2d/5/0811-02",
+        "/ad2d/5/0811-06",
+        "/ad2d/5/0811-03"
+      ]
+    },
+    {
+      "cite": "7 Misc 2d 461",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        1016656
+      ],
+      "pin_cites": [
+        {
+          "page": "462"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/7/0461-01"
+      ]
+    },
+    {
+      "cite": "56 Misc 2d 414",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        1192491
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/56/0414-01"
+      ]
+    },
+    {
+      "cite": "188 Misc 2d 537",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        206322
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "542"
+        },
+        {
+          "page": "544"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/188/0537-01"
+      ]
+    },
+    {
+      "cite": "242 AD2d 431",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        495453,
+        495981
+      ],
+      "pin_cites": [
+        {
+          "page": "434"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/242/0431-01",
+        "/ad2d/242/0431-02"
+      ]
+    },
+    {
+      "cite": "25 NY2d 505",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2292088
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "508"
+        },
+        {
+          "page": "508-509"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/25/0505-01"
+      ]
+    },
+    {
+      "cite": "224 NY 440",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        85608
+      ],
+      "pin_cites": [
+        {
+          "page": "446"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/224/0440-01"
+      ]
+    },
+    {
+      "cite": "218 App Div 591",
+      "category": "reporters:state",
+      "reporter": "A.D.",
+      "case_ids": [
+        4813287
+      ],
+      "pin_cites": [
+        {
+          "page": "593-594"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad/218/0591-01"
+      ]
+    },
+    {
+      "cite": "136 AD2d 467",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3534336,
+        3537893
+      ],
+      "pin_cites": [
+        {
+          "page": "469"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/136/0467-01",
+        "/ad2d/136/0467-02"
+      ]
+    },
+    {
+      "cite": "14 NY2d 624",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2268943
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/14/0624-01"
+      ]
+    },
+    {
+      "cite": "20 AD2d 60",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3127879
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "62"
+        },
+        {
+          "page": "63"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/20/0060-01"
+      ]
+    },
+    {
+      "cite": "516 US 914",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        328643,
+        327973,
+        324229,
+        327623,
+        327687,
+        327945,
+        327626,
+        326794,
+        327820,
+        323060,
+        323061,
+        327254,
+        328343,
+        324895
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/516/0914-01",
+        "/us/516/0914-02",
+        "/us/516/0914-13",
+        "/us/516/0914-04",
+        "/us/516/0914-08",
+        "/us/516/0914-03",
+        "/us/516/0914-09",
+        "/us/516/0914-14",
+        "/us/516/0914-12",
+        "/us/516/0914-10",
+        "/us/516/0914-07",
+        "/us/516/0914-11",
+        "/us/516/0914-05",
+        "/us/516/0914-06"
+      ]
+    },
+    {
+      "cite": "85 NY2d 921",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4434768,
+        4433977,
+        4436836,
+        4434949
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/85/0921-02",
+        "/ny-2d/85/0921-01",
+        "/ny-2d/85/0921-03",
+        "/ny-2d/85/0921-04"
+      ]
+    },
+    {
+      "cite": "201 AD2d 136",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1161489
+      ],
+      "weight": 5,
+      "pin_cites": [
+        {
+          "page": "139"
+        },
+        {
+          "page": "139"
+        },
+        {
+          "page": "139"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/201/0136-01"
+      ]
+    },
+    {
+      "cite": "22 NY2d 330",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2284826
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "331-332"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/22/0330-01"
+      ]
+    },
+    {
+      "cite": "89 NY2d 1064",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        320074,
+        320058
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/89/1064-02",
+        "/ny-2d/89/1064-01"
+      ]
+    },
+    {
+      "cite": "79 NY2d 914",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4425195
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/79/0914-01"
+      ]
+    },
+    {
+      "cite": "175 AD2d 689",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1049538,
+        1048692
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "691"
+        },
+        {
+          "page": "691"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/175/0689-01",
+        "/ad2d/175/0689-02"
+      ]
+    },
+    {
+      "cite": "93 NY2d 808",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "257 AD2d 381",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        172582
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/257/0381-01"
+      ]
+    },
+    {
+      "cite": "258 NY 55",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        1999826
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "60"
+        },
+        {
+          "page": "59"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/258/0055-01"
+      ]
+    },
+    {
+      "cite": "42 NY2d 272",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2331460
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "275"
+        },
+        {
+          "page": "277"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/42/0272-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1336,
+    "char_count": 26240,
+    "ocr_confidence": 0.762,
+    "pagerank": {
+      "raw": 9.505882454708161e-08,
+      "percentile": 0.5200220167276162
+    },
+    "sha256": "b5a777d4b11208e5361444da704f8309dc403cf80db64570ec31da43b866839c",
+    "simhash": "1:044eb796c9160f5f",
+    "word_count": 4238
+  },
+  "last_updated": "2024-02-27T19:35:05.009820+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "55th Management Corp., Plaintiff, v Leslie Goldman, Defendant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nDiane A. Lebedeff, J.\nThis motion presents a question of significance in many guardianship proceedings commenced under article 81 of the Mental Hygiene Law (article 81), to wit: If a person believes he or she was defamed in an out-of-court statement made to a court evaluator in the context of a guardianship proceeding commenced under article 81, will a defamation action lie or, alternatively, will the defamation claim be defeated by the longstanding common-law rule that a statement made in the course of judicial proceedings is absolutely privileged so long as pertinent to the controversy? This issue is directly posed by defendant\u2019s motion to dismiss this defamation action based upon the defendant\u2019s remarks to a court evaluator during the evaluator\u2019s investigation (CPLR 3211 [a] [7]).\nTo the extent relevant, in 1999, a guardianship proceeding was commenced and a court evaluator appointed to investigate the article 81 petition seeking appointment of a guardian for an alleged incapacitated person (AIP). During the course of the court evaluator\u2019s investigation, the defendant, then 74 years old and a tenant of the same building in which the AIP resided, telephoned the court evaluator. The complaint alleges defendant stated his view that the landlord was engaged in a \u201cterrorist conspiracy\u201d to harass elderly tenants into vacating their apartments, and secretly entered into such tenants\u2019 apartments through their windows. The court evaluator characterized these remarks as a \u201csoap opera script,\u201d \u201cquestioned] their basis in reality,\u201d and viewed them as instigated by another party who also made \u201caccusations of the murderous intentions of the landlord.\u201d The proceeding concluded with the appointment of a guardian.\nThe defendant advances a claim of absolute privilege, which has been characterized as \u201ca veritable immunity\u201d in relation to the publication of a given defamatory statement claim (Stukuls v State of New York, 42 NY2d 272, 275 [1977]). Where the facts are undisputed, as in this case, it is a pure question of law whether an absolute privilege applies and stands as a complete defense to a defamation claim (People ex rel. Bensky v Warden of City Prison, 258 NY 55, 60 [1932]). Because of the novelty of the issue raised, reaching an answer requires consideration of the following interrelated factors: (1) whether the speaker\u2019s remarks were of a character permitting the assertion of the privilege; (2) whether addressing such remarks to a court evaluator is a statement made in the course of a judicial proceeding; and (3) whether the speaker has standing to claim the privilege.\nI\nThe first issue is whether the nature of the alleged defamatory statement is one for which an absolute privilege may be claimed. Defendant seeks the protection of the general rule that statements made by parties, attorneys and witnesses in the course of a judicial or quasi-judicial proceeding are absolutely privileged, notwithstanding the motive with which they are made, so long as they are material and pertinent to the issues to be resolved in the proceeding (Mosesson v Jacob D. Fuchsberg Law Firm, 257 AD2d 381 [1st Dept 1999], lv denied 93 NY2d 808 [1999]; see also, Herzfeld & Stern v Beck, 175 AD2d 689, 691 [1st Dept 1991], appeal dismissed 79 NY2d 914 [1992], 89 NY2d 1064 [1997]; Wiener v Weintraub, 22 NY2d 330, 331-332 [1968]; Allan & Allan Arts v Rosenblum, 201 AD2d 136, 139 [2d Dept 1994], lv denied 85 NY2d 921 [1995], cert denied 516 US 914 [1995]).\nThe well-settled test for a statement to which absolute privilege extends is that it is \u201cpossibly pertinent\u201d to the litigation which means it \u201cmay possibly bear on the issues in litigation now or at some future time\u201d even if only by \u201cthe barest rationality, divorced from any palpable or pragmatic degree of probability\u201d (Seltzer v Fields, 20 AD2d 60, 62 [1st Dept 1963], affd 14 NY2d 624 [1964]). When considering \u201cwhether the alleged defamatory statements are pertinent to the judicial proceeding, [the statements] should be liberally construed,\u201d with all doubts \u201cresolved in favor of its relevancy or pertinency\u201d (Baratta v Hubbard, 136 AD2d 467, 469 [1st Dept 1988] [internal quotation marks omitted]).\nThese quoted formulations of the governing concepts are fully consistent with, but give more guidance than, the older characterization that an absolute privilege does not extend to \u201clanguage used [which] goes beyond the bounds of reason and is so clearly impertinent and needlessly defamatory as not to admit of discussion\u201d (People ex rel. Bensky v Warden of City Prison, supra, 258 NY at 59). It is noted that the pertinency standard is entirely different from the test for striking scandalous matter from a pleading (Kahane v Murdoch, 218 App Div 591, 593-594 [1st Dept 1926]).\nA most useful test \u201c[t]o appreciate . . . pertinency, [is to] ask . . . what the duty of [the participants] would have been, had [the statement] been true\u201d (Andrews v Gardiner, 224 NY 440, 446 [1918]). This question gives ready guidance as to whether \u201cthe statement [is] so outrageously out of [the litigation] context as to permit one to conclude, from the mere fact that the statement was uttered, that it was motivated by no other desire than to defame\u201d (Martirano v Frost, 25 NY2d 505, 508 [1969]).\nHere, had defendant\u2019s alleged statement been true and if the landlord of the alleged incapacitated person were harassing elderly tenants and breaking into their apartments, such information would have been highly relevant to the guardianship proceeding. A mandated consideration in such proceedings is housing conditions and, if a guardian is to be appointed, whether an alleged incapacitated person may be maintained in his or her current housing in the community (Mental Hygiene Law \u00a7 81.22 [a] [9] [requires, in relevant part: \u201cthe choice of abode must be consistent with . . . the care, comfort and maintenance, and where appropriate, rehabilitation of the incapacitated person\u201d]; see also, Matter of Gambuti [Bowser], 242 AD2d 431, 434 [1st Dept 1997] [housing in community must remain an active consideration even if ward placed in nursing home]; Matter of Linden-Rath, 188 Misc 2d 537, 542 [Sup Ct, NY County 2001] [obligation of article 81 guardian to preserve ward\u2019s housing]).\nAccordingly, the remarks were entirely relevant to the guardianship proceeding and, as a matter of law, pertinent to the proceedings.\nII\nThe second issue is whether addressing such an out-of-court statement to a court evaluator is a statement made in the course of a judicial proceeding (Seltzer v Fields, supra, 20 AD2d at 63 [\u201cA corollary of the pertinency rule is that the absolute privilege is afforded only to those publications made \u2018during the course of or, stated differently, \u2018as part of, the judicial proceeding\u201d for \u201ccommunications unconnected with the judicial proceeding are not cloaked with the absolute privilege\u201d]). Given that the extension of the absolute privilege to a statement made to a court evaluator is a matter of first impression, the extension of this privilege must be considered with due care for \u201cNew York has been reluctant to extend the applicability of absolute privilege to cases that would represent a departure from the policies which originally brought the doctrine into being\u201d (Stukuls v State of New York, supra, 42 NY2d at 277).\nThis analysis considers not the speaker, but the audience. In relation to an article 81 proceeding, a court evaluator is neither a party nor counsel to a party. Generally, only counsel, parties, witnesses and the court itself are held to be covered by the rule and the few scattered cases extending the absolute privilege to an appointee have not examined the reasons for such result (Sorge v City of New York, 56 Misc 2d 414 [Sup Ct, NY County 1968, Samuel A. Spiegel, J.] [under letters rogatory, Italian magistrate took testimony, such proceeding found to be judicial]; Abrams v Crompton-Richmond Co., 7 Misc 2d 461, 462 [Sup Ct, NY County 1957], affd 5 AD2d 811 [1st Dept 1958], lv denied 4 NY2d 676 [1958] [\u201cThe plaintiffs\u2019 brief points out that a bankruptcy referee is not a judicial officer. We do not pass upon this question, as the only requirement is that the proceedings be judicial\u201d]; see also, Friedman v Alexander, 79 AD2d 627, 628 [2d Dept 1980] [letters to creditors from company official approved by Bankruptcy Court \u201cwere written and sent in the course of a judicial proceeding\u201d]).\nThe court here begins with a review of the position of a court evaluator in an article 81 judicial proceeding, a position filled by appointment by the judge presiding over the case. The court evaluator must perform statutorily defined investigative and reporting tasks (Mental Hygiene Law \u00a7 81.09), and, in addition, a court evaluator must attend all court proceedings and conferences and be available as a witness at the hearing itself (Mental Hygiene Law \u00a7 81.09 [c] [9]; \u00a7 81.12 [b]). In the simplest of terms, the court evaluator serves as \u201cthe eyes and ears of the court\u201d in performing an investigation. The court finds that numerous reasons, both of public policy and procedure, support extending the absolute privilege to an utterance or writing directed at a court evaluator.\nThe primary policy factor weighed when extending the absolute privilege is the societal interest which \u201crequires that whenever [persons] seek the aid of the courts of justice ... to assert or to defend rights of person, property, [or] liberty, speech and writing therein must be untrammelled and free. The good of all must prevail over the incidental harm to the individual. So the law offers a shield to the one who in legal proceedings publishes a libel, not because it wishes to encourage libel, but because if [persons] were afraid to set forth their rights in legal proceedings for fear of liability to libel suits, greater harm would result, in the suppression of the truth\u201d (1 Seelman, The Law of Libel and Slander in the State of New York, at 233, para 191 [1964], quoted in Allan & Allan Arts v Rosenblum, supra, 201 AD2d at 139). This interest is directly implicated here for virtually no other civil proceeding more directly and simultaneously challenges personal, property and liberty interests than a guardianship proceeding (see, Matter of St. Luke\u2019s Roosevelt Hosp. Ctr. [.Marie H.], NYLJ, Dec. 8, 1992, at 22, col 2 [Sup Ct, NY County, Glen, J.] [recognizing liberty interest requires assignment of counsel to the indigent in an article 81 proceeding], mod and remanded 215 AD2d 337 [1st Dept 1995], affd 226 AD2d 106 [1st Dept 1996], affd 89 NY2d 889 [1996]).\nA corollary consideration is that free communication in relation to a court proceeding should not be chilled by the threat of defamation litigation. The purpose of the absolute privilege is to eliminate the fear that a person speaks or reports \u201cat. . . peril, if it later be determined that some statement . . . involved, [which fear] \u2018would be an impediment to justice, because it would hamper the search for truth and prevent making inquiries with that freedom and boldness which the welfare of society requires\u2019 \u201d (Martirano v Frost, supra, 25 NY2d at 508-509, quoting Youmans v Smith, 153 NY 214, 220 [1897]). It takes no great astuteness to understand that the freedom to collect defamatory but pertinent information is necessary if a court evaluator is to perform a full investigation and report the evaluator\u2019s informed conclusions to the court. To take just one common example \u2014 an allegation of financial abuse of an elderly person \u2014 a court evaluator must often conduct interviews and review records to determine if such abuse exists or if a valid reason indicates the behavior is innocent (see Matter of Kustka, 163 Misc 2d 694, 697 [Sup Ct, Queens County 1994, Kassoff, J.] [widowed 81-year-old man weds former housekeeper, court evaluator reports new wife dissipates funds and sends money to relatives outside the country]). The threat that a court evaluator might become the target of a defamation action, or even be drawn into a defamation action as a nonparty witness, would clearly have a detrimental effect on the diligent collection and reporting of relevant information.\nAn additional factor often considered by courts is whether the statement is made during the course of a proceeding at which the statement might possibly be identified and challenged. The Court of Appeals has expressed concern that the privilege not be extended to occasions where \u201cthe absence of a hearing\u201d permits a derogatory statement to \u201cgo unheard of, let alone challenged,\u201d which provides \u201can unchecked vehicle for silent but effective character assassination\u201d (Toker v Pollak, 44 NY2d 211, 222 [1978] [additionally holding a report to a district attorney does not warrant the absolute privilege because it is a statement to an official whose \u201cfunction is more analogous to that of the police officer than that of the Judge\u201d (44 NY2d at 220), and that \u201cabsolute immunity \u2018applies only to a proceeding in court or one before an officer having attributes similar to a court\u2019 \u201d (44 NY2d at 219), quoting Pecue v West, 233 NY 316, 321 (1922)]). Here, as amply demonstrated by this record, the court evaluator both included and refuted the remark in the resulting report and, if pivotal to the proceeding, the statement was capable of exploration at the article 81 hearing.\nTurning to procedural considerations, it cannot be overstated that the existence of a complete and detailed report by the court evaluator is critically important to the exercise of the judicial function, not only for the article 8l hearing process but also as a reference point for future consideration. The court evaluator\u2019s report is utilized at the hearing and upon judicial review of the outcome (see Matter of Khoubesserian, 264 AD2d 599, 601 [1st Dept 1999] [reference to report\u2019s detailed recitation of financial management and court evaluator\u2019s assessment of such management as \u201ccareful,\u201d \u201cquite thorough\u201d and \u201caccurate,\u201d with \u201cno discrepancies\u201d]; compare Matter of Chase, 264 AD2d 330, 333 [1st Dept 1999] [\u201cWhile initial examination of . . . transfers [identified by the court evaluator] could lead one to suspect improprieties, careful scrutiny reveals that the transfers were not nefarious\u201d]). Even years later in the guardianship proceeding, the report gives a point of comparison for a change of conditions (see Matter of Linden-Rath, supra, 188 Misc 2d at 544 [comparing current condition of ward\u2019s apartment with description in earlier evaluator\u2019s report]). And when a ward dies, the Surrogate\u2019s Court may find such report sheds significant light on past transactions (see Matter of Rose BB., 262 AD2d 805, 807 [3d Dept 1999] [dispute regarding identification and ownership of assets transferred to Surrogate\u2019s Court upon ward\u2019s death, given that \u201cdeath of an incapacitated person does not require a guardian\u2019s immediate discharge (see Mental Hygiene Law \u00a7 81.36 [a] [3]; Matter of Siracusano, 167 Misc 2d 130) particularly where, as here, there is a dispute regarding the preservation of the incapacitated person\u2019s property pending\u201d]). Accordingly, the interests of the proper administration of justice is an additional policy factor which weighs in favor of granting the absolute privilege in this context.\nFinally, some recognition must be given to the fact that an article 81 guardianship proceeding has a unique and sui generis character, setting it apart from other litigation. Article 81 guardianship proceedings frequently raise serious challenges to the judgment, morality and legal propriety of actions of a variety of persons involved with an alleged incapacitated person, not all of whom are parties to the litigation. In a vast majority of such cases, some person interviewed by a court evaluator will have a highly charged view of a person or entity involved with the alleged incapacitated person, which views may prove to be inaccurate or unrealistic. Yet, these are matters which must be investigated and addressed by a court evaluator without hindrance or reservation, for even the wildest accusations may hold a germ of truth which leads to a development of facts germane to an accurate assessment. Given the legislative design of the scope and processes of an article 81 guardianship proceeding, the court is satisfied that extending recognition of the absolute privilege to remarks made to a court evaluator is vital to the judicial quest for soundly based determinations on the paramount issues presented in a guardianship proceeding, i.e., whether an innocent person suffers from an incapacity and, for such reason, should be stripped of all or some degree of liberty and control of person and property.\nAccordingly, where a statement is pertinent to the litigation, given that the court evaluator serves as an investigative agent of the court and acts on behalf of the court and that no public policy mandates to the contrary, this court holds that a statement made to a court evaluator is a communication properly subject to the absolute privilege.\nIII\nThe final issue is whether the defendant has standing to claim the protection of this rule. Once pertinent speech in court or to a recognized participant in an ongoing judicial proceeding is established, virtually every speaker whose speech is connected with the litigation has standing to assert this immunity from suit (Herzfeld & Stern v Beck, 175 AD2d 689 [1st Dept 1991], appeal dismissed 79 NY2d 914 [1992], lv dismissed 82 NY2d 789 [1993]). \u201c[T]he . . . privilege attaches ... to every step of the proceeding in question even if it is preliminary and/or investigatory\u201d (175 AD2d at 691) and is extended \u201cto all who take part in judicial proceedings, judge, attorney, counsel, printer, witness, litigant, a right to speak and to write, subject only to one limitation, that what is said or written bears upon the subject of litigation\u201d (1 Seelman, The Law of Libel and Slander in the State of New York, supra, quoted in Allan & Allan Arts v Rosenblum, supra, 201 AD2d at 139; see Youmans v Smith, supra, 153 NY at 222 [printer who prepared duplicate copies of questions drafted for use at a hearing, including questions to which the plaintiff took umbrage, protected by absolute privilege, albeit as agent of attorney]).\nThe fact that the alleged defamation involved an out-of-court communication does not bar application of the absolute privilege (see, Simon v Stim, 11 Misc 2d 653 [Sup Ct, Nassau County 1958] [applying privilege to letters written after the commencement of litigation], affd 10 AD2d 647 [2d Dept 1960]; Simon v Potts, 33 Misc 2d 183 [Sup Ct, Rensselaer County 1962]; Zirn v Cullom, 187 Misc 241 [Sup Ct, NY County 1946]; compare State-Wide Ins. Co. v Glavin, 18 AD2d 629 [1st Dept 1962] [finding letter not pertinent]; Lapetina v Santangelo, 124 App Div 519 [2d Dept 1908] [prelitigation letter not protected by absolute privilege]). Further, it matters not that the defendant reached out to volunteer his statement (Wiener v Weintraub, 22 NY2d 330 [1968] [letter of complaint to attorney disciplinary body protected by absolute privilege for witnesses]).\nDefendant most readily falls into the classification of a potential witness. As stated in the Restatement (Second) of Torts \u00a7 588 (1977), \u201c[a] witness is absolutely privileged to publish defamatory matter concerning another in communications . . . as a part of a judicial proceeding . . . if it has some relation to the proceeding.\u201d The official commentary states that such privilege extends to statements made in \u201cprivate conferences\u201d and not under oath (Comment 6), which appears generally consistent with New York law (Panzella v Burns, 169 AD2d 824 [2d Dept 1991] [pertinent statement made in judge\u2019s chambers absolutely privileged]).\nAccordingly, the defendant is determined to have standing to assert his claim for recognition of the absolute privilege in relation to his statements made to a court evaluator in the course of the investigatory phase of an article 81 proceeding.\nGiven the foregoing, it is not necessary to determine whether the defamatory remarks are pleaded with sufficient particularity (CPLR 3106 [a]).\nAccordingly, the motion is granted and the complaint is dismissed.\n. The court evaluator appointed was the able Eleanor Cappagrosso, Esq. Her investigation uncovered the circumstances underlying the third party\u2019s designation in a new will and power of attorney, both of which were declared null and void because the documents were signed after the AIP became incapacitated (see Matter of Mary J., 290 AD2d 847, 850 [3d Dept 2002] [\u201ccourt properly revoked the durable power of attorney and health care proxy since they were executed by respondent during a time that she was suffering from extreme dementia (see Mental Hygiene Law \u00a7 81.21 [d])\u201d]; compare, Matter of Kern, 165 Misc 2d 108 [Sup Ct, Suffolk County 1995, Luciano, J.] [nondurable power of attorney expires by its own terms upon incapacity, consistent with General Obligations Law \u00a7\u00a7 5-1601 and 5-1602]; see also, Matter of Wingate, 169 Misc 2d 701 [Sup Ct, Queens County 1996, Kassoff, J.] [power of attorney may be revoked by court upon finding breach of fiduciary duty]).\nIt is a fair reading of the evaluator\u2019s report that the attack on the landlord may have been retaliation for the plaintiff landlord\u2019s early suspicions about the AIP\u2019s home care worker, who had introduced the AIP to the third party. The landlord requested an investigation by New York City Office of Protective Services for Adults and seems to have acted in a responsible manner with commendable care for his tenant.\n. The court evaluator is not a formal party to an article 81 proceeding (Matter of Lula XX., 88 NY2d 842 [1996] [denying motion for leave to appeal by court evaluator because court evaluator was not a party]; cf. Matter of Chachkers [Shirley W], 159 Misc 2d 912 [Sup Ct, NY County 1993] [describing court evaluator as a party]). Nonetheless, a court evaluator can interpose motions at the trial court level (see, for example, Matter of Lichtenstein, 171 Misc 2d 29 [Sup Ct, Bronx County 1996] [motion to disqualify petitioner\u2019s attorney by reason of attorney\u2019s former representation of the AIP]) and can be empowered to take affirmative protective action during the pendency of a proceeding (Matter of Wingate [Longobardi], 166 Misc 2d 986 [Sup Ct, Suffolk County 1996, Luciano, J.] [payment for necessaries authorized]).\nNor is the court evaluator counsel to the AIP, which is a separate statutory role (compare Mental Hygiene Law \u00a7 81.09, with Mental Hygiene Law \u00a7 81.10; see also, Matter of Lee I., 265 AD2d 750, 752 [3d Dept 1999] [\u201cthe court evaluator\u2019s role is not equivalent to that of counsel for the person alleged to be incapacitated\u201d]).\n. The court evaluator\u2019s functions were summarized in Matter of Lichtenstein (223 AD2d 309, 313-314 [1st Dept 1996]) as follows: \u201cThe evaluator\u2019s role under article 81 is that of an independent investigator, empowered to assist the court in independently assessing the totality of circumstances affecting the person alleged to be incapacitated (AIP), determining the AIP\u2019s personal capabilities, marshalling the AIP\u2019s resources, selecting and empowering an appropriate guardian, and assuring that the due process rights of the AIP are not violated. The evaluator\u2019s duties include, inter alia, meeting with the AIP (Mental Hygiene Law \u00a7 81.09 [c] [1]), explaining the nature and possible consequences of the proceeding and the AIP\u2019s right to counsel (Mental Hygiene Law \u00a7 81.09 [c] [2]), determining whether legal counsel should be appointed for the AIP (Mental Hygiene Law \u00a7 81.09 [c] [3]), interviewing the petitioner (Mental Hygiene Law \u00a7 81.09 [c] [4]), and issuing a written report and recommendations to address a lengthy list of specific questions and issues set out in the statute (Mental Hygiene Law \u00a7 81.09 [c] [5]).\u201d\nIn a statutorily required report, the evaluator must \u201cprovide the court with his or her \u2018personal observations as to the person alleged to be incapacitated and his or her condition, affairs and situation\u2019 \u201d and \u201cthe report of the court evaluator should be, not \u2018a rubber stamp\u2019 of how others view the person, but rather a meaningful independent exploration of all aspects of the life of the allegedly incapacitated person\u201d (18 Carmody-Wait 2d \u00a7 109:35 [Duties of Court Evaluator], quoting Law Revision Commn Commentary, McKinney\u2019s Cons Laws of NY, Book 34A, Mental Hygiene Law \u00a7 81.09 [1996 ed]).\n. Similar reasoning has led courts to conclude that a law guardian of a young child in a custody dispute is immune from a legal malpractice claim where the law guardian\u2019s function is primarily to aid the court, rather than to advocate for the child (Bluntt v O\u2019Connor, 291 AD2d 106, 119 [4th Dept 2002], lv denied 98 NY2d 605 [2002] [noting, \u201cExposure of attorneys to tort liability to those they have been appointed to represent\u201d would reduce the willingness to serve and such \u201cdisincentive is against public policy and should be eliminated\u201d]; see also, Marquez v Presbyterian Hosp. in City of N.Y., 159 Misc 2d 617, 625 [Sup Ct, Bronx County 1994] [\u201cPeople who exercise discretion and make value judgments in the \u2018best interests\u2019 of their ward must be protected from needless collateral litigation which would undermine their good-faith efforts\u201d]). Such law guardians have also been found immune from other claims brought by parents (Bradt v White, 190 Misc 2d 526 [Sup Ct, Greene County 2002] [collecting cases]).\n. It is assumed that the affected person or entity would not be excluded from the courtroom when testimony bore upon such person or entity (see Matter of Barrios-Paoli, 173 Misc 2d 1032, 1034 [Sup Ct, NY County 1997, Braun, J.], affd 268 AD2d 302 [1st Dept 2000] [appointment of guardian], appeal dismissed 94 NY2d 943 [2000] [landlords may be excluded from parts of an article 81 hearing when privileged or confidential information is advanced]).",
+        "type": "majority",
+        "author": "Diane A. Lebedeff, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Bartlett & Bartlett, LLP, New York City (Joshua F. Nessen of counsel), for defendant. Jeffrey F. Cohen, Bronx, for plaintiff."
+    ],
+    "corrections": "",
+    "head_matter": "[768 NYS2d 747]\n55th Management Corp., Plaintiff, v Leslie Goldman, Defendant.\nSupreme Court, New York County,\nApril 9, 2003\nAPPEARANCES OF COUNSEL\nBartlett & Bartlett, LLP, New York City (Joshua F. Nessen of counsel), for defendant. Jeffrey F. Cohen, Bronx, for plaintiff."
+  },
+  "file_name": "0239-01",
+  "first_page_order": 227,
+  "last_page_order": 237
+}

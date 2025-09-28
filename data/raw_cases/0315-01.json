@@ -1,0 +1,400 @@
+{
+  "id": 1237609,
+  "name": "The People of the State of New York, Plaintiff, v. Susanna Modeste, Defendant",
+  "name_abbreviation": "People v. Modeste",
+  "decision_date": "2003-08-04",
+  "docket_number": "",
+  "first_page": "315",
+  "last_page": "320",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Misc. 3d 315"
+    },
+    {
+      "type": "parallel",
+      "cite": "764 N.Y.S.2d 561"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 8791,
+    "name": "New York Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "70 NY2d 146",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4405305
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/70/0146-01"
+      ]
+    },
+    {
+      "cite": "223 AD2d 390",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        673596
+      ],
+      "pin_cites": [
+        {
+          "page": "393"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/223/0390-01"
+      ]
+    },
+    {
+      "cite": "245 AD2d 200",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        407415,
+        406980,
+        407127
+      ],
+      "pin_cites": [
+        {
+          "page": "201"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/245/0200-03",
+        "/ad2d/245/0200-02",
+        "/ad2d/245/0200-01"
+      ]
+    },
+    {
+      "cite": "205 AD2d 243",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1172646
+      ],
+      "pin_cites": [
+        {
+          "page": "246"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/205/0243-01"
+      ]
+    },
+    {
+      "cite": "84 NY2d 992",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4434335
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/84/0992-01"
+      ]
+    },
+    {
+      "cite": "64 NY2d 634",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4395466
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/64/0634-01"
+      ]
+    },
+    {
+      "cite": "38 NY2d 95",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2321473
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/38/0095-01"
+      ]
+    },
+    {
+      "cite": "84 NY2d 173",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4431664
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/84/0173-01"
+      ]
+    },
+    {
+      "cite": "94 NY2d 533",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        109882
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "540"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/94/0533-01"
+      ]
+    },
+    {
+      "cite": "89 NY2d 1040",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "234 AD2d 19",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        35218
+      ],
+      "pin_cites": [
+        {
+          "page": "20"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/234/0019-01"
+      ]
+    },
+    {
+      "cite": "256 AD2d 18",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        197700
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "19"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/256/0018-01"
+      ]
+    },
+    {
+      "cite": "270 AD2d 904",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        282753,
+        282956,
+        284269
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/270/0904-02",
+        "/ad2d/270/0904-03",
+        "/ad2d/270/0904-01"
+      ]
+    },
+    {
+      "cite": "159 AD2d 964",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3621768,
+        3626209
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "965"
+        },
+        {
+          "page": "965"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/159/0964-01",
+        "/ad2d/159/0964-02"
+      ]
+    },
+    {
+      "cite": "76 NY2d 722",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2351883
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/76/0722-01"
+      ]
+    },
+    {
+      "cite": "150 US 118",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3571882
+      ],
+      "pin_cites": [
+        {
+          "page": "121"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/150/0118-01"
+      ]
+    },
+    {
+      "cite": "68 NY2d 424",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2347365
+      ],
+      "weight": 5,
+      "pin_cites": [
+        {
+          "page": "427"
+        },
+        {
+          "page": "429"
+        },
+        {
+          "page": "429"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/68/0424-01"
+      ]
+    },
+    {
+      "cite": "100 NY2d 192",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        579642
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "196"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/100/0192-01"
+      ]
+    },
+    {
+      "cite": "47 NY2d 493",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4369632
+      ],
+      "pin_cites": [
+        {
+          "page": "496-497"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/47/0493-01"
+      ]
+    },
+    {
+      "cite": "70 NY2d 513",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4408271
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/70/0513-01"
+      ]
+    },
+    {
+      "cite": "88 NY2d 561",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4437772
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/88/0561-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 551,
+    "char_count": 11387,
+    "ocr_confidence": 0.753,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.04647182133012388
+    },
+    "sha256": "f63d8a23c3ea36d8ac4769304570bd2d342c9eda5d9ec83a5a37869805422a11",
+    "simhash": "1:94519485d96938c9",
+    "word_count": 1845
+  },
+  "last_updated": "2024-02-27T19:35:05.009820+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The People of the State of New York, Plaintiff, v Susanna Modeste, Defendant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nJohn M. Leventhae, J.\nThis decision explains the court\u2019s ruling during trial that neither the People nor the defendant were entitled to a missing witness instruction as to the complainant.\nOn February 2, 2002, the defendant stabbed her boyfriend in the neck with a knife. The defendant and her boyfriend are the only witnesses to the incident. For this incident the defendant was indicted for assault in the first and second degrees.\nPrior to trial, both parties submitted a witness list. The defendant\u2019s boyfriend\u2019s/complainant\u2019s name did not appear on either the prosecutor\u2019s or the defendant\u2019s witness trial list. Defense counsel informed the court and the prosecution that he would be seeking a missing witness instruction to the jury should the complainant not be called to testify at trial for the People. Defense counsel also requested that he be allowed to comment on the boyfriend\u2019s failure to testify during summation. The People opposed the defendant\u2019s application and informed the court and defense counsel that they would request a missing witness charge be given to the jury against the defendant should she fail to call her boyfriend as a witness at trial.\nThe People\u2019s proof at trial consisted of an admission given by the defendant in a 911 tape that she had stabbed her boyfriend in the neck. This was admitted as an excited utterance (see People v Vasquez, 88 NY2d 561 [1996]; People v Brown, 70 NY2d 513 [1987]). Additionally, the defendant had given a videotaped statement to the authorities where she related that she had stabbed her boyfriend. During these statements, the defendant also said that her boyfriend had been hitting her immediately prior to and when she stabbed him. The boyfriend, while under the stress of his wounds, stated at the scene of the incident that the defendant had stabbed him. This too was admitted at trial as an excited utterance. (People v Edwards, 47 NY2d 493, 496-497 [1979].)\nThe defendant testified that she stabbed the victim because he was beating her. The defendant claimed justification. The defendant also testified that her boyfriend was afraid to come to court because of his immigration status.\nNeither the defendant nor the People called the complainant to testify.\nAt oral argument on the requests for a missing witness instruction, the defendant admitted that the complainant was living with her. It was established that the victim and the defendant have parented a child together (currently six months old). The prosecutor produced complainant\u2019s written statement dated February 26, 2002 given to him by defense counsel months earlier. The complainant therein admitted to slapping defendant on occasions prior to the incident of February 2, 2002 and perhaps immediately prior to the stabbing. The complainant clearly admitted to shoving defendant prior to the stabbing. The complainant averred, \u201cI believe if I had not been physically abusive \u2014 this incident would not have happened. I still love her. I did tell the District Attorney that I did not want to pursue this matter \u2014 the D.A. stated I had no choice and I could not drop the charges.\u201d\nThe court ruled that a missing witness instruction would not be given against either party.\nAfter trial the defendant was convicted of assault in the second degree.\nMissing Witness Instruction\n\u201cThe \u2018missing witness\u2019 instruction allows a jury to draw an unfavorable inference based on a party\u2019s failure to call a witness who would normally be expected to support that party\u2019s version of events (see, 1 CJI[NY] 8.55, at 451-453).\u201d (People v Savinon, 100 NY2d 192, 196 [2003].) Three preconditions must be present in order for a court to give a missing witness charge to a jury: (1) the witness\u2019s knowledge must be material to the trial; (2) the witness must be expected to give noncumulative testimony favorable to the party against whom the charge is sought (the \u201ccontrol\u201d factor); and (3) the witness must be available to that party. (People v Gonzalez, 68 NY2d 424, 427 [1986]; Graves v United States, 150 US 118, 121 [1893]; see also Prince, Richardson on Evidence \u00a7 3-140 [Farrell 11th ed].)\n\u201cControl\u201d is a term of art without exactitude. \u201c[Although not susceptible of precise definition,\u201d it is a relative concept concerning \u201cthe relationship between the witness and the parties\u201d (Gonzalez, 68 NY2d at 429). Control means favorable \u201cto or under the influence of one party and hostile to the other\u201d (id. at 429; Prince, Richardson on Evidence \u00a7 3-140 [Farrell 11th ed]). \u201c \u2018[A]vailability\u2019 of a witness is a separate consideration from that of \u2018control\u2019. \u2018Availability\u2019 simply refers to the party\u2019s ability to produce such witness\u201d (id. at 428). It is related to the physical whereabouts of the witness, a fact that the party claiming unavailability must be permitted to establish (Prince, Richardson on Evidence, op. cit., \u00a7 3-140; People v Vasquez, 76 NY2d 722 [1990]).\nInstruction against the People\nA complainant in a criminal case is generally considered to be under the control of the People and would tend to give testimony favorable to the prosecution. When there are allegations of domestic violence and where the defendant and the complainant continue or resume their intimate relationship, the issue of whether the complainant is under the control and/or available to the People is different.\nThe Appellate Division has affirmed the denial of a missing witness charge against the People where the crimes involved domestic violence. In People v Congilaro (159 AD2d 964, 965 [1990]) the Appellate Division, Fourth Department, upheld a trial court\u2019s denial of defendant\u2019s request for a missing witness charge when the defendant\u2019s girlfriend failed to testify at trial. The Court stated:\n\u201cSince defendant\u2019s girlfriend, after providing testimony favorable to the People before the Grand Jury, recanted that testimony and provided defense counsel with a statement that exculpated defendant, the trial court properly denied defendant\u2019s request for a missing witness charge because she could not reasonably be expected to testify in the People\u2019s favor.\u201d (Accord, People v Vigliotti, 270 AD2d 904 [2000] .)\nIn People v Hernandez (256 AD2d 18 [1998]) the Appellate Division, First Department, in a domestic violence case, upheld the trial court\u2019s rejection of the defendant\u2019s request for a missing witness charge concerning the complainant. The Court opined (at 19):\n\u201c[T]he defendant\u2019s former domestic partner . . . \u2018was unavailable based upon her refusal to testify . . . and was not under the control of the People such that she could be expected to give testimony favorable to the prosecution\u2019 (People v Rivera, 234 AD2d 19, 20, lv denied 89 NY2d 1040). The circumstances, including defense counsel\u2019s conversation with the victim, in which she expressed hostility to the prosecution and refusal to testify, establish that the victim was, if anything, \u2018favorable to or under the influence of [defendant] and hostile to the [People]\u2019 (People v Gonzalez, 68 NY2d 424, 429), rather than the other way around. By the time of trial, the victim had, at the very least, ceased to be in \u2018a pragmatic sense unavailable to [defendant].\u2019 \u201d (Citations omitted; see also People v Keen, 94 NY2d 533 [2000].)\nIn the matter sub judice, the boyfriend provided defense counsel with a statement that he may have hit the defendant prior to the stabbing and that he wanted to drop the charges. The content of the statement clearly indicated that the boyfriend did not want to testify on the People\u2019s behalf (Congilaro, 159 AD2d at 965). The complainant resided at defendant\u2019s residence. The defendant testified that the victim would not testify in court out of fear of the immigration factors (Hernandez, 256 AD2d at 19).\nThe court notes parenthetically, however, that the People did not exercise the due diligence required to demonstrate the unavailability of the boyfriend. A court may not rely on a party\u2019s representation alone that a witness is unavailable (see Savinon, 100 NY2d 192 [2003]; People v Macana, 84 NY2d 173 [1994]). A subpoena, a material witness order or other diligent efforts ought to have been attempted.\nInstruction against the Defendant\nAlthough a defendant has no burden to come forward with evidence to prove or to disprove anything, once a defendant does so, the failure to call an available witness could be brought to the jury\u2019s attention if such witness\u2019s testimony would be favorable to the defendant and hostile to the prosecution (People v Rodriguez, 38 NY2d 95 [1975]).\nCourts have held that when a defendant\u2019s relatives have material testimony to offer, but fail to testify on defendant\u2019s behalf, a missing witness instruction is appropriate (People v Keen, 94 NY2d 533, 540 [2000]; People v Wilson, 64 NY2d 634 [1984]; People v Rodriguez, 38 NY2d 95 [1975]; People v Tankleff, 84 NY2d 992 [1994]; People v Macana, 84 NY2d 173 [1994]).\nThe boyfriend\u2019s status as a complainant would infer that he would provide testimony favorable to the prosecution\u2019s version of the events (see Gonzalez, 68 NY2d 424 [1986]; People v Robertson, 205 AD2d 243, 246 [1994]). The family and living relationship between the defendant and her boyfriend indicate control by the defendant.\nDecision\nThe court held that the victim was equally available to both parties, and therefore a missing witness instruction to the jury was inappropriate (Gonzalez, 68 NY2d 424). Further the complainant\u2019s fear caused by his immigration status rendered him unavailable.\nSummations\nThe rules relating to the propriety of comment during summation about a missing witness is different than those relating to a missing witness charge. A comment during summation may be appropriate even where a court denies a request for a missing witness charge (People v Wood, 245 AD2d 200, 201 [1997]; People v Rios, 223 AD2d 390, 393 [1996]).\nDefense counsel\u2019s request to comment during summation about the failure of the People to call the complainant boyfriend is granted to the following extent. The defense counsel may comment on the People\u2019s failure to call the boyfriend (see, People v Tankleff, 84 NY2d 992 [1994]). If the defense counsel should comment on this issue during summation, then the prosecutor in his summation would be able to note to the jury the boyfriend\u2019s living and familial relationship with the defendant as well as his immigration issues. If defense counsel elects not to remark on the boyfriend\u2019s failure to testify, then the People may not raise any of these arguments to the jury.\n. There are subtle but significant differences in the Criminal Jury Instructions between a missing witness charge against the People as against the defendant. (See People v Savinon, 100 NY2d 192 [2003]; People v Paylor, 70 NY2d 146 [1987]; compare, 1 CJI[NY] 8.54, with 1 CJI[NY] 8.55.)\n. In Vigliotti, the victim also left the state after service of a subpoena, which rendered him unavailable to the People and established that he was not under their control.\n. Provided of course the witness\u2019s testimony would not be cumulative (see also People v Wilson, 64 NY2d 634 [1984]).",
+        "type": "majority",
+        "author": "John M. Leventhae, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Salvatore Can\u00f3nico and Joseph Ostrowsky for defendant. Charles J. Hynes, District Attorney (Edward Puree of counsel), for plaintiff."
+    ],
+    "corrections": "",
+    "head_matter": "[764 NYS2d 561]\nThe People of the State of New York, Plaintiff, v Susanna Modeste, Defendant.\nSupreme Court, Kings County,\nAugust 4, 2003\nAPPEARANCES OF COUNSEL\nSalvatore Can\u00f3nico and Joseph Ostrowsky for defendant. Charles J. Hynes, District Attorney (Edward Puree of counsel), for plaintiff."
+  },
+  "file_name": "0315-01",
+  "first_page_order": 303,
+  "last_page_order": 308
+}

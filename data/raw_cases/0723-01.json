@@ -1,0 +1,1278 @@
+{
+  "id": 1237613,
+  "name": "Morris Missry et al., Doing Business as Victoria Realty, Petitioners, v. Edward Ehlich et al., Respondents",
+  "name_abbreviation": "Missry v. Ehlich",
+  "decision_date": "2003-05-16",
+  "docket_number": "",
+  "first_page": "723",
+  "last_page": "733",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Misc. 3d 723"
+    },
+    {
+      "type": "parallel",
+      "cite": "765 N.Y.S.2d 176"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Civ. Ct.",
+    "id": 8970,
+    "name": "Civil Court of the City of New York"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "138 Misc 2d 523",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        868363
+      ],
+      "pin_cites": [
+        {
+          "page": "529"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/138/0523-01"
+      ]
+    },
+    {
+      "cite": "297 AD2d 221",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1074293
+      ],
+      "pin_cites": [
+        {
+          "page": "223"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/297/0221-01"
+      ]
+    },
+    {
+      "cite": "230 AD2d 768",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        316172
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "769-770"
+        },
+        {
+          "page": "769"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/230/0768-01"
+      ]
+    },
+    {
+      "cite": "301 AD2d 653",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1012889
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "654"
+        },
+        {
+          "page": "653-654"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/301/0653-01"
+      ]
+    },
+    {
+      "cite": "274 AD2d 318",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        501714
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "319"
+        },
+        {
+          "page": "319"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/274/0318-01"
+      ]
+    },
+    {
+      "cite": "154 Misc 2d 310",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        904873
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "313-314"
+        },
+        {
+          "page": "314"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/154/0310-01"
+      ]
+    },
+    {
+      "cite": "128 Misc 2d 254",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        840117
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "261"
+        },
+        {
+          "page": "263-264"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/128/0254-01"
+      ]
+    },
+    {
+      "cite": "102 AD2d 730",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3377982
+      ],
+      "weight": 3,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/102/0730-01"
+      ]
+    },
+    {
+      "cite": "103 AD2d 692",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        5642298
+      ],
+      "pin_cites": [
+        {
+          "page": "693"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/103/0692-01"
+      ]
+    },
+    {
+      "cite": "193 Misc 2d 519",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        1048074
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "523"
+        },
+        {
+          "page": "523"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/193/0519-01"
+      ]
+    },
+    {
+      "cite": "145 AD2d 159",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3569410
+      ],
+      "pin_cites": [
+        {
+          "page": "161"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/145/0159-01"
+      ]
+    },
+    {
+      "cite": "187 Misc 2d 848",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        1233065
+      ],
+      "weight": 6,
+      "pin_cites": [
+        {
+          "page": "850"
+        },
+        {
+          "page": "850"
+        },
+        {
+          "page": "850"
+        },
+        {
+          "page": "850"
+        },
+        {
+          "page": "851"
+        },
+        {
+          "page": "851"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/187/0848-01"
+      ]
+    },
+    {
+      "cite": "220 AD2d 204",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        658050,
+        658053
+      ],
+      "weight": 3,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/220/0204-01",
+        "/ad2d/220/0204-02"
+      ]
+    },
+    {
+      "cite": "160 AD2d 1113",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3630996
+      ],
+      "pin_cites": [
+        {
+          "page": "1114"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/160/1113-01"
+      ]
+    },
+    {
+      "cite": "72 NY2d 939",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4409650,
+        4411156
+      ],
+      "pin_cites": [
+        {
+          "page": "940"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/72/0939-01",
+        "/ny-2d/72/0939-02"
+      ]
+    },
+    {
+      "cite": "88 NY2d 225",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4439449
+      ],
+      "pin_cites": [
+        {
+          "page": "229-230"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/88/0225-01"
+      ]
+    },
+    {
+      "cite": "282 AD2d 368",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        118742,
+        117982
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/282/0368-01",
+        "/ad2d/282/0368-02"
+      ]
+    },
+    {
+      "cite": "80 NY2d 771",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4426093
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "772"
+        },
+        {
+          "page": "772"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/80/0771-01"
+      ]
+    },
+    {
+      "cite": "83 NY2d 296",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2355822
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "301"
+        },
+        {
+          "page": "301"
+        },
+        {
+          "page": "301"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/83/0296-01"
+      ]
+    },
+    {
+      "cite": "182 Misc 2d 586",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        153412
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "593"
+        },
+        {
+          "page": "593-594"
+        },
+        {
+          "page": "594"
+        },
+        {
+          "page": "593-594"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/182/0586-01"
+      ]
+    },
+    {
+      "cite": "66 NY2d 948",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4403055
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "951"
+        },
+        {
+          "page": "951"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/66/0948-01"
+      ]
+    },
+    {
+      "cite": "260 AD2d 920",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        893149
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "923"
+        },
+        {
+          "page": "923"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/260/0920-01"
+      ]
+    },
+    {
+      "cite": "296 AD2d 307",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1007883
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "310"
+        },
+        {
+          "page": "310"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/296/0307-01"
+      ]
+    },
+    {
+      "cite": "92 NY2d 775",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        725120
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "778"
+        },
+        {
+          "page": "778"
+        },
+        {
+          "page": "778"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/92/0775-01"
+      ]
+    },
+    {
+      "cite": "187 Misc 2d 687",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        1233041
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "688-689"
+        },
+        {
+          "page": "689"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/187/0687-01"
+      ]
+    },
+    {
+      "cite": "302 AD2d 327",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        729652
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/302/0327-01"
+      ]
+    },
+    {
+      "cite": "295 AD2d 225",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1092551
+      ],
+      "pin_cites": [
+        {
+          "page": "226"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/295/0225-01"
+      ]
+    },
+    {
+      "cite": "301 AD2d 570",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1012552
+      ],
+      "pin_cites": [
+        {
+          "page": "571"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/301/0570-01"
+      ]
+    },
+    {
+      "cite": "266 AD2d 138",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        203425
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "139"
+        },
+        {
+          "page": "138-139"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/266/0138-01"
+      ]
+    },
+    {
+      "cite": "268 AD2d 318",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        145888
+      ],
+      "pin_cites": [
+        {
+          "page": "320"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/268/0318-01"
+      ]
+    },
+    {
+      "cite": "285 AD2d 402",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1956209
+      ],
+      "pin_cites": [
+        {
+          "page": "404"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/285/0402-01"
+      ]
+    },
+    {
+      "cite": "124 AD2d 392",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        5682651
+      ],
+      "pin_cites": [
+        {
+          "page": "394"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/124/0392-01"
+      ]
+    },
+    {
+      "cite": "227 AD2d 1000",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        346280,
+        347150
+      ],
+      "pin_cites": [
+        {
+          "page": "1001"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/227/1000-02",
+        "/ad2d/227/1000-01"
+      ]
+    },
+    {
+      "cite": "174 AD2d 7",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1045878
+      ],
+      "pin_cites": [
+        {
+          "page": "11"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/174/0007-01"
+      ]
+    },
+    {
+      "cite": "170 Misc 2d 606",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        350771
+      ],
+      "pin_cites": [
+        {
+          "page": "612-613"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/170/0606-01"
+      ]
+    },
+    {
+      "cite": "178 AD2d 963",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1065014
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/178/0963-01"
+      ]
+    },
+    {
+      "cite": "208 AD2d 1073",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1184795
+      ],
+      "pin_cites": [
+        {
+          "page": "1075"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/208/1073-01"
+      ]
+    },
+    {
+      "cite": "172 Misc 2d 214",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        924533
+      ],
+      "pin_cites": [
+        {
+          "page": "219"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/172/0214-01"
+      ]
+    },
+    {
+      "cite": "300 AD2d 1137",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        957063
+      ],
+      "pin_cites": [
+        {
+          "page": "1138-1139"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/300/1137-01"
+      ]
+    },
+    {
+      "cite": "292 AD2d 304",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        195897,
+        195686
+      ],
+      "pin_cites": [
+        {
+          "page": "305"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/292/0304-01",
+        "/ad2d/292/0304-02"
+      ]
+    },
+    {
+      "cite": "179 AD2d 177",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1069012
+      ],
+      "pin_cites": [
+        {
+          "page": "180"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/179/0177-01"
+      ]
+    },
+    {
+      "cite": "203 AD2d 36",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1165569,
+        1165494
+      ],
+      "pin_cites": [
+        {
+          "page": "37"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/203/0036-02",
+        "/ad2d/203/0036-01"
+      ]
+    },
+    {
+      "cite": "176 Misc 2d 511",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        1610460
+      ],
+      "pin_cites": [
+        {
+          "page": "515-516"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/176/0511-01"
+      ]
+    },
+    {
+      "cite": "262 AD2d 444",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        112196,
+        112261
+      ],
+      "pin_cites": [
+        {
+          "page": "445"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/262/0444-01",
+        "/ad2d/262/0444-02"
+      ]
+    },
+    {
+      "cite": "163 AD2d 104",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1005014
+      ],
+      "pin_cites": [
+        {
+          "page": "106-107"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/163/0104-01"
+      ]
+    },
+    {
+      "cite": "233 AD2d 214",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        30566
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/233/0214-01"
+      ]
+    },
+    {
+      "cite": "121 AD2d 614",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3479602
+      ],
+      "pin_cites": [
+        {
+          "page": "615-616"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/121/0614-01"
+      ]
+    },
+    {
+      "cite": "279 AD2d 35",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1265356
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "38"
+        },
+        {
+          "page": "40-41"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/279/0035-01"
+      ]
+    },
+    {
+      "cite": "300 AD2d 198",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        957370,
+        957108,
+        956653
+      ],
+      "pin_cites": [
+        {
+          "page": "199"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/300/0198-01",
+        "/ad2d/300/0198-02",
+        "/ad2d/300/0198-03"
+      ]
+    },
+    {
+      "cite": "271 AD2d 574",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        268037,
+        268357
+      ],
+      "pin_cites": [
+        {
+          "page": "576"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/271/0574-02",
+        "/ad2d/271/0574-01"
+      ]
+    },
+    {
+      "cite": "251 AD2d 157",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        713480,
+        713034
+      ],
+      "pin_cites": [
+        {
+          "page": "159"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/251/0157-02",
+        "/ad2d/251/0157-01"
+      ]
+    },
+    {
+      "cite": "289 AD2d 37",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        393348
+      ],
+      "pin_cites": [
+        {
+          "page": "38"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/289/0037-01"
+      ]
+    },
+    {
+      "cite": "117 AD2d 1028",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "132 AD2d 262",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3523184
+      ],
+      "pin_cites": [
+        {
+          "page": "265"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/132/0262-01"
+      ]
+    },
+    {
+      "cite": "130 W. 57",
+      "category": "reporters:state",
+      "reporter": "W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "257 AD2d 460",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        171957,
+        172566
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/257/0460-01",
+        "/ad2d/257/0460-02"
+      ]
+    },
+    {
+      "cite": "255 AD2d 423",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        38046
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "425"
+        },
+        {
+          "page": "425"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/255/0423-01"
+      ]
+    },
+    {
+      "cite": "191 AD2d 373",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1118738
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/191/0373-01"
+      ]
+    },
+    {
+      "cite": "249 AD2d 23",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        709114
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/249/0023-01"
+      ]
+    },
+    {
+      "cite": "138 Misc 2d 91",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        868251
+      ],
+      "pin_cites": [
+        {
+          "page": "94"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/138/0091-01"
+      ]
+    },
+    {
+      "cite": "141 Misc 2d 800",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        876164
+      ],
+      "pin_cites": [
+        {
+          "page": "802"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/141/0800-01"
+      ]
+    },
+    {
+      "cite": "149 Misc 2d 628",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        892277
+      ],
+      "pin_cites": [
+        {
+          "page": "630"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/149/0628-01"
+      ]
+    },
+    {
+      "cite": "161 AD2d 370",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        995820,
+        995366,
+        995111
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "371"
+        },
+        {
+          "page": "371"
+        },
+        {
+          "page": "371"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/161/0370-03",
+        "/ad2d/161/0370-02",
+        "/ad2d/161/0370-01"
+      ]
+    },
+    {
+      "cite": "130 AD2d 398",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3523628
+      ],
+      "pin_cites": [
+        {
+          "page": "400"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/130/0398-01"
+      ]
+    },
+    {
+      "cite": "240 AD2d 208",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1247690,
+        1247475
+      ],
+      "pin_cites": [
+        {
+          "page": "209"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/240/0208-01",
+        "/ad2d/240/0208-02"
+      ]
+    },
+    {
+      "cite": "255 AD2d 293",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        38767
+      ],
+      "pin_cites": [
+        {
+          "page": "294"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/255/0293-01"
+      ]
+    },
+    {
+      "cite": "199 AD2d 13",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1153384,
+        1154053
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/199/0013-01",
+        "/ad2d/199/0013-02"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1128,
+    "char_count": 22349,
+    "ocr_confidence": 0.799,
+    "pagerank": {
+      "raw": 5.0011153170616546e-08,
+      "percentile": 0.3138530470309273
+    },
+    "sha256": "02d58c5c77845036684e1877841159024568095ba216b5a5628d96b48ac481fa",
+    "simhash": "1:15b447946f66aa44",
+    "word_count": 3681
+  },
+  "last_updated": "2024-02-27T19:35:05.009820+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Morris Missry et al., Doing Business as Victoria Realty, Petitioners, v Edward Ehlich et al., Respondents."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nLucy Billings, J.\nI. The Pending Motions\nA. Respondent\u2019s Motion for Summary Judgment\nRespondent tenant Ehlich has moved for summary judgment dismissing this commercial nonpayment proceeding to recover possession of unit 3W at 112-114 West 14th Street, New York County. (CPLR 3212 [b].) Respondent alleges that the premises are an interim multiple dwelling (IMD) lacking a certificate of occupancy (CO) for residential use and in violation of the code compliance timetable for IMDs. (Multiple Dwelling Law \u00a7\u00a7 281, 284 [1]; \u00a7 285 [1]; 29 RCNY 2-01 [c].) Absent a valid CO, petitioner landlords may neither collect rent nor prevail in a proceeding for possession based on nonpayment of rent until the legal defect is cured. (Multiple Dwelling Law \u00a7 302 [1] [b]; 468-470 Ninth Ave. Corp. v Randall, 199 AD2d 13 [1st Dept 1993]; Jalinos v Ramkalup, 255 AD2d 293, 294 [2d Dept 1998]; see Zane v Kellner, 240 AD2d 208, 209 [1st Dept 1997]; Hornfeld v Gaare, 130 AD2d 398, 400 [1st Dept 1987].) While an IMD may qualify for an exemption from this bar, absent the IMD\u2019s legalization for residential use according to the statutory timetable, petitioners remain precluded from recovering rent or possession. (Multiple Dwelling Law \u00a7 284 [1]; \u00a7 285 [1]; 29 RCNY 2-01 [c]; County Dollar Corp. v Douglas, 161 AD2d 370, 371 [1st Dept 1990]; Goho Equities v Weiss, 149 Misc 2d 628, 630 [App Term, 1st Dept 1991]; Greeting Card Publs. v Spencer, 141 Misc 2d 800, 802 [Civ Ct, NY County 1988]; Cobra Resources v Dumpl, Inc., 138 Misc 2d 91, 94 [Civ Ct, NY County 1987].) Based on conflicting evidence, including respondent\u2019s own affidavit, regarding whether he has in fact used the loft unit for residential purposes and petitioners have condoned that use, the court has denied respondent\u2019s motion insofar as it seeks to dismiss the proceeding entirely. (Matter of Sara L., 249 AD2d 23 [1st Dept 1998]; Carlin v Crum & Forster Ins. Co., 191 AD2d 373 [1st Dept 1993]; King David Assoc. v Schonberger, 255 AD2d 423, 425 [2d Dept 1998]; see U.B.O. Realty Corp. v Mollica, 257 AD2d 460 [1st Dept 1999]; Metzendorf v 130 W. 57 Co., 132 AD2d 262, 265 [1st Dept 1987]; Ten Be Or Not Ten Be v Dibbs, NYLJ, June 12, 1985, at 11, col 4 [App Term, 1st Dept], affd 117 AD2d 1028 [1st Dept 1986].)\nB. Petitioners\u2019 Motion for Summary Judgment\nPetitioners, on the other hand, have cross-moved for summary judgment, alleging that respondent\u2019s unit has been used for commercial purposes since 1989, when, after evicting the residential occupants in 1988, petitioners filed an irrevocable restrictive covenant with the New York City Loft Board agreeing to maintain unit 3W as commercial for 15 years. (29 RCNY 2-08.1 [b] [formerly 2-08 (j) (2)].) In 1994, the Loft Board determined that petitioners were in compliance with the recorded covenant, and therefore unit 3W was not an IMD unit, based in part on an affidavit petitioners had procured from respondent that he was using the unit for commercial purposes.\nIn opposition, respondent relies on his current claim regarding the premises\u2019 status. First, he acknowledges that in 1988, before he moved into his loft unit, petitioners purchased its residential fixtures from the outgoing tenant for fair market value. This purchase of IMD unit improvements would have removed the unit from rent regulation, but for respondent\u2019s contention that the building housed at least five other residential units. (Multiple Dwelling Law \u00a7 286 [6].) He further contends that unit 3W continued to be used residentially until 1992, when he moved in. None of these allegations regarding occurrences predating respondent\u2019s occupancy, however, is on personal knowledge. (Thomas v Our Lady of Mercy Med. Ctr., 289 AD2d 37, 38 [1st Dept 2001]; Perez v Brux Cab Corp., 251 AD2d 157, 159 [1st Dept 1998]; Lardaro v New York City Bldrs. Group, 271 AD2d 574, 576 [2d Dept 2000].)\nSince 1992, in any event, respondent alleges that he has used unit 3W for residential purposes and petitioners have condoned that use, in violation of the recorded restrictive covenant filed with the Loft Board. (See, e.g., 182 Fifth Ave. v Design Dev. Concepts, 300 AD2d 198, 199 [1st Dept 2002]; Tracto Equip. Corp. v White, NYLJ, Mar. 21, 1997, at 36, col 4 [App Term, 2d Dept]; 315 Berry St. Corp. v Huang, NYLJ, Feb. 5, 2003, at 21, col 5 [Civ Ct, Kangs County].) He explains that petitioners, through fraud, duress, or undue influence, induced him to sign the 1994 affidavit of commercial use, by promising him subletting rights if he signed, threatening to make his tenancy miserable if he did not sign, and further promising never to use the affidavit against him. (Gibli v Kadosh, 279 AD2d 35, 38 [1st Dept 2000]; Polito v Polito, 121 AD2d 614, 615-616 [2d Dept 1986]; see Fruchthandler v Green, 233 AD2d 214 [1st Dept 1996]; Skluth v United Merchants & Mfrs., 163 AD2d 104, 106-107 [1st Dept 1990]; Dunn v Nissan Motor Co., 262 AD2d 444, 445 [2d Dept 1999]; Silver v Starrett, 176 Misc 2d 511, 515-516 [Sup Ct, NY County 1998].) To the extent respondent\u2019s affidavit waived his claim of residential use under duress or through fraudulent inducement, it invalidates that waiver. (Gibli v Kadosh, 279 AD2d at 40-41; Bloss v Va\u2019ad Harabonim of Riverdale, 203 AD2d 36, 37 [1st Dept 1994]; Mergler v Crystal Props. Assoc., 179 AD2d 177, 180 [1st Dept 1992].)\nII. The Effect of Respondent\u2019s 1994 Affidavit and the Loft Board\u2019s 1994 Determination\nA. Respondent\u2019s Affidavit\nPetitioners urge that respondent is estopped from taking a position inconsistent with his position in the 1994 Loft Board proceeding. Judicial estoppel precludes a party from making claims inconsistent with a position he successfully maintained in a prior adjudicatory proceeding. (Sandcham Realty Corp. v Taub, 292 AD2d 304, 305 [1st Dept 2002]; Secured Equities Invs. v McFarland, 300 AD2d 1137, 1138-1139 [4th Dept 2002].) The preclusive effect is the same whether the prior proceeding was administrative or judicial. (Matter of 67 Vestry Tenants Assn. v Raab, 172 Misc 2d 214, 219 [Sup Ct, NY County 1997]; see Inter-Power of N.Y. v Niagara Mohawk Power Corp., 208 AD2d 1073, 1075 [3d Dept 1994]; Matter of Casella v Crosson, 178 AD2d 963 [4th Dept 1991]; Tozzi v Long Is. R.R. Co., 170 Misc 2d 606, 612-613 [Sup Ct, Nassau County 1996].) Assuming the 1994 Loft Board proceeding was an adjudicatory proceeding to which this estoppel doctrine would apply, the flaw in petitioners\u2019 argument is that respondent was not a party to and did not take a position in the 1994 proceeding. (Kalikow 78/79 Co. v State of New York, 174 AD2d 7, 11 [1st Dept 1992]; Abramovich v Harris, 227 AD2d 1000, 1001 [4th Dept 1996]; Hinman, Straub, Pigors & Manning v Broder, 124 AD2d 392, 394 [3d Dept 1986].)\nEven if respondent is not estopped from relying on his current affidavits attesting to his residential use and to his excuse for attesting to the contrary in 1994, petitioners urge that the current affidavits are \u201cobvious fabrications intended to overcome summary judgment.\u201d (Carlin v Crum & Forster Ins. Co., 191 AD2d 373 [1993]; see Perez v Bronx Park S. Assoc., 285 AD2d 402, 404 [1st Dept 2001]; Phillips v Bronx Lebanon Hosp., 268 AD2d 318, 320 [1st Dept 2000]; Milton Weinstein Assoc. v NYNEX Corp., 266 AD2d 138, 139 [1st Dept 1999]; Hartman v Mountain Val. Brew Pub, 301 AD2d 570, 571 [2d Dept 2003].) While respondent\u2019s prior acknowledged false statement is not to be minimized, the current affidavit of residential use petitioners claim to be a fabrication was not in desperate opposition to their summary judgment motion, but affirmatively put forth in support of respondent\u2019s original motion. (E.g., Alvarez v New York City Hous. Auth., 295 AD2d 225, 226 [1st Dept 2002].) Second, respondent\u2019s excuse for the prior contrary affidavit is plausible, not \u201cobviously fabricated.\u201d In fact nothing, other than that one contrary affidavit procured by petitioners, contradicts respondent\u2019s evidence of residential use. (Matter of Sara L., 249 AD2d 23 [1998]; King David Assoc. v Schonberger, 255 AD2d at 425; see Milton Weinstein Assoc. v NYNEX Corp., 266 AD2d at 138-139.)\nB. The Loft Board\u2019s Determination\nFinally, petitioners urge that this court may not undo the Loft Board\u2019s administrative determination regarding the status of unit 3W at 112-114 West 14th Street. Petitioners claim this determination is both compelled by and equivalent to a zoning resolution prohibiting residential use. (See Wolinsky v Kee Yip Realty Corp., 302 AD2d 327 [1st Dept 2003]; Tan Holding Corp. v Wallace, 187 Misc 2d 687, 688-689 [App Term, 1st Dept 2001]; 315 Berry St. Corp. v Huang, NYLJ, Feb. 5, 2003, at 21, col 5.)\nAs to the first claim, a prohibition against residential use might apply, if, independent of such a prohibition, unit 3W does not qualify for protection under Multiple Dwelling Law \u00a7\u00a7 281-286. (Wolinsky v Kee Yip Realty Corp., 302 AD2d 327 [2003].) A zoning resolution itself does not disqualify the unit, as Multiple Dwelling Law \u00a7 281 (4) provides that buildings or portions of buildings still may meet the definition of an IMD (Multiple Dwelling Law \u00a7 281 [2]), and be used for residential purposes even if a local zoning resolution prohibits residential use. (Tan Holding Corp. v Wallace, 187 Misc 2d at 689; Miller v Margab Realty, NYLJ, Apr. 11, 2001, at 19, col 2 [Sup Ct, NY County].) Consequently, according to petitioners\u2019 own evidence, the City of New York, in litigation over section 281 (4), stipulated \u201cnot to enforce zoning provisions\u201d that would prevent legalization of residential use (affidavit of Christian Green, exhibit H), and thus the only impediment to unit 3W\u2019s residential use is \u201cthe duly recorded restrictive declaration\u201d that respondent claims petitioners have ignored. {Id., exhibit J.)\nAs to petitioners\u2019 second claim, it turns on \u201cthe distinction between ad hoc decision making based on individual facts and circumstances, and rulemaking, meaning \u2018any kind of legislative or quasi-legislative norm or prescription which establishes a pattern or course of conduct for the future.\u2019 \u201d (Matter of Alca Indus. v Delaney, 92 NY2d 775, 778 [1999] [citation omitted]; see Matter of DeJesus v Roberts, 296 AD2d 307, 310 [1st Dept 2002].) A zoning resolution, like the Loft Board\u2019s own rules, \u201cis a law of general applicability\u201d (Matter of Sour Mtn. Realty v New York State Dept. of Envtl. Conservation, 260 AD2d 920, 923 [3d Dept 1999]); \u201ca fixed, general principle to be applied . . . without regard to other facts and circumstances relevant to the regulatory scheme.\u201d (Matter of Roman Catholic Diocese v New York State Dept. of Health, 66 NY2d 948, 951 [1985]; Matter of DeJesus v Roberts, 296 AD2d at 310; Matter of 439 E. 88 Owners Corp. v Tax Commn. of City of N.Y., NYLJ, Dec. 9, 2002, at 23, col 2 [Sup Ct, NY County]; 1700 York Assoc. v Kaskel, 182 Misc 2d 586, 593 [Civ Ct, NY County 1999].) While a zoning provision does not necessarily regulate the general public, zoning requirements are policies \u201cinvariably applied across-the-board\u201d to the segment of the population within their ambit \u201cwithout regard to individual circumstances or mitigating factors.\u201d (Matter of Schwartfigure v Hartnett, 83 NY2d 296, 301 [1994]; see Matter of Cordero v Corbisiero, 80 NY2d 771, 772 [1992]; Matter of Singh v Taxi & Limousine Commn. of City of N.Y., 282 AD2d 368 [1st Dept 2001]; Matter of 439 E. 88 Owners Corp. v Tax Commn. of City of N.Y., NYLJ, Dec. 9, 2002, at 23, col 2; 1700 York Assoc. v Kaskel, 182 Misc 2d at 593-594.) Once formulated, a zoning resolution, a requirement of general applicability, applies uniformly to all buildings within the regulated zone, without further account of their characteristics. (Matter of Schwartfigure v Hartnett, 83 NY2d at 301; Matter of Sour Mtn. Realty v New York State Dept. of Envtl. Conservation, 260 AD2d at 923; Matter of 439 E. 88 Owners Corp. v Tax Commn. of City of N.Y., NYLJ, Dec. 9, 2002, at 23, col 2; 1700 York Assoc. v Kaskel, 182 Misc 2d at 594.)\nThe Loft Board\u2019s determination that unit 3W was \u201cnot an IMD\u201d based on circumstances individual to that unit, \u201cthat on September 9, 1989, the owner recorded with the City Registry an irrevocable covenant dated June 20, 1988\u201d (Green affidavit, exhibit I) \u201cis significantly different\u201d from enacting a \u201clegislative norm.\u201d (Matter of Alca Indus. v Delaney, 92 NY2d at 778.) Dictating non-IMD status for unit 3W by reference to a particular owner\u2019s past agreement is not a legislative prescription because the determination covers only that building and owner and does not establish a standard of conduct applicable to any other building or owner. (Id. at 778-779; Matter of New York City Tr. Auth. v New York State Dept. of Labor, 88 NY2d 225, 229-230 [1996]; Matter of Williams v Smith, 72 NY2d 939, 940 [1988]; Matter of Roman Catholic Diocese v New York State Dept. of Health, 66 NY2d at 951.) A legislative enactment or rulemaking, by contrast, sets and implements a fixed, blanket standard or procedure that directs action to be taken in the future and hence may be determinative of future adjudications, \u201cregardless of individual circumstances.\u201d (Matter of Alca Indus. v Delaney, 92 NY2d at 778; see Matter of Cordero v Corbisiero, 80 NY2d at 772; Matter of Schwartfigure v Hartnett, 83 NY2d at 301; Matter of J.D. Posillico, Inc. v Department of Transp. of State of N.Y., 160 AD2d 1113, 1114 [3d Dept 1990]; 1700 York Assoc. v Kaskel, 182 Misc 2d at 593-594.)\nIn sum, neither any zoning requirement nor any Loft Board ruling prohibits respondent\u2019s residential use of unit 3W. The Loft Board adjudication was based on and applicable to only petitioners\u2019 version of the circumstances. Respondent\u2019s version of the circumstances requires a new adjudication.\nIII. The Proper Adjudicatory Body\nOn April 24, 2003, respondent commenced a proceeding before the Loft Board to determine whether he is a protected residential tenant under Multiple Dwelling Law \u00a7\u00a7 281-286. (29 RCNY 2-09 [b] [1].) He maintains he learned of the Loft Board\u2019s 1994 determination only after petitioners commenced this eviction proceeding and hence too late to intervene, appeal, or request reconsideration. (CPLR 217; 29 RCNY 1-07 [b]; 1-07.1 [b].) Petitioners do not dispute respondent\u2019s unawareness nor claim respondent consciously \u201copted out\u201d of the 1994 proceeding brought by the landlord. (Matter of Marder v New York State Div. of Hous. & Community Renewal, 220 AD2d 204 [1st Dept 1995].)\nA. Concurrent Jurisdiction\nWhile the Loft Board may determine compliance with a restrictive covenant to maintain a unit as commercial and its consequent disqualification from IMD status, as the Board did in 1994, the court also may apply the covenant and governing rules and make these determinations. (29 RCNY 2-08.1 [b].) The court\u2019s determinations need not await the Loft Board\u2019s determinations of the issues. (County Dollar Corp. v Douglas, 161 AD2d at 371; Suraci v Mucktar, 187 Misc 2d 848, 850 [Civ Ct. NY County 2000].) \u201c \u2018Unless the Legislature has expressed an explicit intention to vest exclusive original jurisdiction in the administrative agency,\u2019 the court has concurrent jurisdiction.\u201d (Id., quoting County Dollar Corp. v Douglas, 161 AD2d at 371.)\nYet once the Loft Board has made an administrative determination that a landlord has complied under the Loft Board rules, the court must defer to the Board\u2019s sound discretion and lacks jurisdiction to make a compliance determination in the first instance. (29 RCNY 2-08.1 [b]; Matter of Perlrose Realty Corp. v New York City Loft Bd., 145 AD2d 159, 161 [1st Dept 1989]; Suraci v Mucktar, 187 Misc 2d at 850.) This deference, however, does not preclude the court\u2019s determination when the Loft Board has not ruled on the issue. (Id.)\nHere, the Loft Board has made an adjudicatory determination, but it does not bind respondent. Since he was not a party to the agency\u2019s adjudicatory proceeding, that ruling does not preclude whatever defenses he may have to this eviction proceeding, where the landlord claims his unit is commercial and not an IMD unit based on compliance with the restrictive covenant. (Matter of Marder v New York State Div. of Hous. & Community Renewal, 220 AD2d 204 [1995]; Suraci v Mucktar, 187 Misc 2d at 850.) An obvious defense is that the landlord has not complied with the restriction against residential use. Having occupied the unit during the period when petitioners claim compliance, respondent has standing to dispute that claim and the consequences flowing from it. (See 19 W. 36th Holding Corp. v Parker, 193 Misc 2d 519, 523 [Civ Ct, NY County 2002].) Presented with this defense, the court may adjudicate whether the landlord has violated the restriction. (Suraci v Mucktar, 187 Misc 2d at 850.)\nAdjudicating this claim requires application of the statutes and regulations governing lofts, but not Loft Board expertise to which judicial deference is necessary. The court in summary proceedings regularly adjudicates disputes involving interpretation of these laws and whether units are subject to them, as well as compliance with restrictive covenants. These questions, along with questions as to the collectible rent, may be determined by the Loft Board, but need not be. (Dundee Equity Corp. v Johnston, 103 AD2d 692, 693 [1st Dept 1984]; Haddad Corp. v Redmond Studio, 102 AD2d 730 [1st Dept 1984]; Baxter v Captain Crow Mgt., 128 Misc 2d 254, 261 [Sup Ct, NY County 1985]; see Axelrod v Duffin, 154 Misc 2d 310, 313-314 [App Term, 1st Dept 1992]; Baxter v Captain Crow Mgt., 128 Misc 2d at 263-264; Suraci v Mucktar, 187 Misc 2d at 851.)\nB. Primary Jurisdiction\nAlthough the court has concurrent jurisdiction over the issues pertaining to loft units presented here, it is to be exercised with an eye toward uniform evaluation of the relevant factors and avoidance of divergent determinations. (Davis v Waterside Hous. Co., 274 AD2d 318, 319 [1st Dept 2000]; Haddad Corp. v Redmond Studio, 102 AD2d 730 [1984]; Matter of Markow-Brown v Board of Educ. Port Jefferson Pub. Schools, 301 AD2d 653, 654 [2d Dept 2003]; Heller v Coca-Cola Co., 230 AD2d 768, 769-770 [2d Dept 1996].) Respondent may not use this proceeding to attack the Loft Board\u2019s prior administrative decision. (19 W. 36th Holding Corp. v Parker, 193 Misc 2d at 523.) Particularly since he has commenced a new Loft Board proceeding, and only the Board may undo its prior determination, the goal of uniformity dictates that the agency be afforded the opportunity to achieve consistency in the administrative adjudications, even where the parties in the current administrative proceeding differ from the single party in the prior proceeding. (29 RCNY 1-09; Matter of Marder v New York State Div. of Hous. & Community Renewal, 220 AD2d 204 [1995].)\nWhile the claim as to unit 3W\u2019s status was originally cognizable in the court, the 1994 proceeding before the Loft Board placed resolution of the issue in the agency\u2019s hands. (Matter of Markow-Brown v Board of Educ., 301 AD2d at 653-654; Heller v Coca-Cola Co., 230 AD2d at 769.) The agency may not have adjudicated the issue upon a full record and consideration of all concerned parties\u2019 positions; nevertheless, the agency has considered the issue over the course of more than a decade. (Id. at 770.) Therefore the court accords the Loft Board primary administrative review, stays this eviction proceeding, and withholds its ultimate determination until resolution of the pending administrative proceeding. (29 RCNY 1-09; Davis v Waterside Hous. Co., 274 AD2d at 319; Eli Haddad Corp. v Redmond Studio, 102 AD2d 730 [1984]; Axelrod v Duffin, 154 Misc 2d at 314.)\nIV Expedition of the Loft Board Proceeding\nThe duration of this stay and hence the delay in this proceeding is dependent on the duration of and any delay in the Loft Board proceeding. As a condition of the stay, respondent shall not delay the administrative proceeding, and to the extent the progress of the proceeding is in his control, he shall take all possible steps to expedite the proceeding.\nSince the progress of this summary proceeding now depends on the Loft Board proceeding, for this proceeding to remain consistent with its objective, to provide a simple, short, quick, and efficient determination, the Loft Board proceeding must be expedited. (Suraci v Mucktar, 187 Misc 2d at 851.) Respondent\u2019s precarious medical condition further dictates an expeditious resolution of his tenancy\u2019s status and the claims by and against him. (Matter of Weinreb Mgt. v New York State Div. of Hous. & Community Renewal, 297 AD2d 221, 223 [1st Dept 2002].) Both sides are entitled to know, as quickly as possible, who is obligated to whom for unpaid or overpaid rent, so they may take steps to limit their future exposure. Thus, \u201cwithout intruding on the prerogative of agency management,\u201d this case warrants \u201ca priority.\u201d (Matter of Bloom v Division of Hous. & Community Renewal of State of N.Y., 138 Misc 2d 523, 529 [Sup Ct, NY County 1988].)\nV Conclusion\nAlthough this court ultimately might reach the same result as the 1994 Loft Board adjudication, it does not dictate that same result without consideration of respondent\u2019s evidence, as well as any relevant factual developments since 1994, regarding the status of the premises respondent occupies. To avoid conflicting determinations, however, the court provides the agency an opportunity to revisit the issue in light of the new evidence. On the condition that the Loft Board conducts an expedited review of respondent\u2019s pending application, the court defers to the agency\u2019s primary jurisdiction and stays this proceeding, including determination of petitioners\u2019 summary judgment motion, pending the administrative determination. Petitioners may move to lift the stay upon receiving that determination or upon a showing that the determination is unduly delayed. {Id. at 530.)\n[Portions of opinion omitted for purposes of publication.]",
+        "type": "majority",
+        "author": "Lucy Billings, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Silberman & Rhine, LLP, New York City (Arthur Rhine of counsel), for Edward Ehlich, respondent. Borah, Goldstein, Altschuler, Schwartz & Nahins, PC., New York City (David R. Brody of counsel), for petitioners."
+    ],
+    "corrections": "",
+    "head_matter": "[765 NYS2d 176]\nMorris Missry et al., Doing Business as Victoria Realty, Petitioners, v Edward Ehlich et al., Respondents.\nCivil Court of the City of New York, New York County,\nMay 16, 2003\nAPPEARANCES OF COUNSEL\nSilberman & Rhine, LLP, New York City (Arthur Rhine of counsel), for Edward Ehlich, respondent. Borah, Goldstein, Altschuler, Schwartz & Nahins, PC., New York City (David R. Brody of counsel), for petitioners."
+  },
+  "file_name": "0723-01",
+  "first_page_order": 711,
+  "last_page_order": 721
+}

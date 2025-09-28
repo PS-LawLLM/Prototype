@@ -1,0 +1,602 @@
+{
+  "id": 1237537,
+  "name": "In the Matter of Grand Jury Subpoena Dated June 30, 2003",
+  "name_abbreviation": "In re Grand Jury Subpoena June 30, 2003",
+  "decision_date": "2003-07-29",
+  "docket_number": "",
+  "first_page": "510",
+  "last_page": "521",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Misc. 3d 510"
+    },
+    {
+      "type": "parallel",
+      "cite": "770 N.Y.S.2d 568"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 8791,
+    "name": "New York Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "781 F2d 238",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1536151
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/781/0238-01"
+      ]
+    },
+    {
+      "cite": "350 US 359",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12032821
+      ],
+      "pin_cites": [
+        {
+          "page": "362"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/350/0359-01"
+      ]
+    },
+    {
+      "cite": "425 US 564",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6180471
+      ],
+      "pin_cites": [
+        {
+          "page": "573"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/425/0564-01"
+      ]
+    },
+    {
+      "cite": "148 AD2d 238",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3582976
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/148/0238-01"
+      ]
+    },
+    {
+      "cite": "54 NY2d 437",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2341761
+      ],
+      "pin_cites": [
+        {
+          "page": "443"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/54/0437-01"
+      ]
+    },
+    {
+      "cite": "89 Misc 2d 275",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        1900156
+      ],
+      "pin_cites": [
+        {
+          "page": "277"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/89/0275-01"
+      ]
+    },
+    {
+      "cite": "186 NY 383",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2327024
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/186/0383-01"
+      ]
+    },
+    {
+      "cite": "3 NY2d 658",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2245970
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/3/0658-01"
+      ]
+    },
+    {
+      "cite": "84 AD2d 182",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3258566
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "195"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/84/0182-01"
+      ]
+    },
+    {
+      "cite": "50 NY2d 14",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4376083
+      ],
+      "pin_cites": [
+        {
+          "page": "19"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/50/0014-01"
+      ]
+    },
+    {
+      "cite": "2002 US Dist LEXIS 13560",
+      "category": "reporters:specialty_lexis",
+      "reporter": "U.S. Dist. LEXIS",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2002 WL 1728566",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "opinion_index": 0
+    },
+    {
+      "cite": "1994 US Dist LEXIS 4559",
+      "category": "reporters:specialty_lexis",
+      "reporter": "U.S. Dist. LEXIS",
+      "opinion_index": 0
+    },
+    {
+      "cite": "1994 WL 132392",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "opinion_index": 0
+    },
+    {
+      "cite": "561 F Supp 1247",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        3555276
+      ],
+      "pin_cites": [
+        {
+          "page": "1257"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/561/1247-01"
+      ]
+    },
+    {
+      "cite": "299 NY 194",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2076667
+      ],
+      "pin_cites": [
+        {
+          "page": "199"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/299/0194-01"
+      ]
+    },
+    {
+      "cite": "144 Misc 2d 1012",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        882050
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/144/1012-01"
+      ]
+    },
+    {
+      "cite": "346 US 855",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6938309,
+        6938405,
+        6938381,
+        6938360,
+        6938335
+      ],
+      "pin_cites": [
+        {
+          "page": "905"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/346/0855-01",
+        "/us/346/0855-05",
+        "/us/346/0855-04",
+        "/us/346/0855-03",
+        "/us/346/0855-02"
+      ]
+    },
+    {
+      "cite": "261 SW2d 339",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "case_ids": [
+        10185624
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/sw2d/261/0339-01"
+      ]
+    },
+    {
+      "cite": "159 Tex Crim 187",
+      "category": "reporters:state",
+      "reporter": "Tex. Crim.",
+      "case_ids": [
+        2477041
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/tex-crim/159/0187-01"
+      ]
+    },
+    {
+      "cite": "340 US 908",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6948940,
+        6948918,
+        6948895
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/340/0908-03",
+        "/us/340/0908-02",
+        "/us/340/0908-01"
+      ]
+    },
+    {
+      "cite": "184 F2d 691",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1236185
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/184/0691-01"
+      ]
+    },
+    {
+      "cite": "80 F Supp 226",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        661405
+      ],
+      "pin_cites": [
+        {
+          "page": "230"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/80/0226-01"
+      ]
+    },
+    {
+      "cite": "289 US 1",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3917212
+      ],
+      "pin_cites": [
+        {
+          "page": "15"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/289/0001-01"
+      ]
+    },
+    {
+      "cite": "113 Misc 2d 348",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        792520
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "352"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/113/0348-01"
+      ]
+    },
+    {
+      "cite": "8 NY2d 214",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2256339
+      ],
+      "pin_cites": [
+        {
+          "page": "219"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/8/0214-01"
+      ]
+    },
+    {
+      "cite": "742 F2d 61",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        613299
+      ],
+      "pin_cites": [
+        {
+          "page": "62"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/742/0061-01"
+      ]
+    },
+    {
+      "cite": "47 NY2d 215",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4370182
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "219"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/47/0215-01"
+      ]
+    },
+    {
+      "cite": "74 NY2d 716",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4416164
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/74/0716-01"
+      ]
+    },
+    {
+      "cite": "51 NY2d 62",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4381130
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "67-68"
+        },
+        {
+          "page": "68, 69"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/51/0062-01"
+      ]
+    },
+    {
+      "cite": "44 NY2d 575",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "pin_cites": [
+        {
+          "page": "582"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "284 US 421",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        5718752
+      ],
+      "pin_cites": [
+        {
+          "page": "438"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/284/0421-01"
+      ]
+    },
+    {
+      "cite": "339 US 323",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        362847
+      ],
+      "pin_cites": [
+        {
+          "page": "331"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/339/0323-01"
+      ]
+    },
+    {
+      "cite": "408 US 665",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1782792
+      ],
+      "pin_cites": [
+        {
+          "page": "686-687"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/408/0665-01"
+      ]
+    },
+    {
+      "cite": "475 US 1108",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6415776,
+        6414820,
+        6416071,
+        6415432,
+        6414923,
+        6415054,
+        6414738,
+        6415252,
+        6415543,
+        6415322,
+        6415676,
+        6415933
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/475/1108-10",
+        "/us/475/1108-02",
+        "/us/475/1108-12",
+        "/us/475/1108-07",
+        "/us/475/1108-03",
+        "/us/475/1108-04",
+        "/us/475/1108-01",
+        "/us/475/1108-05",
+        "/us/475/1108-08",
+        "/us/475/1108-06",
+        "/us/475/1108-09",
+        "/us/475/1108-11"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1063,
+    "char_count": 26439,
+    "ocr_confidence": 0.75,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.04646660867100746
+    },
+    "sha256": "6df0367c1c6d4d7ce7e8b61b3fd89b8e78cf08f4f222ea47dca38e96a4b5bf84",
+    "simhash": "1:9ca54eb292ca2644",
+    "word_count": 4378
+  },
+  "last_updated": "2024-02-27T19:35:05.009820+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of Grand Jury Subpoena Dated June 30, 2003."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nRobert W. Doyle, J.\nBefore the court is an application by the District Attorney of Suffolk County to compel certain witnesses before a grand jury to answer questions propounded of them. The grand jury, which was empaneled by this court on June 17, 2003, is investigating the murder of an individual in East Hampton, New York. The witnesses, both of whom are attorneys representing individuals allegedly connected to the events surrounding the homicide, have asserted, on behalf of their clients, that the answers to the questions posed to them are protected from disclosure based upon attorney-client privilege and the fact that the information is attorney work product.\nIn pursuing the particular line of questioning before the grand jury, the Assistant District Attorney presenting this case was seeking information as to the whereabouts of a certain laptop computer, which she believes can provide critical evidence for the grand jury. This laptop computer had direct access to a video security and surveillance system, an Ademco Rapid Eye digital video system, that had been installed in the residence of the homicide victim. In support of her application, the Assistant District Attorney has set forth evidence which establishes that during the time period in which it is believed that the homicide took place, the laptop computer in question did, in fact, access the video security system. Thus the evidence suggests that this laptop computer could have assisted the perpetrator in the commission of the homicide by turning off the security system at that critical period of time and allowing the perpetrator unfettered access to the residence. The District Attorney contends that this laptop computer is to be considered an instrumentality of the crime. At the very least, the District Attorney asserts that the laptop computer provides evidence, including possible video images of the inside of the victim\u2019s residence, which is critical to the grand jury in their investigation of the murder.\nIn examining the issues raised by the parties, it is important to consider that a grand jury derives its power from New York Constitution, article I, \u00a7 6 and the laws of New York (CPL 190.05 et seq.) and is deeply rooted as an institution within our system of justice. The grand jury serves as an arm of the court and not of the prosecutor (CPL 190.05; see also, Bellacosa, Practice Commentary, McKinney\u2019s Cons Laws of NY, Book 11A, CPL 190.05, at 185), and has as its primary function to investigate crimes and to determine whether sufficient evidence exists to accuse an individual of a crime (Matter of Additional Jan. 1979 Grand Jury of Albany Supreme Ct. v Doe, 50 NY2d 14, 19 [1980]). Since no individual may be prosecuted for a felony without his or her consent except upon an indictment by a grand jury, it has been said that \u201cthe Grand Jury plays a fundamental role in the administration of our criminal justice system\u201d (People v Doe, 84 AD2d 182, 195 [1981]). To fulfill its investigatory function, the grand jury possesses broad powers whose scope cannot be limited (see, People v Stern, 3 NY2d 658 [1958]; People ex rel. Livingston v Wyatt, 186 NY 383 [1906]). Thus, it has been held that constitutional and statutory rights of the individual must sometimes yield to a grand jury\u2019s search for evidence (Matter of New York State Tax Commn. v State Organized Crime Task Force, 89 Misc 2d 275, 277 [1977] [and citations within]; see Virag v Hynes, 54 NY2d 437, 443 [1981]; People v Doe, 84 AD2d 182 [1981]).\nAs an investigatory body with broad exploratory powers, the scope of a grand jury investigation is not to be limited narrowly by questions of propriety or forecasts of the probable result of the investigation, or by doubts concerning whether any particular individual will be found properly subject to an accusation of crime (Matter of Kuriansky v Seewald, 148 AD2d 238 [1989]). The broad power of the grand jury is designed to protect citizens from unfair charges and, in that capacity, it can summon people suspected of crimes or people who \u201cmay be able to provide links in a chain of evidence relating to criminal conduct of others\u201d (United States v Mandujano, 425 US 564, 573 [1976]; Costello v United States, 350 US 359, 362 [1956]; In re Grand Jury Subpoena Served Upon Doe, 781 F2d 238 [1986], cert denied 475 US 1108 [1986]). In other words, the grand jury has a dual function: to determine if a crime has been committed under appropriate legal standards and to protect citizens against unfounded criminal charges (Branzburg v Hayes, 408 US 665, 686-687 [1972]).\nAlthough the powers of the grand jury are not unlimited and are subject to the supervision of a judge, the long-standing principle that \u201cthe public . . . has a right to every man\u2019s evidence,\u201d except for those persons protected by a constitutional, common-law, or statutory privilege (United States v Bryan, 339 US 323, 331 [1950]; Blackmer v United States, 284 US 421, 438 [1932]; 8 Wigmore, Evidence \u00a7 2192 [McNaughton rev 1961]), is applicable to grand jury proceedings. However, the grand jury\u2019s power in the gathering of relevant evidence is not unlimited and it must exercise its broad investigatory powers \u201cin accordance with the procedural and evidentiary rules laid down in the Criminal Procedure Law and other statutes\u201d (Matter of New York State Dept. of Taxation & Fin. v New York State Dept. of Law, Statewide Organized Crime Task Force, 44 NY2d 575, 582 [1978]). Indeed, CPL 190.30 (1) provides that the rules of evidence governing criminal proceedings in general are applicable to grand jury proceedings.\nHere, the witnesses have asserted, inter alia, that the questions propounded by the District Attorney would require disclosure of information that is protected by attorney-client privilege.\nThe attorney-client privilege is codified in CPLR 4503 (a). The privilege exists to insure that one seeking legal advice will be able to confide fully and freely in his or her attorney, secure in the knowledge that any confidences will not later be exposed to public view. This privilege, however, is not limitless (see, Priest v Hennessy, 51 NY2d 62, 67-68 [1980]; see also, Hoopes v Carota, 74 NY2d 716 [1989]; Matter of Jacqueline F., 47 NY2d 215 [1979]). CPLR 4503 (a) provides that\n\u201cUnless the client waives the privilege, an attorney or his employee, or any person who obtains without the knowledge of the client evidence of a confidential communication made between the attorney or his employee and the client in the course of professional employment, shall not disclose, or be allowed to disclose such communication, nor shall the client be compelled to disclose such communication, in any action, disciplinary trial or hearing, or administrative action, proceeding or hearing conducted by or on behalf of any state, municipal or local government agency or by the legislature or any committee or body thereof. Evidence of any such communication obtained by any such person, and evidence resulting therefrom, shall not be disclosed by any state, municipal or local governmental agency or by the legislature or any committee or body thereof. The relationship of an attorney and client shall exist between a professional service corporation organized under article fifteen of the business corporation law to practice as an attorney and counselor-at-law and the clients to whom it renders legal services.\u201d\nHowever, since the privilege prevents disclosure of relevant evidence and thus impedes the grand jury\u2019s quest for truth, it must \u201cbe strictly confined within the narrowest possible limits consistent with the logic of its principle.\u201d (In re Shargel, 742 F2d 61, 62 [2d Cir 1984], citing 8 Wigmore, Evidence \u00a7 2291, at 554 [McNaughton rev 1961].) Indeed, it has long been recognized that \u201cthe attorney-client privilege constitutes an \u2018obstacle\u2019 to the truth-finding process, the invocation of which should be cautiously observed to ensure that its application is consistent with its purpose\u201d (Matter of Jacqueline F., supra, 47 NY2d 215, 219 [1979]).\nIn exploring the extent of the privilege, the Court of Appeals has acknowledged that defining its limits is not an easy task and has offered as guidance that \u201c \u2018much ought to depend on the circumstances of each case\u2019 \u201d (see Matter of Jacqueline F., supra at 222; Matter of Kaplan [Blumenfeld], 8 NY2d 214, 219 [1960], quoting 8 Wigmore, Evidence \u00a7 2313, at 609 [McNaughton rev 1961]). However, the court has set forth four general principles to be applied in determining whether certain communications are protected by the privilege (Priest v Hennessy, supra, 51 NY2d 62 [1980]). First, no attorney-client privilege can be claimed unless an attorney-client relationship has been established. The relationship arises when an attorney is contacted for the purpose of obtaining legal advice or services. Second, it must be shown that the information sought to be protected by the privilege was a confidential communication made to the attorney for the purpose of obtaining legal advice or services. Third, the party claiming the privilege has the burden of proving each element of the privilege. Fourth, in a proper case, public policy may require disclosure (Priest v Henessy, supra, 51 NY2d at 68, 69).\nIn applying these principles to the issues before it, the court finds that the witnesses have not established that the questions propounded by the Assistant District Attorney before the grand jury require the divulgence of matter protected by attorney-client privilege.\nIt should be noted, initially, that each of the witnesses acknowledged in their testimony before the grand jury that they had possession of the laptop computer in question for a \u201cbrief period of time in November, 2001\u201d but that they no longer had possession of it. However, when the Assistant District Attorney-sought information regarding who delivered the laptop to their offices and whether or not certain individuals were present when the laptop was delivered, each of them asserted that the information sought was protected by attorney-client privilege. Additionally, the witnesses asserted that same privilege when they were asked about what they did with the laptop while it was in their possession and whether or not they had the laptop computer or any portion of it copied while it was in their possession. Neither witness would answer the question of whether they had created the compact disc that had been produced in response to the subpoena or the significance of the initials \u201cDPS\u201d that had been written on the disc itself. Although the witnesses acknowledged that the compact disc that had been produced included all of the files from the laptop for the Rapid Eye security system, neither would answer questions about who decided which files to copy or who created the disc. Finally, the witnesses also refused to answer questions regarding how the laptop left their possession, to whom the laptop was given as well as questions about its present location.\nIn rejecting the arguments raised by the witnesses, the court initially finds that there is significant evidence in the record before it that this laptop was an instrumentality of the crime being investigated by this grand jury. The grand jury heard evidence that an Ademco video surveillance system had been installed in the home at 59 Middle Lane where the victim was murdered and that this system had the ability to store images from the digital video cameras located within the house on the \u201chard drive\u201d of the system. There was also evidence that a person who possessed a laptop computer with the Ademco software installed on it could remotely view live images from the seven cameras located throughout the house and could also view images stored within the memory of the \u201chard drive\u201d in the house. Further, there was testimony that the entire system could be controlled remotely from a laptop, including the ability to power down the system and to turn it back on.\nThe grand jury also heard evidence that one of the targets of the grand jury inquiry authorized the installation of the Ademco system in the victim\u2019s residence and that the software necessary to access the hard drive of that system, as well as the live cameras, was installed on a laptop computer possessed by this target and which is the subject of this application. There was also testimony that this laptop was in the possession of the sister of this target at or about the time of the murder and that three months after the murder, the individual who is a target of this investigation married the widow of the murder victim. Testimonial evidence was also presented which established that the laptop computer in question was used to access the Ademco system numerous times on the weekend of the murder including the day before the body of the victim was first discovered. Surely, it might well be argued that under these circumstances, the laptop was used to help facilitate the commission of the murder under investigation.\nIn People v Investigation Into Certain Weapon (113 Misc 2d 348 [1982]), the court was presented with a motion to quash a grand jury subpoena duces tecum seeking the production of all tangible property relating to an automatic pistol, including ammunition and an ammunition clip. The underlying allegation involved a charge that a defendant, armed with two guns, had attempted to kill a police officer during the course of a robbery. One of the guns was later found but without its ammunition clip and bullets. The District Attorney maintained that the attorney for defendant had possession of these items and a subpoena was served upon him requiring their production. The attorney, while acknowledging possession of these items, moved to quash that subpoena upon the ground that any of the property received by him was the result of privileged communications between attorney and client.\nThe court rejected the arguments of counsel finding that any issue regarding privilege gave way to an attorney\u2019s professional responsibilities when he is in possession of parts of a pistol which may have been involved in the commission of a crime. The court (at 352), acknowledging that it was an abuse of a lawyer\u2019s professional duties to knowingly take possession of and secrete the instrumentalities of a crime, stated that \u201c[t]he attorney-client privilege is not a cloak which permits either the defendant or his attorney to withhold evidence of criminality.\u201d The court continued that \u201c[o]therwise instrumentalities and fruits of crime would be beyond the reach of the law by the mere fact that a defendant turned them over to an attorney\u201d (People v Investigation Into Certain Weapon, supra at 352). The court concluded that public policy requires that the tangible property, \u201cfor which there are reasonable grounds to believe may have been involved in a crime, should be made available to the Grand Jury for its investigation.\u201d (Id.)\nIn the case at bar and as previously noted, there is reasonable grounds to believe that the laptop computer in question may have been involved in the commission of a crime. There was significant and credible evidence before the grand jury to support such a conclusion and nothing offered by either of the witnesses who are asserting the attorney-client privilege has suggested otherwise. In fact, there seems to be little argument that the laptop computer in question did have the ability to access the video surveillance system. This fact along with the evidence that the laptop did access the system on numerous times on the weekend in question is strong evidence to suggest that the laptop was involved in the commission of the crime and was, in fact, an instrumentality of that crime. To reach any other conclusion would be to ignore the evidence already before the grand jury and the reasonable inferences to be drawn therefrom.\nIt is interesting to note that in the above-mentioned case, the court reasoned that if it granted the motion to quash the subpoena, it would have been placing instrumentalities and fruits of crime beyond the reach of the law by the mere fact that defendant turned them over to an attorney. In the case at bar, if the court were to adopt the arguments raised by the witnesses, it would be placing the instrumentalities and fruits of the crime beyond the reach of the grand jury by the mere fact that counsel turned the evidence over to a third party.\nThe witnesses however argue that there exists a distinction between the facts in the case of People v Investigation Into Certain Weapon, where an attorney was required to produce physical evidence, and the case at bar where they are being asked to give testimonial evidence regarding that physical evidence. The court discerns no distinction. It is illogical to assert, as counsel for the witnesses appears to, that the court in that case would direct that counsel turn over the evidence in response to the subpoena, but if the attorney turns such evidence over to someone else, not require him to reveal the identity of the individual to whom he had given that evidence. To reach any other conclusion would be to sanction a methodology for the obstruction of the purpose of the grand jury, the investigation of criminal wrongdoing. As noted above, an attorney who is in possession of either evidence of or the instrumentality of a crime need only turn that evidence over to a third party to put that evidence beyond the reach of the grand jury. That result cannot be sanctioned.\nWere this court to rule otherwise, such a ruling would be in contravention of the broad powers of the grand jury and would, in certain instances, authorize the perpetration of a fraud upon the grand jury and the public at large. While not suggesting that the conduct of the witnesses in this case has been anything less than ethical, it has been recognized that in instances involving the disposition of evidence of a crime, courts have not hesitated to acknowledge that the attorney-client privilege must yield to investigation of criminal wrongdoing. Thus, in Clark v United States (289 US 1, 15 [1933]), Mr. Justice Cardozo expressed the opinion that while \u201c[t]here is a privilege protecting communications between attorney and client. . . [t]he privilege takes flight if the relation is abused. A client who consults an attorney for advice that will serve him in the commission of a fraud will have no help from the law. He must let the truth be told.\u201d Further, in Securities & Exch. Commn. v Harrison (80 F Supp 226, 230 [D DC 1948], appeal dismissed 184 F2d 691, judgment vacated as moot 340 US 908 [1950]), the court held that the attorney-client privilege has \u201cnever been intended to be, and should not be, a cloak or shield for the perpetration of a crime or fraudulent wrong doing. One who consults an attorney to secure aid or assistance in the perpetration of a future crime or fraudulent wrong doing is not consulting that attorney for the legitimate purposes which are protected by the privilege. If, therefore, it be shown by evidence other than the disclosure of the communications between client and attorney that aid or assistance is being sought for the perpetration of crime or fraudulent wrong doing, there is no immunity to the testimonial process respecting such communications.\u201d Finally, it was noted in Clark v State (159 Tex Crim 187, 261 SW2d 339 [1953], cert denied and reh denied sub nom. 346 US 855, 905 [1953]) that a lawyer\u2019s advice to get rid of a gun used to commit a murder was admissible in evidence over the objection that the statement was privileged. The court observed that the conversation was not within the realm of legitimate professional conduct and employment and was therefore not protected.\nThere is one issue raised by the witnesses that merits further discussion. As has been previously noted, one of the questions asked of the witnesses before the grand jury concerned the identity of the individual who gave them the laptop computer and the circumstances surrounding their receipt of it. Relying on the case of Matter of Grand Jury Subpoena of Stewart (144 Misc 2d 1012 [1989]), the witnesses assert that the grand jury has already heard evidence about the circumstances of the production of the laptop from the testimony of the sister of one of the targets of the grand jury inquiry and that, therefore, there is no need to compel this testimony from these witnesses. Certainly, the Assistant District Attorney has asserted that the grand jury has heard testimony regarding the turnover of the laptop computer to the witnesses. However, this testimony establishes that an individual other than the sister of the target was responsible for delivering the laptop to counsel\u2019s office. Had the sister delivered the laptop to counsel, it might be argued that any testimony about the turnover might reveal conversations had between an attorney and client, but that is not the case here.\nIn reaching this conclusion, it is important to note that the court is not directing that the witnesses testify as to any conversations that the witnesses had with either their client or the client of any other attorney covered by the asserted joint defense agreement. The court is only directing them to reveal information regarding evidence that could be, at the very least, a critical part of the grand jury investigation and, quite possibly, the instrumentality of the crime being investigated. Of course, the court recognizes that the attorney-client privilege protects not only conventional utterances but also extends to acts, such as the production of an item, performed by the client in the attorney\u2019s presence and intended by the client as a confidential communication (see, Prince, Richardson on Evidence \u00a7 5-205, at 235 [Farrell 11th ed]; see also, People v Daghita, 299 NY 194, 199 [1949]). However, there has been no evidence produced by the parties asserting the privilege that the laptop was turned over by a client or by any party covered by the asserted joint defense agreement. In fact, the evidence before the court as well as the grand jury is to the contrary.\nWith regard to the witnesses\u2019 argument that compelling them to answer questions before the grand jury would require them to reveal attorney work product, there is no basis for such a claim. \u201c[T]hree conditions must be met to earn work product protection. The material must (1) be a document or tangible thing, (2) that was prepared in anticipation of litigation, and (3) was prepared by or for a party, or by or for his representative.\u201d (In re Grand Jury Subpoenas Dated Dec. 18, 1981 & Jan. 4, 1982, 561 F Supp 1247, 1257 [1982]; see also, Weinhold v Witte Heavy Lift, Inc., 1994 WL 132392, 1994 US Dist LEXIS 4559 [1994].) Here, there is no doubt that the testimony about the location of the laptop computer cannot be considered attorney work product. The laptop computer and any of the information or images contained thereon was not prepared in anticipation of litigation but rather is evidence of what transpired inside the residence on 59 Middle Lane, East Hampton, New York. Moreover, it is disingenuous for counsel to argue that the laptop is attorney work product and yet, at the same time, argue to the court that it no longer has possession of that work product.\nFinally, there exists one issue that was raised by the court during the course of oral argument before it. It is agreed by all of the parties that in response to the subpoena, the witnesses produced a compact disc that they alleged contained all of the relevant files from the laptop in question involving the video surveillance system at 59 Middle Lane, East Hampton. In light of the fact that the witnesses were asserting attorney-client privilege with respect to the laptop and any information about it, the court inquired whether that privilege had been waived by the parties when they partially disclosed information from the laptop (see, Johnson Matthey, Inc. v Research Corp., 2002 WL 1728566, 2002 US Dist LEXIS 13560 [2002]). In response to the inquiry, both sides asserted before the court that an agreement was reached whereby the production by the witnesses of the compact disc would not result in any waiver of any privilege with respect to any other evidence. Although not acknowledging that the court or the grand jury is bound by the agreements reached between the Assistant District Attorney and counsel for the witnesses, the court finds that there exists an ample and independent basis, aside from the issue of waiver, for the court to grant the application.\nAccordingly, the application by the Assistant District Attorney to compel the witnesses to answer questions regarding their receipt of a certain laptop computer as well as its subsequent transfer to third parties along with any questions regarding what was done to the laptop while in the possession of the witnesses is granted. The witnesses, who have each been served with a subpoena and who were in the process of testifying before the grand jury at the time that the present application was made, are directed to reappear before the grand jury to continue their testimony at the convenience of the grand jury and the Assistant District Attorney assigned to this investigation.\n. In response to the subpoena, the witnesses produced a compact disc which \u201cwas created from the hard drive of a laptop computer that had the ability to access the video security system at 59 Middle Lane, East Hampton, New York.\u201d\n. This information had also been provided to the District Attorney\u2019s office in affirmations submitted to it in response to the grand jury subpoena.\n. It is asserted by the witnesses that a joint defense agreement existed among counsel for the above-mentioned target, the sister of that target and the widow of the victim. Assuming that such an agreement did exist (but not deciding that issue at this time), a joint defense agreement would protect conversations between those parties and any other the attorneys involved in the joint defense agreement from disclosure as privileged communications between attorney and client.",
+        "type": "majority",
+        "author": "Robert W. Doyle, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Thomas J. Spota, District Attorney, Riverhead {Janet Albert-son of counsel), for Suffolk County. McLaughlin & Stern, LLP, New York City {Steven J. Hyman of counsel), for witnesses."
+    ],
+    "corrections": "",
+    "head_matter": "[770 NYS2d 568]\nIn the Matter of Grand Jury Subpoena Dated June 30, 2003.\nSupreme Court, Suffolk County,\nJuly 29, 2003\nAPPEARANCES OF COUNSEL\nThomas J. Spota, District Attorney, Riverhead {Janet Albert-son of counsel), for Suffolk County. McLaughlin & Stern, LLP, New York City {Steven J. Hyman of counsel), for witnesses."
+  },
+  "file_name": "0510-01",
+  "first_page_order": 498,
+  "last_page_order": 509
+}

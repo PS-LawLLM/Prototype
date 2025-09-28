@@ -1,0 +1,164 @@
+{
+  "id": 1237508,
+  "name": "Allcity Insurance Company, as Subrogee of Jane Thomas, Appellant, v. Eagle Insurance Company et al., Respondents",
+  "name_abbreviation": "Allcity Insurance v. Eagle Insurance",
+  "decision_date": "2003-09-03",
+  "docket_number": "",
+  "first_page": "41",
+  "last_page": "43",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Misc. 3d 41"
+    },
+    {
+      "type": "parallel",
+      "cite": "768 N.Y.S.2d 73"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. App. Term",
+    "id": 8833,
+    "name": "New York Supreme Court, Appellate Term"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "286 AD2d 953",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        218168,
+        218409
+      ],
+      "pin_cites": [
+        {
+          "page": "955"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/286/0953-02",
+        "/ad2d/286/0953-01"
+      ]
+    },
+    {
+      "cite": "259 AD2d 971",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        889770,
+        890054
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/259/0971-02",
+        "/ad2d/259/0971-01"
+      ]
+    },
+    {
+      "cite": "96 NY2d 755",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "94 NY2d 499",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        109808
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/94/0499-01"
+      ]
+    },
+    {
+      "cite": "237 AD2d 153",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        186676
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/237/0153-01"
+      ]
+    },
+    {
+      "cite": "67 NY2d 169",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4402760
+      ],
+      "pin_cites": [
+        {
+          "page": "175"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/67/0169-01"
+      ]
+    },
+    {
+      "cite": "89 NY2d 214",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        319792
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/89/0214-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 305,
+    "char_count": 4188,
+    "ocr_confidence": 0.767,
+    "pagerank": {
+      "raw": 8.411867578422581e-08,
+      "percentile": 0.48321369315353907
+    },
+    "sha256": "90fa10f409179f6444465707961713635befef777271c2af503b763fc13bb45e",
+    "simhash": "1:28c156a12d10d659",
+    "word_count": 674
+  },
+  "last_updated": "2024-02-27T19:35:05.009820+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Allcity Insurance Company, as Subrogee of Jane Thomas, Appellant, v Eagle Insurance Company et al., Respondents."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nMemorandum.\nOrder unanimously modified by providing that the petition is granted insofar as it sought to vacate the arbitrator\u2019s award and matter remanded for arbitration before a different arbitrator; as so modified, affirmed without costs.\nPursuant to the mandatory arbitration provisions of Insurance Law \u00a7 5105, petitioner Allcity Insurance Company as subrogee of Jane Thomas (Allcity) filed a demand for arbitration on March 1, 1999 seeking reimbursement of no-fault payments it made to its subrogor by checks dated February 5, 1997. Arbitration Forums Inc. twice denied the claim on the ground that the statute of limitations had expired. Allcity commenced a special proceeding to vacate the arbitrator\u2019s award. By order entered October 30, 2000, the court below granted Allcity\u2019s first petition and remanded the matter for a new hearing. Allcity sought arbitration for a second time and, following the hearing, Arbitration Forums Inc. again dismissed the claim on the aforementioned statute of limitations ground. Allcity then filed the instant petition to vacate the February 2002 arbitrator\u2019s award, and sought sanctions against Arbitration Forums Inc. By order entered August 7, 2002, the court denied Allcity\u2019s second petition, finding that it was not based on one of the limited grounds upon which such an award may be vacated pursuant to CPLR 7511 and that the arbitrator applied the correct statute of limitations.\nThe Civil Court determined, upon granting Allcity\u2019s first petition and remanding the matter for arbitration, that the arbitrator\u2019s award dismissing the claim as barred by the statute of limitations was not based on the evidence and that it was arbitrary and capricious for the arbitrator to dismiss the claim since Allcity timely made its demand for arbitration within three years of its first no-fault payment (see CPLR 214 [2]; Matter of Motor Veh. Acc. Indem. Corp. v Aetna Cas. & Sur. Co., 89 NY2d 214 [1996]; Aetna Life & Cas. Co. v Nelson, 67 NY2d 169, 175 [1986]; Matter of Budget Rent-A-Car [State Ins. Fund], 237 AD2d 153 [1997]; Allcity Ins. Co. v American Tr. Ins. Co., NYLJ, Feb. 8, 2000, at 28, col 3 [App Term, 2d & 11th Jud Dists]).\nUpon a review of the record, we agree with the October 30, 2000 determination of the court below and note that inasmuch as the parties had a \u201cfull and fair\u201d opportunity to litigate this issue, said determination constituted the law of the case and the August 2002 order of the court below erroneously fails to abide by same (see People v Evans, 94 NY2d 499 [2000], rearg denied 96 NY2d 755 [2001]). Moreover, in Matter of Motor Veh. Acc. Indem. Corp. v Aetna Cas. & Sur. Co. (89 NY2d 214 [1996], supra), the Court of Appeals determined that closer judicial scrutiny is required, and the arbitrary and capricious standard is applicable, if arbitration is compulsory pursuant to a statutory mandate (id. at 223). To the extent that the Fourth Department case, Matter of Allstate Ins. Co. v Clarendon Natl. Ins. Co. (259 AD2d 971 [1999]), is inconsistent with the Court of Appeals\u2019 holding in Matter of Motor Veh. Acc. Indem. Corp. v Aetna Cas. & Sur. Co. (supra), it is not controlling.\nFurthermore, although we deem the issue concerning the implicit denial by the court below of that branch of Allcity\u2019s petition seeking the imposition of sanctions against Arbitration Forums Inc. abandoned since Allcity did not raise said issue in its appellate brief (see Baliva v State Farm Mut. Auto. Ins. Co., 286 AD2d 953, 955 [2001]), we are disturbed by Arbitration Forums Inc.\u2019s, and its administrator\u2019s, willful disregard of a lawful court order.\nPesce, EJ., Golia and Rios, JJ., concur.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Serpe, Andree & Kaufman, Huntington (<Jonathan H. Kaufman of counsel), for appellant. Samuel K. Rubin, Bethpage (Lawrence R. Miles of counsel), for Eagle Insurance Company, respondent. Wade Clark Mulcahy, New York City (Nicole Y Brown of counsel), for Arbitration Forums, Inc., respondent."
+    ],
+    "corrections": "",
+    "head_matter": "[768 NYS2d 73]\nAllcity Insurance Company, as Subrogee of Jane Thomas, Appellant, v Eagle Insurance Company et al., Respondents.\nSupreme Court, Appellate Term, Second Department,\nSeptember 3, 2003\nAPPEARANCES OF COUNSEL\nSerpe, Andree & Kaufman, Huntington (<Jonathan H. Kaufman of counsel), for appellant. Samuel K. Rubin, Bethpage (Lawrence R. Miles of counsel), for Eagle Insurance Company, respondent. Wade Clark Mulcahy, New York City (Nicole Y Brown of counsel), for Arbitration Forums, Inc., respondent."
+  },
+  "file_name": "0041-01",
+  "first_page_order": 83,
+  "last_page_order": 85
+}

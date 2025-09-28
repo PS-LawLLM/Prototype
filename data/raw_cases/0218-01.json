@@ -1,0 +1,193 @@
+{
+  "id": 1237565,
+  "name": "Patrick DePierro, Petitioner, v. City of New York et al., Respondents",
+  "name_abbreviation": "DePierro v. City of New York",
+  "decision_date": "2003-08-28",
+  "docket_number": "",
+  "first_page": "218",
+  "last_page": "221",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Misc. 3d 218"
+    },
+    {
+      "type": "parallel",
+      "cite": "768 N.Y.S.2d 163"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 8791,
+    "name": "New York Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "66 NY2d 516",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4400491
+      ],
+      "pin_cites": [
+        {
+          "page": "518"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/66/0516-01"
+      ]
+    },
+    {
+      "cite": "149 NYS2d 443",
+      "category": "reporters:state",
+      "reporter": "N.Y.S.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "289 NY 29",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2054038
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/289/0029-01"
+      ]
+    },
+    {
+      "cite": "57 AD2d 394",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        5483926
+      ],
+      "pin_cites": [
+        {
+          "page": "400"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/57/0394-01"
+      ]
+    },
+    {
+      "cite": "46 NY2d 816",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2342637
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/46/0816-01"
+      ]
+    },
+    {
+      "cite": "5 NY2d 954",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2250462
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/5/0954-01"
+      ]
+    },
+    {
+      "cite": "4 AD2d 545",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        2979957
+      ],
+      "pin_cites": [
+        {
+          "page": "550"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/4/0545-01"
+      ]
+    },
+    {
+      "cite": "73 NY2d 395",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4412281
+      ],
+      "pin_cites": [
+        {
+          "page": "403"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/73/0395-01"
+      ]
+    },
+    {
+      "cite": "60 NY2d 183",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4393220
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/60/0183-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 504,
+    "char_count": 7967,
+    "ocr_confidence": 0.744,
+    "pagerank": {
+      "raw": 2.0446031217563963e-07,
+      "percentile": 0.7486366965796075
+    },
+    "sha256": "bebe2a52a9fc28c8dc1a7ec282c910425e37d7f05b93dd7172dd7d09ca2be90b",
+    "simhash": "1:2af6d641d69a78ca",
+    "word_count": 1259
+  },
+  "last_updated": "2024-02-27T19:35:05.009820+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Patrick DePierro, Petitioner, v City of New York et al., Respondents."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nNicholas Figueroa, J.\nPetitioner, a firefighter, seeks a judgment, pursuant to CPLR article 78, annulling respondents\u2019 determination which denied him prior service credit as a police officer with the Police Department of the City of New York (NYPD) for purposes of computing his seniority and pay grade in his present status as a member of the Fire Department of the City of New York (NYFD). In short, petitioner seeks a retroactive transfer of his NYPD employment, promotion and pension benefits to his new employer, the NYFD.\nRespondents cross-move to dismiss the application (CPLR 7804 [f]; 3211 [a] [7]), on the ground that petitioner is barred from receiving NYFD credit for his prior NYPD service, because of a break in petitioner\u2019s employment with the two departments, which prevents his employment with the police being deemed \u201cimmediately prior\u201d to his NYFD service as mandated by law (Administrative Code of City of NY \u00a7 15-111). Therefore, respondents argue, petitioner fails to state a cause of action, and his application must be denied.\nBy way of background, petitioner was a police officer from December 8, 1997 until his resignation on April 9, 2002. Prior to the time he resigned from the NYPD, petitioner passed NY-FD \u2019s written and physical examinations, and submitted all required documentation.\nPetitioner alleges that while still a police officer, he received information that his appointment as a firefighter was imminent due to his standing on the civil service list. Petitioner does not identify the source of this intelligence.\nAfter his resignation from NYPD on April 9, 2002, petitioner received a letter dated April 15, 2002 informing him that he was \u201cbeing offered the opportunity to be appointed a probationary New York City Firefighter.\u201d The letter informed petitioner that he had until April 22, 2002 to accept the appointment.\nMore significantly, the effective date of petitioner\u2019s NYFD appointment was scheduled for May 5, 2002. However, because of a continuing unspecified investigation by the NYPD, petitioner\u2019s NYFD appointment was delayed until July 28, 2002. Although respondents characterize the investigation as an inquiry \u201cinto [petitioner\u2019s] character and dealings,\u201d there is nothing before the court revealing the nature and extent of the investigation. Petitioner was never charged with any disciplinary violation.\nDuring the period from September 27, 2002 to December 20, 2002, petitioner was paid a NYFD salary which mistakenly included credit for his prior NYPD service. However, NYFD subsequently corrected itself by reducing petitioner\u2019s salary after December 20, 2002 and informed him that it would move to recover the excess salary erroneously based on his NYPD prior service.\nPetitioner alleges that he is entitled to credit for his prior service under Personnel Rules and Regulations of City of New York (55 RCNY) Appendix A, 1\u00cd 6.2.1. The court finds that the regulation is inapplicable, however, because it applies only to an employee who has resigned or retired from a city agency and is then \u201creinstated with the approval of the commissioner of citywide administrative services to . . . a position in another agency to which the employee would have been eligible for transfer.\u201d (Id. H 6.2.1 [a] [2].)\nPetitioner\u2019s attorney conceded, at oral argument, that this case does not involve a transfer or reinstatement. Even without that concession, it is apparent that petitioner did not transfer from NYPD to NYFD; rather, he resigned from one agency and began work with another. Petitioner fails to disclose the existence of any statute or regulation authorizing a transfer under such circumstances.\nNor does Administrative Code \u00a7 15-111 (a) (1) provide a basis for the relief petitioner seeks. That provision specifically limits credit for prior NYPD employment to \u201c[a]ny member of the uniformed source of the fire department, who immediately prior to his or her appointment or employment as such, has served or shall have served as a member of the police force of the police department\u201d (emphasis added).\nThis code provision is plain and unambiguous. The words \u201cimmediately prior\u201d indicate that the provision does not contemplate a break in service. The dictionary definition of immediately (see McKinney\u2019s Cons Laws of NY, Book 1, Statutes \u00a7 234) is \u201cwithout interval of time\u201d (Webster\u2019s Third New International Dictionary 1129 [1995]).\nContrary to petitioner\u2019s argument, reliance on the provision\u2019s plain meaning is not inconsistent with logic or fairness. Petitioner, for reasons that remain unarticulated, voluntarily resigned from NYPD prior to his NYFD employment. He was under no apparent compulsion to do so, and cannot ascribe his current status to a defect in the Administrative Code\u2019s wording.\nGiven the code provision\u2019s plain meaning, there is no need to glean the legislative intent behind section 15-111 (a) (1) of the Administrative Code (see Sega v State of New York, 60 NY2d 183 [1983]). Moreover, even if, as petitioner urges, the court were to consider the provision\u2019s legislative history (see Matter of Sutka v Conners, 73 NY2d 395, 403 [1989]), it would still be unavailing. In 1941, the New York City Council amended then Administrative Code of the City of New York \u00a7 487a-10.0 by inserting the word \u201cimmediately\u201d before the word \u201cprior.\u201d The precision of the 1941 amendment and its resulting plain meaning preclude a search for the enactment\u2019s intended purpose. The court may not \u201csuppos[e] that the legislature will deliberately place words in a statute without any purpose in view\u201d (Erie County Water Auth. v Kramer, 4 AD2d 545, 550 [1957], affd 5 NY2d 954 [1959]). Such specificity in the positioning of these words demands the utmost deference, notwithstanding their seemingly severe effect. Therefore, the court cannot ignore the City Council\u2019s intent to make \u201cimmediately prior\u201d police employment, not simply prior police employment, the prerequisite for crediting NYPD service time toward NYFD benefits.\nAs a result, petitioner\u2019s resignation must be deemed a break in service denying him entitlement based on prior service (see Matter of Franchina v Codd, 46 NY2d 816 [1978], read on dissent of Lupiano, J., 57 AD2d 394, 400 [1977]; Matter of Doering v Hinrichs, 289 NY 29 [1942]; Winkel v Teachers Retirement Sys. of City of N.Y., 149 NYS2d 443 [1956]).\nThere is no merit to petitioner\u2019s new argument in his reply papers that in 1989 the respondents had deemed another officer\u2019s service continuous despite his resignation from NYPD. Nor has petitioner demonstrated that the denial of credit for his NYPD service represents a change in NYFD policy. Moreover, petitioner has not demonstrated that the facts and circumstances of the other employee\u2019s case are indistinguishable from petitioner\u2019s (see Matter of Field Delivery Serv. [Roberts], 66 NY2d 516, 518 [1985]). Thus, petitioner has fallen short of demonstrating that respondents have departed from agency precedent in determining his rights (id. at 520).\nLastly, there is no merit to petitioner\u2019s argument that he is entitled to service credit under Retirement and Social Security Law \u00a7 645. Petitioner has not applied for pension benefits or service credit under that statute. Such application is necessary to take advantage of the statute. Moreover, the statute applies to persons who left a city or state retirement system and who wish to buy back benefits they received on leaving. Therefore, petitioner may not rely on the statute for the relief he seeks.\nAccordingly, the cross motion to dismiss the petition is granted, and the petition is dismissed.",
+        "type": "majority",
+        "author": "Nicholas Figueroa, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Sullivan Papain Block McGrath & Cannavo PC. (Michael N. Block of counsel), for petitioner. Michael A. Cardozo, Corporation Counsel, New York City (Shivani Soni of counsel), for respondents."
+    ],
+    "corrections": "",
+    "head_matter": "[768 NYS2d 163]\nPatrick DePierro, Petitioner, v City of New York et al., Respondents.\nSupreme Court, New York County,\nAugust 28, 2003\nAPPEARANCES OF COUNSEL\nSullivan Papain Block McGrath & Cannavo PC. (Michael N. Block of counsel), for petitioner. Michael A. Cardozo, Corporation Counsel, New York City (Shivani Soni of counsel), for respondents."
+  },
+  "file_name": "0218-01",
+  "first_page_order": 206,
+  "last_page_order": 209
+}

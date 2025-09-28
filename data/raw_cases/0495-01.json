@@ -1,0 +1,176 @@
+{
+  "id": 1237610,
+  "name": "The People of the State of New York, Plaintiff, v. Bobbie G. Potter, Sr, Defendant",
+  "name_abbreviation": "People v. Potter",
+  "decision_date": "2003-09-29",
+  "docket_number": "",
+  "first_page": "495",
+  "last_page": "498",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Misc. 3d 495"
+    },
+    {
+      "type": "parallel",
+      "cite": "765 N.Y.S.2d 236"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ulster Cty. Ct.",
+    "id": 9932,
+    "name": "County Court of New York, Ulster County"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "54 AD2d 236",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3021758
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/54/0236-01"
+      ]
+    },
+    {
+      "cite": "298 AD2d 209",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        272541,
+        271367
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/298/0209-02",
+        "/ad2d/298/0209-01"
+      ]
+    },
+    {
+      "cite": "121 NJ 150",
+      "category": "reporters:state",
+      "reporter": "N.J.",
+      "case_ids": [
+        1367146
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "157"
+        },
+        {
+          "page": "374"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nj/121/0150-01"
+      ]
+    },
+    {
+      "cite": "237 NY 300",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        1228828,
+        1901854
+      ],
+      "pin_cites": [
+        {
+          "page": "304"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-crim/41/0108-01",
+        "/ny/237/0300-01"
+      ]
+    },
+    {
+      "cite": "75 NY2d 929",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4417079
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "931"
+        },
+        {
+          "page": "932"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/75/0929-01"
+      ]
+    },
+    {
+      "cite": "81 NY2d 10",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4428265
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "16"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/81/0010-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 385,
+    "char_count": 5404,
+    "ocr_confidence": 0.772,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.046472014391572634
+    },
+    "sha256": "0e42965a3287deedae747bba2bf62a897ffd6c1a294a9787303ed517929de107",
+    "simhash": "1:9ece8f814c2e5964",
+    "word_count": 920
+  },
+  "last_updated": "2024-02-27T19:35:05.009820+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The People of the State of New York, Plaintiff, v Bobbie G. Potter, Sr, Defendant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nFrank J. LaBuda, J.\nThis matter comes on by letter/motion of defendant that statements made by the alleged victim, three-year-old Samantha Doe, to her mother directly after the alleged sexual abuse are hearsay and inadmissible.\nThe prosecution is prepared, does not intend on calling the child as an unsworn witness, but will use the mother\u2019s testimony of the child\u2019s \u201crecent complaint\u201d under hearsay \" exceptions or res gestae and/or prompt outcry.\nStatement of Facts\nThe defendant, Bobbie G. Potter, Sr. is charged by Indictment No. 164-02 with sexual abuse in the first degree and endangering the welfare of a child. On or about January 25, 2002, the defendant allegedly sexually abused a three-year-old female, Samantha Doe, at her mother\u2019s residence in Ulster County.\nOn or about January 25, 2002 the defendant visited the home of Barbara Doe and her children at 157 Glenerie Boulevard in the Town of Saugerties, Ulster County, New York. Ms. Doe, who was just returning from work, fed her children supper and dressed the three-year-old for bed in her underwear, pajama top and pajama bottom. Shortly thereafter, Ms. Doe told the defendant to leave because she was tired and needed to go to bed; however, Ms. Doe fell asleep on the couch and did not awake until the three-year-old victim woke her up later that night. Ms. Doe did not notice when the defendant had left the home. Ms. Doe did notice, however, that the chimes usually attached to her door, and which she noticed were there when she returned from work, were no longer hanging from the door.\nLater that night, when Samantha Doe woke her mother, Ms. Doe noticed that the child was cold to the touch and not wearing the pajama pants she had dressed her in before putting her to bed. When Ms. Doe asked the child why she was not wearing her pajama pants, the child responded that the defendant took her out of the house, into a car and touched her in her private area, and pointed to the vaginal area. During that response, the victim pointed to her vagina. Later that day, Ms. Doe took her to the doctor and reported the matter to the police. There was no physical injury to the child noted by the examining doctor.\nThere is no question that the alleged victim\u2019s statements to her mother were made immediately after the alleged sexual abuse. Thus, said statements to the mother are a \u201cprompt outcry\u201d of the victim.\nThe law in the State of New York is clear that evidence from either the victim, or any witness who heard the victim, is admissible concerning the prompt complaint or outcry of sexual abuse. (Prince, Richardson on Evidence \u00a7 8-615, at 652 [Farrell 11th ed]; People v McDaniel, 81 NY2d 10 [1993].)\n\u201cIn this state, evidence that a victim of sexual assault promptly complained about the incident is admissible to corroborate the allegation that an assault took place (see, People v Rice, 75 NY2d 929, 931 [1990]; People v Deitsch, 237 NY 300, 304 [1923]; People v O\u2019Sullivan, 104 NY, at 486-487; Richardson, Evidence \u00a7 292 [Prince 10th ed]). Historically, the doctrine evolved from the common-law requirement of \u2018hue and cry,\u2019 where all victims were required to prove they immediately alerted the community that a crime had occurred (State v Hill, 121 NJ 150, 157, 578 A2d 370, 374 [1990]; Note, A Matter of Time: Evidence of a Victim\u2019s Prompt Complaint in New York, 53 Brooklyn L Rev 1087, 1089 [1988]).\u201d (People v McDaniel, supra at 16.)\nPrompt outcry is admissible as an exception to what would otherwise be hearsay but testimony concerning the statement must be a concise and accurate representation which does not convey any details except those necessary to elicit the nature of the complaint. (People v McDaniel, supra; People v Green, 298 AD2d 209 [1st Dept 2002].)\nAdditionally, the statement to the mother is part of the res gestae of the instant matter under the immediate circumstances as the child presented to the mother that morning. (People v Vicaretti, 54 AD2d 236 [4th Dept 1976].)\nThus, the mother cannot testify to any of the details of the touching since the courts have uniformly held that only the \u201cfact of the complaint, not its details is admissible.\u201d (People v Rice, 75 NY2d 929, 932 [1990].)\nHowever, the defense contends that even if the daughter\u2019s statements are prompt outcry it is still inadmissible because the \u201coutcry\u201d is from an incompetent declarant; i.e., a three year old who could not provide either sworn or unsworn testimony. But, the prompt outcry is not a statement going to the truth of the matter. It is simply a showing that a prompt outcry was made.\nBased upon the above, it is ordered that the \u201cprompt outcry\u201d of the alleged victim to her mother is admissible, as to the concise and accurate statement of said outcry without unnecessary detail.\n. The name of the victim is being withheld from publication by the court.\n. Indeed, the Assistant District Attorney at this juncture, prior to trial, has indicated to counsel and this court that he doesn\u2019t intend to call the three year old (now four), as a witness.",
+        "type": "majority",
+        "author": "Frank J. LaBuda, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Miller, Weiner & Associates, EC., Kingston (Gappy Weiner of counsel), for defendant. Donald A. Williams, District Attorney, Kingston (Emmanuel C. Nneji of counsel), for plaintiff."
+    ],
+    "corrections": "",
+    "head_matter": "[765 NYS2d 236]\nThe People of the State of New York, Plaintiff, v Bobbie G. Potter, Sr, Defendant.\nCounty Court, Ulster County,\nSeptember 29, 2003\nAPPEARANCES OF COUNSEL\nMiller, Weiner & Associates, EC., Kingston (Gappy Weiner of counsel), for defendant. Donald A. Williams, District Attorney, Kingston (Emmanuel C. Nneji of counsel), for plaintiff."
+  },
+  "file_name": "0495-01",
+  "first_page_order": 483,
+  "last_page_order": 486
+}

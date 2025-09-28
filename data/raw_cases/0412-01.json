@@ -1,0 +1,117 @@
+{
+  "id": 1237502,
+  "name": "Rochester Home Equity, Inc., Plaintiff, v. Linda A. Upton, Defendant",
+  "name_abbreviation": "Rochester Home Equity, Inc. v. Upton",
+  "decision_date": "2003-10-29",
+  "docket_number": "",
+  "first_page": "412",
+  "last_page": "416",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Misc. 3d 412"
+    },
+    {
+      "type": "parallel",
+      "cite": "767 N.Y.S.2d 201"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 8791,
+    "name": "New York Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "259 F Supp 2d 1143",
+      "category": "reporters:federal",
+      "reporter": "F. Supp. 2d",
+      "case_ids": [
+        9117980
+      ],
+      "pin_cites": [
+        {
+          "page": "1147"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp-2d/259/1143-01"
+      ]
+    },
+    {
+      "cite": "12 USC \u00a7 2601",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "15 USC \u00a7 1601",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "et seq."
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "12 USC \u00a7 2605",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "parenthetical": "a"
+        }
+      ],
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 573,
+    "char_count": 10209,
+    "ocr_confidence": 0.733,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.046464291933622386
+    },
+    "sha256": "4447cde8e6f2ac2e1ed8e6c5c54c4d5a833d7b510b78924767018d82d91666b5",
+    "simhash": "1:fe585450958d9a97",
+    "word_count": 1702
+  },
+  "last_updated": "2024-02-27T19:35:05.009820+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Rochester Home Equity, Inc., Plaintiff, v Linda A. Upton, Defendant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nAndrew V. Siracuse, J.\nThe plaintiff here is suing for application and lock-in fees in a mortgage application that was never consummated. The defendant, in turn, argues that the plaintiff failed to make a federally-mandated disclosure at a time when she could cancel the transaction without penalty. This would appear to be a simple question, and the dispute involves a negligible amount of money \u2014 a mere $1,200. Nonetheless, it raises an important point that, to the court\u2019s knowledge, has never been resolved by any court in the United States. It requires the court to look at a number of federal and state statutes and regulations that rarely refer to one another and whose combination into a coherent scheme is left to the judiciary. In the end, the court\u2019s decision must be based on the evident intent of the legislatures involved, an intent that would be frustrated unless the defendant\u2019s position is adopted.\nThe defendant, who lives in a suburb in the Albany area, was seeking to refinance the house she lived in with her husband. (Although it seems that he was intended to be a party to the mortgage as well, he did not participate in the negotiations and initial document exchanges and thus is not involved in this lawsuit.) She dealt with the plaintiff firm, some 200 miles away, by telephone and fax. The record contains documents signed by the defendant showing receipt of a preapplication disclosure of a $100 application fee and a few other fees, for appraisals and similar charges. She also signed and faxed back a lock-in agreement in full compliance with 3 NYCRR 38.6. This document secures an offer of a fixed rate mortgage at 5.75% with no points, good for one month, in consideration of a payment of $1,100 (one percent of the loan principal). As the regulations require, this payment would be refunded at the closing of the loan, or if the loan were rejected because of the results of an appraisal, the failure of a third-party lender to cooperate, or the credit worthiness of the applicant. The defendant also signed a credit card authorization for these fees.\nAfter these documents were exchanged the plaintiff took the information needed for a full mortgage application over the telephone. The application was then faxed to the defendant for her signature. At about this time (there is some dispute about the timing of these exchanges) plaintiff also sent defendant a disclosure, in the form required by 12 USC \u00a7 2605 (a), of the number of mortgages routinely assigned or sold on the secondary mortgage by plaintiff.\nThis was the deal breaker. The document revealed that plaintiff disposed of most of its mortgages \u2014 anywhere from 76 to 100%. The defendant, who has maintained that she repeatedly told plaintiff\u2019s employees she did not want her mortgage assigned, refused to sign the application once she learned this. She also refused to pay the fees, and this proceeding followed.\nThe parties have differing views on the timing of the disclosure and its relation to the delivery of the application to the defendant. These arguments may be put to one side. The issue, it seems to the court, is whether the disclosure was made before the transaction was consummated. Because the lock-in agreement secures all relevant terms of the mortgage, the court holds that the disclosure made after defendant signed the lock-in agreement was untimely.\nThere is nothing in the New York regulations concerning lock-in agreements that sets out what disclosures are required and when they must be made; nor does 3 NYCRR 38.1 et seq. provide any guidance on questions regarding the interplay between such agreements and the mortgage application. It is necessary, then, to consult the two federal statutes that control such loans: the Truth in Lending Act (15 USC \u00a7 1601 et seq.) and the Real Estate Settlement Procedures Act (12 USC \u00a7 2601), and the regulations under both these statutes.\nIt is only the Real Estate Settlement Procedures Act (RESPA) which requires disclosure of the number of mortgage loans assigned or sold. To add to the confusion, most other disclosure requirements are found in the Truth in Lending Act. RESPA regulations require that the disclosure be made \u201c[a]t the time an application for a mortgage servicing loan is submitted, or within 3 business days after submission of the application\u201d (24 CFR 3500.21 [b] [1]). They further specify that disclosure must be made at the time of the application when there is a face-to-face interview (24 CFR 3500.21 [c] [1]) and is to be mailed within three days if no such interview takes place (24 CFR 3500.21 [c] [2]).\nThe parties have also debated whether a telephone application is one made face-to-face. The court finds no merit in any claim that a transaction conducted between two parties in different buildings in different cities is somehow face-to-face because it happens in real time. Surely the letter of these regulations would be met under these circumstances by mailing the disclosure.\nBut this does not end the discussion. RESPA does not address lock-in agreements, and in the matter of disclosures is basically an appendix to the Truth in Lending Act (TILA). The court has to ask what purpose is to be served by this disclosure, and which party\u2019s arguments in the present case best effectuate that purpose.\nFortunately, the announced purpose of TILA is consistent with the timing requirement in that statute. In keeping with the trend toward supplying consumers with more information than market forces alone would provide, TILA is meant to permit a more judicious use of credit by consumers through a \u201cmeaningful disclosure of credit terms\u201d (15 USC \u00a7 1601 [a]). For that reason the disclosures must be made conspicuously and in writing, and they must be made \u201cbefore consummation of the transaction\u201d (12 CFR 226.17 [b]).\nThese two provisions clearly support one another. The purpose of a disclosure is frustrated if one could not act on the information without incurring a penalty. The information required by TILA must be given at a time when the consumer can back out of the transaction. In any other case they would be useless.\nThis regulation \u2014 disclosure before consummation \u2014 was promulgated under TILA. What relevance does it have to RESPA? At least one federal court has considered the matter, at least obliquely, holding that RESPA disclosures must be made \u201cwithin three days of the application, . . . not at closing when it may be literally or at least practically too late for the borrower to use the information . . . RESPA (and TILA) require an \u2018up front\u2019 disclosure, at the application stage \u2014 not the closing stage \u2014 of the loan process.\u201d (Anderson v Wells Fargo Home Mtge., 259 F Supp 2d 1143, 1147 [WD Wash].) This language suggests that the three-day requirement was intended to be consistent with the preconsummation standard in TILA.\nApplying this principle to the present case is not straightforward. As noted above, the lock-in agreement and the New York regulations governing them are both silent on the applicability of federal law. Although both TILA and RESPA preempt any inconsistent state law, neither of these statutes nor the Anderson case deals with lock-in agreements.\nThe defendant, no doubt aware of the silence of the statute, has argued that the fees are not enforceable because the lock-in agreement is not a binding contract, simply an agreement to agree. The court finds this unpersuasive. The better interpretation, in fact, is that so far from being a mere agreement to agree the lock-in agreement is the functional equivalent of a mortgage commitment. It sets out all the substantive provisions of a mortgage: the property secured, the interest rate, the principal and the duration of payments. It is a lock-in agreement in a double sense. The applicant obtains assurance that she will have the benefit of a particular interest rate; but once she signs the lock-in agreement she is also \u201clocked in\u201d to a particular mortgage lender. All that is left is the information-gathering needed to complete a credit check and to conduct the appraisal.\nIt would clearly violate the purpose behind TILA and RESPA to allow fees to be levied before all disclosures were made. To do so would be to postpone the disclosure obligation until it was \u201cliterally or at least practically too late for the borrower to use the information.\u201d Reading these statutes together, it is clear that they aim at providing consumers with all information deemed relevant to a credit decision before the consumer risks any money. A posttransaction disclosure would be pointless at best and a mockery at worst; what good would it do to reveal important details of the transaction when it would cost $1,200 for the borrower to change his mind? For that reason, the court holds that contracts to pay fees such as the lock-in agreement must be preceded by all the disclosures that federal law requires. In a real sense the lock-in agreement is more akin to a consummation of the process than it is to a mere preliminary stage.\nThis is the only way that the disclosures required by TILA and RESPA would be of any use to the consumer. It would be manifestly improper for the defendant to be penalized for changing her mind on the basis of information supplied pursuant to that federal law. (She also claims that she had not realized until this disclosure that she was dealing with a mortgage broker; this is an error, as plaintiff is a mortgage banker \u2014 something of a hybrid, but licensed to act as a bank with respect to mortgages.) She did so in a timely fashion, as well. Regardless of the timing of the disclosures vis-a-vis the application, the defendant told the plaintiff that she wished to discontinue the transaction as soon as she received the document. There is no reason not to honor her decision.\nThe court therefore orders the complaint dismissed, with costs.",
+        "type": "majority",
+        "author": "Andrew V. Siracuse, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Lacy, Katzen, Ryen & Mittleman, LLP, Rochester (Mark H. Stein of counsel), for plaintiff. Cohen, Dax & Koenig, PC., Albany (Joshua A. Sabo of counsel), for defendant."
+    ],
+    "corrections": "",
+    "head_matter": "[767 NYS2d 201]\nRochester Home Equity, Inc., Plaintiff, v Linda A. Upton, Defendant.\nSupreme Court, Monroe County,\nOctober 29, 2003\nAPPEARANCES OF COUNSEL\nLacy, Katzen, Ryen & Mittleman, LLP, Rochester (Mark H. Stein of counsel), for plaintiff. Cohen, Dax & Koenig, PC., Albany (Joshua A. Sabo of counsel), for defendant."
+  },
+  "file_name": "0412-01",
+  "first_page_order": 400,
+  "last_page_order": 404
+}

@@ -1,0 +1,134 @@
+{
+  "id": 1237591,
+  "name": "Oscar Sedano, Plaintiff, v. Julio C. Campos et al., Defendants",
+  "name_abbreviation": "Sedano v. Campos",
+  "decision_date": "2003-08-14",
+  "docket_number": "",
+  "first_page": "388",
+  "last_page": "393",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Misc. 3d 388"
+    },
+    {
+      "type": "parallel",
+      "cite": "764 N.Y.S.2d 603"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Dist. Ct.",
+    "id": 9733,
+    "name": "New York District Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "180 Misc 2d 442",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        32694
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "448"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/180/0442-01"
+      ]
+    },
+    {
+      "cite": "161 AD2d 748",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        995376,
+        995022,
+        995134
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/161/0748-02",
+        "/ad2d/161/0748-03",
+        "/ad2d/161/0748-01"
+      ]
+    },
+    {
+      "cite": "30 AD2d 674",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3226910
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/30/0674-01"
+      ]
+    },
+    {
+      "cite": "127 AD2d 69",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3502280
+      ],
+      "pin_cites": [
+        {
+          "page": "72-73"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/127/0069-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 597,
+    "char_count": 10383,
+    "ocr_confidence": 0.747,
+    "pagerank": {
+      "raw": 5.298132930532853e-08,
+      "percentile": 0.332300647643936
+    },
+    "sha256": "70de0594f841c383468ace2af3c06ee42e1c519ab0e10fd48301eba5edf0c570",
+    "simhash": "1:a955b4c63a822721",
+    "word_count": 1676
+  },
+  "last_updated": "2024-02-27T19:35:05.009820+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Oscar Sedano, Plaintiff, v Julio C. Campos et al., Defendants."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nKenneth L. Gartner, J.\nThe instant action is for personal injuries allegedly sustained in a motor vehicle collision.\nThe plaintiff moves for an order striking the defendants\u2019 answer pursuant to CPLR 3126 (3) for the defendants\u2019 alleged refusal to obey a prior order of this court.\nThe first issue which must be addressed is the competence of this court \u2014 rather than the court which signed the prior order \u2014 to adjudicate this motion.\nThis case was commenced in Supreme Court. The case was transferred to the District Court pursuant to CPLR 325 (d). CPLR 325 (d) permits the involuntary removal of actions from Supreme Court to a court of limited jurisdiction, albeit with Supreme Court\u2019s unlimited monetary jurisdiction intact, \u201cwhere it appears that the amount of damages sustained may be less than demanded,\u201d and \u201cthe lower court would have had jurisdiction but for the amount of damages demanded.\u201d\nWhile the instant case was pending in Supreme Court, the parties entered into a preliminary conference stipulation and order before the Supreme Court Justice assigned. The plaintiff subsequently made a motion for sanctions based upon the defendants\u2019 alleged noncompliance with the discovery schedule contained in that order.\nFollowing the case\u2019s transfer to the District Court, the motion for sanctions came on before the District Court Judge then assigned. The parties entered into a written stipulation settling the motion, and establishing dates for the defendants\u2019 depositions, which was \u201cso-ordered\u201d by the assigned judge.\nWhen the time came for the \u201ccompliance conference\u201d scheduled in the stipulation, the parties appeared and entered into yet another written stipulation, setting new dates for the defendants\u2019 depositions. A new judge having by that time been assigned, that new judge \u201cso-ordered\u201d the new stipulation.\nThe plaintiffs\u2019 instant motion is premised upon the defendants\u2019 alleged disobedience of the most recent so-ordered stipulation. It is asserted, however, that pursuant to CPLR 2221 (a), this court is required to mandatorily transfer this motion to the judge who \u201cso-ordered\u201d that stipulation, and that this court has not the authority to hear and determine it.\nAn historical review reveals that over time, a volume of cases were removed to the District Court pursuant to CPLR 325 (d) (325 [d] transfers). For some time, each 325 (d) transfer was assigned to a particular District Court Judge, who was expected to address the judge\u2019s docket of 325 (d) transfers while simultaneously handling the judge\u2019s regular part assignments. This proved unwieldy, particularly since many parts of the District Court require disposition of lengthy calendars every morning, the conduct of hearings and trials emanating from those parts, and the giving of priority to criminal matters. Without the assistance of law secretaries, it proved difficult for the District Court Judges to give appropriate supervision and oversight, and afford timely jury trials, to their 325 (d) transfer case loads.\n22 NYCRR 212.3 (b) permits the establishment within the District Court of such parts as may be designated by the chief administrator of the courts, including, pursuant to section 212.3 (b) (5), multipurpose parts. The problems in handling 325 (d) transfers would have been further exacerbated when the chief administrator established a number of criminal multipurpose parts to function on an IAS (Individual Assignment System) basis in criminal matters. (See, e.g., People v DeVito, NYLJ, Apr. 11, 2003, at 24, col 5 [Nassau Dist Ct, Fiechter, J] [making reference to the \u201cnewly formed IAS in District Court of Nassau County\u201d].)\nIn order to facilitate the handling of 325 (d) transfers in a manner akin to the court from which they have been involuntarily transferred, the chief administrator thus also established within the District Court a 325 (d) Part, also to function as a multipurpose part, for the handling of 325 (d) transfers on an IAS basis. All 325 (d) cases were thereupon transferred to the 325 (d) Part.\nCPLR 2221 (a) provides, inter alia, that a motion to reargue, renew, appeal from, stay, vacate, or modify a prior order \u201cshall\u201d be made to the judge who signed the order \u201cunless he or she is for any reason unable to hear it.\u201d\nCPLR 2221 (b), however, provides that \u201c[t]he chief administrator may by rule exclude motions within a department, district or county from the operation of subdivision (a) of this rule.\u201d In Siegel, Practice Commentary (McKinney\u2019s Cons Laws of NY, Book 7B, CPLR C2221:l, at 178), it is explained that: \u201c[Subdivision (b), which was added to CPLR 2221 [when IAS went into effect] in 1986, is designed to assure that to whatever extent they may be inconsistent with the referral-back requirement of subdivision (a), any rules adopted by the court\u2019s administrators take precedence.\u201d\nIn Dalrymple v Martin Luther King Community Health Ctr. (127 AD2d 69, 72-73 [2d Dept 1987]), the Appellate Division affirmed an order entered by a Supreme Court IAS Justice granting reconsideration of a pre-IAS order, entered by a Special Term Justice, which had severed a third-party action. The Appellate Division noted that it had previously, in Blasi v Boucher (30 AD2d 674 [2d Dept 1968]), affirmed the vacation, by a trial justice before whom a motion was made returnable, of a conditional order of preclusion pursuant to CPLR 3126 which had been entered by a Special Term Justice, on the ground that there were \u201cexceptional circumstances\u201d justifying departure from the usual rule. The Appellate Division in Dalrymple went on to hold (at 72-73): \u201c[T]he institution of the IAS . . . with the attendant assignment of all pending cases to individual Justices for trial, brought all these cases within the purview of the \u2018exceptional circumstances\u2019 rule . . . and outside a rigid literal interpretation of CPLR former 2221.\u201d The Appellate Division further observed that (at 73) \u201c [judicial economy and the orderly administration of justice were best served by\u201d such a result where the prior justice had limited continuing familiarity with the case, while the assigned justice \u201cwas fully familiar with the case and its background and the likely timetable for trial.\u201d\nThe same reasoning was employed by the Appellate Division in Mullen v Flushing Hosp. (161 AD2d 748 [2d Dept 1990]), a case with a striking similarity to the issue at bar. The Appellate Division in Mullen \u2014 citing Dalrymple \u2014 held that \u201cJustice Joy . . . properly entertained the appellant\u2019s motion to dismiss the complaint as asserted against him for the plaintiffs failure to comply with a conditional order issued by another Supreme Court Justice approximately one year earlier. Having presided over the matter during that year, Justice Joy was most familiar with the circumstances underlying the plaintiff\u2019s inability to comply with the order and in the best position to evaluate whether to impose sanctions therefor.\u201d (At 749 [citations omitted].)\nIn fact, in Yuan Zhai v Chemical Bank (180 Misc 2d 442 [Civ Ct, NY County 1999]), it was held that a judge in a court of limited jurisdiction addressing a motion in a 325 (d) transfer has the power to vacate even an order \u2014 at least one issued on default \u2014 by a previously assigned Supreme Court Justice. Stated the court in that case, \u201c[i]t makes absolutely no sense ... to punt this somewhat routine motion into the procedural quandary of transfer orders, where, as here, no countervailing judicial or party interest would be advanced thereby.\u201d (180 Misc 2d at 448.) See also Siegel, Practice Commentary (McKinney\u2019s Cons Laws of NY, Book 7B, CPLR C2217:l), addressing that provision permitting permissive transfer of any motion to a judge who has decided a prior one in the case. Professor Siegel (at 133) there observed that \u201csome judges feel that the reference back is a shirking of duty, a kind of buck-passing that they prefer to avoid,\u201d and that \u201c[tjhe only really sensitive situation ... is that in which Judge Two proposes to dispose of the motion in such a way as to create substantial conflict with the earlier disposition by Judge One.\u201d\nIn the instant case, no such situation is presented. In fact, the present situation presents an even stronger policy basis for this court retaining and entertaining the motion on its merits than was the case in Dalrymple and Mullen. The motion itself does not clearly fall into one of the categories of motions listed in CPLR 2221. The order underlying the motion does not represent an independent analysis and determination of the prior judge of this court, but merely the \u201cso-ordering,\u201d by one of the four judges who have been assigned successively to this case in the year and a half following its commencement, of a discovery stipulation of the parties. There is no issue of this court sitting in review of a court of coordinate jurisdiction. The only question is whether the court to whom the case is now assigned, and charged with overseeing discovery and either settlement or trial, should be the court to evaluate the question of whether sanctions should be imposed, and if so what sanctions and/or subject to what conditions. The statutory and judicial authority cited above makes clear that it should, and has the obligation to, do so.\nAddressing the merits of the instant motion, the attorneys for defendants Julio Cesar Campos and Jose Campos make an uncontroverted showing that their inability to produce their clients for deposition has been due to difficulties in locating these defendants. The fact remains that this matter has gone on for too long, and there appears to have been some laxity in the conduct of the search.\nThe refusal of defendant Eisenhower Ortega to appear for deposition, while perhaps strategically sound, has been clearly willful.\nThe plaintiffs motion is therefore conditionally granted. The answer of each defendant is therefore stricken as to that defendant unless the defendant appears and submits to deposition within 45 days of the date of this order.",
+        "type": "majority",
+        "author": "Kenneth L. Gartner, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Sanford L. Pirotin, PC., Westbury, for plaintiff. David J. Tetlak, Westbury, for Julio C. Campos and another, defendants. James P. Nunemaker, Jr. & Assoc., Uniondale, for Eisenhower Ortega, defendant."
+    ],
+    "corrections": "",
+    "head_matter": "[764 NYS2d 603]\nOscar Sedano, Plaintiff, v Julio C. Campos et al., Defendants.\nDistrict Court of Nassau County, First District,\nAugust 14, 2003\nAPPEARANCES OF COUNSEL\nSanford L. Pirotin, PC., Westbury, for plaintiff. David J. Tetlak, Westbury, for Julio C. Campos and another, defendants. James P. Nunemaker, Jr. & Assoc., Uniondale, for Eisenhower Ortega, defendant."
+  },
+  "file_name": "0388-01",
+  "first_page_order": 376,
+  "last_page_order": 381
+}

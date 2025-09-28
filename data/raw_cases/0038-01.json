@@ -1,0 +1,112 @@
+{
+  "id": 1237506,
+  "name": "Darrell Hughes, Appellant, v. Steve Elliott, Respondent",
+  "name_abbreviation": "Hughes v. Elliott",
+  "decision_date": "2003-09-30",
+  "docket_number": "",
+  "first_page": "38",
+  "last_page": "40",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Misc. 3d 38"
+    },
+    {
+      "type": "parallel",
+      "cite": "768 N.Y.S.2d 74"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. App. Term",
+    "id": 8833,
+    "name": "New York Supreme Court, Appellate Term"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "269 AD2d 125",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        176682
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/269/0125-01"
+      ]
+    },
+    {
+      "cite": "175 Misc 2d 285",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        478274
+      ],
+      "pin_cites": [
+        {
+          "page": "286"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/175/0285-01"
+      ]
+    },
+    {
+      "cite": "110 AD2d 742",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3426861
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/110/0742-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 266,
+    "char_count": 2974,
+    "ocr_confidence": 0.776,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.046464678056519895
+    },
+    "sha256": "1c05ade9951cc23d33336355539eb41c61041e8eabcf82f502ab64942d9a5d7c",
+    "simhash": "1:a6e0ddd7e787a64c",
+    "word_count": 473
+  },
+  "last_updated": "2024-02-27T19:35:05.009820+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Darrell Hughes, Appellant, v Steve Elliott, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nMemorandum.\nAppeal unanimously dismissed.\nNo appeal lies by a defaulting party from a judgment entered upon default (CPLR 5511). While we recognize that this rule is subject to exception, e.g., where there has been a formal order determining matters which were the subject of contest in the court below (see Central Savannah Riv. Area Resource Dev. Agency v White Eagle Intl., 110 AD2d 742 [1985]), no such exception applies in the case at bar. We note, however, that the issues raised upon the appeal appear in any event to be without merit.\nPlaintiff, a resident of Oregon, claims that he purchased an item from defendant using the on-line auction site eBay, that he paid for the item and that defendant never shipped the item to him. Plaintiff requested and was denied permission to appear for trial of this action by telephone.\nUJCA 1804 provides that while small claims procedure is to be informal and simplified, \u201cThe court shall conduct hearings upon small claims in such manner as to do substantial justice between the parties according to the rules of substantive law . . . .\u201d This mandate includes substantive due process rights, which may be difficult or impossible to vindicate where remote testimony, particularly by telephone, is permitted. Telephone testimony cannot be said to be of merely procedural concern. For example, the parties to a small claims proceeding have a constitutional right to cross-examination, which in turn is \u201cthe principal means by which the believability of a witness and the truth of testimony is tested\u201d (Graves v American Express, 175 Misc 2d 285, 286 [App Term, 2d & 11th Jud Dists 1997]). Credibility determinations, largely based upon witness demeanor, are a vital function of the trier of fact (see e.g. Williams v Roper, 269 AD2d 125 [2000]). Testimony by telephone prevents effective evaluation of demeanor as well as effective cross-examination simply because the witness cannot be seen.\nFurthermore, plaintiff is the master of his case, and he selected the New York small claims forum in which to prosecute this action. Having done so, he has consented to adjudication of bis claim in accordance with the rules of his chosen forum. The rules governing small claims court contemplate the accomplishment of substantial justice between the parties (UJCA 1804), and for the reasons set forth above, substantial justice in the context of this case cannot be accomplished over the telephone. While frameworks to facilitate remote testimony have been promulgated (see e.g. Fed Rules Civ Pro rule 43 [a]), the technological and, logistical difficulties of doing so in a manner suitable for small claims courts would be best resolved by the Legislature.\nDoyle, EJ., Lifson and Rudolph, JJ., concur.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "James Baker, Fairfax, California, for appellant."
+    ],
+    "corrections": "",
+    "head_matter": "[768 NYS2d 74]\nDarrell Hughes, Appellant, v Steve Elliott, Respondent.\nSupreme Court, Appellate Term, Second Department,\nSeptember 30, 2003\nAPPEARANCES OF COUNSEL\nJames Baker, Fairfax, California, for appellant."
+  },
+  "file_name": "0038-01",
+  "first_page_order": 80,
+  "last_page_order": 82
+}

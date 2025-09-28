@@ -1,0 +1,296 @@
+{
+  "id": 1237562,
+  "name": "The People of the State of New York, Plaintiff, v. Roy Terry, Defendant",
+  "name_abbreviation": "People v. Terry",
+  "decision_date": "2003-09-05",
+  "docket_number": "",
+  "first_page": "475",
+  "last_page": "481",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Misc. 3d 475"
+    },
+    {
+      "type": "parallel",
+      "cite": "764 N.Y.S.2d 592"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Monroe Cty. Ct.",
+    "id": 9139,
+    "name": "County Court of New York, Monroe County"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "84 NY2d 562",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4432720
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/84/0562-01"
+      ]
+    },
+    {
+      "cite": "193 AD2d 424",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1128947
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/193/0424-01"
+      ]
+    },
+    {
+      "cite": "140 AD2d 180",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3550626
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/140/0180-01"
+      ]
+    },
+    {
+      "cite": "71 NY2d 994",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "132 AD2d 190",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3523036
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/132/0190-01"
+      ]
+    },
+    {
+      "cite": "129 AD2d 126",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3511063
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/129/0126-01"
+      ]
+    },
+    {
+      "cite": "47 Fla L Rev 159",
+      "category": "journals:journal",
+      "reporter": "Fla. L. Rev.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "209 AD2d 922",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1188611,
+        1188621
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/209/0922-01",
+        "/ad2d/209/0922-02"
+      ]
+    },
+    {
+      "cite": "300 AD2d 169",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        957482,
+        956845,
+        957327
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/300/0169-01",
+        "/ad2d/300/0169-02",
+        "/ad2d/300/0169-03"
+      ]
+    },
+    {
+      "cite": "132 AD2d 392",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3525328
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/132/0392-01"
+      ]
+    },
+    {
+      "cite": "185 AD2d 300",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1094160
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/185/0300-01"
+      ]
+    },
+    {
+      "cite": "275 AD2d 1030",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        505412,
+        5398725,
+        5390918,
+        5394663,
+        5394219,
+        5391440,
+        5391472,
+        5392242,
+        5390206,
+        5389077,
+        5391291,
+        505918
+      ],
+      "pin_cites": [
+        {
+          "page": "1032"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/275/1030-01",
+        "/ad/275/1030-01",
+        "/ad/275/1030-09",
+        "/ad/275/1030-07",
+        "/ad/275/1030-06",
+        "/ad/275/1030-02",
+        "/ad/275/1030-03",
+        "/ad/275/1030-04",
+        "/ad/275/1030-05",
+        "/ad/275/1030-08",
+        "/ad/275/1030-10",
+        "/ad2d/275/1030-02"
+      ]
+    },
+    {
+      "cite": "182 AD2d 578",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1081420,
+        1081053
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/182/0578-02",
+        "/ad2d/182/0578-01"
+      ]
+    },
+    {
+      "cite": "304 US 458",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        10805
+      ],
+      "pin_cites": [
+        {
+          "page": "464"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/304/0458-01"
+      ]
+    },
+    {
+      "cite": "84 NY2d 718",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4432165
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/84/0718-01"
+      ]
+    },
+    {
+      "cite": "51 NY2d 62",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4381130
+      ],
+      "pin_cites": [
+        {
+          "page": "67-68"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/51/0062-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 677,
+    "char_count": 12088,
+    "ocr_confidence": 0.753,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.046469118469841295
+    },
+    "sha256": "4b98938f9b67dd116570b079a15b52e33d9a3fe5903898beae1a8cdddabbf221",
+    "simhash": "1:334d57132146af75",
+    "word_count": 1914
+  },
+  "last_updated": "2024-02-27T19:35:05.009820+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The People of the State of New York, Plaintiff, v Roy Terry, Defendant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nJohn J. Connell, J.\nThe defendant is indicted on charges of assault, first and second degrees, vehicular assault, second degree, reckless endangerment, first degree, grand larceny, fourth degree, criminal possession of stolen property, third degree, leaving the scene of an incident, unauthorized use of a motor vehicle, third degree, and driving while ability impaired. A mistrial was declared on May 21, 2003 when the jury was unable to reach a verdict. Pending the retrial, the defendant was returned to a state correctional facility on a sentence unrelated to this indictment.\nOn July 21, 2003 the defendant\u2019s attorney, Brian Shulman, and Assistant District Attorney Richard Roxin, who is in charge of the prosecution of this case, informed me that Mr. Terry sent a letter addressed to Mr. Shulman, but bearing the street address of the District Attorney\u2019s office. The letter was opened by a secretary/receptionist in the District Attorney\u2019s office. She made a determination, based on the familiarity of the defendant\u2019s name, that it was Assistant District Attorney Rodeman\u2019s case. Mr. Rodeman was trial counsel before it was reassigned to Mr. Roxin for the retrial. She forwarded the letter to Mr. Rode-man who read it and passed it on to Mr. Roxin. Two copies were made of the letter and retained by the District Attorney\u2019s office. The original was forwarded to Mr. Shulman.\nThe defendant sent a second letter to the District Attorney\u2019s office addressed to Mr. Shulman. Again it was opened apparently by a secretary/receptionist who informed Mr. Rodeman that it had not been removed from its envelope. It was sealed and passed on to Mr. Roxin, who forwarded the original to Mr. Shulman.\nOn July 21 this court directed the District Attorney to seal and forward their copies to me, and retain no other copy of the letters. Mr. Roxin assured court and defense counsel that he would not use any information at Mr. Terry\u2019s retrial which was gained from reviewing the letters.\nNonetheless, the defendant requested the appointment of a Special Prosecutor pursuant to County Law \u00a7 701, citing the District Attorney\u2019s improper review of the letters, which he asserts contain privileged information. The District Attorney opposed that request on several grounds: that fairly new employees had opened the letters; that it was understandable that mail addressed to Mr. Shulman would be opened by staff since he had once been an assistant district attorney, albeit several years ago; and that the letter read by Mr. Rodeman \u201cwas largely unintelligible. We gained nothing from it\u201d (transcript of Aug. 22, 2003 proceedings at 10).\nWith the permission of both parties, this court has reviewed in camera the two original letters and both copies of the first letter. The first letter is postmarked June 16, 2003. The return address on the front of the envelope reads:\n\u201cLIVINGSTON CORRECTIONAL FACILITY\n\u201cEO. Box 1991, Route 36 Sonyea Road\n\u201cSonyea, New York 14556\n\u201cNAME: Roy Terry (handwritten) DIN: 02B2030 (handwritten).\u201d\n\u201cLegal mail\u201d is handwritten in the lower right and lower left corners of the envelope. The front of the envelope also bears a \u201cStar\u201d symbol postal stamp, printed in red ink, which reads as follows:\n\u201cLIVINGSTON CORRECTIONAL FACILITY\n\u201cROUTE, 36, SONYEA ROAD\n\u201cSONYEA, NY 14556.\u201d\nThe return address on the back flap of the envelope reads:\n\u201cNEW YORK STATE DEPARTMENT OF CORRECTIONAL SERVICES\n\u201cINMATE CORRESPONDENCE PROGRAM\n\u201cNAME: Roy Terry (handwritten) DIN: 02B2030 (handwritten)\n\u201cLegal mail (handwritten).\u201d\nThe second letter, which the District Attorney apparently did not copy, was postmarked July 7, 2003. It bears the following return address on the front of the envelope:\n\u201cLIVINGSTON CORRECTIONAL FACILITY\n\u201cEO. Box 1991, Route 36 Sonyea Road\n\u201cSonyea, New York 14556\n\u201cNAME: Roy Terry (handwritten) DIN: 02B2030 (handwritten).\u201d\n\u201claw firm legal mail\u201c is handwritten in the lower right corner of the envelope. It also bears the \u201cStar\u201d postal stamp and return address, printed in red ink, as follows:\n\u201cLIVINGSTON CORRECTIONAL FACILITY\n\u201cROUTE, 36, SONYEA ROAD\n\u201cSONYEA, NY 14556.\u201d\nThe return address on the back flap of the envelope reads:\n\u201cNEW YORK STATE DEPARTMENT OF CORRECTIONAL SERVICES\n\u201cINMATE CORRESPONDENCE PROGRAM\n\u201cNAME: Roy Terry (handwritten) DIN: 02B2030 (handwritten).\u201d\nThe attorney-client privilege \u201cexists to insure that one seeking legal advice will be able to confide fully and freely in his attorney, secure in the knowledge that his confidences will not later be exposed to public view to his embarrassment or legal detriment\u201d (Matter of Priest v Hennessy, 51 NY2d 62, 67-68 [1980]). The attorney-client privilege and issues surrounding its waiver are particularly important in criminal cases (People v Cassas, 84 NY2d 718 [1995]).\nA waiver is the \u201cintentional relinquishment ... of a known right\u201d (Johnson v Zerbst, 304 US 458, 464 [1938]). While it is the burden of the proponent of the privilege to show that the privilege was not waived, formal motions are not necessary to raise the issue. Courts have held that a simple objection expressed in a letter from the client\u2019s attorney is sufficient to bring the matter before a court for that determination (Blair Communications v Reliance Capital Group, 182 AD2d 578 [1992]). For purposes of this application, the July 21 conference sufficiently raised the issue.\nAppellate cases on this subject generally involve inadvertent disclosure of documents contained in hundreds of pages of materials that were intentionally mailed to the opponent in the pretrial discovery stages of civil cases. In determining whether there was a waiver of the attorney-client privilege concerning those documents, courts have looked at the subjective intent of the client.\n\u201cTwo other factors to be considered in assessing whether an inadvertent disclosure waives the privilege are whether there was a prompt objection to the disclosure after discovering it and whether the party claiming waiver will suffer prejudice if a protective order is granted\u201d (Baliva v State Farm Mut. Auto. Ins. Co., 275 AD2d 1030, 1032 [2000]; Kraus v Brandstetter, 185 AD2d 300 [1992]; Blair, supra at 578; Manufacturers & Traders Trust Co. v Servotronics, Inc., 132 AD2d 392 [1987]; see also, New York Times Newspaper Div. of N.Y. Times Co. v Lehrer McGovern Bovis, 300 AD2d 169 [2002]).\nCourts examining the client\u2019s subjective intent have generally held that inadvertent disclosure of such materials does not constitute a waiver of the attorney-client privilege (6340 Tr. Rd. v Unigard Sec., 209 AD2d 922 [4th Dept 1994]). Commenting on inadvertent disclosures, the American Bar Association has stated that a \u201clawyer who receives materials that on their face appeared to be subject to the attorney-client privilege or otherwise confidential, under circumstances where it is clear they were not intended for the receiving lawyer, should refrain from examining the materials, notify the sending lawyer and abide by the instructions of the lawyer who sent them\u201d (ABA Formal Op 92-368). That opinion is based on the premise that inadvertent disclosure of otherwise privileged material does not constitute a waiver and further suggests that the receiving party serves in the position of a constructive bailee, with a legal duty to return the document to opposing counsel (Rogers, New Insights on Waiver and the Inadvertent Disclosure of Privileged Materials: Attorney Responsibility as the Governing Precept, 47 Fla L Rev 159).\nIndeed, there is authority for not only suppressing improperly obtained privileged information at trial, but also disqualifying counsel who obtained the information (Matter of Beiny, 129 AD2d 126 [1987], rearg denied 132 AD2d 190 [1987], appeal dismissed 71 NY2d 994 [1988]; Matter of Kochovos, 140 AD2d 180 [1988]; CPLR 3103, 4503).\nAs stated above, most of the reported cases involve privileged materials included in documents intentionally turned over to the opposing side in a civil lawsuit. The Court of Appeals, however, decided a case with a factual setting more similar to the instant matter. In Lipin v Bender (193 AD2d 424 [1993], affd 84 NY2d 562 [1994]), the defendant brought privileged documents to a pretrial discovery proceeding and left them at counsel table where the plaintiff customarily sat. The top sheet of the documents bore the name of the defendant\u2019s attorney and the words \u201cFile Memo.\u201d The plaintiff read and copied the papers, and failed to return them to defense counsel.\nThe plaintiffs attorney maintained that since the materials were left at the plaintiffs seat at the table, they were obtained \u201clegitimately,\u201d that there was no inadvertent disclosure, and therefore, the defendant had waived the privilege. The trial court, after reviewing all the circumstances, took the extreme remedy of dismissing the plaintiffs complaint, finding the plaintiffs and her attorney\u2019s actions \u201cegregious.\u201d The Appellate Division and Court of Appeals agreed with the trial court and held the privilege was not waived by leaving the documents at a pretrial disclosure conference, notwithstanding their being left at the very seat of the plaintiff.\nIt is clear that in this case Mr. Terry\u2019s attorney-client privilege was breached by the prosecutor\u2019s review of at least one of the letters in question. It may be understandable that a clerical staff member could in good faith open the first letter sent by the defendant. (However, it perhaps points to the need for office procedural improvements to more carefully identify the addressee before correspondence is opened. This point is made more obvious by the office\u2019s opening of the second letter after having been alerted to their first mistake.)\nWhat is more difficult to understand is the reading (or \u201cscanning\u201d as the prosecutor later characterized) of that letter by the Assistant District Attorney who had time to examine the numerous envelope markings identifying defense counsel and the defendant by name, identifying the correctional facility from which the letter was sent and identifying the letter as \u201cLegal Mail.\u201d The error in judgment was compounded by making multiple copies and retaining them.\nAn examination of the letters by this court discloses nothing in the July 7 letter that would prejudice the defendant\u2019s retrial even if they were read by the prosecutor. It simply requested copies of transcripts to be forwarded to the defendant.\nThe June 16 letter, however, contains several clear references to both the criminal and civil cases related to this indictment. The letter, while certainly not literary prose, is anything but \u201cunintelligible\u201d as described by the prosecutor. The defendant highlights discrepancies in the arresting officer\u2019s statement and grand jury testimony, calls into question her physical description of the suspect, and cites the lack of physical evidence in the case. References are made to a proposed motion to dismiss as well as physical threats allegedly received by the defendant which relate to this case. Most significant, however, is the defendant\u2019s explanation for his own injuries at the scene of his arrest. This latter issue was very relevant during the first trial.\nOn July 21 the prosecutor promised not to use any information obtained from the letters. That may be a difficult assurance to fulfill, but in lieu of appointing a Special Prosecutor, this court will hold him to that pledge. If the People have questions about what areas they are precluded from pursuing, they should seek guidance from the court outside the presence of the jury or before commencement of the trial. Failure to do so runs the risk of a mistrial with prejudice and ultimate dismissal of the indictment.\nAccordingly, the defendant\u2019s application for the appointment of a Special Prosecutor pursuant to County Law \u00a7 701 is in all respects denied.",
+        "type": "majority",
+        "author": "John J. Connell, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Brian Shulman for defendant. Howard R. Relin, District Attorney CKenneth Hyland of counsel), for plaintiff."
+    ],
+    "corrections": "",
+    "head_matter": "[764 NYS2d 592]\nThe People of the State of New York, Plaintiff, v Roy Terry, Defendant.\nCounty Court, Monroe County,\nSeptember 5, 2003\nAPPEARANCES OF COUNSEL\nBrian Shulman for defendant. Howard R. Relin, District Attorney CKenneth Hyland of counsel), for plaintiff."
+  },
+  "file_name": "0475-01",
+  "first_page_order": 463,
+  "last_page_order": 469
+}

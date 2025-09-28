@@ -1,0 +1,343 @@
+{
+  "id": 1237504,
+  "name": "Bldg Management Co., Inc., Petitioner, v. Vision Quest of Flatbush et al., Respondents. (Action No. 1.) (And Three Other Actions.)",
+  "name_abbreviation": "Bldg Management Co. v. Vision Quest of Flatbush",
+  "decision_date": "2003-10-16",
+  "docket_number": "",
+  "first_page": "681",
+  "last_page": "684",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Misc. 3d 681"
+    },
+    {
+      "type": "parallel",
+      "cite": "766 N.Y.S.2d 338"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 8791,
+    "name": "New York Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "91 NY2d 474",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        525042
+      ],
+      "pin_cites": [
+        {
+          "page": "479"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/91/0474-01"
+      ]
+    },
+    {
+      "cite": "2002 NY Slip Op 40029",
+      "category": "reporters:state",
+      "reporter": "NY Slip Op",
+      "opinion_index": 0
+    },
+    {
+      "cite": "124 AD2d 1020",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        5692497,
+        5692866,
+        5691587
+      ],
+      "pin_cites": [
+        {
+          "page": "1021"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/124/1020-01",
+        "/ad2d/124/1020-03",
+        "/ad2d/124/1020-02"
+      ]
+    },
+    {
+      "cite": "245 AD2d 337",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        406226,
+        407142
+      ],
+      "pin_cites": [
+        {
+          "page": "338"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/245/0337-02",
+        "/ad2d/245/0337-01"
+      ]
+    },
+    {
+      "cite": "284 AD2d 368",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        680968
+      ],
+      "pin_cites": [
+        {
+          "page": "368-369"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/284/0368-01"
+      ]
+    },
+    {
+      "cite": "49 NY2d 557",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4373856
+      ],
+      "pin_cites": [
+        {
+          "page": "563"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/49/0557-01"
+      ]
+    },
+    {
+      "cite": "199 AD2d 218",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1153637
+      ],
+      "pin_cites": [
+        {
+          "page": "219"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/199/0218-01"
+      ]
+    },
+    {
+      "cite": "269 AD2d 491",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        177536,
+        177686
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/269/0491-02",
+        "/ad2d/269/0491-01"
+      ]
+    },
+    {
+      "cite": "281 AD2d 513",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        98673,
+        98719
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/281/0513-02",
+        "/ad2d/281/0513-01"
+      ]
+    },
+    {
+      "cite": "296 AD2d 566",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1007960,
+        1008344
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/296/0566-01",
+        "/ad2d/296/0566-02"
+      ]
+    },
+    {
+      "cite": "84 NY2d 674",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4431210
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "681"
+        },
+        {
+          "page": "678, 681"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/84/0674-01"
+      ]
+    },
+    {
+      "cite": "199 AD2d 27",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1153681,
+        1153887
+      ],
+      "weight": 5,
+      "pin_cites": [
+        {
+          "page": "31"
+        },
+        {
+          "page": "31-32"
+        },
+        {
+          "page": "31"
+        },
+        {
+          "page": "32"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/199/0027-02",
+        "/ad2d/199/0027-01"
+      ]
+    },
+    {
+      "cite": "113 Misc 2d 167",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        792299
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/113/0167-01"
+      ]
+    },
+    {
+      "cite": "115 Misc 2d 256",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        799723
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/115/0256-01"
+      ]
+    },
+    {
+      "cite": "140 Misc 2d 681",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        874023
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/140/0681-01"
+      ]
+    },
+    {
+      "cite": "152 Misc 2d 538",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        900663
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/152/0538-01"
+      ]
+    },
+    {
+      "cite": "157 Misc 2d 834",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        912756
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/157/0834-01"
+      ]
+    },
+    {
+      "cite": "2003 NY Slip Op 50809",
+      "category": "reporters:state",
+      "reporter": "NY Slip Op",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 483,
+    "char_count": 7619,
+    "ocr_confidence": 0.788,
+    "pagerank": {
+      "raw": 1.458523723746264e-07,
+      "percentile": 0.6565597067628267
+    },
+    "sha256": "ac83fe0dc07c27c1ec12af6208bcc8eaa5bd4953ed181b8ce8596f8d24cbf7ac",
+    "simhash": "1:bb31201d04d06278",
+    "word_count": 1250
+  },
+  "last_updated": "2024-02-27T19:35:05.009820+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Bldg Management Co., Inc., Petitioner, v Vision Quest of Flatbush et al., Respondents. (Action No. 1.) (And Three Other Actions.)"
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nJack M. Battaglia, J.\nIn each of these commercial nonpayment proceedings, petitioner applies for a judgment of possession pursuant to RPAPL 732 (3) by reason of the tenant\u2019s failure to answer. Although the petitions differ in structure and pertinent language, each is verified only by an attorney based on information and belief. None of the applications are accompanied by any other affidavit or affirmation, with the consequence that none of the allegations of any of the petitions is sworn to or affirmed to be true by anyone with personal knowledge. In this respect, these applications, which constitute four of the six applications submitted to this judge on a recent day in the appropriate part, resemble a significant majority of the applications for judgment of possession regularly submitted for his determination. Finding the attorney verification insufficient to support a judgment of possession and warrant, the court denies each of the applications, with leave to renew.\nThis opinion will not address whether the verifications in these petitions comply with RPAPL 741 and, to the extent required, CPLR 3020 and 3021; nor will it address whether any defect in the verification would preclude entry of a default judgment. (See, generally, Genesee Gateway Houses, Inc. v Khalid, 2003 NY Slip Op 50809[U] [Rochester City Ct]; Ft. Holding Corp. v Otero, 157 Misc 2d 834 [Civ Ct, NY County 1993]; Zirinsky v Violet Mills, 152 Misc 2d 538 [Civ Ct, Queens County 1991]; Cucinotta v Saljon Enters., 140 Misc 2d 681 [Civ Ct, NY County 1988]; Lefrak v Robinson, 115 Misc 2d 256 [Mount Vernon City Ct 1982]; S.P.S.G., Inc. v Collado, 113 Misc 2d 167 [Civ Ct, NY County 1982].)\nIn Matter of Brusco v Braun (199 AD2d 27 [1st Dept 1993], affd 84 NY2d 674 [1994]), the First Department considered the authority of a judge to schedule an inquest following the tenant\u2019s default in answering a nonpayment proceeding. Authority for the inquest was claimed to flow from CPLR 3215 (b), which establishes the procedure before the court for obtaining a default judgment generally, and which permits the court to \u201cmake an assessment or take an account or proof.\u201d A provision in the RPAPL that specifically governs nonpayment proceedings, however, states that, upon the tenant\u2019s failure to answer, \u201cthe judge shall render judgment in favor of the petitioner.\u201d (RPAPL 732 [3].)\n\u201cApplying the rules of statutory construction to the conflicting provisions,\u201d the First Department concluded that \u201cit is clear that CPLR 3215 is inconsistent with, and thus superseded by, the provisions of RPAPL 732.\u201d (Brusco v Braun, 199 AD2d at 31.) Although the inconsistency identified in Brusco was created by the provision for inquest in subdivision (b) of CPLR 3215, the First Department appears to hold that no provision of CPLR 3215 is applicable to summary proceedings. Specifically, the court\u2019s treatment of prior case law clearly indicates that subdivision (f) of CPLR 3215 does not apply. (See id.)\nCPLR 3215 (f) requires that an application for a default judgment be supported by \u201cproof by affidavit made by the party of the facts constituting the claim . . . and the amount due,\u201d but a \u201cverified complaint . . . may be used as the affidavit.\u201d An application for default judgment pursuant to CPLR 3215 is properly denied when based upon a complaint verified only by an attorney, rather than upon an affidavit of facts or a complaint verified by someone with personal knowledge of the facts. (See Drake v Drake, 296 AD2d 566 [2d Dept 2002]; Fiorino v Yung Boon Yung, 281 AD2d 513 [2d Dept 2001]; Finnegan v Sheahan, 269 AD2d 491 [2d Dept 2000].) \u201c[A] complaint verified by counsel amounts to no more than an attorney\u2019s affidavit and is therefore insufficient to support entry of judgment pursuant to CPLR 3215.\u201d (Mullins v DiLorenzo, 199 AD2d 218, 219 [1st Dept 1993].)\nEven though, however, CPLR 3215 (f) may not be applicable, \u201c[t]he standards governing motions for summary judgment are applicable to special proceedings generally ... of which the summary proceeding to recover possession of real property is a species.\u201d (Brusco v Braun, 199 AD2d at 31-32.) On summary judgment, the \u201cbare affirmation\u201d of an attorney, which is not based upon personal knowledge of the facts, is \u201cwithout evidentiary value.\u201d (See Zuckerman v City of New York, 49 NY2d 557, 563 [1980]; Feratovic v Lun Wah, Inc., 284 AD2d 368, 368-369 [2d Dept 2001].) The \u201cinformation and belief\u2019 of the attorney adds nothing (see Henriquez v Putins, 245 AD2d 337, 338 [2d Dept 1997]; Wood v Nourse, 124 AD2d 1020, 1021 [4th Dept 1986]), even when based upon the attorney\u2019s review of the client\u2019s file (see Park Health Ctr. v Green Bus Lines Inc., 2002 NY Slip Op 40029[U], *3 [App Term, 2d & 11th Jud Dists]). The record before the Court in Brusco \u201creveal[ed] no defect in the supporting papers. The petition was personally verified by the owner.\u201d (Brusco v Braun, 199 AD2d at 31.)\nThe result is that a court\u2019s refusal to enter a default judgment in a nonpayment proceeding when the application is supported only by a petition verified by the petitioner\u2019s attorney is sustainable. (See Brusco v Braun, 199 AD2d at 32.) \u201cWhile RPAPL 741 permits a petition to be verified by an attorney for the landlord, it is well settled that the affidavit of counsel [has] no probative value for purposes of summary determination . . . unless accompanied by documentary evidence.\u201d (Id.) The court may require the \u201csubmission of \u2018additional proof in the form of an affidavit from someone in the position of landlord or managing agent, attesting to the amount of rent currently due and owing.\u201d (Id., quoting CPLR 409 [a].) In light of \u201cstatistics . . . regarding the frequency with which summary proceedings are discontinued because rent has been tendered or the matter otherwise settled . . . the submission of such an affidavit at the time default judgment is requested is a procedure which has much to commend it.\u201d (Id.)\nThe Court of Appeals affirmed the First Department in Brusco, also relying on the inconsistency between CPLR 3215 (b) and RPAPL 732 (3). (See Brusco v Braun, 84 NY2d at 681.) The Court did not address verification of a petition by an attorney, but twice noted that the petition in the case before it was verified on personal knowledge by the landlord. (See id. at 678, 681.) As characterized in a subsequent opinion, the Court ruled that judges \u201clack[ ] the discretionary legal authority to . . . fashion ... an additional procedural safeguard, as a matter of policy, for the benefit of defaulting tenants in a rental nonpayment eviction proceeding, beyond the policy choices made by the Legislature in this regard.\u201d (Matter of Mennella v Lopez-Torres, 91 NY2d 474, 479 [1998].)\nThe notion that judicial action be based upon facts sworn to or affirmed to be true on personal knowledge, or found to exist from otherwise admissible evidence, is not merely an \u201cadditional procedural safeguard, as a matter of policy.\u201d It is a pervasive characteristic of our judicial process, and of long-standing rules of practice and procedure, contributing substantially to legitimacy. No reason commends itself to suggest that the Legislature intended to withdraw from the scope of such a fundamental precept judicial action of such serious consequence as judgments and warrants of eviction.",
+        "type": "majority",
+        "author": "Jack M. Battaglia, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Lawrence P. Wolf for petitioner."
+    ],
+    "corrections": "",
+    "head_matter": "[766 NYS2d 338]\nBldg Management Co., Inc., Petitioner, v Vision Quest of Flatbush et al., Respondents. (Action No. 1.) (And Three Other Actions.)\nCivil Court of the City of New York, Kings County,\nOctober 16, 2003\nAPPEARANCES OF COUNSEL\nLawrence P. Wolf for petitioner."
+  },
+  "file_name": "0681-01",
+  "first_page_order": 669,
+  "last_page_order": 672
+}

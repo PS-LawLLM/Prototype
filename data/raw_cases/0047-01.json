@@ -1,0 +1,125 @@
+{
+  "id": 1237500,
+  "name": "Thomas Sorrenti, Respondent, v. Steve Shane, Doing Business as Shane's Towing Inc., et al., Appellants",
+  "name_abbreviation": "Sorrenti v. Shane",
+  "decision_date": "2003-10-21",
+  "docket_number": "",
+  "first_page": "47",
+  "last_page": "49",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Misc. 3d 47"
+    },
+    {
+      "type": "parallel",
+      "cite": "768 N.Y.S.2d 545"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. App. Term",
+    "id": 8833,
+    "name": "New York Supreme Court, Appellate Term"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "125 AD2d 972",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        5697649,
+        5690827,
+        5687489,
+        5688287
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/125/0972-02",
+        "/ad2d/125/0972-03",
+        "/ad2d/125/0972-01",
+        "/ad2d/125/0972-04"
+      ]
+    },
+    {
+      "cite": "267 AD2d 757",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        116980
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/267/0757-01"
+      ]
+    },
+    {
+      "cite": "238 AD2d 568",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1256897
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/238/0568-01"
+      ]
+    },
+    {
+      "cite": "81 NY2d 56",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4428728
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/81/0056-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 218,
+    "char_count": 2375,
+    "ocr_confidence": 0.779,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.04646409887217363
+    },
+    "sha256": "f4e059a409f5ce9b777825a74e4d7ada095062cd9fc0444292a556b5909fa248",
+    "simhash": "1:8a594006564684d0",
+    "word_count": 366
+  },
+  "last_updated": "2024-02-27T19:35:05.009820+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Thomas Sorrenti, Respondent, v Steve Shane, Doing Business as Shane\u2019s Towing Inc., et al., Appellants."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nMemorandum.\nOrder unanimously affirmed without costs.\nHaving requested that the court grant them permission to interpose a counterclaim for money plaintiff allegedly owed them for the subject vehicle repairs, as well as other affirmative relief, defendants waived any defect in personal jurisdiction, and by seeking to interpose such a claim, defendants have made affirmative use of the very court that they allege has no jurisdiction (Textile Tech. Exch. v Davis, 81 NY2d 56 [1993]).\nDefendants failed to show reasonable excuse and a meritorious defense upon their motion to vacate the default judgment entered against them in this action for breach of contract to repair a vehicle in a workmanlike manner, and the court did not abuse its discretion in denying defendants\u2019 motion in the circumstances of this case (see e.g. Roussodimou v Zafiriadis, 238 AD2d 568 [1997]).\nPlaintiff requested in his opposition to defendants\u2019 motion that the court render assistance to him in collecting the judgment. Defendants\u2019 motion papers and brief each state that \u201cShane\u2019s Towing LLC\u201d is a \u201csuccessor\u201d to Shane\u2019s Towing Inc., and the motion further alleged that plaintiff owed over $3,000 to \u201cSHANE\u2019S TOWING LLC, aS SUCCeSSOT to SHANE\u2019S TOWING INC.\u201d Given this admission of legal successor status, the court properly exercised its discretion in amending the caption to reflect the corporate defendant\u2019s current name in response to plaintiff\u2019s request that the court assist in the enforcement of the judgment (cf. New Medico Assoc. v Empire Blue Cross & Blue Shield, 267 AD2d 757 [1999] [holding that CPLR 1003, as amended, allows the court, on its own motion, only to drop, and not to add, parties]).\nNor did the court improperly refuse to credit defendants\u2019 affidavit, in which defendants\u2019 affiant, among other things, requested permission to interpose a counterclaim that patently contradicted the documentary evidence in the matter (see e.g. Petrovski v Fornes, 125 AD2d 972 [1986]).\nDefendants\u2019 remaining contentions have been considered and are without merit.\nPesce, EJ., Aronin and Patterson, JJ., concur.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Alan C. Glassman, Brooklyn, for appellants."
+    ],
+    "corrections": "",
+    "head_matter": "[768 NYS2d 545]\nThomas Sorrenti, Respondent, v Steve Shane, Doing Business as Shane\u2019s Towing Inc., et al., Appellants.\nSupreme Court, Appellate Term, Second Department,\nOctober 21, 2003\nAPPEARANCES OF COUNSEL\nAlan C. Glassman, Brooklyn, for appellants."
+  },
+  "file_name": "0047-01",
+  "first_page_order": 89,
+  "last_page_order": 91
+}

@@ -1,0 +1,109 @@
+{
+  "id": 1237571,
+  "name": "Striver, 140 LLC, Appellant, v. Yahaira Cruz et al., Respondents",
+  "name_abbreviation": "Striver, 140 LLC v. Cruz",
+  "decision_date": "2003-09-19",
+  "docket_number": "",
+  "first_page": "29",
+  "last_page": "31",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Misc. 3d 29"
+    },
+    {
+      "type": "parallel",
+      "cite": "770 N.Y.S.2d 814"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. App. Term",
+    "id": 8833,
+    "name": "New York Supreme Court, Appellate Term"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "102 AD2d 663",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3372369
+      ],
+      "pin_cites": [
+        {
+          "page": "664"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/102/0663-01"
+      ]
+    },
+    {
+      "cite": "308 AD2d 164",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        274841
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "165-166"
+        },
+        {
+          "page": "174-178"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/308/0164-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 238,
+    "char_count": 2636,
+    "ocr_confidence": 0.744,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.046469504592738804
+    },
+    "sha256": "58b7f32f0fecc103c12337fe770dffb512b876b7c29adcd7d1bd7617b3b79146",
+    "simhash": "1:25b673e1c0fdb3e8",
+    "word_count": 409
+  },
+  "last_updated": "2024-02-27T19:35:05.009820+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Striver, 140 LLC, Appellant, v Yahaira Cruz et al., Respondents."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nPer Curiam.\nOrder entered June 5, 2002 modified to deny tenants\u2019 motion for summary judgment and to reinstate the petition; as modified, order affirmed, without costs.\nWe do not disturb Civil Court\u2019s exercise of discretion insofar as it vacated the stipulation executed by the pro se tenants and permitted them to defend the nonpayment proceeding on the merits. Tenants have made a prima facie showing of defenses based upon breach of the warranty of habitability and rent overcharge.\nTenants, recipients of public assistance, are not entitled under prevailing precedent, however, to summary dismissal of the petition on the basis of Social Services Law \u00a7 143-b (the Spiegel Law). As a sharply divided panel of the Appellate Division, Second Department, recently held in analogous circumstances, the Spiegel Law may only be raised as a defense to a proceeding or action to recover rent where the New York City Human Resources Administration \u201cor other appropriate social services agency has exercised its right to withhold direct rent payments to landlords based upon the existence of code violations in the recipient\u2019s building.\u201d (Matter of Notre Dame Leasing v Rosario, 308 AD2d 164, 165-166 [2003].) While we endorse the reasoning set out in the dissenting opinion in Notre Dame Leasing (308 AD2d at 174-178) and concur with the dissenters\u2019 conclusion that the plain language of the Spiegel Law authorizes welfare recipient tenants to raise the statute as a defense to a nonpayment proceeding in the all too common situation where a social services agency has not exercised its right to withhold rent in response to code violations, we nonetheless are constrained to follow the Appellate Division majority\u2019s contrary holding. \u201cThe Appellate Division is a single State-wide court divided into departments for administrative convenience . . . and, therefore, the doctrine of stare decisis requires trial courts [and the Appellate Term] in this department to follow precedents set by the Appellate Division of another department until the Court of Appeals or [the Appellate Division of this department] pronounces a contrary rule\u201d (Mountain View Coach Lines v Storms, 102 AD2d 663, 664 [Titone, J., 1984]).\nSuarez, EJ., McCooe and Schoenfeld, JJ., concur.",
+        "type": "majority",
+        "author": "Per Curiam."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Horing, Welikson & Rosen, EC., Williston Park (Debra M. Genetin of counsel), for appellant. Legal Aid Society, New York City {Marie Richardson and Alan Conner of counsel), for respondent."
+    ],
+    "corrections": "",
+    "head_matter": "[770 NYS2d 814]\nStriver, 140 LLC, Appellant, v Yahaira Cruz et al., Respondents.\nSupreme Court, Appellate Term, First Department,\nSeptember 19, 2003\nAPPEARANCES OF COUNSEL\nHoring, Welikson & Rosen, EC., Williston Park (Debra M. Genetin of counsel), for appellant. Legal Aid Society, New York City {Marie Richardson and Alan Conner of counsel), for respondent."
+  },
+  "file_name": "0029-01",
+  "first_page_order": 71,
+  "last_page_order": 73
+}

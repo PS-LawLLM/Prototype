@@ -1,0 +1,200 @@
+{
+  "id": 1237527,
+  "name": "The People of the State of New York, Respondent, v. Martin Rodriguez, Appellant",
+  "name_abbreviation": "People v. Rodriguez",
+  "decision_date": "2003-07-17",
+  "docket_number": "",
+  "first_page": "8",
+  "last_page": "10",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Misc. 3d 8"
+    },
+    {
+      "type": "parallel",
+      "cite": "764 N.Y.S.2d 301"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. App. Term",
+    "id": 8833,
+    "name": "New York Supreme Court, Appellate Term"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "63 NY2d 912",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4395674
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/63/0912-01"
+      ]
+    },
+    {
+      "cite": "53 NY2d 849",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4382256
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/53/0849-01"
+      ]
+    },
+    {
+      "cite": "188 AD2d 331",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1106789,
+        1106703
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/188/0331-02",
+        "/ad2d/188/0331-01"
+      ]
+    },
+    {
+      "cite": "97 NY2d 56",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        1061702
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/97/0056-01"
+      ]
+    },
+    {
+      "cite": "86 NY2d 10",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4436909
+      ],
+      "pin_cites": [
+        {
+          "page": "19"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/86/0010-01"
+      ]
+    },
+    {
+      "cite": "90 NY2d 982",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        165784,
+        165622
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/90/0982-01",
+        "/ny-2d/90/0982-02"
+      ]
+    },
+    {
+      "cite": "120 Misc 2d 770",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        816231
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/120/0770-01"
+      ]
+    },
+    {
+      "cite": "225 AD2d 943",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        831212
+      ],
+      "pin_cites": [
+        {
+          "page": "944"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/225/0943-01"
+      ]
+    },
+    {
+      "cite": "283 AD2d 431",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        182178,
+        180710
+      ],
+      "pin_cites": [
+        {
+          "page": "432"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/283/0431-02",
+        "/ad2d/283/0431-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 318,
+    "char_count": 4114,
+    "ocr_confidence": 0.781,
+    "pagerank": {
+      "raw": 5.5335665348617085e-08,
+      "percentile": 0.34893636656036703
+    },
+    "sha256": "bf7d1ed4ef7cff0f4202401449145faf31c0cc2b663a4459da429107729c1f44",
+    "simhash": "1:b119f9058e04cc21",
+    "word_count": 680
+  },
+  "last_updated": "2024-02-27T19:35:05.009820+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The People of the State of New York, Respondent, v Martin Rodriguez, Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nMemorandum.\nJudgment of conviction unanimously modified upon the law by reversing the conviction of assault in the third degree and, as a matter of discretion in the interest of justice, by dismissing said count of the accusatory instrument; as so modified, affirmed.\nThe prosecutor\u2019s information, which was read into the record, was legally sufficient to support the charges of sexual abuse in the second degree and sexual abuse in the third degree (see Penal Law \u00a7\u00a7 130.55, 130.60 [2]).\u00b0We note that the very definition of \u201csexual contact\u201d includes the requirement that it be done for the purpose of sexual gratification (see Penal Law \u00a7 130.00 [3]). Moreover, sexual gratification is a subjective determination which may be inferred from the nature of the acts committed and the circumstances under which they occurred (see Matter of Kryzstof K., 283 AD2d 431, 432 [2001]; People v Beecher, 225 AD2d 943, 944 [1996]; People v Victor P., 120 Misc 2d 770 [1983]). Accordingly it was unnecessary to set forth the element of sexual gratification in the accusatory instrument.\nWith the exception of the count of assault in the third degree, the defendant\u2019s challenge to the legal sufficiency of the evidence is unpreserved. A claim is not preserved for appellate review when a defendant asserts different grounds at trial from those asserted on appeal (see People v Monroe, 90 NY2d 982 [1997]; People v Gray, 86 NY2d 10, 19 [1995]). Moreover, a claim of legal insufficiency is not preserved by a motion to vacate pursuant to CPL 330.30 (see People v Hines, 97 NY2d 56 [2001]; People v Jones, 188 AD2d 331 [1992]). In any event, the claims are without merit.\nWith respect to the count of assault in the third degree, this court finds that the evidence adduced at trial was legally insufficient to establish the \u201cphysical injury\u201d element of the charge, since there was insufficient evidence to establish an \u201cimpairment of physical condition or substantial pain\u201d (Penal Law \u00a7 10.00 [9]). Accordingly, the conviction on that count is reversed (CPL 470.15 [2]). Inasmuch as the defendant has already completed serving his sentence, and remittitur for resentence on that count would serve no useful penological purpose, the count of assault in the third degree is dismissed (see People v Burwell, 53 NY2d 849 [1981]).\nUpon review of the record, we are satisfied that the verdicts with respect to all the remaining counts of the accusatory instrument were not against the weight of the evidence (see CPL 470.15 [5]).\nWe are of the opinion that the trial court properly sustained objections to questions proposed to the prosecution witness, Maria Martinovic, on the ground that such questions were improper or would have elicited inadmissible hearsay. Moreover, any testimony by the two police officers whose testimony was sought to be introduced by defendant was properly precluded as collateral and not relevant to the issues in this case, where the officers were not involved in the incident, and where their testimony would have invited speculation on the part of the jurors.\nFinally, the court\u2019s failure to read the statutory definition of \u201csexual contact\u201d in its instruction to the jury on the sexual abuse charges was not reversible error (cf. People v Blacknall, 63 NY2d 912 [1984]) in that there has been no showing that the jury could have been misled as a result of the omission. In any event, any error in failing to charge the definition was harmless beyond a reasonable doubt. With respect to the challenge to the court\u2019s instruction to the jury on the charge of criminal trespass in the second degree, that issue is not preserved for appellate review and, in any event, is without merit.\nPesce, PJ., Golia and Rios, JJ., concur.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Carol Kahn, New York City, for appellant. Richard A. Brown, District Attorney, Kew Gardens (John M. Castellano, Sharon Y. Brodt and Roni C. Piplani of counsel), for plaintiff."
+    ],
+    "corrections": "",
+    "head_matter": "[764 NYS2d 301]\nThe People of the State of New York, Respondent, v Martin Rodriguez, Appellant.\nSupreme Court, Appellate Term, Second Department,\nJuly 17, 2003\nAPPEARANCES OF COUNSEL\nCarol Kahn, New York City, for appellant. Richard A. Brown, District Attorney, Kew Gardens (John M. Castellano, Sharon Y. Brodt and Roni C. Piplani of counsel), for plaintiff."
+  },
+  "file_name": "0008-01",
+  "first_page_order": 52,
+  "last_page_order": 54
+}

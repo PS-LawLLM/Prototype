@@ -1,0 +1,451 @@
+{
+  "id": 1237516,
+  "name": "Tony Silvester et al., Individually and on Behalf of All Others Similarly Situated, Plaintiffs, v. Time Warner, Inc., et al., Defendants",
+  "name_abbreviation": "Silvester v. Time Warner, Inc.",
+  "decision_date": "2003-06-20",
+  "docket_number": "",
+  "first_page": "250",
+  "last_page": "260",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Misc. 3d 250"
+    },
+    {
+      "type": "parallel",
+      "cite": "763 N.Y.S.2d 912"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 8791,
+    "name": "New York Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "151 Misc 2d 654",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        897566
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/151/0654-01"
+      ]
+    },
+    {
+      "cite": "23 NY2d 341",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2287450,
+        3500602
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/23/0341-01"
+      ]
+    },
+    {
+      "cite": "29 AD2d 633",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "53 Misc 2d 462",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        1181821
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/53/0462-01"
+      ]
+    },
+    {
+      "cite": "28 USC \u00a7 1338",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "70 NY2d 382",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4407766
+      ],
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "389"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/70/0382-01"
+      ]
+    },
+    {
+      "cite": "268 AD2d 337",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        146303
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/268/0337-01"
+      ]
+    },
+    {
+      "cite": "161 AD2d 220",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        995846
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/161/0220-01"
+      ]
+    },
+    {
+      "cite": "56 NY2d 879",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4387516
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/56/0879-01"
+      ]
+    },
+    {
+      "cite": "82 AD2d 1006",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3247760
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/82/1006-01"
+      ]
+    },
+    {
+      "cite": "163 Misc 2d 127",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        927821
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/163/0127-01"
+      ]
+    },
+    {
+      "cite": "199 AD2d 497",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1153575
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/199/0497-01"
+      ]
+    },
+    {
+      "cite": "256 AD2d 260",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        198268
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/256/0260-01"
+      ]
+    },
+    {
+      "cite": "70 NY2d 262",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4406121
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/70/0262-01"
+      ]
+    },
+    {
+      "cite": "286 AD2d 598",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        218243
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/286/0598-01"
+      ]
+    },
+    {
+      "cite": "848 F Supp 438",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        7403533
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/848/0438-01"
+      ]
+    },
+    {
+      "cite": "698 F Supp 1154",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        7400851
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/698/1154-01"
+      ]
+    },
+    {
+      "cite": "677 F Supp 731",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        7401150
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/677/0731-01"
+      ]
+    },
+    {
+      "cite": "247 AD2d 274",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        693466
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/247/0274-01"
+      ]
+    },
+    {
+      "cite": "2002 US Dist LEXIS 3100",
+      "category": "reporters:specialty_lexis",
+      "reporter": "U.S. Dist. LEXIS",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2002 WL 272406",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "opinion_index": 0
+    },
+    {
+      "cite": "98 NY2d 562",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        282577
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "566"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/98/0562-01"
+      ]
+    },
+    {
+      "cite": "84 NY2d 83",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4431905
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/84/0083-01"
+      ]
+    },
+    {
+      "cite": "150 AD2d 524",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3594317
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/150/0524-01"
+      ]
+    },
+    {
+      "cite": "191 AD2d 229",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1118696,
+        1118545
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/191/0229-02",
+        "/ad2d/191/0229-01"
+      ]
+    },
+    {
+      "cite": "228 AD2d 232",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        370874
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/228/0232-01"
+      ]
+    },
+    {
+      "cite": "257 AD2d 76",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        171887
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/257/0076-01"
+      ]
+    },
+    {
+      "cite": "292 AD2d 118",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        195347
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/292/0118-01"
+      ]
+    },
+    {
+      "cite": "28 USC \u00a7 1367",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "parenthetical": "d"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "282 F3d 147",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9473125
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/282/0147-01"
+      ]
+    },
+    {
+      "cite": "123 F Supp 2d 198",
+      "category": "reporters:federal",
+      "reporter": "F. Supp. 2d",
+      "case_ids": [
+        11144667
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "200"
+        },
+        {
+          "page": "201"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp-2d/123/0198-01"
+      ]
+    },
+    {
+      "cite": "17 USC \u00a7 501",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "parenthetical": "b"
+        }
+      ],
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 986,
+    "char_count": 21605,
+    "ocr_confidence": 0.765,
+    "sha256": "6e6b9ae8429f3a952457e7be626d2320e6b1df04ef00978d39ea2cf9dc6d64a1",
+    "simhash": "1:6e7ff5f57300ff11",
+    "word_count": 3378
+  },
+  "last_updated": "2024-02-27T19:35:05.009820+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Tony Silvester et al., Individually and on Behalf of All Others Similarly Situated, Plaintiffs, v Time Warner, Inc., et al., Defendants."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nHelen E. Freedman, J.\nThis is a motion pursuant to CPLR 3211 (a) (1), (2) and (7) to dismiss the complaint and the claims set forth therein based on documentary evidence and on jurisdictional and statutory grounds, including time limitations. As class representatives, plaintiffs seek to recover a share of the proceeds of defendants\u2019 successful prosecution of the RIAA v MP3.com litigation in the United States District Court for the Southern District of New York. The latter concerned distribution over the Internet of digital audio files.\nParties\nPlaintiffs are individual recording artists who, as long ago as the 1950\u2019s, signed recording contracts with defendant companies or their predecessors, which granted master recording and licensing rights to defendants or their assignors. Plaintiff Tony Silvester, doing business as the Main Ingredient, is a citizen of New York who has recording contracts with RCA Records, as predecessor to defendant BMG Entertainment, Inc., dated 1969, 1972, 1980 and 1981, and one or more record contracts with Polydor Records, as predecessor to defendant Universal Music Group, Inc., dated 1989. Silvester and the other plaintiffs were primarily members of the named groups, and still hold rights to perform under those names. Lester Chambers, doing business as The Chambers Brothers, is a citizen of California who has recording contracts with Columbia Records, predecessor to Sony Music Entertainment, Inc., dated 1966 and 1969. Carl Gardner, doing business as The Coasters, is a citizen of Florida who has record contracts with Atlantic Records, predecessor to defendant Time Warner, Inc., et al., dated 1955, 1959 and 1965. Bill Pinkney, doing business as The Original Drifters, is a citizen of South Carolina, and has created master recordings pursuant to contracts with Atlantic Records, predecessor to Time Warner, Inc., and other record labels. Various defendants also have licensing and cross licensing agreements to use Pinkney\u2019s works dated 1959, 1961, 1964 and 1970.\nDefendants Time Warner, Inc., Universal Music Group, Inc., Sony Music Entertainment, Inc., and BMG Entertainment, Inc. are successors in interest to companies with which plaintiffs have recording contracts and are all either incorporated in New York or have principal places of business in New York.\nClaims\nPlaintiffs\u2019 Claims\nPlaintiffs claim to represent a class of thousands of recording artists and their heirs, executors, successors and assignees who, at various times between 1956 and February 1, 1996, signed master recording agreements with defendants or their predecessors in interest. The gist of the complaint is that the recording contracts gave defendants no right to exploit plaintiffs\u2019 work in digital format. Plaintiffs allege that they and other proposed class members have no agreements with any defendant which authorize or entitle defendants to exploit plaintiffs\u2019 sound recordings in any form other than as phonograph records or other \u201canalog media.\u201d Plaintiffs claim that their contracts, for which they receive trailing royalties for previously recorded works, did not confer rights on defendants to exploit the sound recordings through digital media including compact discs (CD\u2019s) and digital audio files that can be distributed over the Internet and across computer networks. Plaintiffs also claim that their contracts do not constitute the full agreements between the parties because they are subject to the terms and provisions of the National Codes of Fair Practice for Sound Recordings of the American Federation of Television and Radio Artists (the phono codes), a series of collective bargaining agreements between the American Federation of Television and Radio Artists (AFTRA) and record producers, which plaintiffs contend provide that the sound recordings could not be used in any medium other than phonograph records.\nPlaintiffs aver that the new digital mastering technology that record companies adopted in the early 1980\u2019s enabled recordings to be copied without the loss of sound quality or distortions associated with the copying of analog recordings; thus digitalization was not permitted by the contracts or phono codes. Before the release of CD\u2019s in digital form, sound recordings could only be distributed in fixed tangible analog media (vinyl records or tapes). In or about 1999, an audio format, \u201cMP3,\u201d was developed, allowing digital audio files to be compressed into much smaller files with little degradation of sound quality, which in turn made distribution over the Internet and across computer networks much easier (and permitted consumers to download digital audio files containing plaintiffs\u2019 and other class members\u2019 recordings at low or no cost). Plaintiffs also claim that various members of the recording industry, by prosecuting claims against MP3.com and Napster, Inc., obtained settlements of approximately $15 to 20 million and warrants to purchase shares of MP3.com common stock and licensing fees of at least $6 million in exchange for releases. Plaintiffs claim that defendants had no right to enter into any agreements with MP3.com or Napster licensing the right to distribute sound recordings in digital form over the Internet.\nSpecifically, plaintiffs and putative class members seek compensatory and punitive damages for the following allegations. Plaintiffs allege defendants breached express and implied provisions of the recording contracts, as modified by the \u201cphono codes,\u201d by digitalizing recordings and allowing or facilitating distribution of recordings over the Internet, without protecting plaintiffs\u2019 rights to royalties and licensing fees. Plaintiffs also claim copyright infringement pursuant to 17 USC \u00a7 501 (b) (the Copyright Act of 1976), and seek \u201cequitable\u201d shares of defendants\u2019 recovered damages for copyright infringement in the federal courts, specifically one half of the infringement damages or other proceeds obtained by defendants from MP3.com in the MP3.com litigation and an accounting of all payments already made to songwriters and others to recoup improper payments. Plaintiffs assert that defendants have \u201cjudicially admitted\u201d that they will share the MP3.com proceeds with all artists whose sound recordings appeared on the MP3.com Web site, based on a statement during argument before the Second Circuit. They also admitted a contractual agreement to share proceeds with Tony Silvester. Additionally, plaintiffs claim that defendants negligently and recklessly exposed class members to the risk of music piracy by releasing sound recordings in digital audio files on CD\u2019s, and that defendants breached both implied covenants of good faith and fair dealing and a fiduciary obligation to protect plaintiffs\u2019 beneficial interests or property rights in their sound recordings.\nDefendants\u2019 Claims\nDefendants move to dismiss on the basis that the plain language of each of the recording agreements in question provided that in exchange for royalties, plaintiffs gave all of their rights in the sound recordings to the record companies. Additionally, defendants claim that the Copyright Act does not provide for equitable apportionment; thus plaintiffs would not be entitled to any portion of the proceeds of the settlements in the copyright infringement litigation against MP3.com, Inc. They further assert that Copyright Act claims are exclusively within the jurisdiction of the federal courts, and that they have already been dismissed by the federal court. (Chambers v Time Warner, Inc., 123 F Supp 2d 198 [SD NY 2000], vacated and remanded 282 F3d 147 [2d Cir 2002] [dismissed without prejudice based on lack of subject matter jurisdiction on June 27, 2002].) With respect to the various other claims, including breach of fiduciary duty and breach of implied covenant of good faith and fair dealing, defendants assert that the plain terms of the contracts define the duties of each party and that neither a fiduciary duty nor covenants not contained in the contracts exist independently. Finally, defendants claim that the claims are time-barred because plaintiffs\u2019 claims accrued in the early 1980\u2019s when CD\u2019s were first developed and marketed.\nHistory\nAll of the claims asserted in this action were the subject of a second amended complaint brought by plaintiffs in the United States District Court for the Southern District of New York. The original complaint was dismissed by the Honorable Jed Rakoff in Chambers v Time Warner, Inc. (123 F Supp 2d 198 [SD NY 2000] [but vacated and remanded 282 F3d 147 (2d Cir 2002); on remand again dismissed without prejudice for lack of subject matter jurisdiction on June 27, 2002]). The claims were refiled here pursuant to 28 USC \u00a7 1367 (d), as authorized by the stipulated order of the court. The Second Circuit vacated and remanded the original decision of the Southern District on the ground that the District Court considered matters outside the pleadings in determining the motion to dismiss.\nDiscussion\nMotion to Dismiss\nIn determining a motion to dismiss, the court\u2019s role is ordinarily limited to determining whether or not the complaint states a cause of action. (Frank v DaimlerChrysler Corp., 292 AD2d 118 [1st Dept 2002].) However, where documentary evidence and undisputed facts negate or dispose of the claims in the complaint or conclusively establish a defense, dismissal may be granted pursuant to CPLR 3211 (a) (1). (Biondi v Beekman Hill Hous. Apt. Corp., 257 AD2d 76 [1st Dept 1999]; Kliebert v McKoan, 228 AD2d 232 [1st Dept 1996]; Gephardt v Morgan Guar. Trust Co. of N.Y., 191 AD2d 229 [1st Dept 1993]; Juliano v McEntee, 150 AD2d 524 [1st Dept 1989]; see also Leon v Martinez, 84 NY2d 83 [1994]; Frank v DaimlerChrysler Corp., supra.)\nBreach of Contract Claims\nBased on the submissions contained here, it appears that all of the original agreements contain provisions conveying full ownership rights to the master recordings to the defendant companies or their predecessors. While there is some variation among the contracts, they all contain language identical or similar to the following: \u201cAll recordings, phonograph record masters and reproductions made therefrom, together with the performances embodied therein, shall be entirely [the record company\u2019s] property. [The record company] shall have the unrestricted right to manufacture, use, distribute and sell sound productions of the performances recorded hereunder made by any method now known, or hereafter to become known.\u201d (Atlantic contract; see also Columbia contract, RCA contract, PolyGram contract, affirmation of Katherine B. Forrest.)\nSuch contracts have been interpreted according to their plain meaning. The words by any method now or hereafter known or to become known, which are contained in these contracts, clearly anticipate development of new technologies. (See discussion in Greenfield v Philles Records, 98 NY2d 562 [2002].)\nIn Greenfield v Philles Records (98 NY2d 562 [2002]), the Court of Appeals, interpreting a recording artist\u2019s contract transfer of ownership rights to a record company, held that in the absence of \u201can explicit contractual reservation of rights by the artists,\u201d the \u201cartists\u2019 transfer of full ownership rights to the master recordings of musical performances carried with it the unconditional right of the producer to redistribute those performances in any technological format.\u201d (98 NY2d at 566.) That case involved the right of Philles Records to license master recordings for synchronization and redistribution of domestic licenses in 1987 based on a 1963 contract. The Court found that, despite the technological innovations that are revolutionizing the recording industry, long-settled common-law contract law governed. The broad contractual provisions of the agreements conveying to the defendants the \u201cright to make phonograph records, tape recordings or other reproductions of the performances embodied in such recordings by any method now or hereafter known\u201d (id. at 568-569) was a clear and unambiguous provision that authorized defendants to license performances for use in all visual media, i.e., television or movies. The Court stated that \u201ca written agreement that is complete, clear and unambiguous on its face must be enforced according to the plain meaning of its terms.\u201d (Id. at 569.)\nThe conclusion reached by the Court of Appeals in Greenfield (supra) mirrored that reached by Judge Rakoff in the Southern District action when he stated\n\u201cThis language (and the equivalent language in the other contracts) is clear. Without limitation it conveys all of plaintiffs\u2019 rights in these recordings to the [r]ecord [c]ompanies, including the right to exploit the recordings by any method whatsoever, whether known at the time or \u2018hereafter to become known.\u2019 \u201d (Chambers, 123 F Supp 2d at 200.)\nPlaintiffs claim that, somehow, the fact that the recording contracts here were subject to AFTRA union contracts or \u201cphono codes\u201d distinguishes their situation from that of the Ronettes in Greenfield is not persuasive. The phono codes are a series of fair practices agreements between AFTRA and the record companies which govern minimum wage and fee compensation and terms, including minimal payments for benefits to welfare funds and conditions for the engagement of artists making phonograph recordings. They do not affect the broader contractual provisions that convey the artists\u2019 property rights to the record companies. In fact, the language of some of the AFTRA agreements or the phono codes specifically permits copying of master recordings on \u201cmicrogroove recordings or tape or any other similar or dissimilar device now or hereafter devised.\u201d (1962 AFTRA contract, provision 8; see also Chambers, 123 F Supp 2d at 201 [rejecting the claim that AFTRA contracts affect the recording contracts; thus the breach of contract claims must be dismissed].)\nBreach of Fiduciary Obligation\nPlaintiffs\u2019 complaint states a claim that defendants breached a fiduciary obligation owed to defendants. However, under New York law, an artist\u2019s assignment of rights to a record company in exchange for royalties is contractual and does not create a fiduciary relationship or duty. Unless parties can show a separate duty other than to perform under the contract, no fiduciary relationship between them is established. (Sony Music Entertainment, Inc. v Robison, 2002 WL 272406, 2002 US Dist LEXIS 3100 [SD NY 2002]; Savage Records v Jones, 247 AD2d 274 [1st Dept 1998]; Rodgers v Roulette Records, Inc., 677 F Supp 731 [SD NY 1988]; Mellencamp v Riva Music, Ltd., 698 F Supp 1154 [SD NY 1988]; Carter v Goodman Group Music Publs., 848 F Supp 438 [SD NY 1994]; see also, Evans v Jelly\u2019s Jams, Sup Ct, NY County 2002, Index No. 601308/01 [\u201ca contract for the collection and payment of royalties on music, does not, by itself, give rise to a fiduciary relationship\u201d].) Moreover, actions for monetary damages from breach of fiduciary duty are governed by the three-year statute of limitations set forth in CPLR 214 (4). (Matter of Kaszirer v Kaszirer, 286 AD2d 598 [1st Dept 2001]; Loengard v Santa Fe Indus., 70 NY2d 262 [1987]; Yatter v William Morris Agency, 256 AD2d 260 [1st Dept 1998].) Plaintiffs\u2019 claims that creation and distribution of their works through digital media resulted in a breach of fiduciary duty accrued in the early 1980\u2019s when digital audio files on CD\u2019s were first released and sold. The argument that there was a continuing breach is unavailing because the underlying alleged breach occurred when the production of digital audio files permitted piracy to occur in the first instance. {See Woodlaurel, Inc. v Wittman, 199 AD2d 497 [2d Dept 1993] [holding that the statute of limitations runs when a party making the demand first becomes entitled to make it whether or not the party is aware that it may have a cause of action].) Plaintiffs further claim that the damages did not accrue until the late 1990\u2019s, when third parties downloaded the digital files and transmitted them over computer networks, does not state a claim against defendants. In fact, once the downloading occurred, defendants aggressively pursued claims against these third parties, in the Napster and MP3.com litigations, the results of which will accrue to the benefit of plaintiffs.\nBreach of Covenant of Good Faith and Fair Dealing\nThe claims for breach of good faith and fair dealing do not state an independent cause of action. Every contract contains an implied covenant of good faith and fair dealing. However, such covenant does not impose any obligation upon a party to the contract beyond what the explicit terms of the contract provide. (Poley v Sony Music Entertainment, 163 Misc 2d 127 [Sup Ct, NY County 1994].) Where, as here, no party has acted in a way to prevent the performance of or the rights under the contract, the claim must fail. (Maxon Intl. v International Harvester Co., 82 AD2d 1006 [3d Dept 1981], affd 56 NY2d 879 [1982] [where defendant did what the contract expressly permitted, there is no evidence of bad faith].) Here, there is no claim that defendants intentionally interfered with plaintiffs\u2019 rights to obtain royalties under their contracts. (PVM Oil Futures v Banque Paribas, 161 AD2d 220 [1st Dept 1990].) In fact, the pursuit of claims in the copyright litigations indirectly furthered plaintiffs\u2019 interests under the contracts, inasmuch as in the federal actions, defendants sought to eliminate piracy to protect recording sales, the source of plaintiffs\u2019 royalties. Finally, breach of implied covenants of good faith and fair dealing are subject to a six-year statute of limitations. (Liberman v Worden, 268 AD2d 337 [1st Dept 2000].)\nNegligence Claim\nPlaintiffs also assert that defendants negligently failed to protect plaintiffs\u2019 rights to maximize royalties by releasing digital files that were subject to piracy. However, such claim is unavailing because the contractual rights specifically provide for the right to exploit the copyrighted sound recordings in \u201cfuture technologies,\u201d which clearly includes compact discs and other digital media. A plaintiff cannot transform a claim for breach of contract into a negligence claim by merely alleging a breach of due care. \u201c[A] simple breach of contract is not to be considered a tort unless a legal duty independent of the contract itself has been violated.\u201d (Clark-Fitzpatrick, Inc. v Long Is. R.R. Co., 70 NY2d 382, 389 [1987].) The only possible claim for negligence is the creation of digital audio files that were subject to piracy. Compact discs were first created or distributed some 20 years ago (1983) and, therefore, a claim arising from that act is time-barred under CPLR 214 (6). The piracy occurred many years later in 1999 and 2000, and, in fact, defendants aggressively pursued claims against the wrongdoers in the Napster and MP3.com litigations; the injunctions obtained in those lawsuits will accrue to the benefit of plaintiffs.\nCopyright and Equitable Apportionment Claims\nPlaintiffs\u2019 claim for equitable apportionment pursuant to section 501 (b) of the Copyright Act does not state a cause of action and, if it did, would not be enforceable in this court. The Copyright Act does not give rights to \u201cbeneficial owners\u201d to equitable apportionment of damages recovered for infringement. It merely allows legal or beneficial owners to bring actions for copyright infringement. (17 USC \u00a7 501 [b].) Moreover, rights under the copyright laws may only be enforced in federal courts (28 USC \u00a7 1338 [a]; Estate of Hemingway v Random House, 53 Misc 2d 462 [Sup Ct, NY County 1967], affd 29 AD2d 633 [1st Dept 1967], affd 23 NY2d 341 [1968]; Shaw v Kastner, 151 Misc 2d 654 [Sup Ct, NY County 1991].)\nPlaintiffs\u2019 claim for equitable apportionment under New York law is also unsupported. The only such claim recognized by New York law arises out of apportionment of damages among tortfeasors, which is not the case here. Plaintiffs also claim that in the MP3.com litigation, they were promised 50% of the recovery because of a statement made by defendants in the Second Circuit, which they deem a judicial admission, entitling them to an equitable claim in this court. However, such a claim belongs in the forum where it was allegedly made and where its validity can be determined in an appropriate context. The transcript of the Second Circuit argument does not support this claim and indicates that the promise related to obtaining royalties under the contract.\nBased on the foregoing, the claims set forth are hereby dismissed and the clerk is directed to enter judgment for defendants.",
+        "type": "majority",
+        "author": "Helen E. Freedman, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Cravath, Swaine & Moore, New York City (Katherine B. Forrest of counsel), for Time Warner, Inc., defendant. Pryor Pryor Cashman Sherman & Flynn, New York City {Andrew H. Bart and Suzan Arden of counsel), and Mitchell, Silberberg & Knupp, Los Angeles, California {Russell J. Frackman and Jeffrey D. Goldman of counsel), for Universal Music Group, Inc., defendant. Paul, Weiss, Rifkind, Wharton & Garrison, New York City {Jay Cohen of counsel), for Sony Music Entertainment, Inc., defendant. Proskauer Rose LLP, New York City {Charles B. Ortner of counsel), for BMG Entertainment, Inc., defendant. Wolf Haldenstein Adler Freeman & Herz LLP, New York City {Mark, Rifkin and Fred Isquith of counsel), and Feldman & Rifkin, LLP, Jenkintown, Pennsylvania {Mark C. Rifkin of counsel), for plaintiffs."
+    ],
+    "corrections": "",
+    "head_matter": "[763 NYS2d 912]\nTony Silvester et al., Individually and on Behalf of All Others Similarly Situated, Plaintiffs, v Time Warner, Inc., et al., Defendants.\nSupreme Court, New York County,\nJune 20, 2003\nAPPEARANCES OF COUNSEL\nCravath, Swaine & Moore, New York City (Katherine B. Forrest of counsel), for Time Warner, Inc., defendant. Pryor Pryor Cashman Sherman & Flynn, New York City {Andrew H. Bart and Suzan Arden of counsel), and Mitchell, Silberberg & Knupp, Los Angeles, California {Russell J. Frackman and Jeffrey D. Goldman of counsel), for Universal Music Group, Inc., defendant. Paul, Weiss, Rifkind, Wharton & Garrison, New York City {Jay Cohen of counsel), for Sony Music Entertainment, Inc., defendant. Proskauer Rose LLP, New York City {Charles B. Ortner of counsel), for BMG Entertainment, Inc., defendant. Wolf Haldenstein Adler Freeman & Herz LLP, New York City {Mark, Rifkin and Fred Isquith of counsel), and Feldman & Rifkin, LLP, Jenkintown, Pennsylvania {Mark C. Rifkin of counsel), for plaintiffs."
+  },
+  "file_name": "0250-01",
+  "first_page_order": 238,
+  "last_page_order": 248
+}

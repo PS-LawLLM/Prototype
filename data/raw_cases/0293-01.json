@@ -1,0 +1,88 @@
+{
+  "id": 1237594,
+  "name": "DeBartolo Capital Partnership, Claimant, v. State of New York, Defendant",
+  "name_abbreviation": "DeBartolo Capital Partnership v. State",
+  "decision_date": "2003-06-09",
+  "docket_number": "",
+  "first_page": "293",
+  "last_page": "298",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Misc. 3d 293"
+    },
+    {
+      "type": "parallel",
+      "cite": "768 N.Y.S.2d 755"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Ct. Cl.",
+    "id": 9160,
+    "name": "New York Court of Claims"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "57 NY2d 206",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4386256
+      ],
+      "pin_cites": [
+        {
+          "page": "209"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/57/0206-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 502,
+    "char_count": 11136,
+    "ocr_confidence": 0.78,
+    "pagerank": {
+      "raw": 5.527646540942415e-08,
+      "percentile": 0.34575876817528745
+    },
+    "sha256": "4bbd736e629dbc3979796396397fd8a48608701aa15c3e605019903a1ef42e34",
+    "simhash": "1:f375a6f8ba4131d2",
+    "word_count": 1822
+  },
+  "last_updated": "2024-02-27T19:35:05.009820+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "DeBartolo Capital Partnership, Claimant, v State of New York, Defendant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nRen\u00e9e Forgensi Minarik, J.\nBy decision and order filed November 21, 2002, I denied the application of DeBartolo Capital Partnership for permission to file a late claim pursuant to section 10 (6) of the Court of Claims Act. The proposed claim had asserted a cause of action for the State\u2019s appropriation of land owned by DeBartolo. With this motion, DeBartolo has asked for reargument/renewal of that earlier decision. DeBartolo argues that the court misapprehended and misapplied the law regarding the \u201cfull settlement\u201d provision of EDPL 503 (A). Upon oral argument from counsel, I denied DeBartolo\u2019s request for renewal, but granted its request for reargument, largely because claimant convinced me that its failure to directly address the application of EDPL 503 (A) was an inadvertent and understandable oversight on claimant\u2019s part. I now, therefore, again address the merits of DeBartolo\u2019s contention that it is entitled to late claim relief.\nBackground\nClaimant, the owner of Eastern Hills Mall in Clarence, New York, and defendant agree on the facts underlying the proposed claim. The State appropriated property owned by claimant when the Department of Transportation undertook to widen Transit Road in the vicinity of the Mall. On January 29, 1998, the State filed a notice of appropriation and certified copies of the pertinent maps in the office of the Erie County Clerk. On April 3, 1998, claimant was served with a notice of appropriation by certified mail, return receipt requested.\nAt some point between this time and March of 1999, the State made an offer of settlement to claimant in the amount of $89,900. By letter dated March 18, 1999, claimant, believing that the value of the land taken was worth more than the value ascribed by the State, submitted an agreement of adjustment indicating that it valued the land at $148,523. The State responded to this submission by requesting from claimant documentation supporting claimant\u2019s valuation of the land.\nFor whatever reason, the negotiations ended there and no further action was taken on the matter until September of 2000, when claimant submitted a request for payment of the $89,900 previously offered by the State. Due to claimant\u2019s failure to properly execute the agreement of adjustment submitted with this request, payment to claimant could not be made at that time. In April of 2002, claimant submitted a properly executed agreement for advance payment, together with a cover letter reserving its rights \u201cto file a claim in the Court of Claims\u201d for additional monies it believed it was owed. On May 15, 2002, defendant paid to claimant the principal amount of $89,900, together with $22,416.59 in interest for a total of $112,316.59. After accepting this payment, claimant filed its initial motion for late claim relief on July 5, 2002.\nIn the earlier motion, I found that claimant\u2019s acceptance of defendant\u2019s payment of $112,316.59, coupled with the expiration of the three-year statute of limitations contained in the EDPL, triggered the \u201cfull settlement\u201d provision of EDPL 503 (A). For this reason, I determined that claimant had failed to demonstrate the merit of its proposed claim and I denied the motion. Claimant now argues that I misapplied this section of the EDPL and misinterpreted case law relating to it because I failed to consider two significant facts. First, claimant accepted payment from the State after expiration of the three-year period. Second, claimant submitted its request for payment with a cover letter which explicitly reserved its right to commence an action in the Court of Claims. I will address claimant\u2019s concerns in order.\nPayment After Expiration of the Three-Year Period\nClaimant alleges, on page three of its December 26, 2002 memorandum of law, that I did not consider the significance of \u201cthe fact that claimant\u2019s request for advance payment and subsequent payment of the amount originally offered by the defendant both took place after the expiration of the three-year statutory period specified in EDPL 503 (A).\u201d Upon review, I find that claimant is mistaken on this point. I did consider the significance of the fact that payment occurred after the three-year period had elapsed. In fact, as one of the factors that triggered the \u201cfull settlement\u201d provision of EDPL 503 (A), it was one of the key considerations upon which my decision was based.\nClaimant asserts that section 503 (A) \u201c[o]n its face . . . applies to payments received during the three year statutory period\u201d (claimant\u2019s Dec. 26, 2002 mem of law at 4). Claimant asserts that section 503 (A) does not address full settlement in, and therefore does not apply to, circumstances where payment is made after expiration of the three-year period. In support of this argument, on page four of its December 26, 2002 memorandum of law, claimant misquotes section 503 (A). While I am sure that this misquote was unintentional, it is, nonetheless, quite significant in light of the issue confronted in this application. Claimant\u2019s memorandum reads as follows:\n\u201cThe final sentence of Section 503 (A) is the \u2018full settlement\u2019 provision. That sentence provides that the failure of a condemnee to file any subsequent claim for additional compensation within such three year period \u2018shall be deemed an acceptance of the amount previously paid as full settlement of such claim.\u2019 \u201d (Emphasis added.)\nThe word \u201cpreviously,\u201d which could arguably imply a legislative intent consistent with claimant\u2019s position, is not contained in the statute. The statute actually provides\n\u201cThe claimant may, at any time subsequent to the running of the three year period, receive the amount of the condemnor\u2019s offer upon proof of his entitlement thereto. The failure of a condemnee to file a claim within such three year period shall be deemed an acceptance of the amount paid as full settlement of such claim.\u201d (Emphasis added.)\nThere is nothing in the statute which suggests that the payment must be made before the expiration of the three-year period in order for the \u201cfull settlement\u201d provision to apply. Statutes must be construed \u201cas written, according to the ordinary meaning of their language\u201d (Riegert Apts. Corp. v Planning Bd. of Town of Clarkstown, 57 NY2d 206, 209 [1982]). I find that the use of the word \u201csubsequent\u201d in section 503 (A) demonstrates a clear and unambiguous legislative intent that a condemnee\u2019s acceptance of payment subsequent to the expiration of the three-year period triggers the \u201cfull settlement\u201d provision.\nClaimant argues that acceptance of payment followed by expiration of the three-year period is a sequence of events necessary to trigger the \u201cfull settlement\u201d provision. I find that they are rather a combination of events necessary to trigger that provision; a combination that exists in the case at hand. Claimant\u2019s intent to treat the payment as an advance and to file a claim in the Court of Claims is of no moment. Claimant\u2019s action of accepting payment after expiration of the three-year period operated to trigger the full settlement provision of the statute. Any other construction, in addition to doing violence to the clear meaning of the statute, would inexplicably reward claimant\u2019s dilatory behavior by placing claimant in a more favorable position than a condemnee who acted expeditiously to accept an advance payment from the State. For these reasons, I find that claimant\u2019s acceptance of payment \u201csubsequent to the running of the three year period,\u201d coupled with its failure \u201cto file a claim within such three year period\u201d operated to trigger the \u201cfull settlement\u201d provision of EDPL 503 (A).\nClaimant\u2019s Reservation of Rights\nThe claimant argues that my earlier decision and order failed to address the effect of claimant\u2019s explicit reservation of its right to file a late claim. This, of course, begs the question as to what right the claimant had to reserve. It is axiomatic that claimant could not reserve a right that it did not have, and that its right to commence an action against the State for appropriation expired after three years as prescribed by statute. It is also clear that no party has a right to file a late claim, but rather must petition the court for the exercise of that court\u2019s discretion to permit the filing of a late claim. Simply put, the authority to grant a late claim, and the analysis necessary to determine the merits of such an application, are not affected one way or the other by the reservation of rights in claimant\u2019s cover letter.\nHowever, this issue also is specifically addressed in EDPL 304 (G), which provides: \u201cThe reservation of the right to claim additional compensation, pursuant to paragraph three of subdivision (A) of this section, shall not extend or affect in any way the time limit for the filing of such claim as provided in section five hundred three of this law.\u201d I find that this section clearly disposes of claimant\u2019s argument. The explicit reservation of rights contained in claimant\u2019s cover letter did not operate to extend the time within which it would otherwise have had to commence an action against the State.\nI would also note that the claimant makes an issue of the fact that it signed an agreement of advance payment and not an agreement of adjustment. Claimant does not explain in detail the significance of this fact relative to the application of section 503 (A), but implies that its alleged reservation of rights survives the former, if not the latter. However, the statute makes no distinction between the two, and in fact, an agreement for advance payment by its terms becomes an agreement of adjustment after the expiration of the three-year period. More importantly, regardless of what the payment is called, the statute itself provides that the condemnee may treat any payment as payment in full or, as long as the condemnee files his claim within the statutorily provided three-year period, as an advance payment. EDPL 304 (A) (3) states\n\u201ca condemnee may reject the offer as payment in full and instead elect to accept such offer as an . advance payment, and that such election shall in no way prejudice the right of a condemnee to claim additional compensation; however, the failure of the condemnee to file a claim within the time of filing claims as provided in subdivision (A) of section five hundred three of this law shall be deemed an acceptance of the amount paid as full settlement of such claim.\u201d\nI find that claimant\u2019s cover letter, purporting to reserve its right to file a claim in the Court of Claims, did not operate to extend the statute of limitations. Nor did it somehow operate to prevent the application of the statutorily mandated \u201cfull settlement\u201d provision of section 503 (A). I find claimant\u2019s remaining contentions to be without merit.\nFor the reasons set forth above, upon reargument, claimant\u2019s motion for permission to file a late claim is denied.",
+        "type": "majority",
+        "author": "Ren\u00e9e Forgensi Minarik, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Harold M. Halpern for claimant. Eliot Spitzer, Attorney General (William D. Lonergan of counsel), for defendant."
+    ],
+    "corrections": "",
+    "head_matter": "[768 NYS2d 755]\nDeBartolo Capital Partnership, Claimant, v State of New York, Defendant.\nCourt of Claims,\nJune 9, 2003\nAPPEARANCES OF COUNSEL\nHarold M. Halpern for claimant. Eliot Spitzer, Attorney General (William D. Lonergan of counsel), for defendant."
+  },
+  "file_name": "0293-01",
+  "first_page_order": 281,
+  "last_page_order": 286
+}

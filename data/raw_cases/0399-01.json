@@ -1,0 +1,457 @@
+{
+  "id": 1237550,
+  "name": "Ten's Cabaret, Inc., Formerly Known as Stringfellow's of New York, Ltd., Plaintiff, v. City of New York et al., Defendants; Pussycat Lounge, Inc., Plaintiff, v. City of New York et al., Defendants",
+  "name_abbreviation": "Ten's Cabaret, Inc. v. City of New York",
+  "decision_date": "2003-09-09",
+  "docket_number": "",
+  "first_page": "399",
+  "last_page": "411",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Misc. 3d 399"
+    },
+    {
+      "type": "parallel",
+      "cite": "768 N.Y.S.2d 786"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Civ. Ct.",
+    "id": 8970,
+    "name": "Civil Court of the City of New York"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "300 AD2d 441",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        957678
+      ],
+      "pin_cites": [
+        {
+          "page": "442"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/300/0441-01"
+      ]
+    },
+    {
+      "cite": "100 AD2d 824",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3362922,
+        3369045,
+        3363245
+      ],
+      "pin_cites": [
+        {
+          "page": "825"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/100/0824-03",
+        "/ad2d/100/0824-01",
+        "/ad2d/100/0824-02"
+      ]
+    },
+    {
+      "cite": "215 AD2d 521",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1216073,
+        1216349
+      ],
+      "pin_cites": [
+        {
+          "page": "522"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/215/0521-02",
+        "/ad2d/215/0521-01"
+      ]
+    },
+    {
+      "cite": "171 AD2d 726",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1034027
+      ],
+      "pin_cites": [
+        {
+          "page": "727"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/171/0726-01"
+      ]
+    },
+    {
+      "cite": "284 AD2d 836",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        681121
+      ],
+      "pin_cites": [
+        {
+          "page": "840"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/284/0836-01"
+      ]
+    },
+    {
+      "cite": "56 NY2d 11",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4386034
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/56/0011-01"
+      ]
+    },
+    {
+      "cite": "68 NY2d 553",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2347666
+      ],
+      "pin_cites": [
+        {
+          "page": "558-559"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/68/0553-01"
+      ]
+    },
+    {
+      "cite": "138 Misc 2d 394",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        868289
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "397"
+        },
+        {
+          "page": "397"
+        },
+        {
+          "page": "396"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/138/0394-01"
+      ]
+    },
+    {
+      "cite": "95 NY2d 771",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        1189078
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "772"
+        },
+        {
+          "page": "773"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/95/0771-01"
+      ]
+    },
+    {
+      "cite": "535 US 425",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        353617
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "438"
+        },
+        {
+          "page": "438-439"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/535/0425-01"
+      ]
+    },
+    {
+      "cite": "73 NY2d 544",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4411798
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "552"
+        },
+        {
+          "page": "556"
+        },
+        {
+          "page": "554"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/73/0544-01"
+      ]
+    },
+    {
+      "cite": "475 US 41",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6196723
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "47"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/475/0041-01"
+      ]
+    },
+    {
+      "cite": "94 NY2d 267",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        109921
+      ],
+      "pin_cites": [
+        {
+          "page": "273"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/94/0267-01"
+      ]
+    },
+    {
+      "cite": "183 Misc 2d 489",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        156731
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "490"
+        },
+        {
+          "page": "491-492"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/183/0489-01"
+      ]
+    },
+    {
+      "cite": "525 US 1067",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11183779,
+        11184068,
+        11183655,
+        11184008,
+        11183561,
+        11183917,
+        11183959,
+        11183823,
+        11183730,
+        11183862,
+        11183703,
+        11183484,
+        11183518
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/525/1067-07",
+        "/us/525/1067-13",
+        "/us/525/1067-04",
+        "/us/525/1067-12",
+        "/us/525/1067-03",
+        "/us/525/1067-10",
+        "/us/525/1067-11",
+        "/us/525/1067-08",
+        "/us/525/1067-06",
+        "/us/525/1067-09",
+        "/us/525/1067-05",
+        "/us/525/1067-01",
+        "/us/525/1067-02"
+      ]
+    },
+    {
+      "cite": "146 F3d 99",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11826083
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/146/0099-01"
+      ]
+    },
+    {
+      "cite": "997 F Supp 418",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        196651
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/997/0418-01"
+      ]
+    },
+    {
+      "cite": "91 NY2d 382",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        525125
+      ],
+      "weight": 9,
+      "pin_cites": [
+        {
+          "page": "395"
+        },
+        {
+          "page": "397"
+        },
+        {
+          "page": "399-400"
+        },
+        {
+          "page": "397"
+        },
+        {
+          "page": "395-396"
+        },
+        {
+          "page": "399-400"
+        },
+        {
+          "page": "396-397"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/91/0382-01"
+      ]
+    },
+    {
+      "cite": "241 AD2d 360",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1534686
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/241/0360-01"
+      ]
+    },
+    {
+      "cite": "171 Misc 2d 376",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        313491
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/171/0376-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1148,
+    "char_count": 29926,
+    "ocr_confidence": 0.744,
+    "pagerank": {
+      "raw": 1.0285597889119679e-07,
+      "percentile": 0.5473425284640147
+    },
+    "sha256": "ab784153402138c83811894fbe8cba26fcbbf47f01e48cb7cd3dd9090700c410",
+    "simhash": "1:0ac4440e0a8fae69",
+    "word_count": 4697
+  },
+  "last_updated": "2024-02-27T19:35:05.009820+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Ten\u2019s Cabaret, Inc., Formerly Known as Stringfellow\u2019s of New York, Ltd., Plaintiff, v City of New York et al., Defendants. Pussycat Lounge, Inc., Plaintiff, v City of New York et al., Defendants."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nLouis B. York, J.\nIn these two \u201cadult establishment\u201d zoning ordinance actions, plaintiffs move for a preliminary injunction, and defendants cross-move for summary judgment. Additionally, plaintiff in Ten\u2019s Cabaret, Inc. v New York City (Index No. 121197/02) moves for summary judgment; and, plaintiffs in Pussycat Lounge, Inc. v City of New York (Index No. 122740/02) move to consolidate with Ten\u2019s.\nIn Ten\u2019s, the court grants plaintiff\u2019s motion for summary judgment and denies defendants\u2019 cross motion for summary judgment. In addition, the court grants plaintiffs\u2019 motion for consolidation in Pussycat, and also grants summary judgment for the plaintiffs as a result of this consolidation.\nBackground\nPrior to November 23, 1994, the City of New York made no distinction between adult entertainment and commercial businesses without adult character. The New York City Zoning Resolution of December 15, 1961 allowed adult entertainment businesses to coexist with other commercial or residential land uses. In 1977, the City Planning Commission (CPC) concluded that adult entertainment uses had negatively impacted the five boroughs of New York City. The CPC proposed new zoning regulations to distinguish adult entertainment uses and restrict their potential locations. However, the Board of Estimate rejected the proposal because of disagreement about the appropriate extent of such regulations and concern that the regulations would cause the adult businesses to move to new locations. Residents appealed to local officials to shut down adult establishments in their neighborhoods. In response, officials closed adult video stores and bars in Astoria, Jackson Heights, Chelsea, Murray Hill, Forest Hills, and Bay Ridge. The number of adult establishments decreased from 151 in 1976 to 131 in 1984. However, the number of adult establishments increased by 35% in 1993. More than 75% of these businesses were in residential areas.\nThe City, concerned about the potential proliferation of adult uses, conducted a study of the negative secondary impacts of adult establishments in New York City. The Department of City Planning (DCP) study included (1) a survey of existing studies concerning the impacts of adult entertainment establishments and of regulation of such establishments in other localities; (2) a description of the adult entertainment businesses in New York City; (3) a review of studies and reports on adult entertainment establishments in New York City; (4) a DCP survey of the impacts these establishments have on communities in the City; and (5) a set of overall findings and recommendations. The 1993 DCP Report\u2019s overall findings included: there had been a growth in the amount of adult entertainment establishments between 1984 and 1993; adult entertainment businesses tended to concentrate in one area; real estate brokers perceived that adult entertainment establishments negatively affected nearby property values and decreased market values; and adult establishments generally used large, illuminated, and sexually graphic signs, a fact which concerned community residents about the exposure of minors to sexual images. As a result, the 1993 DCP Report purported to link adult businesses to various adverse secondary effects, including nearby crime and lower property values.\nBased on the 1993 DCP Report, the City decided to regulate adult entertainment establishments differently from other commercial establishments by restricting the location of adult uses proximate to residential areas, to houses of worship, to schools and to each other. Accordingly, following the issuance of the 1993 DCP Report, the New York City Council adopted application N 950113 for a text amendment to the Zoning Resolution, which became an amendment on November 23, 1994. The 1995 amendment to Zoning Resolution former \u00a7 11-113 (the 1995 Resolution) banned the extension or enlargement of existing adult businesses and prohibited the change of any use to an adult enterprise in all of New York City. The 1995 Resolution redefined \u201cadult establishment\u201d: \u201cAn \u2018adult establishment\u2019 is a commercial establishment where a \u2018substantial portion\u2019 of the establishment includes an adult bookstore, adult eating or drinking establishment, adult theater, or other adult commercial establishment, or any combination thereof . . . (N 950384 ZRY Resolution No. 1322 [L.U. No. 713], amending NY City Zoning Resolution former \u00a7 12-10). The text amendment pointed to the following factors to determine whether a \u201csubstantial portion\u201d of the facility was \u201cadult\u201d: \u201c(1) the amount of floor area and cellar space accessible to customers and allocated to [adult] uses; and (2) the amount of floor area and cellar space accessible to customers and allocated to [adult] uses as compared to the total floor area and cellar space accessible to customers in the establishment.\u201d (NY City Zoning Resolution former \u00a7 12-10.) The 1995 Resolution also barred exclusively adult businesses from all residential zones and most commercial and manufacturing districts. (NY City Zoning Resolution former \u00a7 32-01 [a]; former \u00a7 42-01 [b].) In areas where adult establishments were permitted, the businesses had to be at least 500 feet from schools, churches, other adult establishments, and certain commercial and manufacturing districts. (NY City Zoning Resolution former \u00a7 32-01 [b]; former \u00a7 42-01 [b].) There was a one-year moratorium for existing adult establishments. Within this period the businesses had to conform to the 1995 Resolution or terminate their business. (NY City Zoning Resolution \u00a7\u00a7 52-77, 52-734.)\nIn response to the 1995 Resolution, more than 100 owners and operators of adult establishments joined forces and took action against the City. The first action sought a declaratory judgment holding the 1995 Resolution unconstitutional. (Amsterdam Video, Inc. v City of New York, Sup Ct, NY County, Index No. 1035681/96.) In the second, the New York Civil Liberties Union filed Hickerson v City of New York (Sup Ct, NY County, Index No. 1035569/96) on behalf of consumers of adult expression. On July 22, 1996, counsel for adult-oriented cabarets commenced a third case challenging the 1995 Resolution. (Stringfellow\u2019s of N.Y., Ltd. v City of New York, Sup Ct, NY County, Index No. 113049/96.)\nOf particular relevance here, plaintiff in Amsterdam Video, Inc. sought to enjoin the law\u2019s enforcement by claiming that the operative phrase \u201csubstantial portion\u201d was fatally vague. (Amsterdam Video, Inc., SD, NY, Docket No. 96 Civ 2204 [MGC].) However, the City Planning Commission\u2019s Report made it clear that any commercial establishment with \u201cat least 40 percent of its accessible floor area used for adult purposes qualifies as an \u2018adult establishment\u2019 or \u2018adult bookstore.\u2019 \u201d (City Planning Commn Report, Sept. 18, 1995, at 50.) This equation became known as the \u201c60/40 allocation.\u201d The Operations Policy and Procedure Notice (OPPN) No. 4/98 confirmed the 60/40 equation:\n\u201cIf at least 40 percent of the bookstore\u2019s total stock accessible or available . . . for sale or rent to customers is comprised of adult materials, then the bookstore has a \u2018substantial portion\u2019 of its stock in adult materials, and is therefore an \u2018adult bookstore.\u2019 An establishment also includes an adult bookstore if 40 percent of the establishment\u2019s floor area and cellar space accessible to customers contains stock in adult materials.\u201d (OPPN No. 4/98.)\nThe actions were not formally consolidated, but a single decision upheld the regulations under the New York Constitution. (Stringfellow\u2019s of N.Y. v City of New York, 171 Misc 2d 376 [Sup Ct, NY County 1996].) The First Department and Court of Appeals affirmed the decision. (Stringfellow\u2019s of N.Y. v City of New York, 241 AD2d 360 [1st Dept 1997]; Stringfellow\u2019s of N.Y. v City of New York, 91 NY2d 382 [1998].) The Court found that the 1995 Resolution was not vague, it was a sufficiently narrow solution to deal with the secondary effects, and the 1993 DCP Report served as a proper basis for the 1995 Resolution. (Id. at 397, 399-400.) In federal court, the court found that the businesses were collaterally estopped from pursuing their First Amendment claims. (Hickerson v City of New York, 997 F Supp 418 [SD NY 1998], affd 146 F3d 99 [2d Cir 1998], cert denied 525 US 1067 [1999].)\nThe 1995 Resolution effectively reduced the number of adult establishments from 177 in 1993 to 136 in 2000. (CPC Report, Aug. 8, 2001, at 6.) The 60/40 equation has been the governing standard since July 1998. Adult businesses radically altered themselves to ensure they were not \u201cadult establishments\u2019 \u2019 within the meaning of the Zoning Resolution. They reconfigured their accessible floor areas so that only 40% contained adult material. Adult bookstores purchased nonadult stock, such as nonadult videos, and adult theaters showed both adult and nonadult films. Nonetheless, the City brought claims against these businesses under the Nuisance Abatement Law (Administrative Code of City of NY \u00a7 7-701). In these nuisance abatement cases, the City consistently asserted that the adult establishments were in sham compliance with the 1995 Resolution. The City argued that based on the sale to rental ratio of the adult videos and the lack of need to replenish adult videos, it was clear that despite facial 60/40 compliance, really the store actually did more than 60% of its business in adult videos. (City of New York v Warehouse on the Block, 183 Misc 2d 489, 490 [Sup Ct, NY County 2000].) The Court of Appeals said the definition of \u201cstock\u201d does not allow an inquiry into whether inventory is moving. \u201cInstead, the focus is solely on the appropriate percentages of stock and floor and cellar space, and the City drew these at 40% . . . [T]he City\u2019s guidelines provide no support for the view that profitability or stability of the nonadult stock need be considered.\u201d (City of New York v Les Hommes, 94 NY2d 267, 273 [1999]; see also, Warehouse on the Block, 183 Misc 2d at 491-492 [only relevant factors are stock and floor area].)\nIn response, on March 22, 2001, the Department of City Planning applied for a text amendment to the City Planning Commission on the ground that the adult establishments had been superficially complying with the 1995 Resolution. The City used the 1993 DCP Report, which was used to pass the 1995 Resolution, as evidence that the 2001 amendments were necessary and constitutional. The City did not conduct any research on the negative secondary impacts of 60/40 establishments. Defendants assert the amendment redefines \u201cadult establishment,\u201d \u201cadult bookstore,\u201d and \u201cadult eating and drinking establishment\u201d in order to address the problem of sham compliance with the law. Defendants assert that although Ten\u2019s and For the People Theatres erected partitions to limit the adult entertainment to less than 40% of the floor area, this constituted sham compliance because most of its business was still generated by adult uses. Pussycat Lounge had even more trouble complying with the 1995 Resolution when it encountered numerous obstacles imposed by the Department of Buildings. (Pussycat Lounge, Inc. v City of New York, Sup Ct, NY County, Mar. 12, 1999, Index No. 121033/98.)\nOn October 31, 2001, the New York City Council adopted and ratified text amendment N 010508 ZRY to the Zoning Resolution of the City of New York. The 2001 amendments removed the phrase \u201csubstantial portion\u201d from the definition of adult establishment, leaving the following: \u201cAn \u2018adult establishment\u2019 is a commercial establishment which is or includes an adult book store, adult eating or drinking establishment, adult theater, or other adult commercial establishment, or any combination thereof, as defined below.\u201d (NY City Zoning Resolution \u00a7 12-10.) Thus, the 2001 amendments barred businesses containing any adult entertainment from operating within 500 feet of a church or school. Adult businesses that existed as of August 8, 2001 could operate until October 31, 2002; thereafter, the 2001 amendments could be enforced against them.\nThe plaintiffs in Ten\u2019s and Pussycat moved by an order to show cause to temporarily enjoin and restrain defendants from enforcing the 2001 amendments. A temporary restraining order was issued pending this decision.\nMunicipalities have long had the authority to enact zoning laws to prevent urbanization from harming the quality of residential life. (Stringfellow\u2019s, 91 NY2d at 395.) These land use regulations generally carry a strong presumption of constitutionality under state police power. (Id. at 395-396.) However, municipal zoning authority is not unfettered. The court must \u201cconsider the intertwined constitutional values of free expression\u201d when it evaluates the 2001 amendments. (Id. at 396.)\nRegulations that restrain speech or expression are unconstitutional if they are aimed at the content of the speech, and are not a proper attempt to regulate its time, place, and manner. (Renton v Playtime Theatres, 475 US 41, 47 [1986].) A municipality can regulate constitutionally protected speech and expression through the zoning power if\n\u201c(1) the \u2018predominant purpose\u2019 of the ordinance is not to control the content of the material purveyed but to control the \u2018secondary effects\u2019 of such uses on the surrounding community, (2) the ordinance is designed to serve a substantial governmental interest, (3) it is narrowly tailored to affect the category of uses that produce the unwanted effects and (4) it allows for reasonable alternative avenues of expression.\u201d (Town of Islip v Caviglia, 73 NY2d 544, 552 [1989], citing Renton v Playtime Theatres, 475 US 41 [1986].)\nNew York applies a similar test to determine whether a municipal ordinance unconstitutionally infringes on the freedom of speech protections under article I, \u00a7 8 of the NY Constitution. In evaluating a municipal ordinance under article I, \u00a7 8, a court must consider whether the regulation (1) is \u201cjustified by concerns unrelated to speech,\u201d (2) is \u201cno broader than needed to achieve its purpose,\u201d and (3) causes the total number of the particular adult establishments to \u201cdecline or [leads to] fewer potential customers . . . conveniently patronizing] them.\u201d (String fellow\u2019s, 91 NY2d at 397.) The 2001 amendments must be constitutional under both the First Amendment and article I, \u00a7 8 to survive. (Town of Islip, 73 NY2d at 556.) Because the 2001 amendments regulate constitutionally protected expression, the City must make an evidentiary showing, such as studies, data, or statistics, that there is a rational basis for the zoning ordinance. (City of Los Angeles v Alameda Books, Inc., 535 US 425, 438 [2002]; Stringfellow\u2019s, 91 NY2d at 399-400; Town of Islip, 73 NY2d at 554.) In City of Los Angeles (535 US at 438-439 [2002]), the Supreme Court held that\n\u201ca municipality may rely on any evidence that is reasonably believed to be relevant for demonstrating a connection between speech and a substantial government interest. This is not to say that a municipality can get away with shoddy data or reasoning. The municipality\u2019s evidence must fairly support the rationale for its ordinance ... If plaintiffs succeed in casting doubt on a municipality\u2019s rationale . . . either by demonstrating that the municipality\u2019s evidence does not support its rationale or by furnishing evidence that disputes the municipality\u2019s factual findings . . . the burden shifts back to the municipality to supplement the record with evidence renewing support for a theory that justifies its ordinance.\u201d (Internal citations and quotation marks omitted.)\nThe primary argument of the summary judgment motion revolves around whether the City has made the requisite evidentiary showing. According to the City, the 1993 DCP Report establishes that adult establishments produce negative secondary effects. Defendants argue that the adult establishments affect the surrounding areas by reducing the quality of life, lowering property values, affecting public health, safety, and welfare, which leads to an increase in crime. Defendants assert that the 60/40s are still adult in nature and do not rectify the negative secondary effects associated with the adult establishments studied in the 1993 DCP Report. The 2001 amendments merely clarify the scope of the 1995 Resolution. According to plaintiffs, the City provides no evidence that 60/40 establishments produce any of these secondary effects. Because the 1993 DCP Report, upon which the City relies, only studied adult establishments before the 1995 Resolution, the Resolution did not examine the effects of the 60/40s. Plaintiffs argue that the 1995 Resolution was narrowly tailored to remedy the secondary effects and the City cannot argue that there is a rational basis for the 2001 amendments without evidence showing that 60/40s continue producing negative effects.\nThis court holds that defendants may not rely on the 1993 DCP Report as the basis for the 2001 amendments. The 1993 DCP Report did not study 60/40s, and it cannot be used as evidence to demonstrate that these establishments cause secondary effects. A study would reveal whether the 60/40 rule remedied the adverse secondary problems described in the 1993 DCP Report or whether a broader law is necessary. Furthermore, plaintiff has presented data of its own demonstrating that 60/ 40s do not cause the secondary effect of increased crime. (Ten\u2019s Cabaret, exhibit D, Feb. 2001 police report.) Thus, defendants have not met their burden under the First Amendment. For the same reason, defendants have not shown that the 2001 amendments are \u201cjustified by concerns unrelated to speech.\u201d (Stringfellow\u2019s, 91 NY2d at 397.) Accordingly, the 2001 amendments fail to meet the New York State constitutional requirements of article I, \u00a7 8. While New York courts have \u201clong recognized the considerable authority of municipalities to implement zoning plans and programs to meet the increasing encroachments of urbanization,\u201d if an ordinance, as here, aims to curb adult uses then it implicates speech or conduct protected under both the First Amendment and by article I, \u00a7 8 of the New York State Constitution and must be held to stricter scrutiny. (Stringfellow\u2019s, 91 NY2d at 395-396.)\nStringfellow\u2019s upheld the 1995 Resolution because it was not a \u201cpurposeful attempt to regulate speech\u201d and was narrowly tailored to address the secondary effects caused by adult establishments. (Id. at 397, 400.) \u201cBased upon [the City\u2019s] extensive analysis [in the 1993 DCP Report] of the impacts of such establishments in the City, the amendments represent a coherent regulatory scheme designed to attack the problems associated with adult establishments.\u201d (Id. [emphasis added].) In City of New York v Dezer Props. (95 NY2d 771, 772 [2000]), the Court of Appeals further clarified that the 1995 Resolution applied to \u201csubstantial portion adult establishments.\u201d (Id. at 772, citing Resolution; see, supra at 3 [containing text of this provision].)\nIn light of Stringfellow\u2019s, the City again attempts to rely on the same 1993 DCP Report to support the 2001 amendments and grant summary judgment in its favor. As plaintiffs assert, this argument misinterprets the Stringfellow\u2019s decision because the 60/40s did not exist when the 1993 DCP Report came out. Thus, it cannot be the basis for the 2001 amendments, which place restrictions on these new establishments. The City of New York concedes that it has not performed any subsequent study incorporating the 60/40s. In addition, there is no showing that the studies from other localities upon which defendants rely explored this type of establishment. Thus, as a matter of law, defendants have not demonstrated that there is a rational basis for the additional restrictions in the 2001 amendments. (See Chiasson v New York City Dept. of Consumer Affairs, 138 Misc 2d 394, 397 [Sup Ct, NY County 1988] [defendant, which did not provide studies or evidence showing connection between number of musicians and automotive or pedestrian traffic, failed to meet its burden].)\nDefendants counter that the 1995 Resolution was never intended to provide an exception for establishments with less than a substantial portion for adult uses. Instead, it was meant to apply to all establishments that have any type of adult use. Thus, the 2001 amendments simply clarify this fact. Moreover, the original 1993 DCP Report can also be used as evidentiary support for the newest amendments. However, this argument is weak. First, it is belied by a plain reading of the 1995 Resolution, which expressly uses the phrase \u201csubstantial portion\u201d in referring to adult establishments. Second, the Court of Appeals upheld this reading of the statute in Dezer Props. (95 NY2d 771, 773 [2000]). Third, the City of New York itself has documented in a Department of Buildings report that the statute was meant only to apply to substantial portion adult establishments. (In particular, Department of Buildings Operations Policy and Procedure Notice No. 6/98 states that \u201cthe Zoning Resolution defines an adult establishment as an establishment, a \u2018substantial portion\u2019 of which is occupied by an adult book store, adult eating or drinking establishment, adult theater, or \u2018other adult commercial establishment\u2019 see also CPC Report, Sept. 18, 1995, at 50 [discussing substantial portion language as it applies to adult establishments].)\nEven if this court accepted defendants\u2019 argument that the 2001 amendments simply clarify the 1995 Resolution by broadening the scope of its application, it would still find that the City has not satisfied its burden. As discussed above (supra), the City is constitutionally required to provide evidence showing that the 6Q/40s did not remedy the secondary effects. (See Stringfellow\u2019s, 91 NY2d at 399-400; see also Chiasson, 138 Misc 2d at 397 [regulation must be \u201cnarrowly drawn\u201d to advance a \u201ccompelling state interest\u201d].) Thus, new evidence is necessary not only to demonstrate a rational basis for the 2001 amendments, but to show that the 60/40s are not the appropriately narrow solution to remedy the secondary effects illuminated in the 1993 DCP Report. (See People ex rel. Arcara v Cloud Books, 68 NY2d 553, 558-559 [1986] [regulation must be no broader than necessary to achieve purpose].) The First Amendment and article I, \u00a7 8 require a zoning ordinance to be \u201cnarrowly tailored to affect only those uses shown to produce the unwanted secondary effects,\u201d and \u201cno broader than needed to achieve its purpose.\u201d (Stringfellow\u2019s, 91 NY2d at 396-397.) The 1995 Resolution, which placed zoning restrictions on adult establishments, was the narrowly tailored solution \u201cto affect only those uses shown to produce unwanted secondary effects\u201d by the 1993 DCP Report. {Id. at 396.) Defendants present no evidence that link 60/40s to negative secondary effects. Also, the City has not examined how neighborhoods have changed since the creation of 60/40s. Thus, they do not demonstrate that a broader solution is necessary.\nDefendants also argue that in City of Los Angeles v Alameda Books, Inc. (535 US 425 [2002]), the Supreme Court upheld an amendment to a Los Angeles zoning ordinance even though the City relied entirely on the study that was the basis of a primary ordinance. However, in that case, both the primary ordinance and its amendments regulated the same type of establishment. Here, on the other hand, in response to the original Resolution, adult establishments, including plaintiff, altered their businesses. Thus, unlike the adult businesses in City of Los Angeles, 60/40s here are different in character from the establishments the 1995 Resolution affected. Defendants cannot rely on studies that did not examine the 60/40s and expect this court to allow them to enlarge the scope of the 1995 Resolution. (See Chiasson, 138 Misc 2d at 396.)\nIn further support of its motion, plaintiff asserts that defendants\u2019 affirmative defenses of collateral estoppel and laches hold no merit. The doctrine of collateral estoppel bars a party from litigating an issue if (1) that issue has been decided in a prior proceeding, (2) it was necessary to the judgment, and (3) the litigant had a full and fair opportunity to litigate the issue in the prior proceeding. (Capital Tel. Co. v Pattersonville Tel. Co., 56 NY2d 11 [1982].) According to defendants, collateral estoppel applies here based on Stringfellow\u2019s (91 NY2d 382 [1998]) in which the Court of Appeals granted summary judgment against Ten\u2019s Cabaret in its challenge of the 1995 Resolution. However, as plaintiff argues, Stringfellow\u2019s solely dealt with the constitutionality of the 1995 Resolution as it applies to adult establishments. However, the present action concerns the new 2001 amendments, and their application to 60/40 establishments. Neither the 60/40 establishments, nor the 2001 amendments were in existence in 1998, and plaintiff could not possibly have included them in the Stringfellow\u2019s action. Plaintiff could not have raised the issue, as it did not exist. The City defined adult establishment differently to the Court, and plaintiff responded to that definition. The argument whether the City could broaden the scope of the 1995 Resolution could not have been made before there was any attempt to broaden it. Therefore, collateral estoppel does not apply. (See Matter of Massa v City of Kingston, 284 AD2d 836, 840 [3d Dept 2001] [holding that collateral estoppel does not preclude issues that \u201cwere not raised and could not have been raised\u201d in prior action].)\nAdditionally, defendants assert that plaintiffs should be barred from bringing its motion for a preliminary injunction based on laches. To have a successful laches defense, a party must demonstrate\n\u201c(1) conduct by an offending party giving rise to the situation complained of,\n\u201c(2) delay by the complainant asserting his or her claim for relief despite the opportunity to do so,\n\u201c(3) lack of knowledge or notice on the part of the offending party that the complainant would assert his or her claim for relief, and\n\u201c(4) injury or prejudice to the offending party in the event that relief is accorded the complainant.\u201d (Dwyer v Mazzola, 171 AD2d 726, 727 [2d Dept 1991].)\nDefendants argue that plaintiff waited too long before bringing its motion for a preliminary injunction. Defendants contend that this hesitation prejudiced the City by delaying the enforcement of the 2001 amendments, and causing the surrounding communities to continue to suffer from the alleged secondary effects caused by plaintiffs business. Plaintiff argues that it did not wait too long before it brought this motion, and any delay was a result of defendants\u2019 actions.\nPlaintiffs actions did not constitute a negligent delay. Here, plaintiff moved for a preliminary injunction one month before the 2001 amendments were to be enforced. (See id.) In any event, because this court is granting summary judgment in favor of the plaintiff, plaintiffs motion for preliminary injunction is moot. Thus, the laches argument is also moot.\nWhere the issues of fact are undisputed, and it is established that a party is entitled to a judgment as a matter of law, summary judgment must be granted. (CPLR 3212; Dougherty v Kinard, 215 AD2d 521, 522 [2d Dept 1995].) Thus, the court grants plaintiffs motion for summary judgment and denies defendants\u2019 cross motion for summary judgment. As plaintiffs motion for a preliminary injunction is now moot, the court does not address it.\nDefendants do not oppose the motion for consolidation, neither does Ten\u2019s. \u201cWhen actions involving a common question of law or fact are pending before a court, the court, upon motion, may order . . . the actions consolidated.\u201d (CPLR 602 [a].)\nThe court holds that consolidation is appropriate because both actions deal with most, if not all, of the same questions of law and fact (see CPLR 602 [a]) and would save unnecessary costs, time and prevent inconsistency of decisions. (Chinatown Apts. v New York City Tr. Auth., 100 AD2d 824, 825 [1st Dept 1984].) Both actions challenge the constitutional validity of the 2001 amendments, and the plaintiffs in both actions are 60/40 establishments. In fact, the two complaints are almost identical.\nDefendants rely on their papers in Ten\u2019s for their cross motion for summary judgment, and for their opposition to plaintiff\u2019s motion for a preliminary injunction. The court searches the record pursuant to CPLR 3212 (b) and grants summary judgment in favor of the plaintiffs in Pussycat. Because defendants have moved for summary judgment, the court can grant summary judgment in favor of the plaintiffs, who have not moved for this relief for the same reasons as summary judgment was granted in Ten\u2019s. (See Goldstein v County of Suffolk, 300 AD2d 441, 442 [2d Dept 2002].)\nIn summary: (1) Pussycat is to be consolidated with Ten\u2019s, and summary judgment is granted to plaintiffs, and defendants\u2019 cross motion for summary judgment is denied. (2) Plaintiffs are awarded costs and disbursements. There should be one bill of costs for the consolidated action.\nThe cities studied in the 1993 DCP Report include Boston, Phoenix, Detroit, Seattle, Atlanta, Kansas City, Los Angeles, San Diego, and the Long Island communities of Islip, Brookhaven, Smithtown, Babylon, and Huntington.",
+        "type": "majority",
+        "author": "Louis B. York, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Alonso, Ferrigno, Andalkar & Kahn, P.C., New York City (Mark J. Alonso of counsel), for Ten\u2019s Cabaret, Inc., plaintiff. Mehler & Buscemi, New York City (.Martin P. Mehler of counsel), for Pussycat Lounge, Inc., plaintiff. Michael A. Cardozo, Corporation Counsel, New York City (Gabriel Taussig, Robin Binder and Sheryl Kamholz of counsel), for defendants."
+    ],
+    "corrections": "",
+    "head_matter": "[768 NYS2d 786]\nTen\u2019s Cabaret, Inc., Formerly Known as Stringfellow\u2019s of New York, Ltd., Plaintiff, v City of New York et al., Defendants. Pussycat Lounge, Inc., Plaintiff, v City of New York et al., Defendants.\nSupreme Court, New York County,\nSeptember 9, 2003\nAPPEARANCES OF COUNSEL\nAlonso, Ferrigno, Andalkar & Kahn, P.C., New York City (Mark J. Alonso of counsel), for Ten\u2019s Cabaret, Inc., plaintiff. Mehler & Buscemi, New York City (.Martin P. Mehler of counsel), for Pussycat Lounge, Inc., plaintiff. Michael A. Cardozo, Corporation Counsel, New York City (Gabriel Taussig, Robin Binder and Sheryl Kamholz of counsel), for defendants."
+  },
+  "file_name": "0399-01",
+  "first_page_order": 387,
+  "last_page_order": 399
+}

@@ -1,0 +1,173 @@
+{
+  "id": 1237589,
+  "name": "The People of the State of New York, Plaintiff, v. Leo F. Tracy, Defendant",
+  "name_abbreviation": "People v. Tracy",
+  "decision_date": "2003-08-22",
+  "docket_number": "",
+  "first_page": "308",
+  "last_page": "314",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Misc. 3d 308"
+    },
+    {
+      "type": "parallel",
+      "cite": "764 N.Y.S.2d 585"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Watertown City Ct.",
+    "id": 9253,
+    "name": "Watertown City Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "79 NY2d 181",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4424157
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/79/0181-01"
+      ]
+    },
+    {
+      "cite": "40 NY2d 210",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2326325
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/40/0210-01"
+      ]
+    },
+    {
+      "cite": "195 Misc 2d 211",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        338434
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "215"
+        },
+        {
+          "page": "213"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/195/0211-01"
+      ]
+    },
+    {
+      "cite": "92 NY2d 204",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        725187
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/92/0204-01"
+      ]
+    },
+    {
+      "cite": "275 AD2d 520",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        5348194,
+        505804
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad/275/0520-01",
+        "/ad2d/275/0520-01"
+      ]
+    },
+    {
+      "cite": "70 NY2d 133",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        11076844,
+        4406078
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/70/0133-01"
+      ]
+    },
+    {
+      "cite": "169 Misc 2d 906",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        839082
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "909"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/169/0906-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 635,
+    "char_count": 14756,
+    "ocr_confidence": 0.734,
+    "pagerank": {
+      "raw": 9.791141174843264e-08,
+      "percentile": 0.5325073006186847
+    },
+    "sha256": "ab0dbb179eb28d49f162168c42ce6949dfbcc018a4f767228414347f00c2b5ff",
+    "simhash": "1:18a7364450ead4c5",
+    "word_count": 2502
+  },
+  "last_updated": "2024-02-27T19:35:05.009820+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The People of the State of New York, Plaintiff, v Leo F. Tracy, Defendant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nJames C. Harberson, J.\nThe defendant has been charged with a violation of article 37, \u00a7 1814 (a) (1) of the Tax Law: \u201cAttempt to evade or defeat tax.\u201d\nThe accusatory instrument alleges that the defendant on March 19, 2003 at 440 S. Massey Street in the City of Water-town, New York, violated this statute \u201cby possessing 45 cartons of untaxed cigarettes and 30 cans of untaxed chewing tobacco on which the New York excise tax had not been paid.\u201d The accusatory instrument also makes reference to the statement of the defendant, Jeannie Cousins and Edward Claflin who are codefendants.\nThe defendant in his supporting deposition admitted allowing Cousins to use his credit card to order cigarettes from an Internet site which included some cigarettes for the defendant. This conduct occurred about once a month over a three-month period. The defendant said he asked Cousins to reduce the size of the order because he \u201c[H]eard that some people had been getting arrested for having to[o] many untaxed cigarettes. I ordered four cartons this time.\u201d\nEdward Claflin stated in his supporting deposition that Cousins purchased untaxed cigarettes from Acorn Tobacco Co. near Rochester, New York, which were delivered by U.ES. to her home using Leo Tracy\u2019s credit card. She took orders from Claflin and Tracy among others.\nJeannie Cousins stated in her supporting deposition that about three months ago (Mar. 19, 2003) she ordered cigarettes from the Acorn Smoke Shop in Irving, New York, over the phone using Leo Tracy\u2019s credit card. They were shipped to her and Leo Tracy would \u201ccome over and pick them up\u201d \u2014 his share of the order. She said at no time did anyone at Acorn Smoke Shop ever advise her that \u201cpossessing untaxed cigarettes was a crime.\u201d\nThe prosecution also filed a record prepared by the New York State Office of Tax Enforcement with a report narrative which read: \u201calso arrested . . . Leo F. Tracy . . . arrested for Attempt to Evade and Defeat Tax, 1814 (a)-(l) because he paid for the product.\u201d\nA copy of the invoice of Acorn showed that the untaxed cigarettes seized at Cousins\u2019 home were billed to Leo Tracy and shipped to Cousins\u2019 home address.\nIssues\nThe defense moves for dismissal of the accusatory instrument because of a failure to allege the defendant \u201cactually took any action to evade a tax\u201d but rather \u201c[m]erely that he possessed untaxed cigarettes.\u201d The defense further argues that the accusatory instrument fails to allege the defendant did not pay taxes on the cigarettes or file a tax return.\nThe prosecution opposes the defense argument on the grounds that the accusatory instrument when read together with the supporting depositions and other evidence provide sufficient reasonable cause to believe the defendant violated section 1814 (a) (1) and each element thereof is established as required by CPL 100.40 (1) (a), (b) and (c).\nLaw\nArticle 20 of the Tax Law imposes a tax on cigarettes acquired or used in the state (\u00a7\u00a7 471, 471-a) as well as on tobacco products (\u00a7\u00a7 471-b, 471-c).\nSection 471 (1) and section 471-b (1) both use identical wording to the effect that \u201cno tax shall be imposed on cigarettes [tobacco products] sold under such circumstances that this state is without power to impose such tax or sold to the United States or sold to or by a voluntary unincorporated organization of the armed forces of the United States operating a place for the sale of goods . . . .\u201d\nSections 471-a and 471-c use identical wording imposing a use tax on cigarettes or tobacco products \u201cused in the state by any person, except that no tax shall be imposed (1) if the tax provided in section [471 or 471-b] is paid, (2) on the use of cigarettes which are exempt from tax imposed by said section [s], or (3) on the use of four hundred or less cigarettes, brought into the state on, or in the possession of, any person.\u201d These sections provide that \u201c[w]ithin twenty-four hours after liability for the tax accrues, each person shall file with the commissioner a return in such form as the commissioner may prescribe together with a remittance of the tax shown to be due thereon.\u201d\nSections 471-a and 471-c conclude by stating that \u201c[a]ll other provisions of this article if not inconsistent shall apply to the administration and enforcement of the tax imposed by this section in the same manner as if the language of said provisions had been incorporated in full into this section.\u201d\nThis means that incorporated by reference into sections 471-a and 471-c is the wording found at both section 471 (1) and section 471-b (1) that \u201c[i]t shall be presumed that all cigarettes [tobacco products] within the state are subject to tax until the contrary is established, and the burden of proof that any cigarettes [tobacco products] are not taxable hereunder shall be upon the person in possession thereof.\u201d\nTax Law \u00a7 1814 (a) states: \u201c(a) Attempt to evade or defeat tax. (1) Any person who willfully attempts in any manner to evade or defeat any tax imposed by article twenty of this chapter [Tax Law \u00a7 470 et seq.] or the payment thereof shall, in addition to other penalties provided by law, be guilty of a misdemeanor.\u201d\nIn Matter of New York Assn. of Convenience Stores v Urbach (169 Misc 2d 906 [1996]), the court commented concerning section 471 (1) of the Tax Law:\n\u201c[T]hese taxes are paid by the purchase of stamps which are affixed to the cigarette package as a prerequisite to the first taxable sale by a wholesaler or distributor ... [A] tax is then added to the selling price of the cigarettes along the distribution chain and is ultimately added to the retail price charged to the retail customer.\u201d {Id. at 909.)\nThe court after noting that Indian retailers selling cigarettes on their reservation have no obligation to collect cigarette taxes imposed by section 471 (1) concluded that \u201c[n]on-Indian purchasers of cigarettes from on-reservation Indian retailers are required to pay the excise and sales taxes.\u201d {Id. at 909.)\nCPL 100.40 (1) (a), (b) and (c) defines what an accusatory instrument must contain in order to be facially sufficient. In People v Alejandro (70 NY2d 133 [1987]), the Court stated: \u201cWe conclude than an information which fails to contain nonhearsay allegations establishing \u2018if true, every element of the offense charged and the defendant\u2019s commission thereof (CPL 100.40 [1] [c]) is fatally defective.\u201d {Id. at 136.) The Court said \u201can \u2018information\u2019 (charging a misdemeanor or petty offense) must demonstrate both \u2018reasonable cause\u2019 and a \u2018legally sufficient\u2019 or prima facie case {id. [1-b, c]) \u2014 a much more demanding standard.\u201d {Id. at 139.)\nThe question is whether this accusatory instrument has the requisite \u201cnon-hearsay allegations [in] the factual part of the information [that] establish if true, every element of the offense charged and the defendant\u2019s commission thereof.\u201d\nDecision\nArticle 20, \u00a7\u00a7 471 and 471-b define how cigarettes and tobacco products are taxed and then marked with stamps so that at the time of sale to a consumer all these cumulative taxes \u201cadded . . . along the distribution chain [are] ultimately added to the retail price [and] charged to the retail customer\u201d (New York Assn. of Convenience Stores v Urbach, supra at 909).\nArticle 20, \u00a7 471 (1) and \u00a7 471-b (1) stated that no tax shall be imposed \u201cunder such circumstances that this state is without power to impose such tax.\u201d These \u201ccircumstances\u201d refer to sales on Indian reservations as explained in Matter of New York Assn. of Convenience Stores v Urbach (275 AD2d 520 [2000], revd 92 NY2d 204 [1998]), which state in effect that since the State cannot reach an agreement with Indians to collect the taxes on their sales, the State is left with collecting them from non-Indian purchasers directly.\nArticle 20, \u00a7\u00a7 471-a and 471-c impose a use tax on cigarettes and tobacco products for which the taxes under section 471 or section 471-b have not been paid. The use tax must be paid to the commissioner \u201cin such form as the commissioner may prescribe together with a remittance of the tax shown to be due thereon\u201d (\u00a7\u00a7 471-a, 471-c).\nThe word \u201cuse\u201d is defined by identical language in both sections 471-a and 471-c: \u201c[f]or purposes of this article, the word \u2018use\u2019 means the exercise of any right or power actual or constructive and shall include but is not limited to the receipt, storage or any keeping or retention for any length of time, but shall not include possession for sale.\u201d\nAlso, both sections state \u201c[a]ll other provisions of this article if not inconsistent shall apply to the administration and enforcement of the tax imposed by this section in the same manner as if the language of said provisions had been incorporated in full into this section.\u201d\nThe court finds that Indians can sell cigarettes or tobacco products to Indians and non-Indian customers without collecting the taxes due upon such at the time of the sale. Non-Indians who obtain such nontaxed cigarettes or tobacco products are responsible to pay a \u201cuse\u201d tax within 24 hours of gaining \u201cuse\u201d of them in New York State outside of Indian lands as that term is defined in sections 471-a and 471-c.\nWhile the possession, then, of untaxed tobacco products or cigarettes creates a presumption state taxes are due \u201cuntil the contrary is established\u201d (\u00a7 471 [1]; \u00a7 471-b [1]) because the law also recognizes one who obtains untaxed products has \u201ctwenty-four hours after liability for the tax accrues\u201d to pay the use tax (\u00a7\u00a7 471-a, 471-c), until that time period (24-hour window) has passed a person may possess untaxed cigarettes or tobacco products without violating the statute so long as there is compliance with the filing of the required reports with \u201cremittance of the tax shown to be due thereon\u201d (\u00a7\u00a7 471-a, 471-c) before the end of the 24-hour period with the commissioner.\nIn this case the defendant allowed his credit card to be used to order cigarettes and tobacco products from an Indian retailer to be delivered by U.ES. to an address of a relative. He expected to acquire four cartons of cigarettes from this shipment.\nThe accusatory instrument states that on \u201cthe 19th day of March 2003, at 440 South Massey Street . . . [the defendant] did willfully attempt in any manner to evade or defeat the excise tax imposed by Article 20 of this Chapter by possessing . . . untaxed cigarettes and . . . untaxed chewing tobacco on which the New York State excise tax had not been paid . . .\nThe defendant in his statement said he allowed his niece to use his credit card to order cigarettes over the Internet so he had her order some for him as well. He said he advised her not to order so many because \u201csome people had been getting arrested for having to[o] many untaxed cigarettes.\u201d \u201cI ordered about four cartons this time\u201d (see statement of Leo Tracy, dated Mar. 19, 2003).\nThe investigator in a note affixed to his report said: \u201c[a]Iso arrested in this case was Leo F. Tracy . . . EO. box 902 . . . for attempt to evade and defeat tax ... a search warrant was executed on 9/19/03 at the above residence [after] a delivery of. . . untaxed cigarettes and . . . chewing tobacco had been made just prior to executing the search warrant. He was charged under Tax Law Section 1814 (a) (1).\u201d Section 1814 (a) (1) states: \u201c(a) Attempt to evade or defeat tax. (1) Any person who willfully attempts in any manner to evade or defeat any tax imposed by article twenty of this chapter [Tax Law \u00a7 470 et seq.] or the payment thereof shall ... be guilty of a misdemeanor.\u201d\nThere is no factual allegation in the accusatory instrument nor \u201cany supporting depositions\u201d or business records (an exception to hearsay rule) that the 24-hour period during which the defendant could have paid the use tax on these tobacco products or cigarettes as provided at sections 471-a and 471-c had passed before these items were seized at 440 S. Massey Street assuming the moment of delivery started the 24-hour countdown clock.\nIf the products were seized before that time period had expired, then at that point no law had been violated. If the products were seized after that time period had passed, then there would have been a violation of the use tax payment requirements as set out at sections 471-a and 471-c.\nThe presumption that untaxed cigarettes and tobacco products \u201care subject to the tax\u201d until the person in possession of them proves otherwise (\u00a7 471 [1]; \u00a7 471-b [1]) is (delayed) inapplicable during the 24-hour period within which a use tax is allowed to be paid by the consumer under sections 471-a and 471-c. This is because the law allows possession of untaxed cigarettes and tobacco products that are \u201csubject to the tax\u201d for a 24-hour period before it is due especially when, as in this case, the state agents have personal knowledge of when that period commenced.\nThis conclusion allows these various sections of the statute to operate \u201charmoniously rather than in conflict (Statutes \u00a7 98 [b])\u201d (People v Gorman, 195 Misc 2d 211, 215 [2003]) and reject a statutory construction which would avoid the absurdity (McKinney\u2019s Cons Laws of NY, Book 1, Statutes \u00a7 145; id. at 213) of allowing a person to pay a use tax within a stated 24-hour period while allowing possession of the untaxed products during that time as well as to be basis of a presumption that taxes that are not yet due have not been paid before they are due.\nThis construction also prevents state agents from basing any invasion of a person\u2019s legitimate expectation of privacy when in possession of untaxed cigarettes or tobacco products based on the presumption that the tax is due to justify their approach of a citizen within the 24-hour period after receipt of which, when they have personal knowledge of the commencement thereof before that period of time has expired (see, People v De Bour, 40 NY2d 210 [1976]; People v Hollman, 79 NY2d 181 [1992]).\nThe accusatory instrument alleging that the defendant had violated section 1814 (a) (1) failed to contain a \u201cnon-hearsay allegation establishing [an] element of the offense charged,\u201d to wit: that from the time the use of these products began to \u201caccrue\u201d 24 hours had passed before their seizure by the authorities. For this reason the court finds that the People have failed to provide a factual allegation in the information that the 24-hour time period had expired during which the defendant could pay the State use tax to avoid criminal liability under section 1814 (a) (1) of the Tax Law.\nThe charge is dismissed.",
+        "type": "majority",
+        "author": "James C. Harberson, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "William McClusky, Adams, for defendant. Cindy Foote-Intschert, District Attorney, Watertown (Matthew Goettel of counsel), for plaintiff."
+    ],
+    "corrections": "",
+    "head_matter": "[764 NYS2d 585]\nThe People of the State of New York, Plaintiff, v Leo F. Tracy, Defendant.\nCity Court of Watertown,\nAugust 22, 2003\nAPPEARANCES OF COUNSEL\nWilliam McClusky, Adams, for defendant. Cindy Foote-Intschert, District Attorney, Watertown (Matthew Goettel of counsel), for plaintiff."
+  },
+  "file_name": "0308-01",
+  "first_page_order": 296,
+  "last_page_order": 302
+}

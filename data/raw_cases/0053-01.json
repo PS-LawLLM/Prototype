@@ -1,0 +1,193 @@
+{
+  "id": 1237580,
+  "name": "Angela Cruickshank, Respondent, v. Angelique Dukes, Appellant",
+  "name_abbreviation": "Cruickshank v. Dukes",
+  "decision_date": "2003-10-16",
+  "docket_number": "",
+  "first_page": "53",
+  "last_page": "56",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Misc. 3d 53"
+    },
+    {
+      "type": "parallel",
+      "cite": "768 N.Y.S.2d 542"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. App. Term",
+    "id": 8833,
+    "name": "New York Supreme Court, Appellate Term"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "247 AD2d 512",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        694353
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/247/0512-01"
+      ]
+    },
+    {
+      "cite": "271 AD2d 579",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        268356,
+        2732055
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/271/0579-01",
+        "/ad/271/0579-01"
+      ]
+    },
+    {
+      "cite": "243 AD2d 942",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        319695
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/243/0942-01"
+      ]
+    },
+    {
+      "cite": "258 AD2d 415",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "276 AD2d 136",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        539459
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/276/0136-01"
+      ]
+    },
+    {
+      "cite": "292 AD2d 555",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        195137
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/292/0555-01"
+      ]
+    },
+    {
+      "cite": "302 AD2d 572",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        729600
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/302/0572-01"
+      ]
+    },
+    {
+      "cite": "78 NY2d 553",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4421262
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "557-558"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/78/0553-01"
+      ]
+    },
+    {
+      "cite": "256 AD2d 214",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        197559
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/256/0214-01"
+      ]
+    },
+    {
+      "cite": "289 AD2d 289",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        393158
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/289/0289-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 385,
+    "char_count": 5419,
+    "ocr_confidence": 0.776,
+    "pagerank": {
+      "raw": 4.8172472706271035e-08,
+      "percentile": 0.30213363790707487
+    },
+    "sha256": "043da8760a697727383953ca5f75ac7e7b779abc7fa1a8d4fe2dd1e0ece9e66d",
+    "simhash": "1:b59ed6a0ae84d85d",
+    "word_count": 865
+  },
+  "last_updated": "2024-02-27T19:35:05.009820+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Angela Cruickshank, Respondent, v Angelique Dukes, Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nMemorandum.\nOrder unanimously reversed without costs, defendant\u2019s motion granted to the extent it sought renewal, and, upon renewal, defendant\u2019s motion for summary judgment granted and complaint dismissed.\nPlaintiff was a passenger in a vehicle operated by defendant which was involved in an accident. At the time of the accident, defendant was a group home counselor employed by the Queensboro Society for the Prevention of Cruelty to Children and the vehicle was owned by Queensboro. Plaintiff was employed by a temporary employment agency known as \u201cTempositions\u201d and had been assigned to work as a counselor at Queensboro\u2019s Corona Group Home for at least six months prior to the accident. The accident occurred when the plaintiff and defendant were on their way to a picnic with three girls from the group home.\nDefendant cross-moved for summary judgment on the ground that workers\u2019 compensation was plaintiff\u2019s exclusive remedy and, therefore, a bar to the instant action (Workers\u2019 Compensation Law \u00a7 29 [6]). In support of the cross motion, defendant relied upon plaintiffs deposition testimony and upon the affidavit of Ms. Thrasher, the supervisor of Queensboro\u2019s Corona Group Home. The cross motion was denied, the court finding itself unable to determine whether plaintiff was a special employee as a matter of law based upon the information submitted, and emphasizing that it gave little weight to Ms. Thrasher\u2019s affidavit because, inter alia, it felt that the factual averments therein were insufficient. A deposition of Ms. Thrasher was subsequently held pursuant to a nonparty subpoena. Defendant then moved to renew and reargue the prior motion and submitted the deposition of Ms. Thrasher in support of the motion. The motion was denied, the court finding the motion to reargue to be untimely, and the motion to renew as, in effect, one to reargue, and, in any event, offering no new information which would change its prior determination.\nA motion to renew is based upon new facts not offered on the prior motion that could change the prior determination (or on a change in the law that would change the prior determination), and must contain a reasonable justification for the failure to present such facts in the prior motion (see CPLR 2221 [e] [2], [3]). The requirement that a motion for renewal be based upon newly discovered facts is a flexible one, and a court may, in its discretion, grant renewal even upon facts known to the movant at the time of the original motion (see Granato v Waldbaum\u2019s, Inc., 289 AD2d 289 [2001]).\nThe deposition testimony of Ms. Thrasher, while perhaps not containing new facts, set them forth in a more detailed manner and was unavailable at the time that the original motion was made. Moreover, the deposition testimony was offered to persuade the court to reconsider issues that it had raised sua sponte in its original decision (see Scannell v Mt. Sinai Med. Ctr., 256 AD2d 214 [1998]). Accordingly, the court below, in its discretion, should have considered the newly proffered evidence, and treated the motion as one to renew. Inasmuch as defendant offered a reasonable justification for failing to produce such evidence, the court below erred in denying renewal.\nTurning to the merits of the underlying application, while it is true that Tempositions paid plaintiffs salary, the evidence submitted by defendant clearly demonstrated that Queensboro directly supervised and controlled the material aspects of plaintiffs work there. Plaintiff failed to show that Tempositions exercised any direction or control over her work at Queensboro. Although a person\u2019s categorization as a special employee is usually a question of fact, this is not a per se rule. The determination of a worker\u2019s special employment status \u201cmay be made as a matter of law where the particular, undisputed critical facts compel that conclusion and present no triable issue of fact\u201d such as \u201cwhere the undisputed facts establish that the general employer was performing no work for the special employee and did not retain control over the special employee\u201d (Thompson v Grumman Aerospace Corp., 78 NY2d 553, 557-558 [1991]). Upon review of the record, we find that plaintiffs status as a special employee of Queensboro was established as a matter of law (see e.g. Niranjan v Airweld, Inc., 302 AD2d 572 [2003]; Carino v Kenmare Remodeling, 292 AD2d 555 [2002]; Lane v Fisher Park Lane Co., 276 AD2d 136 [2000]; Maldonado v Canac Intl., 258 AD2d 415 [1999]; Hanchett v Graphic Techniques, 243 AD2d 942 [1997]). Since receipt of compensation benefits from a general employer precludes an employee from commencing a negligence action against a special employer or coemployee (see Thompson v Grumman Aerospace Corp., supra; see also Martin v Baldwin Union Free School Dist., 271 AD2d 579 [2000]; Gubitosi v National Realty Co., 247 AD2d 512 [1998]), summary judgment should have been granted to defendant on its affirmative defense of workers\u2019 compensation.\nPesce, PJ., Aronin and Patterson, JJ., concur.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Jacobowitz, Garfinkel & Lesman, New York City, and Fiedelman & McGaw, Jericho (Ross P. Master of counsel), for appellant. Pazer & Epstein, PC., New York City (Matthew J. Fein of counsel), for respondent."
+    ],
+    "corrections": "",
+    "head_matter": "[768 NYS2d 542]\nAngela Cruickshank, Respondent, v Angelique Dukes, Appellant.\nSupreme Court, Appellate Term, Second Department,\nOctober 16, 2003\nAPPEARANCES OF COUNSEL\nJacobowitz, Garfinkel & Lesman, New York City, and Fiedelman & McGaw, Jericho (Ross P. Master of counsel), for appellant. Pazer & Epstein, PC., New York City (Matthew J. Fein of counsel), for respondent."
+  },
+  "file_name": "0053-01",
+  "first_page_order": 95,
+  "last_page_order": 98
+}

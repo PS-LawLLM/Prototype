@@ -1,0 +1,145 @@
+{
+  "id": 1237519,
+  "name": "In the Matter of County of Montgomery et al., Petitioners, v. Alan G. Hevesi, as Comptroller and Sole Trustee of the New York State and Local Retirement System, et al., Respondents",
+  "name_abbreviation": "County of Montgomery v. Hevesi",
+  "decision_date": "2003-09-10",
+  "docket_number": "",
+  "first_page": "522",
+  "last_page": "530",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Misc. 3d 522"
+    },
+    {
+      "type": "parallel",
+      "cite": "764 N.Y.S.2d 597"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 8791,
+    "name": "New York Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "249 AD2d 607",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        708487
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/249/0607-01"
+      ]
+    },
+    {
+      "cite": "247 AD2d 709",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        694154
+      ],
+      "pin_cites": [
+        {
+          "page": "710"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/247/0709-01"
+      ]
+    },
+    {
+      "cite": "292 AD2d 735",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        195884
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/292/0735-01"
+      ]
+    },
+    {
+      "cite": "98 NY2d 607",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "293 AD2d 101",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        955670
+      ],
+      "weight": 5,
+      "pin_cites": [
+        {
+          "page": "104"
+        },
+        {
+          "page": "104"
+        },
+        {
+          "page": "104"
+        },
+        {
+          "page": "104-105"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/293/0101-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 571,
+    "char_count": 18325,
+    "ocr_confidence": 0.779,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.04646525724086616
+    },
+    "sha256": "4335b400f90cde6951913d9b29b8b73e06fc59d82b941dbf8f3aab9b19484269",
+    "simhash": "1:680ad8ea391f3d27",
+    "word_count": 2881
+  },
+  "last_updated": "2024-02-27T19:35:05.009820+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of County of Montgomery et al., Petitioners, v Alan G. Hevesi, as Comptroller and Sole Trustee of the New York State and Local Retirement System, et al., Respondents."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nDan Lamont, J.\nPetitioners bring this proceeding pursuant to CPLR article 78 seeking a judgment declaring and adjudging that respondent McCall\u2019s September 6, 2002 findings of fact and conclusions of law overturning Hearing Officer Lomanto\u2019s July 30, 2002 bench decision be vacated as arbitrary and capricious, an abuse of discretion, violative of law and in excess of respondents\u2019 jurisdiction, and declaring that petitioners may file for Retirement and Social Security Law article 15, \u00a7 605 disability retirement benefits for and on behalf of respondent Faltermeier, and granting various other forms of relief. By decision/order dated April 30, 2003, this court denied respondents\u2019 motion to dismiss the petition for (1) failure to exhaust administrative remedies, and (2) failure to join Gordon J. Faltermeier as a necessary party, and directed that Faltermeier be added as a party.\nThe state respondents have now filed an answer asserting that the petition fails to state a cause of action and reasserting their defense that petitioners have failed to exhaust their administrative remedies. Respondent Faltermeier has filed a notice of cross petition requesting that the relief in the petition be denied and that Faltermeier receive an accidental disability retirement at 75% of his final average salary.\nThis court\u2019s April 30, 2003 decision/order is incorporated herein. This court\u2019s prior decision/order determined that petitioners were not required to exhaust their administrative remedies because the respondent administrative agency has made a final determination on the issue of whether or not petitioners have the authority to file an application for Retirement and Social Security Law \u00a7 605 benefits where an employee has more than 10 years of service credit and is permanently disabled as a result of an injury resulting from the performance of his duties \u2014 without regard to the cause of such disability being accidental or not accidental. Respondent McCall determined that petitioners could not file an application for Retirement and Social Security Law \u00a7 605 benefits unless respondent Faltermeier\u2019s permanent disability was the result of an accident sustained in the performance of his duties.\nThe Law\nGeneral Municipal Law \u00a7 207-c, \u201cPayment of salary, wages, medical and hospital expenses of policemen with injuries or illness incurred in the performance of duties,\u201d provides in applicable part as follows:\n\u201c1. Any sheriff, undersheriff, deputy sheriff or corrections officer of the sheriff\u2019s department of any county (hereinafter referred to as a \u2018policeman\u2019) . . . who is injured in the performance of his duties or who is taken sick as a result of the performance of his duties so as to necessitate medical or other lawful remedial treatment shall be paid by the municipality by which he is employed the full amount of his regular salary or wages until his disability arising therefrom has ceased . . .\n\u201c2. Payment of the full amount of regular salary or wages, as provided by subdivision one of this section, shall be discontinued with respect to any policeman who is permanently disabled as a result of an injury or sickness incurred or resulting from the performance of his duties if such policeman is granted an accidental disability retirement allowance pursuant to section three hundred sixty-three of the retirement and social security law, a retirement for disability incurred in performance of duty allowance pursuant to section three hundred sixty-three-c of the retirement and social security law or similar accidental disability pension provided by the pension fund of which he is a member. If application for such retirement allowance or pension is not made by such policeman, application therefor may be made by the head of the police force or as otherwise provided by the chief executive officer or local legislative body of the municipality by which such policeman is employed.\u201d\nRetirement and Social Security Law \u00a7 605, \u201cDisability retirement,\u201d provides in applicable part as follows:\n\u201ca. Application for a disability retirement allowance for a member may be made by:\n\u201c1. Such member, or\n\u201c2. The head of the department in which such member is employed.\n\u201cb. At the time of the filing of an application pursuant to this section, the member must:\n\u201c1. Have at least ten years of total service credit\n\u201c3. Provided, however, if the retirement system determines that such member was physically or mentally incapacitated for performance of gainful employment as the natural and proximate result of an accident not caused by his own willful negligence sustained in the performance of his duties in active service while actually a member of the retirement system the requirement that the member should have ten years of credited service shall be inapplicable.\n\u201cc. If the retirement system determines that the member is physically or mentally incapacitated for the performance of gainful employment, and that he was so incapacitated at the time he ceased his performance of duties and ought to be retired for disability, he shall be so retired.\u201d\nDiscussion\nThe facts in this proceeding relating to Faltermeier\u2019s permanent disability and his years of service are undisputed. The parties further agree that Faltermeier was injured in the performance of his duties, but do not agree that his disability was the result of an accident sustained in the performance of his duties. The Appellate Division, Third Department\u2019s decision in Matter of De Novio v County of Schenectady (293 AD2d 101 [3d Dept 2002], lv denied 98 NY2d 607 [2002]) has a significant impact on the issue presented in this proceeding. De Novio (at 103) contains the following excerpt from General Municipal Law \u00a7 207-c:\n\u201cPayment of the full amount of regular salary or wages, as provided by subdivision one of this section, shall be discontinued with respect to any [qualified employee] who is permanently disabled as a result of an injury or sickness incurred or resulting from the performance of his duties if such [employee] is granted an accidental disability retirement allowance pursuant to section three hundred sixty-three of the retirement and social security law, a retirement for disability incurred in performance of duty allowance pursuant to section three hundred sixty-three-c of the retirement and social security law or similar accidental disability pension provided by the pension fund of which he is a member (General Municipal Law \u00a7 207-c [2] [emphasis supplied]).\u201d\nAs a tier IV member of the State and Local Employees\u2019 Retirement System, respondent Faltermeier is subject only to Retirement and Social Security Law article 15, \u00a7 605 disability retirement. \u201cIn contrast to the provisions of title 8, which separately authorize ordinary disability retirement (see, Retirement and Social Security Law \u00a7 362), accidental [disability] retirement (see, Retirement and Social Security Law \u00a7 363) and performance of duty retirement (see, Retirement and Social Security Law \u00a7 363-c) . . . section 605 disability retirement encompasses all available forms of disability retirement for the members of petitioner\u2019s retirement system.\u201d (De Novio v County of Schenectady, supra at 104 [emphasis supplied].)\nUnder the facts of this proceeding, this court determines that section 605 disability retirement encompasses all available forms of disability retirement for members of respondent Faltermeier\u2019s retirement system. \u201cTo be eligible for section 605 disability retirement, a member must either have 10 years of service [emphasis added] ... or demonstrate that his or her disability resulted from an accident sustained in the performance of his or her duties (see, Retirement and Social Security Law \u00a7 605 [b] [(1)], [3]).\u201d (De Novio, supra at 104.) The De Novio court determined that \u201cthe clear terms of Retirement and Social Security Law \u00a7 605 provide for accidental disability retirement, for which petitioner was eligible as a tier IV member, rendering that section a logical counterpart for the benefits available to members of the Police and Fire Retirement System under Retirement and Social Security Law \u00a7\u00a7 363 and 363-c\u201d (De Novio, supra at 104 [emphasis supplied]).\nIn De Novio, the petitioner was found to be disabled as a result of an accident sustained in the performance of his duties (although he had 10 years of service in the system) \u2014 rather than as a result of being disabled with 10 years of service. The De Novio court specifically noted \u201cThat petitioner, in light of his years of service, also would have been eligible for section 605 disability retirement without proving an accident or an injury sustained in the performance of his duties does not alter our conclusion. Both the language of General Municipal Law \u00a7 207-c and the available legislative history support the conclusion that the Legislature intended a municipality\u2019s obligation to pay full-salary benefits to be temporary, ending when the recipient became eligible for a comparable disability benefit (see, General Municipal Law \u00a7 207-c [2], [5]; Governor\u2019s Mem approving L 1961, ch 920, 1961 McKinney\u2019s Session Laws of NY, at 2141 [reflects the Governor\u2019s insistence, prior to his approving the legislation, on protections designed to limit the duration of a municipality\u2019s obligation to pay full-salary benefits]).\u201d (Matter of De Novio v County of Schenectady, supra at 104-105 [emphasis supplied].) The De Novio court concluded that \u201cThe fact that the accidental disability benefits available to the members of petitioner\u2019s retirement system are authorized by the same statute that provides ordinary disability benefits is an insufficient basis upon which to conclude that such benefits do not constitute an \u2018accidental disability pension\u2019 within the meaning of General Municipal Law \u00a7 207-c (2).\u201d (Id. at 105.)\nThe state respondents argue that Faltermeier\u2019s disability pension under Retirement and Social Security Law \u00a7 605 (b) (1), based upon having 10 years of service without regard to whether the disability was caused by an accident during the performance of his duties, is not a \u201csimilar accidental disability pension\u201d because there is no requirement for an accident sustained in the performance of his duties like Retirement and Social Security Law \u00a7 605 (b) (3) \u2014 the basis for the petitioner\u2019s disability pension in De Novio.\nIndisputably, De Novio held that section 605 disability retirement is a similar accidental disability pension provided by the pension fund of which he is a member. Based upon the De Novio holding, the Governor\u2019s Memorandum relating to the enactment of General Municipal Law \u00a7 207-c, and the fact that the value, form and payments of a disability pension pursuant to Retirement and Social Security Law \u00a7 605 (b) (1) and (3) are exactly the same, this court hereby interprets the holding in De Novio to include disability pensions under Retirement and Social Security Law \u00a7 605 (b) (1) as a \u201csimilar accidental disability pension\u201d provided by the pension fund of which he is a member. Such a holding advances the Legislature\u2019s intention of providing protections designed to limit the duration of a municipality\u2019s obligation to pay full salary benefits. This court also gleans significant indication of legislative intent from the fact that General Municipal Law \u00a7 207-c (2) provides that municipalities shall cease paying full salary benefits to policemen who are permanently disabled as a result of an injury resulting from performance of their duties if such policeman is granted a retirement for disability incurred in performance of duty allowance pursuant to Retirement and Social Security Law \u00a7 363-c (a disability retirement benefit without regard to \u201caccident\u201d).\nA holding that the exact same pensions are not a \u201csimilar accidental disability pension\u201d (i.e., Retirement and Social Security Law \u00a7 605 [b] [1] vs. Retirement and Social Security Law \u00a7 605 [b] [3]) simply because petitioner\u2019s eligibility was arrived at under a different set of circumstances is not logical because such a holding would create a paradox whereby a permanently disabled member who was not disabled as a result of an \u201caccident\u201d sustained in the performance of his or her duties would continue to receive full General Municipal Law \u00a7 207-c pay and benefits, whereas another permanently disabled member who was disabled as a result of an \u201caccident\u201d sustained in the performance of his or her duties would only be able to collect Retirement and Social Security Law \u00a7 605 disability retirement benefits. The Legislature never would have promoted such a result wherein deputy sheriffs who are disabled as a result of an accident while performing their duties on behalf of the public would receive a Retirement and Social Security Law \u00a7 605 disability retirement payment, whereas deputy sheriffs who are disabled as a result of a sickness or an injury incurred in or resulting from performance of their duties continue to draw their full salaries pursuant to General Muncipal Law \u00a7 207-c.\nIn addition, there are several Appellate Division, Third Department, holdings which essentially teach that virtually no injury to a policeman, fireman, or other retirement system member in the performance of his or her duties results from an \u201caccident\u201d as that word is used in Retirement and Social Security Law \u00a7 605 (see, e.g., Matter of Penkalski v McCall, 292 AD2d 735 [3d Dept 2002]; Matter of Butler v McCall, 247 AD2d 709, 710 [3d Dept 1998]; Matter of O\u2019Donnell v New York State & Local Retirement Sys., 249 AD2d 607 [3d Dept 1998]). If an injury from an \u201caccident\u201d in the performance of duty is interpreted as strictly and narrowly as case law suggests, then the provisions of General Municipal Law \u00a7 207-c (2) and Retirement and Social Security Law \u00a7 605 as enacted by the Legislature would be virtually useless and worthless to municipalities seeking to utilize the provisions of those sections to avoid continuing to pay full salaries and benefits under General Municipal Law \u00a7 207-c (1) UNLESS such statutes are construed consistent with this court\u2019s determination that all forms of disability retirement under Retirement and Social Security Law \u00a7 605 are applicable to and allowable for municipal applications for disability retirement under General Municipal Law \u00a7 207-c (2).\nMunicipalities whose policemen are members of the Police and Fire Retirement System can apply to retire permanently disabled policemen injured in the performance of their duties without regard to \u201caccident\u201d (see, Retirement and Social Security Law \u00a7 363 [accidental disability retirement allowance], and \u00a7 363-c [disability incurred in performance of duty allowance]). Under the statutory interpretation advanced by respondent McCall (now Hevesi), only those municipalities whose policemen are members of the New York State and Local Employees\u2019 Retirement System would be hamstrung by the limitation that the disability retirement benefits pursuant to General Municipal Law \u00a7 207-c (2) and Retirement and Social Security Law \u00a7 605 must result from an accident, therefore, such municipalities would be required to continue to pay General Municipal Law \u00a7 207-c (1) full salary and benefits to permanently disabled policemen injured during the performance of their duties \u2014 unless such injury resulted from an \u201caccident.\u201d\nThis court holds and determines that because disability retirement under Retirement and Social Security Law \u00a7 605 (b) (1) and accidental disability retirement under Retirement and Social Security Law \u00a7 605 (b) (3) are the only disability retirement benefits for members of the New York State and Local Employees\u2019 Retirement System, the petitioner County of Montgomery is authorized by General Municipal Law \u00a7 207-c (2) and Retirement and Social Security Law \u00a7 605 to apply for disability retirement benefits for a deputy sheriff with 10 years of service or more who is permanently disabled as a result of an injury incurred in or resulting from the performance of his duties \u2014 without regard to whether or not such permanent disability was caused by an \u201caccident.\u201d\nAccordingly, this court holds and determines that respondent McCall\u2019s September 6, 2002 findings of fact and conclusions of law should be and the same are hereby vacated and that Hearing Officer Lomanto\u2019s July 30, 2002 bench decision should be and the same is hereby reinstated. This court further holds and determines that the petitioners may file for Retirement and Social Security Law article 15, \u00a7 605 disability retirement benefits for and on behalf of respondent Faltermeier.\nCross Petition\nRespondent Faltermeier asserts that this proceeding should be transferred to the Appellate Division for a final determination to be made in that Court, on substantial evidence grounds. The facts in this proceeding are uncontested, and the issue presented is one of pure statutory construction. Accordingly, respondent Faltermeier\u2019s request for a transfer to the Appellate Division on the substantial evidence question should be and the same is hereby denied. Respondent Faltermeier\u2019s application for a judgment declaring that he receive an accidental disability retirement benefit at 75% of his final average salary should be and the same is hereby denied. The cross petition is hereby dismissed.\nConclusion\nThis court holds and determines that the petition should be and the same is hereby granted; that respondent McCall\u2019s September 6, 2002 findings of fact and conclusions of law should be and the same are hereby vacated; and that Hearing Officer Lomanto\u2019s July 30, 2002 bench decision should be and the same is hereby reinstated. This court further holds and determines that petitioners may file for Retirement and Social Security Law, article 15, \u00a7 605 disability retirement benefits for and on behalf of respondent Faltermeier.",
+        "type": "majority",
+        "author": "Dan Lamont, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Roemer Wallens & Mineaux, LLP (Robert E. Smith of counsel), for petitioners. Eliot Spitzer, Attorney General (Roger W Kinsey of counsel), for Alan G. Hevesi and another, respondents. Robert J. Krzys for Gordon J. Faltermeier, respondent."
+    ],
+    "corrections": "",
+    "head_matter": "[764 NYS2d 597]\nIn the Matter of County of Montgomery et al., Petitioners, v Alan G. Hevesi, as Comptroller and Sole Trustee of the New York State and Local Retirement System, et al., Respondents.\nSupreme Court, Albany County,\nSeptember 10, 2003\nAPPEARANCES OF COUNSEL\nRoemer Wallens & Mineaux, LLP (Robert E. Smith of counsel), for petitioners. Eliot Spitzer, Attorney General (Roger W Kinsey of counsel), for Alan G. Hevesi and another, respondents. Robert J. Krzys for Gordon J. Faltermeier, respondent."
+  },
+  "file_name": "0522-01",
+  "first_page_order": 510,
+  "last_page_order": 518
+}

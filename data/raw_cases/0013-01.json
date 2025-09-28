@@ -1,0 +1,145 @@
+{
+  "id": 1237495,
+  "name": "Milagros Depena et al., Appellants, v. Metropolitan Ambulance and First Aid Corporation et al., Respondents",
+  "name_abbreviation": "Depena v. Metropolitan Ambulance & First Aid Corp.",
+  "decision_date": "2003-07-18",
+  "docket_number": "",
+  "first_page": "13",
+  "last_page": "15",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Misc. 3d 13"
+    },
+    {
+      "type": "parallel",
+      "cite": "767 N.Y.S.2d 560"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. App. Term",
+    "id": 8833,
+    "name": "New York Supreme Court, Appellate Term"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "61 NY2d 261",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2344936
+      ],
+      "pin_cites": [
+        {
+          "page": "274"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/61/0261-01"
+      ]
+    },
+    {
+      "cite": "127 AD2d 727",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3501589
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/127/0727-01"
+      ]
+    },
+    {
+      "cite": "81 NY2d 985",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4430296
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/81/0985-01"
+      ]
+    },
+    {
+      "cite": "268 AD2d 469",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        146149,
+        145919
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/268/0469-02",
+        "/ad2d/268/0469-01"
+      ]
+    },
+    {
+      "cite": "224 AD2d 392",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        676874,
+        676629
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/224/0392-02",
+        "/ad2d/224/0392-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 296,
+    "char_count": 3488,
+    "ocr_confidence": 0.778,
+    "pagerank": {
+      "raw": 7.317852702137001e-08,
+      "percentile": 0.43580069726072834
+    },
+    "sha256": "da5dd476a603526bdac96e9a76fcc914f4e79ddf29e41322a5c6d37df276b036",
+    "simhash": "1:45aac794436abd70",
+    "word_count": 582
+  },
+  "last_updated": "2024-02-27T19:35:05.009820+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Milagros Depena et al., Appellants, v Metropolitan Ambulance and First Aid Corporation et al., Respondents."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nMemorandum.\nJudgment unanimously reversed without costs and a new trial ordered.\nIn this negligence action for personal injuries, the court dismissed the action after both sides rested. Plaintiff Milagros Depena was a passenger in the back of an ambulette driven by defendant Higgs which stopped short and was hit in the rear by another vehicle. It is well settled that a rear-end collision with a stopped vehicle establishes a prima facie case of negligence on the part of the operator of the moving vehicle and imposes a duty on that operator to explain how the collision occurred (Leal v Wolff, 224 AD2d 392 [1996]; see also Tricoli v Malik, 268 AD2d 469 [2000]), which the operator of the moving vehicle herein failed to do.\nHowever, the injured plaintiff testified that defendant Higgs was driving approximately 40 miles per hour and only 10 feet behind the vehicle in front. She told Higgs that he was driving too fast. She further testified that the vehicle in front braked and Higgs \u201cdeviated, that\u2019s when all of us went in front.\u201d The ambulette never came in contact with the vehicle in front but was struck in the rear.\nBased on said testimony, it was erroneous to determine credibility as a matter of law. We are of the opinion that there are triable issues of fact which should have been presented to the jury as to whether the driver of the ambulette was driving in an unreasonable manner by driving too fast and too close to the car in front and, if so, whether his unreasonable driving was a proximate cause of plaintiff Milagros Depena\u2019s injuries (see Darmento v Pacific Molasses Co., 81 NY2d 985 [1993]).\nWe note that the trial court erred in admitting into evidence that portion of the accident report which consisted of self-serving hearsay statements (Casey v Tierno, 127 AD2d 727 [1987]). It was error for the trial court to have allowed the police officer to testify, based on the police report, as to what Higgs said to him because Higgs was under no duty to report the accident to the police officer and Higgs\u2019 statement does not qualify as a declaration against interest or fall under some other exception to the hearsay rule (Cover v Cohen, 61 NY2d 261, 274 [1984]).\nWe further note that the court should not have permitted the defendants\u2019 attorney to submit Higgs\u2019 examination before trial into evidence. Upon the record presented, defendants failed to make a sufficient showing that such deposition was admissible pursuant to CPLR 3117 (a) (3) (ii).",
+        "type": "majority",
+        "author": null
+      },
+      {
+        "text": "Patterson, J.\n(concurring). I agree with the majority\u2019s decision to order a new trial. However, I would not disturb the trial court\u2019s ruling to permit the defendants\u2019 attorney to submit defendant Higgs\u2019 examination before trial into evidence. The hearsay statement by his wife, who was called at a telephone number in North Carolina, that defendant Higgs was living in North Carolina at the time of the trial was sufficient to satisfy the requirements in CPLR 3117 (a) (3) (ii).\nAronin, J.P, and Rios, J., concur; Patterson, J., concurs in a separate memorandum.",
+        "type": "concurrence",
+        "author": "Patterson, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Charles Berkman, Brooklyn {Robert J. Tolchin of counsel), for appellants. Isserlis & Sullivan and Rivkin Radler LLP, Union-dale (Evan H. Krinick, Cheryl F. Korman and Merril S. Biscone of counsel), for respondents."
+    ],
+    "corrections": "",
+    "head_matter": "[767 NYS2d 560]\nMilagros Depena et al., Appellants, v Metropolitan Ambulance and First Aid Corporation et al., Respondents.\nSupreme Court, Appellate Term, Second Department,\nJuly 18, 2003\nAPPEARANCES OF COUNSEL\nCharles Berkman, Brooklyn {Robert J. Tolchin of counsel), for appellants. Isserlis & Sullivan and Rivkin Radler LLP, Union-dale (Evan H. Krinick, Cheryl F. Korman and Merril S. Biscone of counsel), for respondents."
+  },
+  "file_name": "0013-01",
+  "first_page_order": 57,
+  "last_page_order": 59
+}

@@ -1,0 +1,610 @@
+{
+  "id": 1237599,
+  "name": "Ann-Marie Williams, Plaintiff, v. New Style Limousine, Inc., et al., Defendants",
+  "name_abbreviation": "Williams v. New Style Limousine, Inc.",
+  "decision_date": "2003-11-05",
+  "docket_number": "",
+  "first_page": "502",
+  "last_page": "509",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Misc. 3d 502"
+    },
+    {
+      "type": "parallel",
+      "cite": "769 N.Y.S.2d 853"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 8791,
+    "name": "New York Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "77 NY2d 332",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4418351
+      ],
+      "pin_cites": [
+        {
+          "page": "335"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/77/0332-01"
+      ]
+    },
+    {
+      "cite": "289 AD2d 383",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        393724
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/289/0383-01"
+      ]
+    },
+    {
+      "cite": "299 AD2d 395",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        559096,
+        559647
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/299/0395-02",
+        "/ad2d/299/0395-01"
+      ]
+    },
+    {
+      "cite": "236 AD2d 349",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        83805
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/236/0349-01"
+      ]
+    },
+    {
+      "cite": "224 AD2d 404",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        677326,
+        677702
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/224/0404-01",
+        "/ad2d/224/0404-02"
+      ]
+    },
+    {
+      "cite": "250 AD2d 759",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        720942,
+        721823
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/250/0759-02",
+        "/ad2d/250/0759-01"
+      ]
+    },
+    {
+      "cite": "251 AD2d 361",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        712846,
+        712903
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/251/0361-02",
+        "/ad2d/251/0361-01"
+      ]
+    },
+    {
+      "cite": "299 AD2d 382",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        559026,
+        559514
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/299/0382-02",
+        "/ad2d/299/0382-01"
+      ]
+    },
+    {
+      "cite": "300 AD2d 515",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        956742
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/300/0515-01"
+      ]
+    },
+    {
+      "cite": "160 AD2d 911",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3621893,
+        3626398
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/160/0911-02",
+        "/ad2d/160/0911-01"
+      ]
+    },
+    {
+      "cite": "162 AD2d 680",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1000172
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/162/0680-01"
+      ]
+    },
+    {
+      "cite": "251 AD2d 524",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        712987,
+        712373
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/251/0524-02",
+        "/ad2d/251/0524-01"
+      ]
+    },
+    {
+      "cite": "281 AD2d 448",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        97515,
+        98756
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/281/0448-02",
+        "/ad2d/281/0448-01"
+      ]
+    },
+    {
+      "cite": "191 AD2d 538",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1118643
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/191/0538-01"
+      ]
+    },
+    {
+      "cite": "76 AD2d 966",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3190493
+      ],
+      "pin_cites": [
+        {
+          "page": "966-967"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/76/0966-01"
+      ]
+    },
+    {
+      "cite": "284 AD2d 516",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        681230
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/284/0516-01"
+      ]
+    },
+    {
+      "cite": "157 AD2d 506",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3610117,
+        3611871
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/157/0506-02",
+        "/ad2d/157/0506-01"
+      ]
+    },
+    {
+      "cite": "238 AD2d 329",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1256946,
+        1256973
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/238/0329-01",
+        "/ad2d/238/0329-02"
+      ]
+    },
+    {
+      "cite": "242 AD2d 369",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        495131
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/242/0369-01"
+      ]
+    },
+    {
+      "cite": "250 AD2d 795",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        721008,
+        721183
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/250/0795-02",
+        "/ad2d/250/0795-01"
+      ]
+    },
+    {
+      "cite": "264 AD2d 415",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        150441,
+        150866
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/264/0415-02",
+        "/ad2d/264/0415-01"
+      ]
+    },
+    {
+      "cite": "266 AD2d 171",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        202169,
+        202637
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/266/0171-01",
+        "/ad2d/266/0171-02"
+      ]
+    },
+    {
+      "cite": "273 AD2d 458",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1349704,
+        1348750
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/273/0458-02",
+        "/ad2d/273/0458-01"
+      ]
+    },
+    {
+      "cite": "275 AD2d 299",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        505305,
+        5345434,
+        505629
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/275/0299-02",
+        "/ad/275/0299-01",
+        "/ad2d/275/0299-01"
+      ]
+    },
+    {
+      "cite": "286 AD2d 420",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        217669
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/286/0420-01"
+      ]
+    },
+    {
+      "cite": "300 AD2d 440",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        957151
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/300/0440-01"
+      ]
+    },
+    {
+      "cite": "208 AD2d 912",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1185113,
+        1184517
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/208/0912-02",
+        "/ad2d/208/0912-01"
+      ]
+    },
+    {
+      "cite": "225 AD2d 752",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        830800
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/225/0752-01"
+      ]
+    },
+    {
+      "cite": "227 AD2d 578",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        346272,
+        347498
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/227/0578-01",
+        "/ad2d/227/0578-02"
+      ]
+    },
+    {
+      "cite": "252 AD2d 41",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        717367
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/252/0041-01"
+      ]
+    },
+    {
+      "cite": "265 AD2d 529",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        210449,
+        210676
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/265/0529-01",
+        "/ad2d/265/0529-02"
+      ]
+    },
+    {
+      "cite": "299 AD2d 437",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        559796
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/299/0437-01"
+      ]
+    },
+    {
+      "cite": "257 AD2d 613",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        171820,
+        171814
+      ],
+      "pin_cites": [
+        {
+          "page": "613"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/257/0613-02",
+        "/ad2d/257/0613-01"
+      ]
+    },
+    {
+      "cite": "192 Misc 2d 170",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        1076693
+      ],
+      "pin_cites": [
+        {
+          "page": "175"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/192/0170-01"
+      ]
+    },
+    {
+      "cite": "238 AD2d 568",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1256897
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/238/0568-01"
+      ]
+    },
+    {
+      "cite": "262 AD2d 556",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        112624,
+        112589
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/262/0556-02",
+        "/ad2d/262/0556-01"
+      ]
+    },
+    {
+      "cite": "283 AD2d 568",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        182337,
+        180943
+      ],
+      "pin_cites": [
+        {
+          "page": "568"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/283/0568-01",
+        "/ad2d/283/0568-02"
+      ]
+    },
+    {
+      "cite": "214 AD2d 707",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1209802
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/214/0707-01"
+      ]
+    },
+    {
+      "cite": "232 AD2d 369",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1176608,
+        1176306
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/232/0369-01",
+        "/ad2d/232/0369-02"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 824,
+    "char_count": 16405,
+    "ocr_confidence": 0.77,
+    "pagerank": {
+      "raw": 2.076161243187711e-07,
+      "percentile": 0.758427228768936
+    },
+    "sha256": "042264fef8f71d8dcc6573110a619dfff7bb80c827a0b9e1597806cdf5d792b7",
+    "simhash": "1:45bee1502eaf485b",
+    "word_count": 2637
+  },
+  "last_updated": "2024-02-27T19:35:05.009820+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Ann-Marie Williams, Plaintiff, v New Style Limousine, Inc., et al., Defendants."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nMartin E. Ritholtz, J.\nWhat is the effect of a preclusion order? Is it enforceable only against the defaulting party; or, once testimony is precluded, are all parties bound by said preclusion? This is one of the issues raised in the instant motion.\nBackground\nPlaintiff commenced this action on January 24, 2000 to recover money damages for personal injuries allegedly sustained as a result of a two-car collision at the intersection of 59th Street and Second Avenue, Manhattan, New York, on September 24, 1998, between one driven by defendant Yasser S. Salama, in whose vehicle the plaintiff was a back seat passenger, and the other driven by defendant Ronnie Masih. Issue was joined on or about July 17, 2000.\nOn April 5, 2001, a preliminary conference was held which resulted in an order signed by the Honorable Joseph G. Golia, and which directed that party depositions be conducted on May 23, 2001. It appears that plaintiff was deposed on June 21, 2001, and defendant Salama was deposed on February 4, 2002.\nA compliance conference was held in this part on February 28, 2002, and an order was issued, mandating that the outstanding deposition of defendants Excellence Transportation, Inc. and Ronnie Masih be conducted on March 21, 2002. Upon the default of said defendants, the parties entered into a \u201cso ordered\u201d stipulation on May 9, 2002, which provided that defendant Masih was to be produced for deposition no later than July 9, 2002, and should there be a further default, \u201cthe parties shall schedule a phone conference with the Judge\u2019s chambers.\u201d Once again said defendants defaulted, and despite noncompliance with three court orders, they were allotted one final opportunity to appear for deposition on October 1, 2002, pursuant to a telephone conference which resulted in a further \u201cso ordered\u201d stipulation dated August 16, 2002. Said stipulation provided that \u201cIf defendant Masih fails to appear, he will be precluded from offering testimony at the time of the trial of this action.\u201d Defendant Masih again failed to appear for deposition on October 1, 2002.\nTaking the position that the preclusion only operated against the defaulting defendant, exclusively prohibiting him from offering testimony on his own behalf, plaintiffs counsel persevered and sought the deposition of said defendant by way of subpoena for plaintiffs purposes of also possibly inculpating the codefendant Salama by means of said deposition testimony. It appears that without much effort, plaintiff was able to effectuate personal service of the subpoena on defendant Masih on October 12, 2002, via a process server, at his residence, which was the same address indicated on the face of the summons in this action, dated January 6, 2000. Pursuant to said subpoena, defendant Masih appeared for the deposition held on December 20, 2002, with the participation of all parties. Notwithstanding receiving prior notice of the deposition well in advance, Joseph Orlando, Esq., counsel for codefendants New Style Limousine, Inc. and Yasser S. Salama, never moved to quash the subpoena or to enjoin the proposed deposition, but, instead noted his objection \u201cto the taking of the deposition at this time and the use of any deposition testimony from this day forward.\u201d Nor did Mr. Orlando refuse to participate in the deposition, but, on the contrary, actively asked questions and elicited testimony of the defendant Masih. At said deposition, defendant Masih testified, inter alia, that at the time of the accident he proceeded with a green light, while the codefendant Salama \u201ccrossed a red light\u201d and hit his car.\nThe Instant Motion\nThe defendants Excellence Transportation, Inc. and Ronnie Masih move herein to vacate the stipulation which precludes defendant Masih from testifying at trial. Counsel for said defendants offers as exhibit A, annexed to the motion, a copy of the first page of approximately 15 reports issued from his investigator, Odin Claims, as evidence of efforts made to secure the cooperation of defendant Masih in defending this action. Said defendants further contend that since the deposition was eventually held with the participation of all the parties, the sanction of preclusion is unwarranted.\nCodefendants New Style Limousine, Inc. and Yasser S. Salama vigorously oppose the motion, arguing that once defendant Masih failed to comply with the conditional \u201cso ordered\u201d stipulation, that stipulated order is now absolute. They note that no order vacating said conditional stipulation was ever granted prior to the deposition of December 20, 2002. Said codefendants further contend that plaintiff should also be precluded from presenting the testimony of defendant Masih, since \u201ccounsel for plaintiff signed off on the stipulation (of August 16, 2002) and is completely bound by it.\u201d\nPlaintiff partially opposes the instant motion. According to plaintiff, the defendant Masih should be precluded from offering testimony on his own behalf, based on his repeated willful defaults, and in not complying with the conditional \u201cso ordered\u201d stipulation of preclusion. Nevertheless, it is plaintiffs contention that there is no reason to punish and preclude plaintiff for the defaults of defendant Masih. Plaintiff argues that she should not \u201cbe deprived of the opportunity to prove the liability of defendants, New Style Limousine and Salama, by introducing Mr. Masih\u2019s testimony that he had a green light and the other driver Mr. Salama had the red light.\u201d\nThe Complete Investigative Reports\nOn the return date of this motion, when confronted with incomplete reports, annexed to the moving papers as exhibit A, of the efforts made by movants\u2019 investigator to secure the cooperation of defendant Masih, the court suggested to the parties that a hearing be held on an adjourned date, at which time the investigator would testify in detail as to the efforts made and as to the reasons defendant Masih failed to comply with three court orders. In lieu of said hearing, the parties stipulated that they \u201chave been given the opportunity to examine the complete letters from Odin Claims regarding their efforts to locate Mr. Masih, which will he incorporated as part of this motion.\u201d\nUpon review of the letters, it appears that Odin Claims, Inc. was first hired by counsel for movants to investigate the whereabouts of defendant Masih on May 21, 2002. It further appears that a letter was sent by said investigator to defendant Masih on May 23, 2002, which was acknowledged by said defendant in a telephone call to the investigator on June 19, 2002. According to an \u201cInvestigative Summary,\u201d defendant Masih indicated during said telephone call \u201cthat he had been too busy to call us and did not appear concerned with cooperating with us.\u201d Several follow-up letters were sent to defendant Masih which were apparently ignored, and in an investigative report of October 15, 2002, the investigator concluded in a \u201cSummary\u201d that \u201cIt appears that Mr. Masih is refusing to cooperate.\u201d In the investigative report of November 22, 2002, the following is stated, inter alia, \u201cYou advised us on 11/15/02 that plaintiffs [sic] indicated that they [sic] had subpoenaed our insured . . . We eventually reached Mr. Masih on 11/21/02. He reiterated that he worked 7 days a week and has no time to attend a deposition. At length, we convinced him to cooperate so as not to jeopardize his insurance coverage and representation, not to mention the fact that he was a named defendant and had been subpoenaed by the other side.\u201d\nThe last investigative report of December 23, 2002 indicates how defendant Masih was transported to the deposition of December 20, 2002 and brought back \u201cto his residence at 45-30 Smart Street, Flushing, New York. This concludes our investigation. Thank you for this assignment.\u201d As noted earlier, this is the same address, which appeared on the face of the summons in this action, dated January 6, 2000.\nLegal Analysis\n(a) What Constitutes a Willful Default, and is Preclusion Warranted?\nIt is well settled that the penalty of preclusion is extreme and should only be levied when the failure to disclose has been willful or contumacious {see CPLR 3126 [2]; Garcia v Kraniotakis, 232 AD2d 369 [1996]; Moran v Franklin Gen. Hosp., 214 AD2d 707 [1995]). A \u201cpattern of willful default and neglect\u201d should not be excused (see Titan Realty Corp. v Schlem, 283 AD2d 568, 568 [2001]; Wynne v Wagner, 262 AD2d 556 [1999]; Roussodimou v Zafiriadis, 238 AD2d 568 [1997]; Fujah v V-M Auto Refinishing Corp., 192 Misc 2d 170, 175 [2002]). Defendant Masih\u2019s failure was part of a pattern of \u201c \u2018repeated neglect\u2019 rather than an \u2018isolated, inadvertent mistake\u2019 \u201d (see North Fork Bank v Martin, 257 AD2d 613, 613 [1999]). The willful and contumacious character of defendant Masih\u2019s default can be inferred from his noncompliance with four separate court orders directing depositions, coupled with either no excuses or an inadequate excuse for these defaults (see Blake v Chawla, 299 AD2d 437 [2002]; Kingsley v Kantor, 265 AD2d 529 [1999]; DiDomenico v C & S Aeromatik Supplies, 252 AD2d 41 [1998]; Argenio v Cushman & Wakefield, 227 AD2d 578 [1996]; Porreco v Selway, 225 AD2d 752 [1996]; Polito v DeTomaso, 208 AD2d 912 [1994]).\nCertain aggravating factors unique to this case further bolster the finding of willful default. The preliminary conference order of April 5, 2001 put counsel for defendant Masih on notice that said defendant was to be deposed on May 23, 2001. Upon the default of defendant Masih, a subsequent compliance conference order dated February 28, 2002 gave his counsel until March 21, 2002 to produce him for the outstanding deposition. Again defendant Masih defaulted, and it was only after the \u201cso ordered\u201d stipulation of May 9, 2002 that his counsel hired an investigator to find him, over one year after the preliminary conference order of April 5, 2001. To further exacerbate the situation, the investigator\u2019s letters document that from May 23, 2002 until November 21, 2002, defendant Masih indicated that he had no time to attend a deposition, and refused to cooperate. In other words, in the face of a \u201cso ordered\u201d stipulation of May 9, 2002, which directed a deposition no later than July 9, 2002, and confronted with a stipulated conditional order of preclusion of August 16, 2002, affording defendant Masih one final opportunity to be deposed on October 1, 2002, he nevertheless refused to appear. To add insult to injury, after flaunting four court orders, defendant Masih was \u201cconvinced\u201d to appear for the December 20, 2002 deposition, in the words of the investigator, because \u201che had been subpoenaed by the other side.\u201d\nWere this pattern not enough to justify preclusion, this case also involves a default of a conditional preclusion order, where it is well established, that when a party fails to comply with a conditional order of preclusion, the order becomes absolute (see Goldsmith Motors Corp. v Chemical Bank, 300 AD2d 440 [2002]; Jenkinson v Naccarato, 286 AD2d 420 [2001]; Kepple v Hill Assoc., 275 AD2d 299 [2000]; Ha v B.H.N.V. Realty Corp., 273 AD2d 458 [2000]; Alphonse v UBJ Inc., 266 AD2d 171 [1999]; Tirone v Staten Is. Univ. Hosp., 264 AD2d 415 [1999]; Barriga v Sapo, 250 AD2d 795 [1998]; Michaud v City of New York, 242 AD2d 369 [1997]; Rodriguez v Colasuonno, 238 AD2d 329 [1997]; Orabi v George Hildebrandt, Inc., 157 AD2d 506 [1990]). Even though the deposition was eventually held, the plaintiff never entered into a stipulation waiving her right to seek enforcement of the preclusion order (cf. Patterson v New York City Health & Hosps. Corp., 284 AD2d 516 [2001]). Furthermore, although movant defendants seek herein to vacate the preclusion, it has long been held that \u201cOrders of preclusion may not be ignored with impunity and they may be vacated only upon the showing of \u2018extraordinary and exceptional circumstances\u2019 \u201d (see Jones v Bryce, 76 AD2d 966, 966-967 [1980]; see also, Johnson v Heavy Realty Corp., 191 AD2d 538 [1993]). In order to avoid the adverse impact of an order of preclusion, the party seeking vacatur must establish, inter alia, a reasonable excuse for the default (see Correa v Kewal, 281 AD2d 448 [2001]; Boland v Biordi, 251 AD2d 524 [1998]; Vanek v Mercy Hosp., 162 AD2d 680 [1990]; Mariani v Fleishman, 160 AD2d 911 [1990]). Under the circumstances herein, as noted at length above, vacatur of the preclusion, as it impacts on defendant Masih, is unwarranted.\nParenthetically, should you ask, what did defendant Masih gain by appearing at the deposition of December 20, 2002, especially in light of an absence of a vacatur or waiver, and having been precluded from offering any testimony at the time of trial? The answer is, simply, that said defendant still faced a more severe sanction of striking his answer, pursuant to CPLR 3126 (3), and avoided it by appearing at the deposition of December 20, 2002 (cf. Alizio v Alizio, 300 AD2d 515 [2002]; Bates v Baez, 299 AD2d 382 [2002]; Cavallino v Sonsky, 251 AD2d 361 [1998]; Torres v Martinez, 250 AD2d 759 [1998]; Rowe v Sook, 224 AD2d 404 [1996]; Boera v Batz, 236 AD2d 349 [1997]).\n(b) Unilateral/Partial Preclusion or Multilateral/Absolute Preclusion?\nCodefendants New Style Limousine, Inc. and Yasser S. Salama contend that the stipulation of August 16, 2002, providing that \u201cIf defendant Masih fails to appear, he will be precluded from offering testimony at the time of trial of this action,\u201d is a binding contract, which operates as an absolute preclusion, effectively barring all parties from offering defendant Masih\u2019s testimony. The court rejects this contention. The language of the stipulation clearly provides that \u201cIf defendant Masih fails to appear, he will be precluded\u201d (emphasis supplied), and there is no provision precluding plaintiff or codefendants from offering defendant Masih\u2019s testimony.\nFurthermore, the circumstances which necessitated the subject stipulation belie codefendants\u2019 position. The earlier \u201cso ordered\u201d stipulation of May 9, 2002 provided that if defendant Masih further defaulted, the parties would schedule a phone conference with the court, in order to avoid unnecessary motion practice. Plaintiff had sought immediate sanctions against the defaulting defendant, pursuant to CPLR 3126, but, instead, as a result of a telephone conference, entered into the \u201cso ordered,\u201d conditional preclusion stipulation of August 16, 2002, in lieu of a motion, affording said defendant one final opportunity to appear for deposition. It is well settled that the nature and degree of the penalty to be imposed pursuant to CPLR 3126 against a party who has refused to obey an order of disclosure is a matter within the discretion of the court (see Jaffe v Hubbard, 299 AD2d 395 [2002]; Nowak v Veira, 289 AD2d 383 [2001]). It was never the intention of the parties in a telephone conference with the court to impose sanctions for nondisclosure on any other party than the nondisclosing party, i.e., defendant Masih. The Court of Appeals succinctly sets forth the scope of a preclusion order, pursuant to CPLR 3126 (2), as follows: \u201cThe sanctions for failure to comply . . . include a preclusion order preventing the nondisclosing party from using the evidence in any manner during the course of the litigation\u201d (Northway Eng\u2019g v Felix Indus., 77 NY2d 332, 335 [1991] [emphasis added]). Plaintiff bore no responsibility for the failure of defendant Masih to testify on four different occasions, and it would therefore be wholly unfair to punish plaintiff by precluding her from offering said defendant\u2019s testimony.\nConclusion\nFor all the reasons mentioned above, the court denies the within motion of defendants Excellence Transportation, Inc. and Ronnie Masih to vacate the \u201cso ordered\u201d conditional preclusion stipulation of August 16, 2002.",
+        "type": "majority",
+        "author": "Martin E. Ritholtz, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Hammill, O\u2019Brien, Croutier, Dempsey & Pender, PC., Mine\u00f3la (Richard M. Wolff and Anton Piotroski of counsel), for Excellence Transportation, Inc., and another, defendants. O\u2019Connor, Redd, Gollihue & Sklarin, LLP, White Plains (Lorraine M. Girolamo of counsel), for New Style Limousine, Inc., and another, defendants. Shandell, Blitz, Blitz & Bookson, LLP, New York City (Richard E. Shandell of counsel), for plaintiff."
+    ],
+    "corrections": "",
+    "head_matter": "[769 NYS2d 853]\nAnn-Marie Williams, Plaintiff, v New Style Limousine, Inc., et al., Defendants.\nSupreme Court, Queens County,\nNovember 5, 2003\nAPPEARANCES OF COUNSEL\nHammill, O\u2019Brien, Croutier, Dempsey & Pender, PC., Mine\u00f3la (Richard M. Wolff and Anton Piotroski of counsel), for Excellence Transportation, Inc., and another, defendants. O\u2019Connor, Redd, Gollihue & Sklarin, LLP, White Plains (Lorraine M. Girolamo of counsel), for New Style Limousine, Inc., and another, defendants. Shandell, Blitz, Blitz & Bookson, LLP, New York City (Richard E. Shandell of counsel), for plaintiff."
+  },
+  "file_name": "0502-01",
+  "first_page_order": 490,
+  "last_page_order": 497
+}

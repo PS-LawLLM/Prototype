@@ -1,0 +1,143 @@
+{
+  "id": 1237556,
+  "name": "The People of the State of New York, Plaintiff, v. Louis Telese, Defendant",
+  "name_abbreviation": "People v. Telese",
+  "decision_date": "2003-09-18",
+  "docket_number": "",
+  "first_page": "490",
+  "last_page": "494",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Misc. 3d 490"
+    },
+    {
+      "type": "parallel",
+      "cite": "764 N.Y.S.2d 806"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Nassau Cty. Ct.",
+    "id": 9137,
+    "name": "County Court of New York, Nassau County"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "183 AD2d 864",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1086027,
+        1085860
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/183/0864-01",
+        "/ad2d/183/0864-02"
+      ]
+    },
+    {
+      "cite": "37 NY2d 442",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2319208
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/37/0442-01"
+      ]
+    },
+    {
+      "cite": "81 NY2d 485",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4429105
+      ],
+      "pin_cites": [
+        {
+          "page": "490"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/81/0485-01"
+      ]
+    },
+    {
+      "cite": "44 NY2d 241",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "253"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "190 Misc 2d 783",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        105580
+      ],
+      "pin_cites": [
+        {
+          "page": "790"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/190/0783-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 502,
+    "char_count": 8267,
+    "ocr_confidence": 0.757,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.04646853928549502
+    },
+    "sha256": "6d4a1b0c77fcb28c89e953f7d2cfe9056b12d3c7ceb0681910e111a565f7aad4",
+    "simhash": "1:552e928963457fcc",
+    "word_count": 1307
+  },
+  "last_updated": "2024-02-27T19:35:05.009820+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The People of the State of New York, Plaintiff, v Louis Telese, Defendant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nJoseph C. Calabrese, J.\nDefendant, Louis Telese, is charged with murder in the second degree.\nThis case involves the murders of 41-year-old Susan Eigen and her 17-year-old son Richard Eigen on February 26, 1984 in their home at 3412 Ocean Harbor Drive, Oceanside, Nassau County, New York.\nSusan Eigen was found partially clothed laying on the floor in the upstairs bedroom hallway outside of the master bedroom, with a belt, bra and bandana wrapped around her neck. She had also been severely beaten about her head and sexually abused. \u201cLigature strangulation\u201d was determined to be the cause of death.\nSeventeen-year-old Richard Eigen was found lying on a step on his back in the master bedroom. Both wrists were tied to a railing with an electric cord and a plastic bag was tied over his head. \u201cAsphyxiation\u201d was found to be the cause of death.\nThe bedroom appeared to have been ransacked. Dresser drawers were open and the contents of a pocketbook were strewn on the bed.\nAs a result of the crime scene investigation, two latent fingerprints were recovered, one from a bank receipt found among the items scattered on the bed and the second from the plastic bag used to suffocate Richard Eigen.\nBoth of the fingerprints were determined to be the thumbprints of the same individual.\nHair was also recovered from the bandana used to strangle Susan Eigen.\nEighteen years later on January 22, 2002 the two latent thumbprints were computer matched to a fingerprint card completed by defendant, Louis J. Telese, in New York in 1988 when he obtained a bus driver\u2019s license.\nLouis Telese was ultimately arrested on June 5, 2002.\nDefendant moves to suppress postarrest oral and written statements as having been obtained in violation of CPL 60.45. He also moves to suppress postarrest DNA samples on the grounds that these resulted from an arrest not based on probable cause.\nHe additionally moves to dismiss the indictment on the grounds that 18 years of preindictment delay has violated his due process rights and prejudiced his ability to defend the charges against him.\nA hearing was held and the court makes the following findings of fact and reaches the following conclusions of law.\nFindings of Fact\n1. Preindictment Delay.\nPrior to the matching of the latent thumbprints to those of defendant, the People lacked proof to connect defendant to the commission of the murders.\nAccordingly, for a period of some 18 years, members of the Nassau County Police Department\u2019s Latent Fingerprint Division compared the latent thumbprint to known prints stored in federal, state, and local computerized fingerprint databases. These checks occurred multiple times each year. Ultimately, on January 22, 2002, the thumbprints were matched to a 1988 fingerprint card containing defendant\u2019s fingerprints.\nClearly, the ultimate matching of the prints resulted from the upgrading of the computerized search systems over this 18-year period. Otherwise, the police exercised due diligence over this time period to match the prints and arrest the alleged murderer.\nDefendant offers no proof of actual prejudice to his ability to mount a defense in his case, other than claiming that the People could have matched the fingerprints at an earlier date.\n2. Oral/Written Statements.\nThe evidence at the hearing established, beyond a reasonable doubt, that prior to his being questioned by Detective James McGinn, defendant was read his Miranda rights and knowingly, intelligently and voluntarily waived such.\nDefendant then made various oral statements during the course of being interviewed by Detectives Aponte, McGinn and Graziano. These statements variously appear in the notes of that interview.\nWithin two. hours of the first interview, Detective Brezski re-interviewed defendant without again giving Miranda warnings. After about 45 minutes, defendant agreed to give a written statement which was written down by Detective Brezski and which defendant ultimately read and signed. The preamble to the written statement contains Miranda warnings which defendant again knowingly, intelligently and voluntarily waived.\n3. DNA Samples.\nAs evidenced by the written consent form signed by defendant during his initial interview (People\u2019s exhibit 11), he knowingly, intelligently and voluntarily agreed to give hair and saliva samples for the purpose of DNA testing. These samples were taken by Detectives McCarthy and Schiraldi of the Scientific Investigation Bureau.\nConclusions of Law\n1. Preindictment Delay.\nIn People v Almonte (190 Misc 2d 783, 790 [2002]), the court summarized the law regarding postindictment delay, to wit:\n\u201c[T]he state due process requirement of a prompt prosecution is broader than its federal counterpart. (See People v Singer, 44 NY2d 241, 253 [1978].) Thus, \u2018[i]n a proper case, a lengthy and unjustifiable delay in commencing the prosecution may require dismissal even though no actual prejudice to the defendant is shown.\u2019 (Id. at 253-254 ... see also People v Lesiuk, 81 NY2d 485, 490 [1993].) It is the prosecutor\u2019s burden to establish good cause excusing such a delay. (Singer, 44 NY2d at 254 . . . )\n\u201cIn balancing the merits of a defendant\u2019s claim of unjustified prosecutorial delay, whether the delay is preindictment or postindictment, the Court of Appeals has identified the following relevant factors: (1) the extent of the delay; (2) the reason for the delay; (3) the nature of the underlying charges; (4) whether there has been an extended period of pretrial incarceration; and (5) whether there is any indication that the defense has been impaired by reason of the delay. (See People v Taranovich, 37 NY2d 442, 445 . . .) No one factor or combination of factors is dispositive . . . Similarly, the Court \u2018has steadfastly refused to set forth a per se period beyond which a criminal prosecution may not be pursued.\u2019 (Id. . . .) The decision is ultimately fact sensitive . . . .\u201d (Some citations omitted.)\nApplying these criteria to the facts of the case herein, it is clear that defendant\u2019s due process rights have not been violated and that the delay was justified.\nThe 18 years which elapsed between the murders and the matching of the thumbprints to defendant were the result of inadequate databases and less than state-of-the-art computers to compare the latent thumbprints to other known fingerprints. Only through the advances in technology was the match finally accomplished giving rise to probable cause to arrest defendant for the crimes.\nNo crime is more serious than murder and there is no proof at the hearing that the defense has been impaired by the delay. Indeed, the court notes that the People aver in their posthearing memorandum that defendant has filed a notice of alibi wherein it is claimed that several individuals will testify that defendant was with them at the time of the murders.\nDefendant\u2019s motion to dismiss the indictment as the result of preindictment delay is, in all respects, denied.\n2. Oral/Written Statements.\nThe People have established, beyond a reasonable doubt, that the statements made in the initial interview were knowingly, intelligently and voluntarily made after defendant waived his Miranda rights.\nThe oral statements to Detective Brezski did not require additional Miranda warnings as defendant was in continuous custody and the questioning was within a reasonable time after the first interview (People v Vasquez, 183 AD2d 864 [1992]).\nThe written statement was given after defendant had again been given his Miranda rights and knowingly, intelligently and voluntarily waived such for a second time.\nDefendant\u2019s motion to suppress oral and written statements is, in all respects, denied.\n3. DNA Samples.\nDefendant, who was in custody as the result of an arrest based on probable cause, knowingly, intelligently and voluntarily consented to providing the hair and saliva samples.\nDefendant\u2019s motion to suppress the DNA samples is, in all respects, denied.",
+        "type": "majority",
+        "author": "Joseph C. Calabrese, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Michael S. Washor and Michael S. Pollock, New York City, for defendant. Denis E. Dillon, District Attorney, Mine\u00f3la (Robert P Biancauilla of counsel), for plaintiff."
+    ],
+    "corrections": "",
+    "head_matter": "[764 NYS2d 806]\nThe People of the State of New York, Plaintiff, v Louis Telese, Defendant.\nCounty Court, Nassau County,\nSeptember 18, 2003\nAPPEARANCES OF COUNSEL\nMichael S. Washor and Michael S. Pollock, New York City, for defendant. Denis E. Dillon, District Attorney, Mine\u00f3la (Robert P Biancauilla of counsel), for plaintiff."
+  },
+  "file_name": "0490-01",
+  "first_page_order": 478,
+  "last_page_order": 482
+}

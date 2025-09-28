@@ -1,0 +1,107 @@
+{
+  "id": 1237501,
+  "name": "In the Matter of the Estate of Cecile S. Jones, Also Known as Cecile R. Jones, Deceased",
+  "name_abbreviation": "In re the Estate of Jones",
+  "decision_date": "2003-10-01",
+  "docket_number": "",
+  "first_page": "688",
+  "last_page": "689",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Misc. 3d 688"
+    },
+    {
+      "type": "parallel",
+      "cite": "765 N.Y.S.2d 756"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sur. Ct.",
+    "id": 9033,
+    "name": "New York Surrogate's Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "70 Misc 576",
+      "category": "reporters:state",
+      "reporter": "Misc.",
+      "case_ids": [
+        1855177
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc/70/0576-01"
+      ]
+    },
+    {
+      "cite": "38 Misc 2d 698",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        1124605
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/38/0698-01"
+      ]
+    },
+    {
+      "cite": "59 App Div 503",
+      "category": "reporters:state",
+      "reporter": "A.D.",
+      "case_ids": [
+        7717646
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nys/69/0417-02"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 252,
+    "char_count": 3079,
+    "ocr_confidence": 0.791,
+    "pagerank": {
+      "raw": 6.380125665320789e-08,
+      "percentile": 0.3917448469003405
+    },
+    "sha256": "377608ce38e2ee38511b9ebfde61d4e80b581966ae13c7aa041b844fdca1b7da",
+    "simhash": "1:53abf986a4000ec1",
+    "word_count": 514
+  },
+  "last_updated": "2024-02-27T19:35:05.009820+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of the Estate of Cecile S. Jones, Also Known as Cecile R. Jones, Deceased."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nEugene E. Peckham, S.\nThe will of Cecile S. Jones named as coexecutors of her estate, Richard M. Runyon and Nancy A. Clarke, her daughter. Letters testamentary were issued to them on August 6, 2003.\nNancy A. Clarke has submitted to the Clerk of this Court a durable general power of attorney on the New York statutory short form by which she names Richard M. Runyon, her coexecutor, as her attorney-in-fact to carry out \u201cestate transactions.\u201d In an affidavit submitted with the proposed filing, Mr. Runyon states that Ms. Clarke \u201ctravels extensively and is frequently unavailable to execute documents\u201d and \u201cthe primary purpose of the Power of Attorney is to allow me to conduct my executorial duties without having to physically send documents to my Co-Executrix for execution.\u201d\nThe power of attorney is requested to be filed pursuant to EPTL 13-2.3, 22 NYCRR 207.48 and section 5-1502G of the General Obligations Law. Those provisions provide rules for recording powers of attorney relating to or affecting \u201can interest in a decedent\u2019s estate.\u201d The phrase \u201cinterest in the estate\u201d refers to that of a beneficiary, not an executor or other fiduciary. (Turano, Practice Commentaries, McKinney\u2019s Cons Laws of NY, Book 17B, EPTL 13-2.3.) Thus, the section does not apply to the recording of a power of attorney from an executor.\nBut even more significant, a fiduciary cannot delegate the responsibility for the entire administration of the estate or trust. \u201c[T]he duty of a fiduciary is personal and cannot be divested by delegation.\u201d (41 NY Jur 2d, Decedents\u2019 Estates \u00a7 1479, at 84-85.) A fiduciary who does so is liable for breach of trust and potentially subject to surcharge. (Woodbridge v Bockes, 59 App Div 503 [4th Dept 1901]; Matter of Badenhausen, 38 Misc 2d 698 [Sur Ct, Richmond County 1963]; Matter of Ringler & Co., 70 Misc 576 [Sup Ct, NY County 1911]; Restatement [Second] of Trusts \u00a7 171, Comment c; 2a Scott on Trusts \u00a7 171.1, at 439 [Fratcher 4th ed].) Consequently, a fiduciary is not authorized to give a general power of attorney. The phrase \u201cestate transactions\u201d in the General Obligations Law is limited to transactions by an estate or trust beneficiary, and does not apply to an attempted assignment by a fiduciary of total responsibility for the administration of the estate. In Woodbridge, the trustee gave a power of attorney to the husband of the income beneficiary of the trust to manage the trust. The Court held the trustee was guilty of a breach of trust. A fiduciary cannot delegate the whole responsibility for the administration of the estate, even to a cofiduciary.\nIf the fiduciary truly does not wish to participate in or be responsible for the administration of the estate, her solution is to petition the court for permission to resign her office. (SCPA 715.)",
+        "type": "majority",
+        "author": "Eugene E. Peckham, S."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Lee, Emerson & Ferrarese, LLP, Norwich (Thomas C. Emerson of counsel), for estate."
+    ],
+    "corrections": "",
+    "head_matter": "[765 NYS2d 756]\nIn the Matter of the Estate of Cecile S. Jones, Also Known as Cecile R. Jones, Deceased.\nSurrogate\u2019s Court, Broome County,\nOctober 1, 2003\nAPPEARANCES OF COUNSEL\nLee, Emerson & Ferrarese, LLP, Norwich (Thomas C. Emerson of counsel), for estate."
+  },
+  "file_name": "0688-01",
+  "first_page_order": 676,
+  "last_page_order": 677
+}

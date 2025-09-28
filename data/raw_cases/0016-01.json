@@ -1,0 +1,173 @@
+{
+  "id": 1237593,
+  "name": "Park Property Development, Respondent, v. Evelyn Santos, Respondent, and New York City Housing Authority, Appellant",
+  "name_abbreviation": "Park Property Development v. Santos",
+  "decision_date": "2003-07-18",
+  "docket_number": "",
+  "first_page": "16",
+  "last_page": "18",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Misc. 3d 16"
+    },
+    {
+      "type": "parallel",
+      "cite": "767 N.Y.S.2d 558"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. App. Term",
+    "id": 8833,
+    "name": "New York Supreme Court, Appellate Term"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "9 NY 35",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2011949
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/9/0035-01"
+      ]
+    },
+    {
+      "cite": "158 AD2d 355",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3610668
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/158/0355-01"
+      ]
+    },
+    {
+      "cite": "217 AD2d 897",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1223954,
+        1224524
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/217/0897-01",
+        "/ad2d/217/0897-02"
+      ]
+    },
+    {
+      "cite": "2002 NY Slip Op 40376",
+      "category": "reporters:state",
+      "reporter": "NY Slip Op",
+      "opinion_index": 0
+    },
+    {
+      "cite": "254 App Div 352",
+      "category": "reporters:state",
+      "reporter": "A.D.",
+      "case_ids": [
+        2456872
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad/254/0352-01"
+      ]
+    },
+    {
+      "cite": "153 Misc 832",
+      "category": "reporters:state",
+      "reporter": "Misc.",
+      "case_ids": [
+        8838764
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc/153/0832-01"
+      ]
+    },
+    {
+      "cite": "153 Misc 455",
+      "category": "reporters:state",
+      "reporter": "Misc.",
+      "case_ids": [
+        8836182
+      ],
+      "pin_cites": [
+        {
+          "page": "461"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc/153/0455-01"
+      ]
+    },
+    {
+      "cite": "39 NY2d 241",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2323797
+      ],
+      "pin_cites": [
+        {
+          "page": "248"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/39/0241-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 348,
+    "char_count": 4585,
+    "ocr_confidence": 0.745,
+    "pagerank": {
+      "raw": 1.2240919645422112e-07,
+      "percentile": 0.6003631871974003
+    },
+    "sha256": "4b2bfc004445a9861728ec8e94142a544b7dd9f54d1266e97bf02c8c445f25c4",
+    "simhash": "1:6ee096a952e00616",
+    "word_count": 761
+  },
+  "last_updated": "2024-02-27T19:35:05.009820+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Park Property Development, Respondent, v Evelyn Santos, Respondent, and New York City Housing Authority, Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nMemorandum.\nAppeal from order unanimously dismissed.\nFinal judgment unanimously reversed without costs, order dated December 2, 1999 vacated, and motion by the New York City Housing Authority to dismiss granted to the extent of dismissing landlord\u2019s cause of action against it.\nThe appeal from the intermediate order must be dismissed because the right of direct appeal therefrom terminated with the entry of the final judgment (see Matter of Aho, 39 NY2d 241, 248 [1976]). The order is brought up for review on the appeal from the final judgment (see CPLR 5501 [a] [1]).\nThe final judgment entered against the New York City Housing Authority (NYCHA) must be reversed, the order denying its motion to dismiss vacated, and the motion granted to the extent of dismissing landlord\u2019s cause of action against it for section 8 subsidy payments allegedly wrongfully withheld. Because NYCHA is not in possession of the property, it is not, as the law now stands, a party respondent against whom a final judgment for possession and/or arrears can be entered in a summary proceeding to recover the possession of property. \u201c[A] summary proceeding, being a possessory remedy, lies only against the tenant in possession and those in possession under the tenant\u201d (Euclid Holding Co. v Schulte, 153 Misc 455, 461 [1934], revd on other grounds 153 Misc 832 [1934]; see Radlog Realty Corp. v Geiger, 254 App Div 352 [1938] [assignor not in possession not a proper party]; Goldstein v 9 Skyline Gym Corp., 2002 NY Slip Op 40376[U] [App Term, 9th & 10th Jud Dists] [guarantor of lease not a proper party in a summary proceeding]; Greenberg v Khezrie, NYLJ, Feb. 8, 2000, at 28, col 6 [App Term, 2d & 11th Jud Dists]; Stojanoski v Tonick Enters., NYLJ, Apr. 9, 1996, at 33, col 4 [App Term, 2d & 11th Jud Dists]). In addition, because NYCHA\u2019s obligation to make rent subsidy payments arises, like that of a guarantor, from an independent contract between it and the owner and because there is no privity of estate or landlord-tenant relationship between it and the owner, the subsidy payments cannot be considered \u201crent.\u201d \u201cRent . . . comes only from the land leased, and only out of the relationship of landlord and tenant\u201d (1 Dolan, Rasch\u2019s Landlord and Tenant \u2014 Summary Proceedings \u00a7 12:1, at 523-524 [4th ed]). Under the law as it now stands, such non-\u201crent\u201d payments are not recoverable in a summary proceeding (RPAPL 741 [5]; see e.g. Matter of Binghamton Hous. Auth. v Douglas, 217 AD2d 897 [1995]). Accordingly, landlord\u2019s claim against NYCHA for rent subsidy payments is dismissed without prejudice to renewal in a proper forum.\nWe note that to the extent that the second partial consent decree in Williams v New York City Hous. Auth. (US Dist Ct, SD NY 1995, Ward, J., 81 Civ 1801) requires the joinder of NYCHA \u201cas a necessary party\u201d in certain instances, this may perhaps be interpreted as requiring the joinder of NYCHA as a party so that it have notice of the proceeding and an opportunity to defend the tenant, but it cannot be interpreted to mean that a judgment for arrears can be entered against NYCHA in the summary proceeding (cf. McQueen v Grinker, 158 AD2d 355 [1990] [where direct vendor payments are made by Department of Social Services (DSS) to publicly-subsidized housing programs, joinder of DSS in summary proceeding is appropriate so that the proceeding can be stayed until the agencies can resolve their bookkeeping differences]). Inasmuch as a summary proceeding is a creature of statute (RPAPL art 7), only the Legislature and not the parties can enlarge the jurisdiction of the court so as to allow for the entry of a money judgment against NYCHA (Beach v Nixon, 9 NY 35 [1853]).\nIn our view, the interests of judicial economy would be better served if, in a summary proceeding, the court were to have the authority to determine claims based upon rent subsidy contracts or rent guarantee contracts together with the rent claims themselves, as this would obviate the need for the multiple litigations to which resort must now be had. Accordingly, we call upon the Legislature to amend the RPAPL to provide the summary proceeding court with ancillary jurisdiction over such claims.\nPesce, RJ., Aeonin and Golia, JJ., concur.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Ricardo Elias Morales, New York City (Steven J. Rappoport and Byron S. Menegakis of counsel), for appellant."
+    ],
+    "corrections": "",
+    "head_matter": "[767 NYS2d 558]\nPark Property Development, Respondent, v Evelyn Santos, Respondent, and New York City Housing Authority, Appellant.\nSupreme Court, Appellate Term, Second Department,\nJuly 18, 2003\nAPPEARANCES OF COUNSEL\nRicardo Elias Morales, New York City (Steven J. Rappoport and Byron S. Menegakis of counsel), for appellant."
+  },
+  "file_name": "0016-01",
+  "first_page_order": 60,
+  "last_page_order": 62
+}

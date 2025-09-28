@@ -1,0 +1,135 @@
+{
+  "id": 1237551,
+  "name": "In the Matter of the Estate of Vera Altman, Also Known as Vera Hubner, Deceased",
+  "name_abbreviation": "In re the Estate Altman",
+  "decision_date": "2003-09-24",
+  "docket_number": "",
+  "first_page": "566",
+  "last_page": "567",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Misc. 3d 566"
+    },
+    {
+      "type": "parallel",
+      "cite": "770 N.Y.S.2d 582"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sur. Ct.",
+    "id": 9033,
+    "name": "New York Surrogate's Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "49 Misc 2d 81",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        1167288
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/49/0081-01"
+      ]
+    },
+    {
+      "cite": "4 AD2d 981",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        2973747,
+        2959916,
+        2946559
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/4/0981-03",
+        "/ad2d/4/0981-02",
+        "/ad2d/4/0981-01"
+      ]
+    },
+    {
+      "cite": "28 NY2d 241",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2298880
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/28/0241-01"
+      ]
+    },
+    {
+      "cite": "47 NY2d 12",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4369431
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/47/0012-01"
+      ]
+    },
+    {
+      "cite": "69 NY2d 1",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        76105
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/69/0001-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 249,
+    "char_count": 2862,
+    "ocr_confidence": 0.785,
+    "pagerank": {
+      "raw": 6.770845263994211e-08,
+      "percentile": 0.41089094383494945
+    },
+    "sha256": "139b3843f739b1c87db1bf9450b3737831560167aaa481b7be9b724bb79df669",
+    "simhash": "1:7f8b75d0bc8b9725",
+    "word_count": 466
+  },
+  "last_updated": "2024-02-27T19:35:05.009820+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of the Estate of Vera Altman, Also Known as Vera Hubner, Deceased."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nLee L. Holzman, J.\nAfter the kinship issues had been determined in this proceeding to judicially settle the account of the public administrator, supplemental process was served upon all of the heirs of the decedent\u2019s postdeceased brother and sole distributee, which directed them, inter alia, to show cause why the court should not fix the fee of counsel who had represented two objectants (who together receive one third of the net distributable estate) in the amount requested and direct that the balance due for these legal services in the sum of $9,495, plus disbursements, be paid by the estate. No objections have been filed.\nAs a general rule counsel may only be compensated by clients who retain them (Matter of A.G. Ship Maintenance Corp. v Lezak, 69 NY2d 1 [1986]; Mighty Midgets v Centennial Ins. Co., 47 NY2d 12 [1979]; City of Buffalo v Clement Co., 28 NY2d 241 [1971]). However, where, as here, counsel has in effect benefit-ted the entire estate by providing legal services establishing the identity of the decedent\u2019s distributees, counsel may be compensated from estate assets even though counsel was not retained by the fiduciary of the estate or by all of the distributees (Matter of Wiltshire, 4 AD2d 981 [1957]; Matter of Reedy, 49 Misc 2d 81 [1966]). This is equitable in this case because otherwise the distributees receiving two thirds of the estate would be unjustly enriched by receiving free legal services establishing their entitlement to distributive shares at the expense of the distributees receiving only one third of the estate. However, counsel\u2019s affidavit of services reflects that some of the services provided were not related to establishing kinship but, instead, essentially consisted of monitoring the duties of the fiduciary with regard to tax returns and other matters. The distributees who did not retain counsel should not be required to pay for these volunteer services because they are already paying for the legal services of the fiduciary\u2019s counsel. Moreover, to the extent that compensation is to be paid from the interests of parties who did not retain counsel, such compensation must be fixed on a quantum meruit basis rather than pursuant to the terms of any retainer agreement that counsel might have entered into with the two object-ants or based solely upon counsel\u2019s usual hourly charge. Based upon the reasonable value of counsel\u2019s efforts in establishing kinship, the court fixes the balance of the compensation to be paid to counsel from the estate in the sum of $7,000, plus disbursements of $79.",
+        "type": "majority",
+        "author": "Lee L. Holzman, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Michael M. Lippman for Public Administrator. Hofheimer, Gartlir & Gross, LLP (Lois Gartlir of counsel), pro se."
+    ],
+    "corrections": "",
+    "head_matter": "[770 NYS2d 582]\nIn the Matter of the Estate of Vera Altman, Also Known as Vera Hubner, Deceased.\nSurrogate\u2019s Court, Bronx County,\nSeptember 24, 2003\nAPPEARANCES OF COUNSEL\nMichael M. Lippman for Public Administrator. Hofheimer, Gartlir & Gross, LLP (Lois Gartlir of counsel), pro se."
+  },
+  "file_name": "0566-01",
+  "first_page_order": 554,
+  "last_page_order": 555
+}

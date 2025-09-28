@@ -1,0 +1,149 @@
+{
+  "id": 1237570,
+  "name": "Edelstein & Son, LLC, Petitioner, v. Linda Levin, Respondent",
+  "name_abbreviation": "Edelstein & Son, LLC v. Levin",
+  "decision_date": "2003-09-25",
+  "docket_number": "",
+  "first_page": "685",
+  "last_page": "687",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Misc. 3d 685"
+    },
+    {
+      "type": "parallel",
+      "cite": "770 N.Y.S.2d 842"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Civ. Ct.",
+    "id": 8970,
+    "name": "Civil Court of the City of New York"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "53 NY2d 821",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4381813
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/53/0821-01"
+      ]
+    },
+    {
+      "cite": "74 AD2d 372",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3192219
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/74/0372-01"
+      ]
+    },
+    {
+      "cite": "183 Misc 2d 558",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        156689
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/183/0558-01"
+      ]
+    },
+    {
+      "cite": "161 Misc 2d 754",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        923918
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/161/0754-01"
+      ]
+    },
+    {
+      "cite": "84 NY2d 773",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4432670
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/84/0773-01"
+      ]
+    },
+    {
+      "cite": "243 AD2d 29",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        319555
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "33"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/243/0029-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 315,
+    "char_count": 4122,
+    "ocr_confidence": 0.774,
+    "pagerank": {
+      "raw": 5.8591662004228935e-08,
+      "percentile": 0.3634464789259914
+    },
+    "sha256": "6a96471a0e1f03073db802a81141938d48a303145693dcac97993126ddc1ef21",
+    "simhash": "1:f973b8c05c3dfc1d",
+    "word_count": 677
+  },
+  "last_updated": "2024-02-27T19:35:05.009820+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Edelstein & Son, LLC, Petitioner, v Linda Levin, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nMaria Milin, J.\nIn this nonpayment proceeding where petitioner seeks rental arrears from June 1998 through June 2002, respondent moves for an order pursuant to CPLR 3212 for partial summary judgment dismissing with prejudice all claims for rent accruing prior to August 1999. Respondent succeeded to the rent-controlled tenancy of Philip Cuppett after his death in August 1999. It is undisputed that prior to the death of Mr. Cuppett, respondent never tendered rent in her own name to petitioner, nor did petitioner make respondent a tenant. Petitioner opposes. Based upon the discussion below, respondent\u2019s motion is granted.\nAny party may move for summary judgment once issue is joined (CPLR 3212). \u201cWhen saved for a proper case it is a perfectly constitutional weapon. It does not deny the parties a trial; it merely ascertains that there is nothing to try\u201d (Siegel, NY Prac \u00a7 278, at 438 [3d ed]).\nAlthough the premises here is governed by rent control, not rent stabilization, the court adopts the rationale and methodology of the Appellate Division, First Department. The timing of the transition determining when an occupant of a rent-stabilized tenancy becomes the successor-in-interest to the tenant was addressed by the Court in 245 Realty Assoc. v Sussis (243 AD2d 29, 33 [1st Dept 1998]), which held: \u201cThe occupant\u2019s rights as a successor-in-interest logically must relate back to the date creating his statutory rights, the death of the tenant of record.\u201d This holding is consistent with Duell v Condon (84 NY2d 773 [1995]), where the Court of Appeals held that the adult daughter who moved in with her mother, the statutory rent-controlled tenant, in 1973, became the statutory tenant upon the death of her mother in 1986.\nThus, based upon the death certificate annexed to respondent\u2019s motion, respondent succeeded to the rent-controlled tenancy as of August 16, 1999. Since petitioner pleads that respondent agreed to pay rent each month in advance on the first day of the month, respondent\u2019s obligation to pay rent directly to petitioner commenced September 1, 1999.\nNone of the cases cited by petitioner addresses the specific issue of when an occupant becomes a successor-in-interest to the rent-regulated tenant.\nIn Stanford Realty Assoc. v Rollins (161 Misc 2d 754 [Civ Ct, NY County 1994]), a holdover petition based upon nonprimary residence was dismissed for failure to serve predicate notices on the tenant\u2019s wife, whom the court determined had independent possessory rights and thus was a necessary party. In 87-37 Bay Owners Corp. v D\u2019Angelo (183 Misc 2d 558 [Civ Ct, Kings County 2000]) the court held that the wife of a residential cooperative corporation unit owner, who did not reside in the premises but paid the rent, could assert a breach of the warranty of habitability claim against petitioner. In Matter of Her zog v Joy (74 AD2d 372 [1st Dept 1980], affd 53 NY2d 821 [1981]) the Court held that the younger sister of the rent-controlled tenant succeeded to her older sister\u2019s tenancy after the older sister vacated, and that the fact that the older sister still paid the rent was not determinative of whether the younger sister was a tenant under rent control.\nPetitioner also relies upon 245 Realty Assoc. v Sussis (243 AD2d 29 [1st Dept 1998]) to argue that respondent is an assignee under the lease and as such is bound by the terms of the lease, including the obligation to pay rent. But in that case the lease contained a provision which provided that the agreement was to be binding on the owner and tenant and on those who succeeded to their interests. There is no such provision in the rent-controlled lease here.\nBased upon the foregoing respondent\u2019s motion for partial summary judgment is granted.",
+        "type": "majority",
+        "author": "Maria Milin, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Fishman & Neil, LLP, New York City {James B. Fishman of counsel), for respondent. Penn Proefriedt Schwarzfeld & Schwartz, New York City {Sharyn A. Tritio of counsel), for petitioner."
+    ],
+    "corrections": "",
+    "head_matter": "[770 NYS2d 842]\nEdelstein & Son, LLC, Petitioner, v Linda Levin, Respondent.\nCivil Court of the City of New York, New York County,\nSeptember 25, 2003\nAPPEARANCES OF COUNSEL\nFishman & Neil, LLP, New York City {James B. Fishman of counsel), for respondent. Penn Proefriedt Schwarzfeld & Schwartz, New York City {Sharyn A. Tritio of counsel), for petitioner."
+  },
+  "file_name": "0685-01",
+  "first_page_order": 673,
+  "last_page_order": 675
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1237582,
+  "name": "Patricia Nonnon, Individually and as Executrix of Kerri Nonnon, Deceased, et al., Plaintiffs, v. City of New York, Defendant. (Action No. 1.) (And Eight Other Actions.)",
+  "name_abbreviation": "Nonnon v. City of New York",
+  "decision_date": "2003-10-14",
+  "docket_number": "",
+  "first_page": "25",
+  "last_page": "25",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Misc. 3d 25"
+    },
+    {
+      "type": "parallel",
+      "cite": "768 N.Y.S.2d 799"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 8791,
+    "name": "New York Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "1 Misc 3d 897",
+      "category": "reporters:state",
+      "reporter": "Misc. 3d",
+      "case_ids": [
+        1237604
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc3d/1/0897-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 50,
+    "char_count": 353,
+    "ocr_confidence": 0.765,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.04647008377708507
+    },
+    "sha256": "2326b75a32984a7cb87b0269b6456ee8582695b1c4cff4e2a1a15905956be11a",
+    "simhash": "1:063e407e240bb30a",
+    "word_count": 59
+  },
+  "last_updated": "2024-02-27T19:35:05.009820+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Patricia Nonnon, Individually and as Executrix of Kerri Nonnon, Deceased, et al., Plaintiffs, v City of New York, Defendant. (Action No. 1.) (And Eight Other Actions.)"
+    ],
+    "opinions": [
+      {
+        "text": "[This opinion has been withdrawn from publication at 1 Misc 3d 25 by the State Reporter and republished at 1 Misc 3d 897.]",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "[768 NYS2d 799]\nPatricia Nonnon, Individually and as Executrix of Kerri Nonnon, Deceased, et al., Plaintiffs, v City of New York, Defendant. (Action No. 1.) (And Eight Other Actions.)\nSupreme Court, Bronx County,\nOctober 14, 2003"
+  },
+  "file_name": "0025-01",
+  "first_page_order": 69,
+  "last_page_order": 69
+}

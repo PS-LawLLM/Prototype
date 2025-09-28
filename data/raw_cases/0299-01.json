@@ -1,0 +1,512 @@
+{
+  "id": 1237603,
+  "name": "In the Matter of Tony Eisenberg, Petitioner, v. Evelyn I. Strasser et al., Objectors-Respondents, and Commissioners of Elections of the Board of Elections in the City of New York, Respondent; In the Matter of Evelyn I. Strasser et al., Petitioners-Objectors, v. Tony Eisenberg, Candidate, and Board of Elections in the City of New York, Respondent",
+  "name_abbreviation": "Eisenberg v. Strasser",
+  "decision_date": "2003-08-18",
+  "docket_number": "",
+  "first_page": "299",
+  "last_page": "307",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Misc. 3d 299"
+    },
+    {
+      "type": "parallel",
+      "cite": "768 N.Y.S.2d 773"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 8791,
+    "name": "New York Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "69 Misc 41",
+      "category": "reporters:state",
+      "reporter": "Misc.",
+      "case_ids": [
+        448266
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc/69/0041-01"
+      ]
+    },
+    {
+      "cite": "322 US 665",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6145336
+      ],
+      "pin_cites": [
+        {
+          "page": "673"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/322/0665-01"
+      ]
+    },
+    {
+      "cite": "251 AD2d 553",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        712450
+      ],
+      "pin_cites": [
+        {
+          "page": "554"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/251/0553-01"
+      ]
+    },
+    {
+      "cite": "274 AD2d 474",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        501082
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/274/0474-01"
+      ]
+    },
+    {
+      "cite": "305 AD2d 561",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        120600,
+        120698
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/305/0561-02",
+        "/ad2d/305/0561-01"
+      ]
+    },
+    {
+      "cite": "295 AD2d 438",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1092351
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "439"
+        },
+        {
+          "page": "439"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/295/0438-01"
+      ]
+    },
+    {
+      "cite": "41 AD2d 946",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        5594681,
+        5604135
+      ],
+      "pin_cites": [
+        {
+          "page": "947"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/41/0946-01",
+        "/ad2d/41/0946-02"
+      ]
+    },
+    {
+      "cite": "792 F2d 323",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1583351
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "327"
+        },
+        {
+          "page": "327"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/792/0323-01"
+      ]
+    },
+    {
+      "cite": "31 NY2d 36",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2305939
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "47"
+        },
+        {
+          "page": "47"
+        },
+        {
+          "page": "47"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/31/0036-01"
+      ]
+    },
+    {
+      "cite": "82 NY2d 654",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "196 AD2d 613",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1139953,
+        1139627
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/196/0613-02",
+        "/ad2d/196/0613-01"
+      ]
+    },
+    {
+      "cite": "96 NY2d 378",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        203054
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "385"
+        },
+        {
+          "page": "385"
+        },
+        {
+          "page": "385"
+        },
+        {
+          "page": "384"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/96/0378-01"
+      ]
+    },
+    {
+      "cite": "60 NY2d 598",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4392726
+      ],
+      "pin_cites": [
+        {
+          "page": "600"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/60/0598-01"
+      ]
+    },
+    {
+      "cite": "122 AD2d 906",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3497313,
+        3490719
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/122/0906-02",
+        "/ad2d/122/0906-01"
+      ]
+    },
+    {
+      "cite": "84 NY2d 801",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "207 AD2d 648",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1181222
+      ],
+      "pin_cites": [
+        {
+          "page": "650"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/207/0648-01"
+      ]
+    },
+    {
+      "cite": "297 AD2d 357",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1074314
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/297/0357-01"
+      ]
+    },
+    {
+      "cite": "110 Misc 2d 174",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        783011
+      ],
+      "pin_cites": [
+        {
+          "page": "175"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/110/0174-01"
+      ]
+    },
+    {
+      "cite": "82 Misc 2d 460",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        1290988
+      ],
+      "pin_cites": [
+        {
+          "page": "461"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/82/0460-01"
+      ]
+    },
+    {
+      "cite": "178 Misc 113",
+      "category": "reporters:state",
+      "reporter": "Misc.",
+      "case_ids": [
+        904497
+      ],
+      "pin_cites": [
+        {
+          "page": "113-114"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc/178/0113-01"
+      ]
+    },
+    {
+      "cite": "99 Misc 2d 691",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        1930014
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/99/0691-01"
+      ]
+    },
+    {
+      "cite": "160 Misc 2d 657",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        921128
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/160/0657-01"
+      ]
+    },
+    {
+      "cite": "60 Misc 2d 1056",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        1206809
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1057"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/60/1056-01"
+      ]
+    },
+    {
+      "cite": "126 Misc 2d 43",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        834790
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/126/0043-01"
+      ]
+    },
+    {
+      "cite": "186 Misc 2d 785",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        1161034
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/186/0785-01"
+      ]
+    },
+    {
+      "cite": "2003 NY Slip Op 50025",
+      "category": "reporters:state",
+      "reporter": "NY Slip Op",
+      "opinion_index": 0
+    },
+    {
+      "cite": "46 AD2d 170",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        5621825
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "171"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/46/0170-01"
+      ]
+    },
+    {
+      "cite": "197 NY 420",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        4465355
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "423"
+        },
+        {
+          "page": "428"
+        },
+        {
+          "page": "428"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/197/0420-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 867,
+    "char_count": 18681,
+    "ocr_confidence": 0.763,
+    "pagerank": {
+      "raw": 5.12982294956584e-08,
+      "percentile": 0.32192977273964624
+    },
+    "sha256": "271c6e21a2b4f6838bb972c14f3d3958f6d0549c64caa823f1ada2d2b80f227a",
+    "simhash": "1:36e721c09700d623",
+    "word_count": 3070
+  },
+  "last_updated": "2024-02-27T19:35:05.009820+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of Tony Eisenberg, Petitioner, v Evelyn I. Strasser et al., Objectors-Respondents, and Commissioners of Elections of the Board of Elections in the City of New York, Respondent. In the Matter of Evelyn I. Strasser et al., Petitioners-Objectors, v Tony Eisenberg, Candidate, and Board of Elections in the City of New York, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nGloria M. Dabiri, J.\nIn these proceedings brought pursuant to article 16 of the Election Law, (1) petitioner candidate Tony Eisenberg under Index No. 26884/03 seeks to declare valid the designating petition purporting to designate him as a candidate in the September 9, 2003 Democratic Party primary election for the public office of Member of the New York City Council from the 47th Council District for the term of office which commences January 1, 2004, and to have his name restored to the ballot, and (2) respondents citizen objectors under Index No. 26896/03 (petitioners-objectors) seek to declare invalid the designating petition on the ground that petitioner is ineligible to be a candidate as designated in his petition because he was not a registered and enrolled voter and did not in fact reside at the address set forth in the designating petition. These proceedings were joined for trial which commenced on August 11 and continued on August 14 and August 18, 2003.\nDiscussion\nOn July 31, 2003, the Commissioners of the Board of Elections determined the designating petition to be invalid on the ground that, absent a court order evidencing a name change from \u201cAnatoly Eyzenberg\u201d to \u201cTony Eisenberg,\u201d the person \u201cTony Eisenberg\u201d is neither a registered nor an enrolled Democrat and, thus, the designating petition of \u201cTony Eisenberg\u201d should be declared void \u201cab initio.\u201d Petitioner challenges the Board\u2019s determination and seeks to declare valid his designating petition. Respondents argue, inter alia, that petitioner was not a bona fide resident of 621 Brighton Beach Avenue, the address set forth as his residence in the designating petition, and that petitioner \u201cTony Eisenberg\u201d was not registered as a Democrat under that name. The court will first address petitioner\u2019s purported name change from \u201cAnatoly Eyzenberg\u201d to \u201cTony Eisenberg.\u201d\nCommon-Law Name Change\nThe testimony presented at trial revealed that Anatoly Eyzenberg was petitioner\u2019s given name at birth and the name under which he emigrated to the United States from Russia in 1980. Petitioner testified that he operated a meat business in Brighton Beach since approximately 1984 and that over the years he has come to be known, in connection with that business, as \u201cTony\u201d which, he testified, is an American nickname for Anatoly. He further stated that he believes that he was discriminated against in the early years of his business because he was from Russia and that this affected his ability to obtain credit for his business.\nPetitioner testified that, on June 2, 2003, he went to the Brooklyn Board of Elections and presented a voter registration application form in which he utilized the name \u201cTony\u201d as his first name and changed the spelling of his last name from \u201cEyzenberg\u201d to \u201cEisenberg.\u201d This application is date stamped as having been received by the Board on June 2, 2003. Petitioner testified that he decided to change his name on his voter registration in contemplation of his run for City Council, in order to appear more American and to reduce the likelihood that he would be discriminated against by voters because of his Russian name. Several days later, petitioner received a form letter from the Brooklyn Board of Elections informing him that his application could not be processed because the Board had not received a copy of a court order changing his name.\nMr. Steven Richman, counsel to the New York City Board of Elections, testified that he received correspondence from Ms. Diane Rudiano, Chief of the Brooklyn Board of Elections, seeking clarification of the Board\u2019s policy with regard to voter registration applications in which a male was seeking to change his name. The testimony revealed that the Board\u2019s policy and procedure had been to automatically approve a change of name request made by a female (such as occurs in the event of marriage or divorce) but to require the submission of a court order in order to process a male\u2019s change of name. At Ms. Rudiano\u2019s request, Mr. Richman researched the rules and policies of both the New York City and New York State Boards of Elections and found no support for this position. On July 1, 2003, the Board considered the issue and determined that the Board would process any name change application unless there was evidence of fraudulent intent.\nMr. Richman testified that this policy was conveyed to the Borough Chiefs on or about July 7, 2003. Accordingly, on July 21, 2003 the Brooklyn Board of Elections office changed Mr. Eyzenberg\u2019s voter registration information in the Board\u2019s database to reflect his registration under the name \u201cTony Eisenberg.\u201d\nOn June 3, 2003, Mr. Eyzenberg began circulating designating petitions for the office of City Council Member from the 47th Council District bearing the name \u201cTony Eisenberg.\u201d He delivered his completed petition volume to the Board of Elections on July 10, 2003. On July 14, the respondents-objectors filed general objections to petitioner\u2019s designating petition, and on July 21, 2003 they filed specifications for those objections.\nMr. Richman testified that Board of Elections clerks reviewed the Eisenberg petition and referred 10 specifications of objections to the Board for review. On July 31, 2003, the Board reviewed these objections and ruled them \u201cAs Stated,\u201d that is, the objections were sustained. The Board, in essence, reversed its July 1, 2003 policy determination, concluded that a court order would be required before any name change on a voter registration and enrollment would be accepted, and voided petitioner\u2019s registration nunc pro tunc. Thus, as there was no person registered and enrolled under the name of \u201cTony Eisenberg,\u201d the designating petition was deemed invalid.\nUnder the common law, a person may change his or her name at will absent fraud, misrepresentation or interference with the rights of others (see Smith v United States Cas. Co., 197 NY 420, 423; Matter of Halligan, 46 AD2d 170 [1974]; see Matter of Bobrowich, 2003 NY Slip Op 50025[U] [Civ Ct, Richmond County 2003]; Matter of Conde, 186 Misc 2d 785 [Civ Ct, Kings County 2000]; Matter of Linda Ann A., 126 Misc 2d 43 [Sup Ct, Queens County 1984]; Matter of Middleton, 60 Misc 2d 1056, 1057 [Civ Ct, NY County 1969]; Matter of Sakaris, 160 Misc 2d 657 [Civ Ct, Richmond County 1993]). No judicial proceeding is necessary to change a name; it can be made effective through consistent usage or habit (see Matter of Halligan, 46 AD2d 170 [1974]; see also Matter of Ellerby, 99 Misc 2d 691 [Civ Ct 1979]). Thus \u201canybody may change their names without asking the approval of the court at any time and, provided fraud was not the inspiration for the act, the new name will be as effectively assumed and recognized as if its use had been provided for by a court order\u201d (Matter of Lipschutz, 178 Misc 113, 113-114 [Sup Ct, Queens County 1941; Smith, 197 NY 420 [1910]).\nIn addition to the common law, New York has enacted a statutory procedure under the Civil Rights Law enabling a person to petition for a court order changing his or her name (Civil Rights Law \u00a7 60 et seq.). New York Civil Rights Law \u00a7 60 et seq. provides the necessary directions for effectuating a court ordered name change as an alternative to one\u2019s common-law use of a name. These statutory provisions are an alternative procedure to the one under the common law; they neither diminish nor abrogate a person\u2019s common-law right to effectuate a name change (see Matter of Ellerby, 99 Misc 2d 691 [Civ Ct, Kings County 1979]; Matter of Linda Ann A., 126 Misc 2d 43 [1984]; Matter of Sakaris, 160 Misc 2d 657 [Civ Ct 1993]). The statutory procedure differs only in the speed and certainty of the change (Civil Rights Law \u00a7 64; Matter of Halligan, 46 AD2d at 171). \u201cPrimarily, the court is charged with examining whether the name sought to be assumed will be a source of or instrumentality for fraud, evasion or interference with the rights of others\u201d (Matter of Thompson, 82 Misc 2d 460, 461 [1975]; see also Matter of Stempler, 110 Misc 2d 174, 175 [Sup Ct, Nassau County 1981]; Matter of Middleton, 60 Misc 2d 1056 [Civ Ct 1969]).\nAt trial petitioner testified that he changed his name from \u201cAnatoly Eyzenberg\u201d to \u201cTony Eisenberg\u201d before deciding to run for the City Council because he feared being discriminated against based on the Russian- spelling of his name. Petitioner described the change as \u201cAmericanizing his name.\u201d\nHowever, the record is devoid of evidence that Mr. Eyzenberg meets the relatively simple requirement for effectuating a common-law change of name through custom and usage in his community (Smith v United States Cas. Co., 197 NY 420, 428 [1910]). In fact, petitioner concedes that he never used the name \u201cTony Eisenberg\u201d on any document, such as a mortgage or lease, and that his voter registration application, submitted to the Board of Elections on June 2, 2003, was the first time that he had ever identified himself as \u201cTony Eisenberg.\u201d Moreover, all of the documents produced via subpoena, including his passport, driver\u2019s license, tax returns and various mortgages, list his name as \u201cAnatoly Eyzenberg.\u201d Accordingly, petitioner has failed to demonstrate that he has, in fact, effectuated a common-law name change. Consequently, the designating petition designating \u201cTony Eisenberg\u201d as a candidate for City Council in the 47th Council District is void and petitioner\u2019s validating petition is denied.\nAssuming arguendo that the petitioner had properly effectuated a common-law name change, his designating petition, nonetheless, would be declared invalid based upon the evidence presented by respondents on the issue of petitioner\u2019s residency.\nResidency\nRespondents contend that the address contained in the designating petition, to wit: 621 Brighton Beach Avenue, Brooklyn, New York, is not petitioner\u2019s true residence, but was inserted therein to mislead the signers of the designating petitions and hence constituted a fraud upon electors in that district.\nElection Law \u00a7 6-132 (1) requires a candidate to state his or her place of residence on the designating petition. Election Law \u00a7 1-104 (22) defines \u201cresidence\u201d as \u201cthat place where a person maintains a fixed, permanent and principal home and to which he [or she], wherever temporarily located, always intends to return\u201d (see Camardi v Sinawski, 297 AD2d 357 [2002]). Under the Election Law, residence and domicile are treated as one and the same (see Matter of Isabella v Hotaling, 207 AD2d 648, 650 [1994], lv denied 84 NY2d 801 [1994]; Matter of Markowitz v Gumbs, 122 AD2d 906 [1986]). Additionally, a candidate who has two residences \u201cmay choose one to which [he or] she has legitimate, significant and continuing attachments as [his or] her residence for purposes of the Election Law\u201d (Matter of Ferguson v McNab, 60 NY2d 598, 600 [1983]; People v O\u2019Hara, 96 NY2d 378, 385 [2001]; Geller v Lasher, 196 AD2d 613 [1993], lv denied 82 NY2d 654 [1993]). To be a resident of a place, a person must be physically present with the intent to remain for a time (see Matter of Palla v Suffolk County Bd. of Elections, 31 NY2d 36, 47 [1972]; see also Williams v Salerno, 792 F2d 323, 327 [1986] [2d Cir]).\nThus, the issue presented herein is not whether petitioner may have two residences, or whether, as between his two residences, he picked the more appropriate one from which to register to vote. Rather, the issue is whether petitioner genuinely took up residence at the 621 Brighton Beach Avenue address, thus making it a bona fide residence from which he could vote (People v O\u2019Hara, 96 NY2d 378, 385 [2001]).\nWhether a particular residence complies with the requirements of the Election Law is determined by the individual\u2019s manifest intent, coupled with physical presence \u201cwithout any aura of sham\u201d (People v O\u2019Hara, 96 NY2d 378, 385 [2001], quoting Matter of Gallagher v Dinkins, 41 AD2d 946, 947 [1973]; Thompson v Karben, 295 AD2d 438, 439 [2002]). The determination of an individual\u2019s residence is dependent upon an individual\u2019s expressed intent and conduct (Matter of Palla, 31 NY2d 36, 47 [1972]).\nAt trial, petitioner testified that he has been the owner of 621 Brighton Beach Avenue since 1984 and that it is from that location that he has operated a meat business. He testified that the location is a two-story building containing a retail meat store on the first floor and a three bedroom apartment and office space on the second floor. He stated that this business requires him to be on the premises for many hours each day and that for approximately 10 to 12 years he slept upstairs in the apartment, sometimes as frequently as five nights per week. He went on to testify that in recent years business slowed down and that he only occasionally slept there. However, on redirect examination, petitioner testified that he had, in fact, retired in approximately June 2002 and that he, currently, only \u201chelps out\u201d at the business.\nThe testimony adduced at trial and the relevant subpoenaed documents produced \u2014including petitioner\u2019s driver\u2019s license, car leases, federal tax returns, property deeds, a utility bill for the period of July 11 through August 12, 2003, an application for the New York State property tax relief program known as the \u201cSTAR\u201d program \u2014 demonstrate that 3821 Avenue S is petitioner\u2019s permanent and principal residence in Kings County. Notably, petitioner has failed to produce a number of subpoenaed documents, including New York State income tax returns, property leases, and phone, gas, electricity and cable bills for both premises. To the extent that petitioner has failed to produce these documents, and offers no plausible excuse for the failure to do so, an adverse inference is taken that had such documents been produced they would have supported respondents\u2019 position that Mr. Eyzenberg did not reside at 621 Brighton Beach Avenue for Election Law purposes (see Mylonas v Town of Brookhaven, 305 AD2d 561 [2003]; Wilkie v New York City Health & Hosps. Corp., 274 AD2d 474 [2000]; Love v New York City Hous. Auth., 251 AD2d 553, 554 [1998]).\nIt is undisputed that 621 Brighton Beach Avenue has a commercial certificate of occupancy, and that plans were filed with the Buildings Department to renovate the second floor space for commercial use only. Moreover, petitioner never testified that he regards the house at 621 Brighton Beach Avenue as his permanent home to which it is his intention to return. Nor has petitioner presented any evidence from which one can reasonably infer any such intention on his part (see People v O\u2019Hara, 96 NY2d 378, 384 [2001]; Matter of Palla v Suffolk County Bd. of Elections, 31 NY2d 36, 47 [1972]; see also Williams, 792 F2d at 327).\nBased upon the foregoing, the court concludes that 621 Brighton Beach Avenue is not petitioner\u2019s residence for purposes of the Election Law (see Thompson v Karben, 295 AD2d 438, 439 [2002] [in which the Court determined that respondent had established residence at a particular address through the submission of copies of his vehicle registration, federal income tax returns, property tax bill, a paycheck stub, and retirement account statements all bearing the address in question]; Camardi v Sinawski, 297 AD2d 357 [2002] [in which the Court determined that although testimony indicated that he had moved to Nassau County residence on October 31, 2000, he had not established residence at that particular address in light of the fact that his tax returns, driver\u2019s license and attorney registration still listed a New York City address]; Geller v Lasher, 196 AD2d 613 [1993], lv denied 82 NY2d 654 [1993] [in which the Court found that respondent had sufficiently demonstrated that he maintained a residence within the meaning of the Election Law as a result of intermittently living at the address since 1981, having that address listed on his tax returns, pension documents, driver\u2019s licenses, and insurance policies, and being listed under that address in the telephone directory]). Accordingly, the petition to validate is denied, and the petition to invalidate is granted.\n. By decision and order, dated August 13, 2003, the court determined that this issue was sufficiently pleaded and could be addressed by the court.\n. When petitioner became a naturalized citizen he acquired all the civil rights and privileges of a native born citizen (Baumgartner v United States, 322 US 665, 673 [1944]). Included in these rights was his common-law prerogative of changing his name without resorting to a judicial proceeding (Smith v United States Cas. Co., 197 NY 420, 428 [1910]; Matter of Burstein, 69 Misc 41 [1910]).\n. Civil Rights Law \u00a7 63 states in relevant part that \u201c[i]f the court ... is satisfied . . . that the petition is true, and that there is no reasonable objection to the change of name proposed . . . the court shall make an order authorizing the petitioner to assume the name proposed.\u201d\n. Although there was some testimony by petitioner and his wife that he was known by many as \u201cTony,\u201d petitioner failed to establish that his surname was commonly known to be \u201cEisenberg\u201d rather than \u201cEyzenberg.\u201d\n. Significantly, when petitioner\u2019s wife testified on August 18, 2003, she identified her surname as \u201cEyzenberg.\u201d\n. In view of this determination, the court need not address the Board\u2019s policy changes as they impacted upon the processing of petitioner\u2019s voter registration. It is noted, however, that even if the July 21, 2003 data entry is deemed retroactive to the July 1, 2003 policy change (and petitioner is deemed enrolled on July 10, 2003), petitioner was given adequate notice (see, Election Law \u00a7 5-402 [2]) and an opportunity to be heard at the July 31, 2003 hearing at which that policy was reversed and petitioner\u2019s registration cancelled.\n. The court notes that some of the documents produced do in fact contain the 621 Brighton Beach Avenue address; however, these documents relate to petitioner\u2019s business dealings.\n. Even if, as petitioner contends, he spent up to 18 hours per day working at his meat business and thus \u201cresided\u201d at 621 Brighton Beach Avenue, petitioner acknowledges that he has been retired from the business since in or about June 2002.",
+        "type": "majority",
+        "author": "Gloria M. Dabiri, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Mitch Alter for petitioner. Robert Allan Muir for objectors-respondents."
+    ],
+    "corrections": "",
+    "head_matter": "[768 NYS2d 773]\nIn the Matter of Tony Eisenberg, Petitioner, v Evelyn I. Strasser et al., Objectors-Respondents, and Commissioners of Elections of the Board of Elections in the City of New York, Respondent. In the Matter of Evelyn I. Strasser et al., Petitioners-Objectors, v Tony Eisenberg, Candidate, and Board of Elections in the City of New York, Respondent.\nSupreme Court, Kings County,\nAugust 18, 2003\nAPPEARANCES OF COUNSEL\nMitch Alter for petitioner. Robert Allan Muir for objectors-respondents."
+  },
+  "file_name": "0299-01",
+  "first_page_order": 287,
+  "last_page_order": 295
+}

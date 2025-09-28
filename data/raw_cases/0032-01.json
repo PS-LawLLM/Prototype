@@ -1,0 +1,248 @@
+{
+  "id": 1237515,
+  "name": "The People of the State of New York, Respondent, v. John Dolan, Appellant",
+  "name_abbreviation": "People v. Dolan",
+  "decision_date": "2003-09-26",
+  "docket_number": "",
+  "first_page": "32",
+  "last_page": "34",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Misc. 3d 32"
+    },
+    {
+      "type": "parallel",
+      "cite": "770 N.Y.S.2d 558"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. App. Term",
+    "id": 8833,
+    "name": "New York Supreme Court, Appellate Term"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "69 NY2d 185",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        76082
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/69/0185-01"
+      ]
+    },
+    {
+      "cite": "191 Misc 2d 275",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        962402
+      ],
+      "pin_cites": [
+        {
+          "page": "279-280"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/191/0275-01"
+      ]
+    },
+    {
+      "cite": "180 Misc 2d 160",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        32579
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/180/0160-01"
+      ]
+    },
+    {
+      "cite": "143 Misc 2d 1089",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        879882
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/143/1089-01"
+      ]
+    },
+    {
+      "cite": "295 AD2d 652",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1092797
+      ],
+      "pin_cites": [
+        {
+          "page": "653"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/295/0652-01"
+      ]
+    },
+    {
+      "cite": "260 AD2d 212",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        894264,
+        894211
+      ],
+      "pin_cites": [
+        {
+          "page": "213"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/260/0212-02",
+        "/ad2d/260/0212-01"
+      ]
+    },
+    {
+      "cite": "108 AD2d 307",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3412292
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "311"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/108/0307-01"
+      ]
+    },
+    {
+      "cite": "91 NY2d 978",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "246 AD2d 410",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        690726
+      ],
+      "pin_cites": [
+        {
+          "page": "411-412"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/246/0410-01"
+      ]
+    },
+    {
+      "cite": "68 NY2d 817",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "122 AD2d 498",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3488435
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/122/0498-01"
+      ]
+    },
+    {
+      "cite": "194 AD2d 827",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1131947
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/194/0827-01"
+      ]
+    },
+    {
+      "cite": "86 NY2d 10",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4436909
+      ],
+      "pin_cites": [
+        {
+          "page": "19"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/86/0010-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 308,
+    "char_count": 3316,
+    "ocr_confidence": 0.779,
+    "pagerank": {
+      "raw": 8.265703647582806e-08,
+      "percentile": 0.4785286709765704
+    },
+    "sha256": "c6ca4cd7c6a21c465d3c8a19f67be6c4a08f3bc46f5ecc14791c478bc7223659",
+    "simhash": "1:b000d8a99f6ca5b1",
+    "word_count": 522
+  },
+  "last_updated": "2024-02-27T19:35:05.009820+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The People of the State of New York, Respondent, v John Dolan, Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nPer Curiam.\nJudgment of conviction rendered July 9, 1999 affirmed.\nDefendant\u2019s challenge to the sufficiency of the evidence is unpreserved for appellate review, since defendant merely moved for a general trial order of dismissal and did not raise the alleged insufficiencies now urged on appeal (see, People v Gray, 86 NY2d 10, 19 [1995]). In any event, were we to review, we would find that the driving element of the driving while intoxicated offenses here charged was established beyond a reasonable doubt by credited prosecution testimony that moments after the vehicular collision defendant was found seated in the driver\u2019s seat of his otherwise unoccupied car with seat belt fastened and air bag deployed, as well as defendant\u2019s own statements concerning the events immediately preceding the accident (see, People v Charland, 194 AD2d 827 [1993]; People v Saplin, 122 AD2d 498 [1986], lv denied 68 NY2d 817 [1986]). Upon an independent review of the facts, we are satisfied that the verdict was not against the weight of the evidence.\nThe court properly exercised its discretion in denying defendant\u2019s CPL 330.30 (3) motion without a hearing, since defendant\u2019s motion papers failed to contain sworn allegations of fact (CPL 330.40 [2] [e] [ii]) and the purported newly discovered evidence was not shown to have been undiscoverable prior to or during trial and was not of such nature that it would probably change the result if a new trial were held (see, People v Taylor, 246 AD2d 410, 411-412 [1998], lv denied 91 NY2d 978 [1998]).\nAlso unavailing is defendant\u2019s contention that the accusatory instrument was jurisdictionally defective by failing to include nonhearsay allegations supporting the charged offenses. The factual portion of the underlying misdemeanor information contained defendant\u2019s statement at the accident scene, \u201cI was driving and the guy in front of me slammed on his brakes.\u201d Defendant\u2019s statement, which was clearly inculpatory, was non-hearsay (see, Matter of Rodney J., 108 AD2d 307, 311 [1985]; Matter of Christopher P., 260 AD2d 212, 213 [1999]; Matter of Todd Z., 295 AD2d 652, 653 [2002]). To the extent that the confession corroboration requirement of CPL 60.50 is properly applied in the context of this misdemeanor prosecution (compare, People v Kaminiski, 143 Misc 2d 1089 [1989], with People v Heller, 180 Misc 2d 160 [1998]; see also, Matter of Rodney J., 108 AD2d 307 [1985]), the requirement was satisfied by the information herein, which contains nonhearsay allegations based upon the arresting police officer\u2019s own observations sufficiently corroborating the occurrence of the offense (see, People v Olwes, 191 Misc 2d 275, 279-280 [2002]; see also, People v Booden, 69 NY2d 185 [1987]).\nDefendant\u2019s remaining arguments are either unpreserved for review or lacking in merit.\nSuarez, PJ., Davis and Schoenfeld, JJ., concur.",
+        "type": "majority",
+        "author": "Per Curiam."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Cravath, Swaine & Moore, New York City (Andrew C. Fine and D\u00e9sir\u00e9e Sheridan of counsel), for appellant. Robert M. Morgenthau, District Attorney, New York City (Man Gadlin, Susan Gliner, David Aaron and Meredith Boylan of counsel), for plaintiff."
+    ],
+    "corrections": "",
+    "head_matter": "[770 NYS2d 558]\nThe People of the State of New York, Respondent, v John Dolan, Appellant.\nSupreme Court, Appellate Term, First Department,\nSeptember 26, 2003\nAPPEARANCES OF COUNSEL\nCravath, Swaine & Moore, New York City (Andrew C. Fine and D\u00e9sir\u00e9e Sheridan of counsel), for appellant. Robert M. Morgenthau, District Attorney, New York City (Man Gadlin, Susan Gliner, David Aaron and Meredith Boylan of counsel), for plaintiff."
+  },
+  "file_name": "0032-01",
+  "first_page_order": 74,
+  "last_page_order": 76
+}

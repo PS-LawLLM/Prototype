@@ -1,0 +1,147 @@
+{
+  "id": 1237554,
+  "name": "The People of the State of New York, Respondent, v. Paul Reed, Appellant",
+  "name_abbreviation": "People v. Reed",
+  "decision_date": "2003-10-01",
+  "docket_number": "",
+  "first_page": "44",
+  "last_page": "46",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Misc. 3d 44"
+    },
+    {
+      "type": "parallel",
+      "cite": "768 N.Y.S.2d 541"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. App. Term",
+    "id": 8833,
+    "name": "New York Supreme Court, Appellate Term"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "369 US 506",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6169152
+      ],
+      "pin_cites": [
+        {
+          "page": "517"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/369/0506-01"
+      ]
+    },
+    {
+      "cite": "61 NY2d 9",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2345681
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "17"
+        },
+        {
+          "page": "17"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/61/0009-01"
+      ]
+    },
+    {
+      "cite": "304 US 458",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        10805
+      ],
+      "pin_cites": [
+        {
+          "page": "464"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/304/0458-01"
+      ]
+    },
+    {
+      "cite": "71 NY2d 662",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4407055
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "666"
+        },
+        {
+          "page": "666"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/71/0662-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 263,
+    "char_count": 3647,
+    "ocr_confidence": 0.777,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.04646815316259751
+    },
+    "sha256": "2412d980cd40f1c2feec09e7a01813876791cc2d4553d03c3f8ac44d44277ca3",
+    "simhash": "1:1aaf63e3dfbf8b9c",
+    "word_count": 587
+  },
+  "last_updated": "2024-02-27T19:35:05.009820+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The People of the State of New York, Respondent, v Paul Reed, Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nMemorandum.\nJudgment of conviction unanimously reversed on the law, plea vacated and matter remanded to the court below for all further proceedings.\nOn June 20, 2001, defendant was charged with, inter alia, aggravated unlicensed operation of a motor vehicle in the third degree (Vehicle and Traffic Law \u00a7 511 [1] [a]). Thereafter, on October 31, 2001, defendant pleaded guilty and was sentenced to a fine and a conditional discharge. Defendant subsequently moved to vacate his plea pursuant to CPL 220.60 or, in the alternative, vacate the judgment pursuant to CPL 440.10. On appeal from the judgment of conviction, defendant contends, inter alia, that his plea was not voluntary and knowing, and his plea allocution was insufficient.\nIn People v Lopez (71 NY2d 662 [1988]), the Court of Appeals reiterated the rule that, in order to preserve a challenge to the adequacy of a plea allocution for appellate review, a defendant must either move to withdraw his plea prior to sentence, pursuant to CPL 220.60, or move to vacate the judgment in the lower court, pursuant to CPL 440.10. The Court also noted, however, that in \u201cthat rare case . . . where the defendant\u2019s recitation of the facts underlying the crime pleaded to clearly casts significant doubt upon the defendant\u2019s guilt or otherwise calls into question the voluntariness of the plea . . . the trial court has a duty to inquire further to ensure that defendant\u2019s guilty plea is knowing and voluntary\u201d (Lopez, 71 NY2d at 666). \u201cWhere the court fails in this duty and accepts the plea without further inquiry, the defendant may challenge the sufficiency of the allocution on direct appeal\u201d (id.). Upon a review of the record herein, we find that the court below did not meet its obligation of further inquiry under Lopez and, thus, reversal of the judgment of conviction is warranted.\nThe plea and sentencing transcript reveals that defense counsel informed the court below that some of defendant\u2019s driver\u2019s license suspensions \u201cwere in his brother\u2019s name,\u201d after which the court made no further inquiry. Considering the fact that defendant was charged with aggravated unlicensed operation of a motor vehicle based on said suspensions, we find that counsel\u2019s incongruous statement clearly required further inquiry by the court inasmuch as it casts a significant doubt upon defendant\u2019s guilt or otherwise calls into question the voluntariness of the plea (see Lopez, 71 NY2d at 666). Moreover, the transcript reveals that defendant only said two words, \u201cNo\u201d and \u201cYes,\u201d during his entire plea. Although the court was not required to make a factual inquiry, the record must demonstrate that defendant\u2019s plea was made knowingly and voluntarily, and the transcript herein fails to indicate the foregoing or that he intentionally relinquished or abandoned any right or privilege (see Johnson v Zerbst, 304 US 458, 464 [1938]; People v Harris, 61 NY2d 9, 17 [1983]), and a waiver cannot be presumed from a silent record (see Carnley v Cochran, 369 US 506, 517; Harris, 61 NY2d at 17). Accordingly, defendant\u2019s plea is vacated, the judgment of conviction is reversed and the matter is remanded to the court below for further proceedings.\nPesce, EJ., Aronin and Patterson, JJ., concur.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Legal Aid Society, New York City (Andrew C. Fine and Betsy A. Hutchings of counsel), for appellant. Charles J. Hynes, District Attorney, Brooklyn (Leonard Joblove and Shulamit Rosenblum of counsel), for plaintiff."
+    ],
+    "corrections": "",
+    "head_matter": "[768 NYS2d 541]\nThe People of the State of New York, Respondent, v Paul Reed, Appellant.\nSupreme Court, Appellate Term, Second Department,\nOctober 1, 2003\nAPPEARANCES OF COUNSEL\nLegal Aid Society, New York City (Andrew C. Fine and Betsy A. Hutchings of counsel), for appellant. Charles J. Hynes, District Attorney, Brooklyn (Leonard Joblove and Shulamit Rosenblum of counsel), for plaintiff."
+  },
+  "file_name": "0044-01",
+  "first_page_order": 86,
+  "last_page_order": 88
+}

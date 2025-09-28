@@ -1,0 +1,389 @@
+{
+  "id": 1237539,
+  "name": "The People of the State of New York, Plaintiff, v. Sandy Williams, Defendant",
+  "name_abbreviation": "People v. Williams",
+  "decision_date": "2003-08-18",
+  "docket_number": "",
+  "first_page": "226",
+  "last_page": "238",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Misc. 3d 226"
+    },
+    {
+      "type": "parallel",
+      "cite": "768 N.Y.S.2d 146"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 8791,
+    "name": "New York Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "156 Misc 2d 898",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        910127
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/156/0898-01"
+      ]
+    },
+    {
+      "cite": "74 NY2d 921",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4416499
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/74/0921-01"
+      ]
+    },
+    {
+      "cite": "79 NY2d 1051",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "179 AD2d 501",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1069229
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/179/0501-01"
+      ]
+    },
+    {
+      "cite": "69 NY2d 20",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        75888
+      ],
+      "pin_cites": [
+        {
+          "page": "25"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/69/0020-01"
+      ]
+    },
+    {
+      "cite": "82 NY2d 509",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2356268
+      ],
+      "pin_cites": [
+        {
+          "page": "515"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/82/0509-01"
+      ]
+    },
+    {
+      "cite": "88 NY2d 400",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4438186
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "406"
+        },
+        {
+          "page": "409"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/88/0400-01"
+      ]
+    },
+    {
+      "cite": "79 AD2d 1013",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3239432
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/79/1013-01"
+      ]
+    },
+    {
+      "cite": "81 NY2d 893",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "187 AD2d 740",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1103086
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/187/0740-01"
+      ]
+    },
+    {
+      "cite": "238 AD2d 591",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1256936,
+        1256391
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/238/0591-01",
+        "/ad2d/238/0591-02"
+      ]
+    },
+    {
+      "cite": "90 NY2d 904",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "240 AD2d 427",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1246895
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/240/0427-01"
+      ]
+    },
+    {
+      "cite": "94 NY2d 863",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "264 AD2d 529",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        150954
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/264/0529-01"
+      ]
+    },
+    {
+      "cite": "306 AD2d 213",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        113900
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/306/0213-01"
+      ]
+    },
+    {
+      "cite": "59 AD2d 767",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3040969,
+        3057897,
+        3063950,
+        3049383
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/59/0767-04",
+        "/ad2d/59/0767-03",
+        "/ad2d/59/0767-01",
+        "/ad2d/59/0767-02"
+      ]
+    },
+    {
+      "cite": "45 AD2d 1024",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3305209,
+        3318523
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/45/1024-02",
+        "/ad2d/45/1024-01"
+      ]
+    },
+    {
+      "cite": "67 AD2d 867",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        5526280,
+        5525334
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/67/0867-02",
+        "/ad2d/67/0867-01"
+      ]
+    },
+    {
+      "cite": "52 AD2d 544",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        2981812,
+        2970148
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/52/0544-01",
+        "/ad2d/52/0544-02"
+      ]
+    },
+    {
+      "cite": "70 AD2d 544",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3156160
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/70/0544-01"
+      ]
+    },
+    {
+      "cite": "154 Misc 2d 576",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        905042
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/154/0576-01"
+      ]
+    },
+    {
+      "cite": "234 AD2d 947",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        35226
+      ],
+      "weight": 4,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/234/0947-01"
+      ]
+    },
+    {
+      "cite": "272 AD2d 627",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        2734400,
+        262546
+      ],
+      "weight": 5,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad/272/0627-01",
+        "/ad2d/272/0627-01"
+      ]
+    },
+    {
+      "cite": "89 NY2d 677",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        319985
+      ],
+      "weight": 3,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/89/0677-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1098,
+    "char_count": 28594,
+    "ocr_confidence": 0.736,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.046466801732456216
+    },
+    "sha256": "e13c9dd26ba69db23fa476d74f894420d37de533905767d16413595bd8e59d4f",
+    "simhash": "1:a8a522e81de6a1d9",
+    "word_count": 4635
+  },
+  "last_updated": "2024-02-27T19:35:05.009820+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The People of the State of New York, Plaintiff, v Sandy Williams, Defendant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nJohn Cataldo, J.\nDefendant\u2019s motion for inspection of the grand jury minutes is granted, upon consent of the People, who have submitted them for in camera review. Following the inspection, the presentation is found to be legally sufficient.\nIn this case, unlike the standard grand jury presentation, the charges against the defendant were joined with those of approximately 30 defendants. Accordingly, in light of the unusual nature of this presentation, a detailed CPL 210.35 (5) analysis follows.\nThe defendant\u2019s case was a part of a presentation labeled by the People as \u201cOperation Good Neighbor.\u201d The presentation began on February 27, 2003, with testimony by one of the detectives involved in the operation. The detective gave the grand jurors an overview of the investigation by describing the nature and scope of \u201cOperation Good Neighbor.\u201d The detective stated the operation was an investigation of narcotics activities in two housing projects in the South Bronx. It involved six or seven undercover officers and approximately 10 investigators. The undercover officers had made narcotics purchases over the preceding five months. At the time of the presentation, no arrests had been made.\nThe detective described the processes of a long-term investigation. He noted that undercover officers may make multiple buys from an individual while seeking introduction to other dealers. The detective delineated the various roles: steerer, hand-to-hand, money man, stash man, lookout and manager. The detective further informed the grand jury that a person might assume more than one role. The detective testified how the sellers\u2019 identities were established during the course of the investigation. Finally, the grand jury was informed that defendants would be arrested in \u201ctakedowns.\u201d\nAfter the detective\u2019s testimony, the cases in Operation Good Neighbor were presented to the grand jury in groups ranging from one to five defendants. The undercovers involved in the operation testified before the Term III Grand Jury on February 27th, March 5th, March 11th, March 13th, March 14th, March 19th and March 21st of 2003. During the sessions, the People distributed exhibit A to the grand jurors as an aid to the presentation. Exhibit A listed the individuals from whom controlled substances had been purchased during the operation. Often, during a session, an undercover (UC) would testify about purchases made from unrelated defendants. However, indictments were filed separately against each defendant. Thus, these were \u201cdual slip\u201d or what one might call \u201cmultiple slip\u201d presentations.\nThe issue is whether the entire proceeding, joining more than 30 defendants and offering up to five cases for a vote at one time, impaired the integrity of the proceedings. (See, People v Adessa, 89 NY2d 677 [1997]; People v Kennedy, 272 AD2d 627 [2d Dept 2000]; People v Litzenberger, 234 AD2d 947 [4th Dept 1996].)\nI noted in interim decisions issued on Operation Good Neighbor cases that in People v Raynor (154 Misc 2d 576 [Orange County Ct 1992]), the trial court had dismissed an indictment in which the evidence against codefendants was presented along with that of an unrelated third defendant. A separate indictment was filed against the third defendant. The link between defendants was that each had sold narcotics to the same undercover officer, although at different dates, times and places. The court noted the People\u2019s justification for the dual presentation was the need to expedite cases and effectively utilize the time of the grand jury. It expressed concern that under the People\u2019s theory, an unlimited number of cases against unrelated defendants could be presented to a grand jury, and in effect unfairly bolster the credibility of the witnesses. The court, in dismissing the indictment, perceived a potential for prejudice based solely on the dual presentation.\nUpon my review of the statutory and case law, I conclude that the procedure used in this case does not call for automatic dismissal of the indictment. Rather, it requires a particularized inquiry to determine if a specific defendant was potentially prejudiced. Only then would dismissal be mandated.\nI begin my analysis by noting that unlike joinder of multiple defendants in one indictment, there is no direct statutory authority relating to the joining of unrelated defendants in one presentation.\nCriminal Procedure Law \u00a7 200.40 specifies that charges involving separate defendants may not be joined in one indict- . ment for trial except in four enumerated situations. Absent one of these circumstances, upon motion by the defendant, the cases must be severed for trial. If defendants are improperly joined or consolidated for trial, and prejudice is shown, reversal of the conviction is required. (See, People v Valle, 70 AD2d 544 [1st Dept 1979]; People v Potter, 52 AD2d 544 [1st Dept 1976]; People v Spencer, 67 AD2d 867 [1st Dept 1979]; People v Banks, 45 AD2d 1024 [2d Dept 1974]; cf., People v Lopez, 59 AD2d 767 [2d Dept 1977] [disagreed with by Valle, supra].)\nIt is well established that a defendant may not be jointly tried with a codefendant when the codefendant is charged with additional unrelated sales of drugs. (See, People v Potter, supra; People v Spencer, supra; People v Banks, supra.) Narcotics activities which involve only a codefendant, or a codefendant acting with additional persons, are not related charges since they are not part of the same criminal transaction, scheme or plan, unless there is evidence of a conspiracy. Thus, such crimes fail to come within any of the exceptions for joinder listed in CPL 200.40 (1).\nThe cases relating to misjoinder of counts against a single defendant are instructive. CPL 200.20 sets forth the circumstances under which multiple criminal acts against a single defendant may be joined in one indictment. A misjoinder under subdivision (2), upon defendant\u2019s motion, will result in severance of the counts.\nAppellate courts have repeatedly held that if offenses are properly joinable under CPL 200.20, a prosecutor is entitled to present them to a single grand jury. (See, People v Colon, 306 AD2d 213 [1st Dept 2003]; People v Hemmings, 264 AD2d 529 [2d Dept 1999], lv denied 94 NY2d 863 [1999] [not improper for the People to present evidence relating to two sets of sexual abuse charges to a single grand jury panel where crimes are joinable]; People v Edwards, 240 AD2d 427 [2d Dept 1997], lv denied 90 NY2d 904 [1997] [crimes presented were joinable pursuant to CPL 200.20 (2) (b) and, thus, could properly be presented to one grand jury]; see also, Matter of Hynes v Tomei, 238 AD2d 591 [2d Dept 1997]; People v Simon, 187 AD2d 740 [2d Dept 1992], lv denied 81 NY2d 893 [1993]; Matter of Gold v Booth, 79 AD2d 1013 [2d Dept 1981].)\nI note that despite the limitations on joinder listed in CPL 200.40 (1) and 200.20 (2), more latitude to present charges exists within the grand jury presentations. (See, People v Adessa, 89 NY2d 677 [1997]; People v Litzenberger, 234 AD2d 947 [4th Dept 1996]; People v Kennedy, 272 AD2d 627 [2d Dept 2000], infra.)\nIt has been said that the People retain wide discretion in presenting evidence to the grand jury. (See, People v Huston, 88 NY2d 400, 406 [1996]; People v Mitchell, 82 NY2d 509, 515 [1993]; People v Lancaster, 69 NY2d 20, 25 [1986].)\n\u201cBecause Grand Jury proceedings are conducted by the prosecutor alone, this function confers upon the prosecutor broad powers and duties, as well as wide discretion in presenting the People\u2019s case. In addition to providing legal instruction to the Grand Jury, the District Attorney determines what evidence to present to that body and what evidence should be excluded.\u201d (Huston, supra at 406 [citations omitted].) Although, this discretion is not without limits. (Id.) Consequently, dismissal of an indictment for impairment of the integrity of a grand jury presentation is an extraordinary remedy which requires a very high and precise standard. Dismissal is only warranted when a defect creates a possibility of prejudice, though actual prejudice is not required to be shown. (Id. at 409.) The likelihood of prejudice turns on the particular facts of each presentation, including the weight and nature of the admissible proof and the degree of inappropriate prosecutorial influence or bias. (Id.)\nWhen defendants are improperly joined in one indictment, a severance would ensure a fair trial. However, the law calls for a further analysis concerning the integrity of the grand jury proceeding itself. Dismissal of the indictment is required if the reviewing court finds the joint presentation created the potential for prejudice which impaired the integrity of the proceedings. See discussion of People v Litzenberger (234 AD2d 947 [1996]) and People v Kennedy (272 AD2d 627 [2000], infra). In that circumstance, dismissal, with leave to re-present, would be the appropriate remedy.\nIn People v Adessa (89 NY2d 677 [1997], supra), the Court of Appeals addressed the novel question of the propriety of a \u201cdual slip\u201d presentation. The grand jury considered cross accusations against a police officer and civilian. The People sought an indictment against the defendant for reckless endangerment, menacing and other offenses. The grand jury was also charged with investigating the police officer\u2019s shooting of the defendant. The Adessa court framed the issue as one of potential prejudice against a civilian by a grand jury that was jointly considering police misconduct and the charges against the civilian. The Court found it was not inherently prejudicial and did not dismiss the indictment against the citizen defendant.\nThe facts in Adessa were, in substance, that police officers patrolling in an unmarked car observed the defendant\u2019s vehicle speeding out of a gas station, hitting another car, and nearly striking a security guard. The officers gave chase and eventually the defendant exited his car with a baseball bat and moved in the officers\u2019 direction. One officer fired his gun and defendant was hit in the legs and buttocks. Defendant fled and was eventually arrested by other officers at a hospital.\nThe Court stated that \u201c[a]bsent a breach of a statutory command or some indication of likely prejudice, there is no legal basis for interfering with the prosecutor\u2019s prerogatives in determining the manner in which a Grand Jury presentment is made.\u201d (Id. at 682.) Although the Court did not find a likelihood of prejudice, it went on to state:\n\u201cWe stress that our holding in this case should not be construed as a blanket approval of the practice of submitting criminal charges against citizens and cross complaints against police officers to the same Grand. Juries. We recognize that there may be situations in which such a practice could undermine the fairness of the proceeding and lead to palpable prejudice for the accused.\u201d (Id. at 684.)\nWhile the Adessa court rejected defendant\u2019s enumerated claims of prejudice, it reiterated that CPL 210.35 (5) does not require a showing of actual prejudice. Instead, \u201cthere must be an articulable \u2018likelihood of or at least \u2018potential for\u2019 prejudice (see, People v Huston, supra, at 409).\u201d (Id. at 686.)\nAs previously noted, this presentation involved some defendants whose cases were unrelated. Their commonality was the allegation that the defendants sold cocaine, crack, heroin or other controlled substances to undercover officers who were involved in a long-term operation in two housing projects.\nIn People v Litzenberger (234 AD2d 947 [1996], supra) and People v Kennedy (272 AD2d 627 [2000], supra), the Courts addressed the issue of when a CPL 210.35 (5) dismissal would be appropriate for joinder of unrelated defendants during a single grand jury presentation.\nIn Litzenberger, the defendant was indicted for rape and sodomy in a grand jury presentation in which another defendant was charged with having separately committed crimes against the same child victim. The Court noted that the joinder of the both in one indictment had been improper, but found severance of the cases for trial had cured that error. As to defendant\u2019s claim of impairment of the grand jury proceeding itself, the Court held the joinder had not met the very precise and high test for dismissal for impaired integrity. The Court pointed out that the evidence against each defendant in the grand jury presentation was neither insufficient nor disproportionate, and that the grand jury had been properly instructed to treat the evidence against each defendant separately.\nIn People v Kennedy (272 AD2d 627 [2000], supra), the Court reversed a trial court dismissal of an indictment for misjoinder of defendants. In Kennedy, the defendants, two correction officers, were charged with assaulting an inmate at a correctional facility. At the same presentation, evidence of a distinct assault against the inmate on the same day by different correction officers was presented for indictment. The Second Department found the defendants had failed to demonstrate potential prejudice to the ultimate decision reached by the grand jury. The Court noted that the evidence as to each incident was not so intertwined as to confuse the grand jurors. Additionally, the Court pointed out that the evidence against the defendants was neither insufficient nor disproportionate to that presented against the other officers involved in the separate assault. Moreover, the grand jurors had been instructed to consider the evidence separately against the officers involved.\nThese cases set forth some of the factors that should be considered when reviewing a presentation of unrelated defendants\u2019 cases to a single grand jury. It is evident that in the circumstances of this presentation, each case must be separately examined for potential prejudice.\nAnother question presented is whether the potential for prejudice should be evaluated in respect to all of the cases presented or should each session be evaluated in isolation? Since the People have linked all of the cases in one presentation, they must all be reviewed under the prejudice analysis. The greatest possibility for prejudice might occur during the testimony of the undercover who testifies against this specific defendant as well as against other defendants whose cases were presented for a vote at the end of that undercover\u2019s testimony. This is when the potential for confusion, disproportionate proof, or bolstering of credibility is at its greatest.\nThe People argue that the manner of this presentation avoided time-consuming and repetitive testimony. While the People are likely correct that some time was saved by this proceeding, if potential prejudice resulted, expediency will not justify the system used.\nThat these 30 or so individuals were alleged to have sold drugs of various kinds over a period of five months in two public housing projects does not make them related in law. Related means acting in concert or engaging in sales as part of a conspiracy, not merely committing similar crimes over a period of time in one neighborhood. I reject the People\u2019s justification that all these cases are related. The People\u2019s argument might lead to shortsighted presentations which create the potential for prejudice.\nOn the other hand, it would be a mere pronouncement, neither logical nor legally correct, to say that the number of presentations in Operation Good Neighbor, or the number testified to in any one session, constitute by themselves potential prejudice. Rather, one is to look to the testimony of witnesses, the instructions provided to the grand jury and the participation through questions by the grand jury. Only in this manner, it can be determined if there was a likelihood of prejudice by either the sheer number of cases presented or the manner in which they were presented.\nIn this presentation, the grand jury was repeatedly told that only testimony was evidence. Further, they were told that some exhibits provided were not evidence and were not to be relied upon. Those exhibits were a guide only to the charges presented and persons against whom they were presented. They did not constitute evidence. The exhibits were a menu of items, not a comment on substantive issues.\nThe grand jury was also told about the various roles played by drug sellers, e.g., hand-to-hand, stash man, manager, etc. However, they were also advised that a person might operate individually. Thus, while the opening presentation was wide-ranging, it was balanced by a caution that not all cases being presented involved these individual roles and participants. Distinctions were made and cautions were given to guide the grand jury during its deliberations.\nThe grand jury was educated about other matters. In the opening of the presentation, the distinction between a long-term operation and buy and bust operation was noted. The reasons for employing one method over another in a particular situation were explained. The grand jurors were told that in some cases complaints about drug activity came from the community. The notice served to make a distinction between some citizens of the community and others who were alleged to have engaged in narcotics activity. In other words, no individual or community was painted with the broad brush-stroke of illegality. (See, People v Martinez, 179 AD2d 501 [1st Dept 1992], lv denied 79 NY2d 1051 [1992].) The grand jurors were told about the assignment of John Doe names and methods subsequently used to establish true identity. It was explained that the arrest or \u201ctakedown\u201d process was accomplished in two stages. The instructions and background information provided a framework within which testimony could be analyzed objectively. It prevented speculation and conjecture by the grand jury.\nThe grand jurors were reminded on more than one occasion that this information could be explained again if they needed it to assist in deliberations. Jurors were also given numerous opportunities to ask questions of a witness or to inquire into the methods of investigations. Further, my review of the testimony of each witness disclosed no instances of generalizations, over-broad characterizations or an invitation to the grand jury to engage in speculation.\nThe response by the grand jury to the testimony and the instructions, and any question it posed, could provide evidence of the likelihood of prejudice. There is nothing in their inquiries or responses which demonstrated confusion, speculation or anything else which could give rise to potential bias.\nHaving now reviewed Mr. Williams\u2019 case for potential prejudice, I find the manner of the presentation did not impair the integrity of the proceedings as to the charges presented against this defendant.\nThe case of this defendant, Sandy Williams, was presented at two different sessions before the grand jury on March 5, 2003. At the first session, defendant\u2019s case was presented for a vote along with that of two other defendants. At the second session, defendant\u2019s case was presented for vote along with that of four other defendants.\nMr. Williams is charged in a nine-count indictment with five sales of cocaine, four of them near school grounds. During the first of the two sessions on March 5, 2003, evidence as to counts one, two and three, involving two sales, was presented against the defendant. Both sales involved cocaine sold to UC No. 4996 on November 22nd and November 27th. During the sale of November 27, 2002, the undercover stated he called and arranged to meet JD \u201cA\u201d but this defendant was at the location when he arrived. The defendant was asked where\u2019s \u201cA\u201d and replied \u201cHe had something to do, what do you need?\u201d After the sales involving Mr. Williams, the undercover testified as to five sales by JD \u201cA.\u201d This defendant was not involved in any of these sales which occurred on different dates and locations from defendant\u2019s offenses. In four of the sales, JD \u201cA\u201d acted alone, in one he acted with another JD (as to whom no charges were presented for vote). Thereafter, the undercover testified as to five sales by JD \u201cB,\u201d in which he acted alone on each occasion, and which had no relationship to either this defendant or JD \u201cA.\u201d\nI note that the testimony by the undercover as to the whereabouts of JD \u201cA\u201d did not give rise to potential prejudice as it explained the undercover\u2019s conduct in arriving at the scene. However, the joinder with the five separate sales by JD \u201cA\u201d and the five sales by JD \u201cB\u201d must be further examined.\nDuring the second session of Operation Good Neighbor cases on March 5, 2003, evidence as to the conduct underlying counts four through nine was presented. The defendant\u2019s case was presented along with those of four other defendants and one additional individual against whom charges were not presented. The undercover, No. 4371, testified regarding sales by the defendant on January 18, 2003, January 21, 2003, and January 24, 2003. UC No. 4371 mentioned he had purchased drugs from Mr. Williams before January 18th, but no details of uncharged narcotic activity were elicited. On January 18th, the defendant acted alone. On January 21st, it was alleged he acted with defendant JD \u201cC.\u201d On January 23rd, a purchase was made from JD \u201cC\u201d alone. Mr. Williams\u2019 presence was noted but there was no testimony about criminal activity. JD \u201cC\u201d and UC No. 4371 went inside a store where a.sale occurred. The defendant was not involved in this sale. On January 24th, the undercover purchased cocaine from the defendant and JD \u201cC.\u201d Additional charges were sought as to the other defendants. In all the testimony about 13 sales were presented, 3 of which involved the defendant.\nAs can be seen, the two sessions of the presentation on March 5th involved nine individuals, including the defendant, and a total of 24 sales to the undercovers, 5 of which involved this defendant. At both sessions, the People handed out exhibit A which lists all alleged sales in the operation as a tool.\nPrior to the March 5th presentations, the only other Operation Good Neighbor cases presented were on February 27, 2003. At that time charges against two other defendants were voted.\nIn this case, since the defendant sometimes acted alone, at other times acted with JD \u201cC,\u201d and in one case arrived in place of JD \u201cA,\u201d the testimony concerning roles given at the commencement of the presentation was appropriate.\nFurther, evidence as to each count against this defendant was not merely legally sufficient but was well developed and plainly set forth before the grand jury. His activities were not so intertwined with the other defendants to cause grand juror confusion as to the activities which related to him. His involvement in each count was clear, either when he acted alone or when he acted with JD \u201cC.\u201d This was not a case where his behavior was equivocal. When he acted with JD \u201cC\u201d in two of the sales, he was either involved in the negotiations or the transfer of the narcotics. Thus, the evidence was not disproportionate. Additionally, I note that the Assistant District Attorneys and the witnesses never made any \u201csafe street\u201d type arguments or statements and never referred to the defendant as being part of a narcotics organization.\nAccordingly, upon a review of the evidence against this defendant and the manner in which his case was combined with both related defendants and unrelated defendants, I conclude that the grand jury presentation did not impair the integrity of the proceedings and did not rise to the level of potential prejudice. Defendant\u2019s motion to dismiss the indictment is denied.\nI remind the People that use of this method of joinder could imperil future indictments if not properly administered. Additionally, as the legal instructors of the grand jurors, the prosecutor should be scrupulous and even repetitive in giving the grand jury proper limiting instructions and guidance so it can properly evaluate the evidence as to each defendant. The grand jurors should be reminded at each session to consider the evidence separately as to each defendant.\nAs to defendant\u2019s further motions in his omnibus papers, I rule as follows:\nAlthough the People served identification notice pursuant to CPL 710.30, they contend the identification procedures, both by photographs and on the street, were \u201cconfirmatory.\u201d An inquiry, including a hearing if necessary, is ordered to determine whether the identification was confirmatory. (.People v Wharton, 74 NY2d 921 [1989].) If it is found not to have been confirmatory, a Wade hearing is ordered.\nDefendant\u2019s motion for a bill of particulars and discovery is granted to the extent of the information provided by the People in the answering affirmation. The People refer to information provided in their voluntary disclosure form (VDF); however, the court file does not contain a VDF. The People are ordered to file a VDF with the court. The People are to turn over to defendant copies of all field tests, laboratory reports, and related vouchers, and as well any photographs which they intend to introduce at trial, if they have not yet supplied these materials to the defense. Defense counsel may reargue the need for any specific item not provided by the People.\nDefendant\u2019s motion for a Sandoval/Ventimiglia hearing is referred to the trial court.\nDecision on defendant\u2019s request that he be permitted to make any and further motions as may be necessary based on information and disclosure which may result from the granting of requests made in defendant\u2019s motion is reserved until such time as defendant actually seeks to make such a motion.\n. Exhibit A is a six-page document which lists the dates of each incident, the time, the John Doe name given to the person involved, the actual names (where known), the undercover officer\u2019s number involved in the purchase, the location of the purchase, and the type of drug involved. There are approximately 190 sales listed, although some are likely duplicates where more than one defendant was involved in a sale. Approximately 60 John Doe (JD) names and 32 actual names are set forth. This exhibit is not attached to this decision as some of the individuals may not as yet have been arrested; however, it is incorporated herein by reference. In addition to exhibit A, a second exhibit is given out as an aid at each individual session. This exhibit was specific to the charges being voted at that session.. It listed the John Doe names, the actual names and the dates relating to each charge upon which an indictment was sought. The grand jurors were reminded that these exhibits were not evidence.\n. However, there might occur a situation where multiple presentations give rise to a general potential prejudice and prevent a grand jury from properly deliberating on legal sufficiency and reasonable cause. In this presentation, where at most five defendants\u2019 cases were voted at one time, I do not find the indictments should be dismissed per se. Nevertheless, there may be certain crimes or situations in which the manner in which particular crimes are committed, such that single presentations against different defendants become per se prejudicial, e.g., unrelated home invasions or acts of terrorism, etc.\n. CPL 200.40 (1) states: \u201cTwo or more defendants may be jointly charged in a single indictment provided that: (a) all such defendants are jointly charged with every offense alleged therein; or (b) all the offenses charged are based upon a common scheme or plan; or (c) all the offenses charged are based upon the same criminal transaction as that term is defined in subdivision two of section 40.10; or (d) if the indictment includes a count charging enterprise corruption . . . .\u201d For further discussion of what constitutes a single criminal transaction or a common scheme or plan see, e.g., People v Kaatsiz (156 Misc 2d 898 [Sup Ct, Kings County 1992]).\n. This instruction was important because the exhibit listed some crimes which were not presented to this grand jury. Additional Operation Good Neighbor cases were presented at the next term of the grand jury, and some may remain outstanding.\n. The JD names in this decision have all been changed as this court is not aware of which defendants have been arrested and which defendants remain at liberty.",
+        "type": "majority",
+        "author": "John Cataldo, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Neville O. Mitchell, New York City, for defendant. Bridget G. Brennan, Special Prosecutor, New York City (Lawrence G. Lee and Abigail Margulies of counsel), for plaintiff."
+    ],
+    "corrections": "",
+    "head_matter": "[768 NYS2d 146]\nThe People of the State of New York, Plaintiff, v Sandy Williams, Defendant.\nSupreme Court, New York County,\nAugust 18, 2003\nAPPEARANCES OF COUNSEL\nNeville O. Mitchell, New York City, for defendant. Bridget G. Brennan, Special Prosecutor, New York City (Lawrence G. Lee and Abigail Margulies of counsel), for plaintiff."
+  },
+  "file_name": "0226-01",
+  "first_page_order": 214,
+  "last_page_order": 226
+}

@@ -1,0 +1,141 @@
+{
+  "id": 1237531,
+  "name": "The People of the State of New York, Plaintiff, v. Jane M. Locke, Defendant",
+  "name_abbreviation": "People v. Locke",
+  "decision_date": "2003-08-29",
+  "docket_number": "",
+  "first_page": "482",
+  "last_page": "486",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Misc. 3d 482"
+    },
+    {
+      "type": "parallel",
+      "cite": "765 N.Y.S.2d 468"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Watertown City Ct.",
+    "id": 9253,
+    "name": "Watertown City Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "71 NY2d 376",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4407597
+      ],
+      "pin_cites": [
+        {
+          "page": "382"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/71/0376-01"
+      ]
+    },
+    {
+      "cite": "38 AD2d 474",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        5597098
+      ],
+      "pin_cites": [
+        {
+          "page": "477"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/38/0474-01"
+      ]
+    },
+    {
+      "cite": "289 JAMA 2835",
+      "category": "journals:journal",
+      "reporter": "JAMA",
+      "opinion_index": 0
+    },
+    {
+      "cite": "183 Misc 2d 50",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        156742
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/183/0050-01"
+      ]
+    },
+    {
+      "cite": "185 Misc 2d 765",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        1140353
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "771"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/185/0765-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 459,
+    "char_count": 8303,
+    "ocr_confidence": 0.759,
+    "pagerank": {
+      "raw": 9.369130595172464e-08,
+      "percentile": 0.5145647487556224
+    },
+    "sha256": "fd0348cac7d323f92e0aa9bdd031a52fff5bd8a82673b8d4c7c51abf188f4727",
+    "simhash": "1:320375ca7a2403b9",
+    "word_count": 1487
+  },
+  "last_updated": "2024-02-27T19:35:05.009820+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The People of the State of New York, Plaintiff, v Jane M. Locke, Defendant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nJames C. Harberson, J.\nFacts\nThe defendant was charged with operating her vehicle on May 29, 2003 in the City of Watertown without wearing a seat belt under Vehicle and Traffic Law \u00a7 1229-c (3-a).\nOfficer Charles Donoghue stated in his supporting deposition of June 1, 2003 that he \u201csaw that the defendant was wearing the lap portion of the seatbelt, but the shoulder strap was going under the defendant\u2019s left arm and across her abdominal area.\u201d He said the defendant told him she wore the seat belt in that manner \u201cbecause the seatbelt bothers her neck.\u201d Officer Donoghue concluded \u201c[S]he was cited for improper wear [sic] of her seatbelt.\u201d Officer Donoghue wrote on the simplified traffic information at the space titled description of violation \u201cno seat-belt \u2014 driver (not properly worn)\u201d and listed the violation under Vehicle and Traffic Law \u00a7 1229-c (3-a).\nThe defendant appeared in court on June 5, 2003 and objected to the ticket because she felt she had complied with the law in the manner she wore the seat belt strap under her arm rather than over her shoulder.\nDecision\nIn 2002 the Legislature enacted Vehicle and Traffic Law \u00a7 1229-c (3-a) (L 2002, ch 546, \u00a7 1) in response to two decisions: People v Widrick (185 Misc 2d 765 [2000]) and People v Cucinello (183 Misc 2d 50 [1999]).\nVehicle and Traffic Law \u00a7 1229-c (3-a) states that \u201cit shall be a violation of this section if a person is seated in a seating position equipped with both a lap safety belt and a shoulder harness belt and such person is not restrained by both such lap safety belt and shoulder harness belt.\u201d It is noted Vehicle and Traffic Law \u00a7 1229-c (1), (2) and (3) all refer to a vehicle occupant being \u201crestrained\u201d by a safety seat or seat belt.\nVehicle and Traffic Law \u00a7 1229-c (1) requires all children under the age of four to be \u201crestrained in a specially designed seat\u201d and Vehicle and Traffic Law \u00a7 1229-c (7) exempts from seat belt use one \u201cwhose physical disability would prevent appropriate restraint in such safety seat or safety belt provided.\u201d\nIn People v Widrick this court pointed out that some drivers \u201celected to use the shoulder harness safety belt in a fashion that was comfortable for them by placing it under their arm\u201d (id. at 771). This court went on to say that \u201c[t]hese practices of the defendants reflect the same choice many people make because the \u2018one size fits all\u2019 shoulder harness strap based on a person\u2019s physical characteristics either crosses over the neck, throat, or cheek and/or under the chin, or fits so snugly that it is too tight to be comfortable, or so loosely that the shoulder harness safety belt hangs free leaving a gap between the person and the shoulder strap, [and] [t]he normal reaction of an American citizen is to reheve the discomfort of the shoulder harness safety belt strap by crossing it under the arm\u201d (id. at 771).\nOne of the \u201cone size fits all\u201d drawbacks was the subject of an article in the Watertown Daily Times on July 28, 2003 addressing the need for the use of booster seats for those not required to be placed in child safety seats: \u201c[c]ar seats belts are designed to fit the average adult man. When you place a child in an adult belt, the shoulder portion hits the child\u2019s face or neck and the lap portion rides over his abdomen\u201d (id. at 38, col 1). The article refers to a June 2003 report in the Journal of the American Medical Association (JAMA). The authors of the JAMA report stated that \u201cthe objective of this study was to assess the relative effectiveness of belt-positioning booster seats compared with seat belts alone in reducing risk of injury to children 4 to 7 years of age.\u201d (Durbin, Elliott and Winston, Belt-Positioning Booster Seats and Reduction in Risk of Injury Among Children in Vehicle Crashes, 289 JAMA 2835 [2003].)\nThe JAMA report said that the consequence of this poor positioning of the seat belt over a child four to seven years of age is injuries to the child\u2019s \u201cintra-abdominal [area] and spinal cord injuries, also known as the \u2018seat belt syndrome\u2019 \u201d (id.) when there is an accident.\nIn this case the issue is whether the driver who placed the upper strap under her arm violated Vehicle and Traffic Law \u00a7 1229-c (3-a). The statute clearly states a violation of the section occurs when \u201ca person is seated in a seating position equipped with both a lap safety belt and a shoulder harness belt and such person is not restrained by both such lap safety belt and shoulder harness belt.\u201d\nAs \u201cVehicle and Traffic Law \u00a7 1229-c [(3-a)] is an act which is malum prohibitum being a regulatory law\u201d (Widrick at 769) and \u201c[a]s it is now worded the statute fails in its wording to give an \u2018unequivocal warning\u2019 that the defendant [\u2019s] conduct not malum in se violates [section 1229-c (3-a) of] the Vehicle and Traffic Law (Matter of Asheroff v Parking Violations Bur., 38 AD2d 474, 477 [1972], supra)\u201d (People v Widrick, supra at 771), the court finds that the defendant\u2019s placement of the top belt under her arm so long as it crosses over the front of her torso and is connected \u201csuch person is restrained by both such lap . . . and shoulder . . . belt.\u201d This is because the plain wording of the statute required her to be \u201crestrained\u201d by both belts, not that the top belt be placed over or under her arm. In either location, once this top belt is secured it will \u201crestrain\u201d the upper body of the person wearing it.\nIn fact, when the top belt is placed under the arm then all persons so secured are equally protected. This would not be the case of people at either end of the height spectrum where the length of their torso results in these \u201cone size fits all\u201d top belts either crossing too high above the shoulder (short stature) or too low so as to cross below it over the upper arm of those of a tall stature.\nThe goal of seat belts is to protect one from injuries if there is an accident and it is clear that the use of seat belts that restrain the user is all the statute requires. The officer\u2019s conclusion that a seat belt must be worn \u201cover the shoulder\u201d to be \u201cproperly worn\u201d to comply with the statute is not supported by the wording of the statute nor with the fact that in the case of child users four to seven the \u201cover the shoulder\u201d position of the belt which causes it to run over their \u201cface or neck\u201d fails to protect them in the case of an accident according to the JAMA report.\nIf the top portion of the seat belt should be worn \u201cover the shoulder\u201d to comply with the law which now only requires it to be worn so a person is \u201crestrained\u201d by both the lap and shoulder belt, to comply with the clear wording of the statute the Legislature should so word the statute to say where the top belt should be placed to restrain the user to prevent the injuries the belts were designed to protect against. It is clear that \u201cover the shoulder\u201d position does not do this in children ages four to seven nor could it in the case of people too short or too tall for the top strap to cross over the same shoulder area where it might on the \u201caverage adult male.\u201d\nIt is incumbent upon the Legislature to reword the statute to make it certain whether the top belt should be worn over the shoulder or under it (under the arm) to properly comply with the statutory mandate so as to \u201cprovide sufficient notice of what conduct is prohibited [and] second . . . not [to] be written in such a manner as to permit or encourage arbitrary and discriminatory enforcement.\u201d (People v Bright, 71 NY2d 376, 382 [1988].)\nIn this case the lack of wording in the statute to indicate whether the top strap should be worn over or under the shoulder \u2014 under the arm \u2014 fails \u201c \u2018to give a person of ordinary intelligence fair notice that [her] . . . conduct is forbidden by the statute\u2019 \u201d {id. at 383-384) and provides \u201cobjective standards to guide those enforcing the laws [so as not to allow] police to make arrests based upon their own personal, subjective idea of right and wrong\u201d (id. at 383).\nThe charge against the defendant is dismissed.",
+        "type": "majority",
+        "author": "James C. Harberson, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Jane M. Locke, defendant pro se. Cindy Foote-Intschert, District Attorney, Watertown (Matthew Goettel of counsel), for plaintiff."
+    ],
+    "corrections": "",
+    "head_matter": "[765 NYS2d 468]\nThe People of the State of New York, Plaintiff, v Jane M. Locke, Defendant.\nCity Court of Watertown,\nAugust 29, 2003\nAPPEARANCES OF COUNSEL\nJane M. Locke, defendant pro se. Cindy Foote-Intschert, District Attorney, Watertown (Matthew Goettel of counsel), for plaintiff."
+  },
+  "file_name": "0482-01",
+  "first_page_order": 470,
+  "last_page_order": 474
+}

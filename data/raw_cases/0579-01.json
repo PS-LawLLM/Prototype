@@ -1,0 +1,138 @@
+{
+  "id": 1237526,
+  "name": "William P. Niver, Claimant, v. State of New York, Defendant",
+  "name_abbreviation": "Niver v. State",
+  "decision_date": "2003-08-14",
+  "docket_number": "Claim No. 106770",
+  "first_page": "579",
+  "last_page": "585",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Misc. 3d 579"
+    },
+    {
+      "type": "parallel",
+      "cite": "770 N.Y.S.2d 577"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Ct. Cl.",
+    "id": 9160,
+    "name": "New York Court of Claims"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "27 NY2d 79",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2297261
+      ],
+      "pin_cites": [
+        {
+          "page": "85"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/27/0079-01"
+      ]
+    },
+    {
+      "cite": "37 NY2d 591",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2319017
+      ],
+      "pin_cites": [
+        {
+          "page": "595"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/37/0591-01"
+      ]
+    },
+    {
+      "cite": "276 AD2d 918",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        539715,
+        2807910,
+        2813223,
+        2812551,
+        2813330,
+        2810901,
+        2815548
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "918"
+        },
+        {
+          "page": "919"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/276/0918-01",
+        "/ad/276/0918-02",
+        "/ad/276/0918-04",
+        "/ad/276/0918-05",
+        "/ad/276/0918-06",
+        "/ad/276/0918-03",
+        "/ad/276/0918-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 739,
+    "char_count": 14224,
+    "ocr_confidence": 0.781,
+    "pagerank": {
+      "raw": 5.4033266686372354e-08,
+      "percentile": 0.3385485022485867
+    },
+    "sha256": "77e4f609c9f947f379d7239367d044ff2c09d7cceab6ad8ac4ba056df6b0ba24",
+    "simhash": "1:af6927a488156d30",
+    "word_count": 2263
+  },
+  "last_updated": "2024-02-27T19:35:05.009820+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "William P. Niver, Claimant, v State of New York, Defendant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nFerris D. Lebous, J.\nThe defendant State of New York moves to dismiss this claim on the grounds it fails to comply with the statutory pleading requirements of Court of Claims Act \u00a7 8-b relative to unjust conviction claims. More specifically, the sole basis of the State\u2019s motion is the contention that a youthful offender adjudication cannot support an unjust conviction claim pursuant to Court of Claims Act \u00a7 8-b. Claimant opposes the motion.\nA review of the underlying facts is warranted here even though a detailed factual recitation is set forth in the opinion of the State of New York Supreme Court, Appellate Division, Third Judicial Department. (People v William EE., 276 AD2d 918 [2000].) This claim arises from an incident which occurred on October 9, 1997 in the Village of Montour Falls, Schuyler County, New York. Schuyler County Sheriff Deputies John Pierce and Michael Ruocco responded to a domestic incident call involving claimant and his girlfriend. Upon arriving at the scene, Schuyler County Sheriff Deputies Pierce and Ruocco began questioning the principals, as well as neighbors. Soon thereafter, Deputy Pierce\n\u201crequested that [claimant] come from around a fence so that they could talk without distractions. [Claimant] complied. At this time, [claimant] was specifically told that he was not under arrest and that Pierce just \u2018wanted to talk to him.\u2019 When [claimant] approached the patrol car, Pierce opened its back door and requested that [claimant] get inside. [Claimant] responded that \u2018he wasn\u2019t going to get into the car because [Pierce] had no reason to arrest him.\u2019 Pierce repeated his claim that [claimant] was not going to be arrested, specifically told [claimant] that he had no grounds to arrest him and repeated his desire to simply talk to him in the car. [Claimant] became increasingly upset and began yelling that \u2018he didn\u2019t do anything\u2019 and that Pierce did not \u2018have any right to arrest him.\u2019 \u201d (People v William EE., 276 AD2d at 918.)\nSoon thereafter the deputies believed claimant was attempting to run so they grabbed his shirt from behind and forced him to the ground. During this physical altercation each deputy injured a finger. As a result, claimant was indicted on two counts of assault in the second degree and resisting arrest. (Penal Law \u00a7 120.05 [3]; \u00a7 205.30.) At the time of this incident, claimant was 17 years old, born on October 29, 1979.\nThe facts and timeline relative to the subsequent legal proceedings with respect to this matter are undisputed. After a jury trial, claimant was found guilty on the two assault charges but acquitted on the resisting arrest charge. According to the \u201csentence & commitment\u201d statement, claimant received consecutive sentences of 90 days on each count. Notably, however, claimant was found to be a youthful offender and his conviction was vacated and replaced by a youthful offender adjudication pursuant to CPL 720.20 et seq. Claimant was incarcerated from March 10, 1999 through April 5, 1999 in the Schuyler County Jail for a total of 27 days.\nOn October 26, 2000, the Third Department reversed the judgment finding \u201cthat there was legally insufficient evidence that defendant intended to prevent a police officer from performing a lawful duty necessary to support his convictions for assault in the second degree.\u201d (People v William EE., 276 AD2d at 919 [citations omitted].) More specifically, the Third Department determined that claimant\u2019s \u201cconduct in doing that which he was legally entitled to do \u2014 refusing to get into the patrol car \u2014 did not give the Deputies reasonable suspicion to detain him or constitute an intention on his part to interfere with their investigation.\u201d (Id.) The judgment was reversed, on the law, and the indictment dismissed.\nThis claim was filed with the clerk of the court on October 10, 2002 and served on the Office of the Attorney General on October 15, 2002 by certified mail, return receipt requested. The State filed a verified answer on November 25, 2002 which contained, among other things, two affirmative defenses directed to the insufficiency of the claim under Court of Claims Act \u00a7 8-b and the inapplicability of said statute in light of claimant\u2019s youthful offender adjudication.\nThe State\u2019s position on this motion is that it is legally impossible for claimant to establish that he has been convicted as required by Court of Claims Act \u00a7 8-b, because his conviction was vacated and replaced by a youthful offender adjudication pursuant to the CPL.\nIn opposition, claimant does not deny the apparent incongruity of these statutory provisions, but instead emphasizes that Court of Claims Act \u00a7 8-b must be construed to include youthful offenders such as claimant since a conviction is a necessary prerequisite for a youthful offender adjudication. Further, claimant argues that despite his youthful offender adjudication he still suffered the indignities of an unjust conviction inasmuch as he was \u201c[c]harged, tried and convicted in a public trial of a felony offense [and] was incarcerated in an adult facility and subject to the same deprivations, indignities and humiliation as any other prisoner.\u201d (Affirmation of Daniel J. Fitzsimmons, Esq. 1110.)\nDiscussion\nThe sole question before this court is whether a youthful adjudication serves as a proper foundation for a cause of action under Court of Claims Act \u00a7 8-b. For the reasons that follow, this court finds that it does.\nAt issue here is the portion of Court of Claims Act \u00a7 8-b, the unjust conviction statute, which requires that\n\u201c[i]n order to present the claim for unjust conviction and imprisonment, claimant must establish by documentary evidence that:\n\u201c(a) he has been convicted of one or more felonies or misdemeanors against the state and subsequently sentenced to a term of imprisonment, and has served all or any part of the sentence ...\u201d (Court of Claims Act \u00a7 8-b [3] [a]; emphasis added).\nThe legislative purpose underlying the passage of Court of Claims Act \u00a7 8-b provides compelling guidance for a resolution of the issue before this court by expressly stating as follows:\n\u201c[t]he legislature finds and declares that innocent persons who have been wrongly convicted of crimes and subsequently imprisoned have been frustrated in seeking legal redress due to a variety of substantive and technical obstacles in the law and that such persons should have an available avenue of redress over and above the existing tort remedies to seek compensation for damages.\u201d (Court of Claims Act \u00a7 8-b [1].)\nSuch purpose is further expounded upon in the Report of the Law Revision Commission to the Governor on Redress for Innocent Persons Unjustly Convicted and Subsequently Imprisoned (hereinafter Law Revision Report) which clearly stresses the goal of providing a remedy for unjust convictions in recognition of the \u201cdeprivation and humiliation that such persons suffer.\u201d (1984 McKinney\u2019s Session Laws of NY, at 2902.)\nThe State argues these legislative goals of Court of Claims Act \u00a7 8-b will not be impeded by excluding unjustly convicted youthful offenders from this statute, because youthful offenders do not suffer in the same manner as unjustly convicted adults due to the various benefits available to youthful offenders, such as vacating and replacing the conviction, as well as a continuing eligibility to hold public office, receive any licenses, and the sealing of related records. (CPL 720.35 [1], [2].)\nThis court finds unavailing the State\u2019s attempts to minimize the harm suffered by this claimant or any other youthful offender ultimately determined to have been unjustly convicted and subsequently imprisoned. Youthful offender status was created with the specific purpose of saving eligible youths from the lifelong stigma and adverse consequences that necessarily flow from a criminal conviction stemming from \u2014 for lack of a better phrase \u2014 a youthful indiscretion (People v Cook, 37 NY2d 591, 595 [1975]) and, as such, certain procedures were put in place to achieve this goal. For instance, the youthful offender procedure dictates, among other things, that \u201c[u]pon determining that an eligible youth is a youthful offender, the court must direct that the conviction be deemed vacated and replaced by a youthful offender finding . . .\u201d (CPL 720.20 [3]). While CPL 720.35 (1) expressly provides that \u201c[a] youthful offender adjudication is not a judgment of conviction for a crime or any other offense . . .,\u201d nevertheless, it is well settled that the youthful offender procedure is at its core a criminal process whereby an individual is charged, tried, and convicted as any adult would be under the law, but which provides a court an alternative sentencing option. (People v Michael A.C., 27 NY2d 79, 85 [1970].) In other words, the benefits of a youthful offender adjudication flow to an individual only after being arrested, charged, tried and convicted as any criminal defendant. Here, claimant was charged, tried and convicted in a public trial of a felony offense and incarcerated in an adult facility for 27 days. Although claimant\u2019s conviction was vacated and substituted with adjudication as a youthful offender, any argument that he has not suffered \u201cdeprivation and humiliation\u201d must fail in view of the entire underlying criminal process and conviction preceding his eligibility for youthful offender treatment and ultimate adjudication.\nMoreover, the court rejects the State\u2019s attempt to describe unjustly convicted adults, as opposed to unjustly convicted youthful offenders, as forever laboring under various legal disabilities caused by such conviction. To the contrary, any legal disabilities caused by a later reversed conviction will ultimately be removed for the adult as well, albeit a significant period of time later as compared to the youthful offender who receives such benefits immediately upon sentencing. In and of itself, however, the immediacy of said benefit of youthful offender adjudication should not extinguish an otherwise viable unjust conviction cause of action for a youthful offender later determined to have been unjustly convicted and subsequently imprisoned, although it may well have some relevance on the issue of damages.\nAlso, the court notes that deeming the term \u201cconviction\u201d to include a youthful offender under limited circumstances is not a novel concept. For instance, CPL 390.15 (1) (b), relating to mandatory HIV testing in certain cases, provides that \u201cthe terms \u2018defendant\u2019, \u2018conviction\u2019 and \u2018sentence\u2019 mean and include, respectively, an \u2018eligible youth,\u2019 a \u2018youthful offender finding\u2019 and a \u2018youthful offender sentence\u2019. . . .\u201d Additionally, CPL 530.12 (5) states that \u201c[u]pon conviction of any crime or violation between spouses, parent and child, or between members of the same family or household, the court may in addition to any other disposition, including a conditional discharge or youthful offender adjudication, enter an order of protection.\u201d CPL 530.12 (5) also states that \u201c[f]or purposes of determining the duration of an order of protection entered pursuant to this subdivision, a conviction shall be deemed to include a conviction that has been replaced by a youthful offender adjudication.\u201d\nMoreover, deciding to the contrary would force eligible youths standing convicted of a crime to choose, upon such conviction, between the benefits of a youthful offender adjudication and the potential for a civil monetary recovery under Court of Claims Act \u00a7 8-b in the event the conviction were ultimately reversed and the statutory requirements otherwise satisfied. The court will not countenance such a situation particularly in view of the Law Revision Report\u2019s emphasis on the concept of providing a potential remedy for an innocent person who has been unjustly convicted and subsequently imprisoned. In this court\u2019s view, to limit the breadth of the statute by focusing on the use of the word \u201cconvicted\u201d without regard to the overall purpose and intent of the statute \u2014 a remedy for innocent persons unjustly convicted and subsequently imprisoned \u2014 would be contrary to stated legislative goals, encouraging form over substance. In short, the State\u2019s argument, based purely on semantics, is contrary to the stated legislative goals of Court of Claims Act \u00a7 8-b.\nA brief discussion is warranted regarding the main case upon which the State relies, namely a 1993 Court of Claims decision, Pabon v State of New York (Ct Cl, Mar. 31, 1993, Blinder, J., Claim No. 82806, Motion No. M-44228). In Pabon, Judge Blinder determined that an infant adjudged to be a juvenile delinquent \u201ccannot prove that he was convicted when on its face such Family Court adjudication cannot be considered a conviction.\u201d (Pabon, slip op at 4 [citation omitted].) This court finds Pabon distinguishable from the case at bar. The youthful offender procedure differs in significant ways from the juvenile delinquent process. Most notably, a juvenile delinquent adjudication is not the result of a criminal process, as is the youthful offender procedure, but rather is a proceeding in which the needs and best interests of the infant are balanced in Family Court and in which the Criminal Procedure Law does not apply. (Family Ct Act \u00a7\u00a7 302.1, 303.1.) As such, Pabon is not dispositive of the issue before this court.\nIn view of the foregoing, this court finds that the term \u201cconviction\u201d as used in Court of Claims Act \u00a7 8-b means and includes a youthful offender finding. As such, the State\u2019s motion to dismiss, Motion No. M-66924, is denied.\n. Claimant was also sentenced to five years\u2019 probation and ordered to pay restitution if the victim submitted a claim for out-of-pocket expenses.\n. The claim originally asserted two causes of action, namely unjust conviction and unlawful imprisonment, but the parties have since entered into a stipulation whereby the claim was limited solely to an unjust conviction cause of action.",
+        "type": "majority",
+        "author": "Ferris D. Lebous, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Eliot Spitzer, Attorney General (Carol A. Cocchiola of counsel), for defendant. Fitzsimmons Reynolds, LLP (Daniel J. Fitzsimmons of counsel), for claimant."
+    ],
+    "corrections": "",
+    "head_matter": "[770 NYS2d 577]\nWilliam P. Niver, Claimant, v State of New York, Defendant.\n(Claim No. 106770.)\nCourt of Claims,\nAugust 14, 2003\nAPPEARANCES OF COUNSEL\nEliot Spitzer, Attorney General (Carol A. Cocchiola of counsel), for defendant. Fitzsimmons Reynolds, LLP (Daniel J. Fitzsimmons of counsel), for claimant."
+  },
+  "file_name": "0579-01",
+  "first_page_order": 567,
+  "last_page_order": 573
+}

@@ -1,0 +1,119 @@
+{
+  "id": 1237513,
+  "name": "Stanislaw Majlinger, Plaintiff, v. Cassino Contracting Corp. et al., Defendants; Jack Thaon et al., Third-Party Plaintiffs, v. Alum-A-Pole Corp., Third-Party Defendant",
+  "name_abbreviation": "Majlinger v. Cassino Contracting Corp.",
+  "decision_date": "2003-10-01",
+  "docket_number": "",
+  "first_page": "659",
+  "last_page": "662",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Misc. 3d 659"
+    },
+    {
+      "type": "parallel",
+      "cite": "766 N.Y.S.2d 332"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.Y. Sup. Ct.",
+    "id": 8791,
+    "name": "New York Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 1,
+    "name_long": "New York",
+    "name": "N.Y."
+  },
+  "cites_to": [
+    {
+      "cite": "2003 US Dist LEXIS 14698",
+      "category": "reporters:specialty_lexis",
+      "reporter": "U.S. Dist. LEXIS",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2003 WL 21995190",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "opinion_index": 0
+    },
+    {
+      "cite": "201 AD2d 447",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1162008
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/201/0447-01"
+      ]
+    },
+    {
+      "cite": "192 AD2d 325",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        1122710
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/192/0325-01"
+      ]
+    },
+    {
+      "cite": "535 US 137",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        355054
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/535/0137-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 470,
+    "char_count": 7873,
+    "ocr_confidence": 0.773,
+    "pagerank": {
+      "raw": 8.212328863478678e-08,
+      "percentile": 0.47666099452130223
+    },
+    "sha256": "7f040371292f6ee0bff7a6b9598b0c0268ee863c4d9760a87ff77845d5245757",
+    "simhash": "1:e4b688cd4f7925b5",
+    "word_count": 1220
+  },
+  "last_updated": "2024-02-27T19:35:05.009820+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Stanislaw Majlinger, Plaintiff, v Cassino Contracting Corp. et al., Defendants. Jack Thaon et al., Third-Party Plaintiffs, v Alum-A-Pole Corp., Third-Party Defendant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nChristopher J. Mega, J.\nMotion (No. 907) of defendants Cassino Contracting Corp. and Veterans Property, Inc., sued herein as Veteran Properties, Inc., for partial summary judgment dismissing plaintiffs lost earnings claim, and the cross motions (Nos. 979, 1279, 1841, 2668) of defendants New York City Partnership Housing Development Fund Company, Inc., sued herein as New York City Partnership Housing Development Fund Company, D & Sons Construction Corp., the City of New York and third-party defendant Alum-A-Pole Corp. for like relief, are granted.\nPlaintiff Stanislaw Majlinger, an immigrant from Poland, commenced this action to recover damages for injuries allegedly sustained by him when he fell from a scaffold while installing siding on property known as 295 Skyline Drive, Staten Island, New York. It is uncontroverted that plaintiff was employed by J & C Home Improvement, which was hired to provide roofing and siding to the aforementioned premises. Plaintiffs causes of action against defendants are based on negligence and violations of Labor Law \u00a7\u00a7 200, 240 (1) and \u00a7 241 (6).\nIn a prior motion and cross motion, defendants Cassino Contracting Corp., Veteran Properties, Inc. (hereinafter Veterans Property), Jack Thaon, Celebration, LLC, and New York City Partnership Housing Development Fund Company moved for an order requiring plaintiff to respond to their demands for discovery regarding plaintiffs immigration status and his eligibility for employment in this country. This court granted those motions in its decision and order dated February 10, 2003, and ordered plaintiff to respond to their discovery demands. Thereafter, plaintiff responded by indicating that he was not in possession of any of the required documents that would establish his eligibility for employment in the United States.\nIn the present application, defendants Cassino and Veterans Property move for partial summary judgment dismissing plaintiffs claims for lost earnings since he cannot establish that he is eligible for employment in the United States. According to these defendants, federal immigration law precludes an undocumented alien from recovering lost wages for work not performed, and therefore, if plaintiff cannot establish his eligibility for employment in this country, his claim for lost wages must be dismissed. Defendants rely primarily upon the United States Supreme Court decision in Hoffman Plastic Compounds, Inc. v National Labor Relations Bd. (535 US 137 [2002]), wherein the National Labor Relations Board (NLRB) was foreclosed from awarding back pay to an undocumented alien unlawfully terminated for union activity where it appeared that the worker had never been legally authorized to work in the United States.\nDefendants New York City Partnership Housing Development Fund Company, Inc., sued herein as New York City Partnership Housing Development Fund Company, D & Sons Construction Corp., the City of New York and third-party defendant Alum-A-Pole Corp. adopt and incorporate by reference the arguments set forth in the motion by defendants Cassino and Veterans Property.\nIn opposition, plaintiff contends, inter alia, that New York law specifically permits the recovery of lost wages by undocumented aliens. Plaintiff further contends that the decision in Hoffman is inapplicable to the case at bar since Hoffman dealt with the propriety of an award by a federal agency and was not intended to be binding precedent upon state courts with respect to the issue of whether an unauthorized alien is entitled to pursue a claim for lost earnings under state common law.\nAlthough New York law has, in the past, permitted the recovery of lost wages for undocumented illegal aliens (see e.g. Public Adm\u2019r of Bronx County v Equitable Life Assur. Socy., 192 AD2d 325 [1st Dept 1993]; Collins v New York City Health & Hosps. Corp., 201 AD2d 447 [2d Dept 1994]), the interpretation afforded to the Immigration Reform and Control Act of 1986 (IRCA) by the United States Supreme Court in Hoffman would appear to require this court to conclude that plaintiff should not be permitted to recover for lost wages given his inability to prove he is legally authorized to work in this country. It would be consistent to reserve lost wages awards to those workers who have demonstrated a right to be lawfully employed and reinstated in their jobs.\nIn Hoffman, the NLRB was foreclosed from awarding back pay to an undocumented alien unlawfully terminated for union activity where it appeared that the worker had never been legally authorized to work in the United States. In the course of so doing, the Supreme Court observed that the IRCA was conceived as a \u201ccomprehensive scheme\u201d to combat the employment of illegal aliens in the United States which \u201cforcefully\u201d elevated the prohibition of such employment to a \u201ccentral\u201d position in the implementation of federal immigration policy by attempting to \u201cdiminish the attractive force of employment, which like a \u2018magnet\u2019 pulls illegal immigrants towards the United States. H.R. Rep. No. 99-682, pt. 1, at 45 (1986).\u201d (At 147, 155.) Critically, the Court therein specifically noted that awarding back pay to illegal aliens for work not performed runs counter to the policies underlying the IRCA, which made the knowing employment of illegal immigrants unlawful, and thereby serves to marginalize federal immigration laws.\nBy a parity of reasoning, for this court to sanction the recovery of lost wages by an undocumented alien for work not performed would run contrary to both the letter and spirit of the IRCA, whose salutory purpose it would simultaneously undermine. Manifestly, it is not within the power or competence of this court to encroach, even by indirection, upon the immigration policy of these United States. On constraint of Hoffman, it is therefore the determination of this court that plaintiffs claim for lost wages must be dismissed (accord generally Renteria v Italia Foods, Inc., 2003 WL 21995190, 2003 US Dist LEXIS 14698 [ND Ill, Aug. 21, 2003]; cf. Cox, A Call to Revisit Sure-Tan v. NLRB: Undocumented Workers and Their Right to Back Pay, 30 SW U L Rev 505 [2001]).\nIn so doing, this court is not unmindful of the contrary opinions expressed by other courts of original jurisdiction regarding the matter at hand, but must respectfully disagree and look to our appellate courts for guidance.\nAccordingly, it is ordered that the motion for partial summary judgment of defendants Cassino Contracting Corp. and Veterans Property, Inc., and the cross motions for partial summary judgment of defendants New York City Partnership Housing Development Fund Company, Inc., sued herein as New York City Partnership Housing Development Fund Company, D & Sons Construction Corp., the City of New York and third-party defendant Alum-A-Pole Corp. are granted to the extent that plaintiffs claim for lost wages are hereby severed and dismissed.",
+        "type": "majority",
+        "author": "Christopher J. Mega, J."
+      }
+    ],
+    "attorneys": [
+      "APPEARANCES OF COUNSEL",
+      "Smith & Laquercia, New York City (Reed M. Podell of counsel), for Cassino Contracting Corp. and another, defendants. DeCicco, Gibbons & McNamara, EC., New York City {Joseph T. Gibbons of counsel), for Jack Thaon and others, defendants and third-party plaintiffs. Jacobson & Schwartz, Rockville Centre {Henry J. Cernitz of counsel), for D & Sons Construction Corp., defendant. Michael A. Cardozo, Corporation Counsel {Kenneth Wolfe and Jeffrey D. Walker of counsel), for City of New York, defendant. Steven R. Sundheim & Associates LLC, White Plains {Raymond A. Cote of counsel), for third-party defendant. Cardali & Cardali, New York City {Raymond C. Silverman of counsel), for plaintiff."
+    ],
+    "corrections": "",
+    "head_matter": "[766 NYS2d 332]\nStanislaw Majlinger, Plaintiff, v Cassino Contracting Corp. et al., Defendants. Jack Thaon et al., Third-Party Plaintiffs, v Alum-A-Pole Corp., Third-Party Defendant.\nSupreme Court, Richmond County,\nOctober 1, 2003\nAPPEARANCES OF COUNSEL\nSmith & Laquercia, New York City (Reed M. Podell of counsel), for Cassino Contracting Corp. and another, defendants. DeCicco, Gibbons & McNamara, EC., New York City {Joseph T. Gibbons of counsel), for Jack Thaon and others, defendants and third-party plaintiffs. Jacobson & Schwartz, Rockville Centre {Henry J. Cernitz of counsel), for D & Sons Construction Corp., defendant. Michael A. Cardozo, Corporation Counsel {Kenneth Wolfe and Jeffrey D. Walker of counsel), for City of New York, defendant. Steven R. Sundheim & Associates LLC, White Plains {Raymond A. Cote of counsel), for third-party defendant. Cardali & Cardali, New York City {Raymond C. Silverman of counsel), for plaintiff."
+  },
+  "file_name": "0659-01",
+  "first_page_order": 647,
+  "last_page_order": 650
+}
